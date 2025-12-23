@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-24T00:18:34.558384+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T01:16:08.000139+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 37,
+      "match_count": 63,
       "titles": [
-        {
-          "title": "美国标准时间慢了4.8微秒",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
           "url": "https://news.ifeng.com/c/8pJuhmbbgzk",
@@ -26,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
@@ -48,19 +38,76 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "中长期英债收益率跌约3个基点，美国GDP等数据发布后冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3025705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国至12月23日6周国债竞拍-得标利率配置百分比 9.95%，前值57.75%。",
+          "url": "https://flash.jin10.com/detail/20251224003406407800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国标准时间慢了4.8微秒",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国至12月23日6周国债竞拍-投标倍数 2.87，前值2.73。",
+          "url": "https://flash.jin10.com/detail/20251224003251409800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.580%，投标倍数2.87。 拍卖52周期国债，得标利率3.380%，投标倍数3.74。",
+          "url": "https://wallstreetcn.com/livenews/3025702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "邵永灵：美国上演现代海盗行径",
           "url": "https://www.toutiao.com/trending/7587036629819199039/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "美国财长贝森特支持重新考虑美联储2%的通胀目标。贝森特表示，相关讨论可能会围绕将通胀目标调整为1.5%-2.5%或1%-3%的区间展开。",
@@ -74,15 +121,38 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国至12月23日6周国债竞拍-得标利率 3.58%，前值3.63%。",
+          "url": "https://flash.jin10.com/detail/20251224003247135800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国至12月23日1年期国债竞拍-投标倍数 3.74，前值3.08。",
+          "url": "https://flash.jin10.com/detail/20251224003206135800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "印度商务部长Rajesh Agrawal：印度与美国深入讨论，以期敲定贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3025688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "政权倒台一年后，阿萨德家族被曝在俄罗斯过着“奢华生活”",
@@ -92,19 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国将从1月份开始截获（扣留）那些学生贷款违约的借款人的薪酬。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3025687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
@@ -114,8 +173,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
@@ -125,8 +184,184 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国最神秘连环杀手多年前已去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%A5%9E%E7%A7%98%E8%BF%9E%E7%8E%AF%E6%9D%80%E6%89%8B%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237641",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
+          "url": "https://wallstreetcn.com/articles/3761874",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "中方回应将允许韩娱重进中国大陆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E5%85%81%E8%AE%B8%E9%9F%A9%E5%A8%B1%E9%87%8D%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国将从1月份开始截获（扣留）那些学生贷款违约的借款人的薪酬。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3025687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国消费者信心指数连续第五个月下滑",
+          "url": "https://wallstreetcn.com/livenews/3025683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "日本遗孤说不信我是日本孩子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%E8%AF%B4%E4%B8%8D%E4%BF%A1%E6%88%91%E6%98%AF%E6%97%A5%E6%9C%AC%E5%AD%A9%E5%AD%90%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "美国斩杀线现象",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "美国12月里士满联储制造业指数 -7，预期 -10，前值 -15。",
+          "url": "https://wallstreetcn.com/livenews/3025680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国12月谘商会消费者预期指数 70.7，前值 63.2。",
+          "url": "https://wallstreetcn.com/livenews/3025679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国12月谘商会消费者现况指数 116.8，前值 126.9。",
+          "url": "https://wallstreetcn.com/livenews/3025678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国12月谘商会消费者信心指数 89.1，预期 91，前值 88.7。",
+          "url": "https://wallstreetcn.com/livenews/3025677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）发布2026-28年针对两房（房地美+房利美）的住房目标。",
+          "url": "https://wallstreetcn.com/livenews/3025673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "美国至12月23日1年期国债竞拍-得标利率 3.38%，前值3.46%。",
+          "url": "https://flash.jin10.com/detail/20251224003206109800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "印度商务秘书：印度正与美国深入合作，以达成贸易协议。",
@@ -140,6 +375,28 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国至12月23日1年期国债竞拍-得标利率配置百分比 70.25%，前值74.8%。",
+          "url": "https://flash.jin10.com/detail/20251224003206084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
+          "url": "https://wallstreetcn.com/livenews/3025698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "据CNBC：美国将于1月开始扣押学生贷款借款人的工资。",
           "url": "https://flash.jin10.com/detail/20251223232514961800",
           "source": "金十数据",
@@ -151,26 +408,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
-          "url": "https://wallstreetcn.com/articles/3761874",
-          "source": "华尔街见闻",
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：在下调利率方面，美国落后于全球曲线。",
+          "url": "https://wallstreetcn.com/livenews/3025697",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "据CNBC：美国将开始扣押违约学生贷款借款人的工资。",
@@ -184,37 +430,37 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国消费者信心指数连续第五个月下滑",
-          "url": "https://wallstreetcn.com/livenews/3025683",
+          "title": "亚特兰大联储GDPNow模型初步预测，2025年第四季度实际GDP（经季节性调整的年化增长率）为3.0%。美国经济分析局公布的三季度实际GDP增长初值为4.3%，较GDPNow模型的最终预测值高出0.8个百分点。",
+          "url": "https://flash.jin10.com/detail/20251224002350862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
+          "url": "https://wallstreetcn.com/livenews/3025695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
-          "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237641",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国12月里士满联储制造业指数 -7，预期 -10，前值 -15。",
-          "url": "https://wallstreetcn.com/livenews/3025680",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
+          "url": "https://flash.jin10.com/detail/20251224001137079800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "美国消费者信心指数12月再度下滑",
@@ -228,48 +474,59 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国12月谘商会消费者预期指数 70.7，前值 63.2。",
-          "url": "https://wallstreetcn.com/livenews/3025679",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
+          "url": "https://flash.jin10.com/detail/20251224001032620800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
-          "title": "美国12月谘商会消费者现况指数 116.8，前值 126.9。",
-          "url": "https://wallstreetcn.com/livenews/3025678",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普的贸易议程正在显现成效。",
+          "url": "https://flash.jin10.com/detail/20251224001014417800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
-          "title": "中方回应将允许韩娱重进中国大陆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E5%85%81%E8%AE%B8%E9%9F%A9%E5%A8%B1%E9%87%8D%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
-          "source": "百度热搜",
+          "title": "美国白宫国家经济委员会主任哈塞特：我们已成功将赤字同比削减了6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251224000944896800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
-          "title": "美国12月谘商会消费者信心指数 89.1，预期 91，前值 88.7。",
-          "url": "https://wallstreetcn.com/livenews/3025677",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：人们对自身收入增长感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20251224000915566800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：物价下降且收入增长，这正是我们取得强劲增长数据的原因。",
+          "url": "https://flash.jin10.com/detail/20251224000902602800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "美国12月里奇蒙德联储服务业收入指数 -6，前值-4。",
@@ -283,6 +540,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储在降息问题上远远落后于形势。",
+          "url": "https://flash.jin10.com/detail/20251224000822267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国12月谘商会消费者预期指数 70.7，前值63.2。",
           "url": "https://flash.jin10.com/detail/20251223230040309800",
           "source": "金十数据",
@@ -294,15 +562,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国联邦住房金融局（FHFA）发布2026-28年针对两房（房地美+房利美）的住房目标。",
-          "url": "https://wallstreetcn.com/livenews/3025673",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：当人们乐观时，他们更愿意消费。",
+          "url": "https://flash.jin10.com/detail/20251224000735330800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "美国12月里奇蒙德联储制造业装船指数 -11，前值-14。",
@@ -316,6 +584,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：消费者情绪与硬经济数据几乎没有相关性。",
+          "url": "https://flash.jin10.com/detail/20251224000602768800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国12月里奇蒙德联储制造业指数 -7，预期-10，前值-15。",
           "url": "https://flash.jin10.com/detail/20251223230037414800",
           "source": "金十数据",
@@ -325,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：如果GDP增速保持在4%左右，每月新增就业岗位将恢复到10万至15万个。",
+          "url": "https://flash.jin10.com/detail/20251224000536071800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -360,15 +650,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国最神秘连环杀手多年前已去世",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%A5%9E%E7%A7%98%E8%BF%9E%E7%8E%AF%E6%9D%80%E6%89%8B%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251224000430869800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "美国12月谘商会消费者信心指数 89.1，预期91，前值88.7。",
@@ -380,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：GDP数据是送给美国人民的一份绝佳圣诞礼物。",
+          "url": "https://flash.jin10.com/detail/20251224000221250800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "美国总统特朗普：“特朗普-肯尼迪中心荣誉盛典”将于美国东部今晚8点在CBS电视台播出，并同步在Paramount+平台流媒体上线。我将担任本次活动的主持人。",
