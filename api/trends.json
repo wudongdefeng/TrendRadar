@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T00:17:47.240657+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-26T01:13:21.991179+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
@@ -15,52 +15,90 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "俄罗斯国家原子能公司负责人阿列克谢·利哈切夫：未来作为国际合作的一部分，采矿场和数据处理中心可能设在扎波罗热核电站附近。",
+          "url": "https://flash.jin10.com/detail/20251226004333664800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美国封锁下，委内瑞拉主要石油产区仍有油轮进出港",
+          "url": "https://wallstreetcn.com/livenews/3026802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "俄罗斯：俄方正在分析最新版“和平计划”草案",
           "url": "https://wallstreetcn.com/livenews/3026793",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "美国一人彩票中奖超127亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "俄罗斯民调：近一半俄民众认为今年未比去年更糟",
           "url": "https://flash.jin10.com/detail/20251225235214944800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
           "url": "https://wallstreetcn.com/livenews/3026791",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "这个节美国人过得不太舒心",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%8A%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A4%AA%E8%88%92%E5%BF%83%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "美国斩杀线为什么刚好在 1/e 附近？",
@@ -70,19 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国一人彩票中奖超127亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
@@ -92,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "斩杀线揭开美国一角,殖人先急了",
@@ -103,30 +130,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "沈逸解析美国斩杀线",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "俄罗斯发射“联盟-2.1a”运载火箭",
           "url": "https://wallstreetcn.com/livenews/3026794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "欧盟警告反制美国",
@@ -136,30 +165,44 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "日本前所未有的熊尸危机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "法国高调宣布建造新航母，美国称将扩大航母规模，航母建造计划背后的大国博弈逻辑是什么？",
           "url": "https://www.zhihu.com/question/1986746000593921575",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "俄罗斯央行：将12月26日官方卢布汇率定为每美元77.8844卢布（此前为78.4368）。",
           "url": "https://flash.jin10.com/detail/20251225223428616800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "一夜返贫!美国富翁也难逃斩杀",
@@ -169,19 +212,97 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
-          "title": "日本前所未有的熊尸危机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "俄罗斯央行：俄国际储备上周增长1.57%，至7526亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026772",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            23,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "中国为什么没有美国的“斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "中方回应日本系统性介入南海行为",
+          "url": "https://www.toutiao.com/trending/7587383539864830015/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "俄罗斯邮政暂停向拉脱维亚、立陶宛、斯洛文尼亚、克罗地亚和爱沙尼亚提供地面配送服务。",
+          "url": "https://flash.jin10.com/detail/20251226003231658800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "俄罗斯央行：在连续三个月增长之后，11月非居民对俄联邦债券的投资下降了10.8%至1170亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251226003023021800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
+          "url": "https://flash.jin10.com/detail/20251226001701729800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251226001306612800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "李凯尔发声：恢复美国国籍不实",
+          "url": "https://www.toutiao.com/trending/7587253195055828516/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯军队今天再次袭击乌克兰东部城市。",
@@ -195,31 +316,9 @@
           "time_info": "00时17分"
         },
         {
-          "title": "俄罗斯央行：俄国际储备上周增长1.57%，至7526亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
           "title": "中国为什么没有美国的“斩杀线”",
           "url": "https://www.toutiao.com/trending/7586900710449807396/",
           "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "中国为什么没有美国的“斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
           "ranks": [
             24
           ],
