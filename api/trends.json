@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T16:19:08.358142+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-12-28T17:14:39.355881+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 12时39分]"
+        },
+        {
+          "title": "俄外长警告日本：要慎重！",
+          "url": "https://news.ifeng.com/c/8pRsUgYJ4am",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 17时14分]"
         },
         {
           "title": "台湾宜兰县海域6.6级地震",
@@ -110,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时19分 ~ 16时19分]"
+          "appearance_count": 18,
+          "time_info": "[02时19分 ~ 17时14分]"
         },
         {
           "title": "泽连斯基：俄罗斯无意结束战争",
@@ -124,17 +135,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 09时12分]"
-        },
-        {
-          "title": "俄外长警告日本：要慎重！",
-          "url": "https://news.ifeng.com/c/8pRsUgYJ4am",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时19分]"
         },
         {
           "title": "台湾网友听到台湾终于被点激动哭了",
@@ -312,8 +312,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "美国对华科技竞争战略为何调整",
@@ -342,6 +342,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时14分]"
+        },
+        {
+          "title": "台湾地震厦门震感强烈",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -380,15 +391,19 @@
           "time_info": "[00时16分 ~ 09时12分]"
         },
         {
-          "title": "台湾地震厦门震感强烈",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
-          "source": "bilibili 热搜",
+          "title": "日本向多国免费提供武器装备",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            6
+            24,
+            15,
+            10,
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时12分 ~ 16时19分]"
+          "time_info": "[11时42分 ~ 17时14分]"
         },
         {
           "title": "鸡蛋拌饭已成日本“奢侈品”",
@@ -454,19 +469,16 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
-          "title": "日本向多国免费提供武器装备",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            24,
-            15,
             10,
-            8,
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时19分]"
+          "time_info": "[12时39分 ~ 17时14分]"
         },
         {
           "title": "美国人的生存线可能继续上移",
@@ -550,29 +562,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "日本鸡蛋批发价创历史新高",
-          "url": "https://flash.jin10.com/detail/20251228154954941800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 16时19分]"
-        },
-        {
           "title": "日本知名巨头川崎重工承认造假",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E5%B7%A8%E5%A4%B4%E5%B7%9D%E5%B4%8E%E9%87%8D%E5%B7%A5%E6%89%BF%E8%AE%A4%E9%80%A0%E5%81%87",
           "source": "百度热搜",
@@ -621,6 +610,19 @@
           "time_info": "[00时16分 ~ 03时11分]"
         },
         {
+          "title": "尹正被731馆长误认为是日本人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E8%A2%AB731%E9%A6%86%E9%95%BF%E8%AF%AF%E8%AE%A4%E4%B8%BA%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 17时14分]"
+        },
+        {
           "title": "日本米蛋价高不下 鸡蛋拌饭水涨船高",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B1%B3%E8%9B%8B%E4%BB%B7%E9%AB%98%E4%B8%8D%E4%B8%8B+%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%E6%B0%B4%E6%B6%A8%E8%88%B9%E9%AB%98",
           "source": "百度热搜",
@@ -660,6 +662,31 @@
           "time_info": "[14时21分 ~ 16时19分]"
         },
         {
+          "title": "日本鸡蛋批发价创历史新高",
+          "url": "https://flash.jin10.com/detail/20251228154954941800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时14分]"
+        },
+        {
+          "title": "俄罗斯高级议员斯卢茨基表示，俄罗斯议员和美国国会议员已达成初步协议，将举行会晤，有关会晤时间和地点的细节预计将在近期公布。",
+          "url": "https://flash.jin10.com/detail/20251228144336369800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时14分]"
+        },
+        {
           "title": "拉夫罗夫：更新后的美国国家安全战略首次对北约扩张提出质疑",
           "url": "https://flash.jin10.com/detail/20251228131555459800",
           "source": "金十数据",
@@ -687,29 +714,29 @@
           "time_info": "[11时42分 ~ 14时21分]"
         },
         {
-          "title": "俄罗斯高级议员斯卢茨基表示，俄罗斯议员和美国国会议员已达成初步协议，将举行会晤，有关会晤时间和地点的细节预计将在近期公布。",
-          "url": "https://flash.jin10.com/detail/20251228144336369800",
-          "source": "金十数据",
+          "title": "台湾游客在东北就餐被邻桌抢着买单",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E4%B8%9C%E5%8C%97%E5%B0%B1%E9%A4%90%E8%A2%AB%E9%82%BB%E6%A1%8C%E6%8A%A2%E7%9D%80%E4%B9%B0%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "尹正被731馆长误认为是日本人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E8%A2%AB731%E9%A6%86%E9%95%BF%E8%AF%AF%E8%AE%A4%E4%B8%BA%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            12,
-            13
+            23,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时21分 ~ 16时19分]"
+          "time_info": "[15时15分 ~ 17时14分]"
+        },
+        {
+          "title": "美媒关注中国网友讨论美国斩杀线",
+          "url": "https://www.toutiao.com/trending/7588214940889956395/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时14分]"
         },
         {
           "title": "日本东京西部一家动物园发生狼只逃出围栏事件，游客纷纷逃离。",
@@ -723,18 +750,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时19分]"
-        },
-        {
-          "title": "台湾游客在东北就餐被邻桌抢着买单",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E4%B8%9C%E5%8C%97%E5%B0%B1%E9%A4%90%E8%A2%AB%E9%82%BB%E6%A1%8C%E6%8A%A2%E7%9D%80%E4%B9%B0%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时19分]"
         },
         {
           "title": "美国纽约州出台法律约束“成瘾性内容推送”",
@@ -787,6 +802,17 @@
           "time_info": "[15时15分 ~ 16时19分]"
         },
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 17时14分]"
+        },
+        {
           "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
           "url": "https://flash.jin10.com/detail/20251228135740413800",
           "source": "金十数据",
@@ -797,17 +823,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "美媒关注中国网友讨论美国斩杀线",
-          "url": "https://www.toutiao.com/trending/7588214940889956395/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
@@ -865,17 +880,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         },
         {
           "title": "泰国12岁女孩被亲妈哄骗到日本卖淫",
