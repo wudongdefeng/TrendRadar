@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T18:16:21.205995+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-12-30T19:14:09.925186+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 197,
+      "match_count": 202,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -65,11 +65,12 @@
             5,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 19时14分]"
         },
         {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
@@ -82,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 19时14分]"
         },
         {
           "title": "外媒聚焦解放军封岛军演：矛头直指美国",
@@ -110,8 +111,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 19时14分]"
+        },
+        {
+          "title": "台湾",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "俄外长警告欧洲：如果袭击俄罗斯，我们会作出“毁灭性回击”",
@@ -172,11 +188,12 @@
             28,
             27,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 19时14分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -204,18 +221,29 @@
           "time_info": "[00时17分 ~ 09时04分]"
         },
         {
-          "title": "台湾",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "大陆学者：高市早苗谬论冲击两岸安全结构，破坏台海和平稳定",
+          "url": "https://news.ifeng.com/c/8pVV1NQK7Y6",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            1,
-            4,
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时14分]"
+        },
+        {
+          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "空军飞行员目视宝岛台湾中央山脉",
@@ -231,30 +259,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "大陆学者：高市早苗谬论冲击两岸安全结构，破坏台海和平稳定",
-          "url": "https://news.ifeng.com/c/8pVV1NQK7Y6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
-        },
-        {
-          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 18时16分]"
         },
         {
           "title": "台湾多条航线大面积取消",
@@ -275,22 +279,35 @@
           "url": "https://www.douyin.com/hot/2351903",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "美国底层看病难,止痛药当饭吃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
+        },
+        {
+          "title": "丢人现眼,台军P图锁定大陆军机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348573&amp;topic_name=%E4%B8%A2%E4%BA%BA%E7%8E%B0%E7%9C%BC%2C%E5%8F%B0%E5%86%9BP%E5%9B%BE%E9%94%81%E5%AE%9A%E5%A4%A7%E9%99%86%E5%86%9B%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -397,6 +414,30 @@
           "time_info": "14时23分"
         },
         {
+          "title": "俄罗斯总统普京与哈萨克斯坦总统托卡耶夫进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251230190551511800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "蒋万安：希望台湾海峡有和平与繁荣",
+          "url": "https://www.toutiao.com/trending/7588755780124311558/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时14分]"
+        },
+        {
           "title": "美国白宫：临时延长美以农产品贸易协议中的某些条款。",
           "url": "https://flash.jin10.com/detail/20251230122545430800",
           "source": "金十数据",
@@ -414,20 +455,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
         {
-          "title": "日本财政部：11月27日至12月26日，日本货币干预金额为0日元。",
-          "url": "https://wallstreetcn.com/livenews/3028707",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：俄罗斯1月份通过西部港口的石油出口环比下降8%，至约220万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251230190316757800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时14分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -447,7 +488,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -710,18 +751,6 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
-          "title": "蒋万安：希望台湾海峡有和平与繁荣",
-          "url": "https://www.toutiao.com/trending/7588755780124311558/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
-        },
-        {
           "title": "惠誉：尽管面临阻力，美国财产和意外保险承保盈利能力依然强劲。",
           "url": "https://flash.jin10.com/detail/20251230010118665800",
           "source": "金十数据",
@@ -805,6 +834,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "日本财政部：11月27日至12月26日，日本货币干预金额为0日元。",
+          "url": "https://wallstreetcn.com/livenews/3028707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡会见了美国国防部长赫格塞思和美军参谋长联席会议主席凯恩。",
@@ -903,6 +944,17 @@
           "time_info": "[09时04分 ~ 17时19分]"
         },
         {
+          "title": "美国是否有应聘需要居住地址的潜规则？如果有为什么不改变？",
+          "url": "https://www.zhihu.com/question/1987777997483292288",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
           "url": "https://flash.jin10.com/detail/20251230024049423800",
           "source": "金十数据",
@@ -981,6 +1033,17 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
+          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
+          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
           "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
@@ -1018,6 +1081,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "台湾青年被大陆跑鞋科技惊艳",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E8%A2%AB%E5%A4%A7%E9%99%86%E8%B7%91%E9%9E%8B%E7%A7%91%E6%8A%80%E6%83%8A%E8%89%B3%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "400美元如何击垮一个美国家庭",
@@ -1532,6 +1607,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "市场消息：俄罗斯炮击事件仍在持续，乌克兰下令疏散北部边境村庄居民。",
+          "url": "https://flash.jin10.com/detail/20251230185838468800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯正为袭击基辅的乌克兰政府大楼做准备。",
           "url": "https://flash.jin10.com/detail/20251229233434404800",
           "source": "金十数据",
@@ -1560,18 +1646,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美国是否有应聘需要居住地址的潜规则？如果有为什么不改变？",
-          "url": "https://www.zhihu.com/question/1987777997483292288",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1615,7 +1690,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1653,15 +1728,15 @@
           "time_info": "05时13分"
         },
         {
-          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
-          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
-          "source": "凤凰网",
+          "title": "俄罗斯2025年对欧洲的管道天然气出口下降 44%，创几十年来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3028736",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时14分"
         },
         {
           "title": "美国12月达拉斯联储商业活动指数录得-10.9，为2025年6月以来新低。",
@@ -1725,7 +1800,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1813,7 +1888,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1992,17 +2067,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "台湾青年被大陆跑鞋科技惊艳",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E8%A2%AB%E5%A4%A7%E9%99%86%E8%B7%91%E9%9E%8B%E7%A7%91%E6%8A%80%E6%83%8A%E8%89%B3%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "日本计划明年大幅提高“离境税”",
