@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:23:12.633854+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-12-30T15:18:19.654394+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 173,
+      "match_count": 177,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -48,11 +48,12 @@
           "url": "https://news.ifeng.com/c/8pUzW8UgxnC",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 14时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时18分]"
         },
         {
           "title": "解放军围台演习,日本罕见沉默",
@@ -61,11 +62,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "俄外长警告欧洲：如果袭击俄罗斯，我们会作出“毁灭性回击”",
@@ -143,30 +145,6 @@
           "time_info": "[00时17分 ~ 09时04分]"
         },
         {
-          "title": "外媒聚焦解放军封岛军演：矛头直指美国",
-          "url": "https://news.ifeng.com/c/8pVD9LVWGFp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 14时23分]"
-        },
-        {
-          "title": "美国首次对委境内目标发动袭击",
-          "url": "https://www.toutiao.com/trending/7589211170843168292/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 14时23分]"
-        },
-        {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
           "url": "https://wallstreetcn.com/articles/3762268",
           "source": "华尔街见闻",
@@ -176,8 +154,46 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时18分]"
+        },
+        {
+          "title": "美国首次对委境内目标发动袭击",
+          "url": "https://www.toutiao.com/trending/7589211170843168292/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            14,
+            2,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时04分 ~ 14时23分]"
+          "time_info": "[11时22分 ~ 15时18分]"
+        },
+        {
+          "title": "外媒聚焦解放军封岛军演：矛头直指美国",
+          "url": "https://news.ifeng.com/c/8pVD9LVWGFp",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 15时18分]"
+        },
+        {
+          "title": "台湾",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时18分]"
         },
         {
           "title": "空军飞行员目视宝岛台湾中央山脉",
@@ -195,6 +211,17 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时18分]"
+        },
+        {
           "title": "此次演习是最靠近台湾岛的一次",
           "url": "https://www.toutiao.com/trending/7589211524623896106/",
           "source": "今日头条",
@@ -209,38 +236,17 @@
           "time_info": "[11时22分 ~ 14时23分]"
         },
         {
-          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "台湾",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
           "title": "台湾多条航线大面积取消",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%A4%9A%E6%9D%A1%E8%88%AA%E7%BA%BF%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88",
           "source": "百度热搜",
           "ranks": [
             18,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -329,7 +335,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -436,6 +442,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 04时17分]"
+        },
+        {
+          "title": "台名嘴：解放军军演日本有胆就过来",
+          "url": "https://www.toutiao.com/trending/7589092466918555690/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "日本夫妇惨死桑拿房",
@@ -710,18 +728,6 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
-          "title": "台名嘴：解放军军演日本有胆就过来",
-          "url": "https://www.toutiao.com/trending/7589092466918555690/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时23分]"
-        },
-        {
           "title": "美国至12月19日当周EIA天然气库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251230005000000800",
           "source": "金十数据",
@@ -897,6 +903,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "美国首次对委境内目标发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A7%94%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时18分]"
         },
         {
           "title": "400美元如何击垮一个美国家庭",
@@ -1174,6 +1192,18 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
+          "title": "台湾证交所加权股价指数收跌0.4%报28,707.13点。",
+          "url": "https://wallstreetcn.com/livenews/3028563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时18分]"
+        },
+        {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
           "url": "https://flash.jin10.com/detail/20251230023223943800",
           "source": "金十数据",
@@ -1234,17 +1264,6 @@
           "time_info": "[01时13分 ~ 02时22分]"
         },
         {
-          "title": "美国首次对委境内目标发动袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A7%94%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
           "title": "乌克兰外长：俄罗斯旨在为进一步袭击乌克兰寻找虚假借口。",
           "url": "https://flash.jin10.com/detail/20251230002150709800",
           "source": "金十数据",
@@ -1303,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时17分]"
+        },
+        {
+          "title": "美国在混乱与撕裂中走向治理失序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32276071",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 15时18分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京告诉特朗普，俄罗斯有意继续与美国合作以实现和平，但俄罗斯的立场将会有所调整。",
@@ -1449,7 +1479,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1509,6 +1539,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "日本首相高市早苗：要加强供应结构，赢得投资者信任。",
+          "url": "https://flash.jin10.com/detail/20251230144609692800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "美国12月达拉斯联储制造业装船指数 -10.6，前值15.1。",
           "url": "https://flash.jin10.com/detail/20251229233240830800",
           "source": "金十数据",
@@ -1520,6 +1561,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "日本首相高市早苗：要通过战略融资提高公司收入。",
+          "url": "https://flash.jin10.com/detail/20251230144558216800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "美国12月达拉斯联储制造业原材料支付价格指数 36，前值35.3。",
           "url": "https://flash.jin10.com/detail/20251229233208735800",
           "source": "金十数据",
@@ -1529,6 +1581,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本首相高市早苗：力求实现经济良性循环并保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251230144548388800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "日经225指数收跌0.4%，报50339.48点。 日本东证指数收跌0.5%，报3408.97点。",
+          "url": "https://wallstreetcn.com/livenews/3028595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国12月达拉斯联储制造业就业指数 -1.1，前值1.2。",
@@ -1586,17 +1660,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "台湾证交所加权股价指数收跌0.4%报28,707.13点。",
-          "url": "https://wallstreetcn.com/livenews/3028563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "美国12月达拉斯联储制成品价格指数 8.2，前值10.8。",
           "url": "https://flash.jin10.com/detail/20251229233156884800",
           "source": "金十数据",
@@ -1647,7 +1710,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1738,17 +1801,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "美国在混乱与撕裂中走向治理失序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32276071",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
         },
         {
           "title": "日本计划明年大幅提高“离境税”",
@@ -1955,7 +2007,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -2035,6 +2087,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全国农产品批发市场猪肉平均价格为17.73元/公斤，比昨天上升0.3%",
+          "url": "https://flash.jin10.com/detail/20251230150349239800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "全国猪肉平均价格22.48元/公斤，比前一周下跌0.2%",
+          "url": "https://flash.jin10.com/detail/20251230142923564800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     }
