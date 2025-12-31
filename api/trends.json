@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-31T07:13:50.881976+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-12-31T09:06:02.382698+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 71,
+      "match_count": 82,
       "titles": [
-        {
-          "title": "印度宣布经济已超日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%8F%E6%B5%8E%E5%B7%B2%E8%B6%85%E6%97%A5%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
         {
           "title": "解放军演习在台湾岛内引发震动",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E5%BC%95%E5%8F%91%E9%9C%87%E5%8A%A8%23&t=31&band_rank=1&Refer=top",
@@ -29,8 +16,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "印度宣布经济已超日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%8F%E6%B5%8E%E5%B7%B2%E8%B6%85%E6%97%A5%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
         },
         {
           "title": "美国首次对委境内目标发动袭击",
@@ -38,33 +39,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "丢人现眼,台军P图锁定大陆军机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348573&amp;topic_name=%E4%B8%A2%E4%BA%BA%E7%8E%B0%E7%9C%BC%2C%E5%8F%B0%E5%86%9BP%E5%9B%BE%E9%94%81%E5%AE%9A%E5%A4%A7%E9%99%86%E5%86%9B%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "美国底层看病难,止痛药当饭吃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
         },
         {
           "title": "印度宣布：超日本成世界第四大经济体",
@@ -75,22 +55,101 @@
             9,
             19,
             21,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "丢人现眼,台军P图锁定大陆军机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348573&amp;topic_name=%E4%B8%A2%E4%BA%BA%E7%8E%B0%E7%9C%BC%2C%E5%8F%B0%E5%86%9BP%E5%9B%BE%E9%94%81%E5%AE%9A%E5%A4%A7%E9%99%86%E5%86%9B%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "美国底层看病难,止痛药当饭吃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
         },
         {
           "title": "印媒：印度已超日本成世界第四大经济体",
           "url": "https://news.ifeng.com/c/8pVnTMTuQuN",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "此次演习是最靠近台湾岛的一次",
+          "url": "https://www.toutiao.com/trending/7589211524623896106/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            14,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "解放军围台演习,日本罕见沉默",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "王毅谈台湾问题",
+          "url": "https://www.douyin.com/hot/2351903",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18,
+            22,
+            27,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 09时06分]"
+        },
+        {
+          "title": "台湾多条航线大面积取消",
+          "url": "https://www.douyin.com/hot/2351778",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时06分]"
         },
         {
           "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
@@ -104,57 +163,37 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
-          "title": "此次演习是最靠近台湾岛的一次",
-          "url": "https://www.toutiao.com/trending/7589211524623896106/",
-          "source": "今日头条",
+          "title": "解放军无人机视角俯瞰台湾省",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E5%8F%B0%E6%B9%BE%E7%9C%81",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            15,
-            14,
-            17
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "解放军围台演习,日本罕见沉默",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
-          "source": "贴吧",
+          "title": "俄罗斯外交部：反对任何形式“台独”分裂行径",
+          "url": "https://news.ifeng.com/c/8pWc7iFgpjm",
+          "source": "凤凰网",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "台湾多条航线大面积取消",
-          "url": "https://www.douyin.com/hot/2351778",
-          "source": "抖音",
+          "title": "解放军无人机视角俯瞰台湾省",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32286100",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            20,
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "王毅谈台湾问题",
-          "url": "https://www.douyin.com/hot/2351903",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18,
-            22,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "印度称已超日本成世界第四大经济体",
@@ -169,6 +208,17 @@
           "time_info": "[00时18分 ~ 06时14分]"
         },
         {
+          "title": "美国股指期货小幅下跌，纳斯达克100指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3028985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "美国至1月2日当周总钻井总数 546口，前值545口。",
           "url": "https://flash.jin10.com/detail/20251231020125312800",
           "source": "金十数据",
@@ -178,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "据AXIOS网站：美国疾病控制与预防中心公布消息称，美国麻疹病例数量达到30多年来新高。",
+          "url": "https://flash.jin10.com/detail/20251231082558998800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "美国1月2日当周天然气钻井数 125，前值 127。",
@@ -599,6 +660,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "最新视频曝光：解放军无人机视角俯瞰台湾省",
+          "url": "https://www.cls.cn/detail/2244569",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "美国至12月26日当周API原油库存 174.7万桶，预期-230万桶，前值239.1万桶。",
           "url": "https://flash.jin10.com/detail/20251231053803661800",
           "source": "金十数据",
@@ -659,6 +731,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "印度网民指责日本游客不尊重当地文化",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%BD%91%E6%B0%91%E6%8C%87%E8%B4%A3%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%BD%93%E5%9C%B0%E6%96%87%E5%8C%96%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "美国12月芝加哥PMI 43.5，预期 39.8，前值 36.3。",
           "url": "https://wallstreetcn.com/livenews/3028837",
           "source": "华尔街见闻-快讯",
@@ -669,6 +752,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
+        },
+        {
+          "title": "美学者称台湾不值得美国一战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AD%A6%E8%80%85%E7%A7%B0%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%80%BC%E5%BE%97%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%88%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "美国蓝领工人专属餐厅",
@@ -704,6 +798,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "提醒：日本、韩国股市因假期休市。",
+          "url": "https://wallstreetcn.com/livenews/3028974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "乌克兰袭击俄罗斯能源设施次数创下月度新高",
           "url": "https://flash.jin10.com/detail/20251231002802747800",
           "source": "金十数据",
@@ -724,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "印度称其GDP已超日本，有望三年内赶超德国",
+          "url": "https://wallstreetcn.com/livenews/3028972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "美国司法部：迪士尼(DIS.N)因涉嫌违反儿童隐私保护法，已同意支付1000万美元民事罚款并接受禁令约束。",
@@ -757,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "俄罗斯图阿普谢地区行政当局：乌克兰无人机袭击损坏了黑海港口图阿普谢的基础设施和天然气管道。",
+          "url": "https://flash.jin10.com/detail/20251231073424525800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "美国联邦法官告知美国总统特朗普政府，其必须为消费者金融保护局申请资金。",
