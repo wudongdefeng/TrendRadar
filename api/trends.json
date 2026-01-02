@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T11:25:57.645044+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-02T12:35:15.226751+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "2025收官日美国股债双杀，贵金属盘中跳水，金银仍创1979年来最大年涨，原油年跌20%",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时35分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
@@ -66,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时35分]"
         },
         {
           "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
@@ -246,6 +247,30 @@
           "time_info": "[03时13分 ~ 07时14分]"
         },
         {
+          "title": "美国防部称2035年中国航母将达9艘",
+          "url": "https://www.toutiao.com/trending/7590314162594070538/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
+          "url": "https://wallstreetcn.com/articles/3762433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时35分]"
+        },
+        {
           "title": "美国对部分跨境汇款征收1%汇款税",
           "url": "https://wallstreetcn.com/livenews/3029649",
           "source": "华尔街见闻-快讯",
@@ -348,11 +373,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92%E6%89%93%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 12时35分]"
         },
         {
           "title": "美国新一轮限制外国公民入境措施生效",
@@ -491,18 +517,6 @@
           "time_info": "[04时16分 ~ 07时14分]"
         },
         {
-          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
-          "url": "https://wallstreetcn.com/articles/3762433",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时25分]"
-        },
-        {
           "title": "2025年超3000名巴西人被美国驱逐出境，数量创新高",
           "url": "https://wallstreetcn.com/livenews/3029655",
           "source": "华尔街见闻-快讯",
@@ -514,6 +528,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时14分 ~ 09时06分]"
+        },
+        {
+          "title": "日媒：中国汽车全球销量将超日本",
+          "url": "https://www.toutiao.com/trending/7589511310690353158/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至29,257.22点。",
+          "url": "https://wallstreetcn.com/livenews/3029708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
+          "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3029703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
         },
         {
           "title": "俄罗斯人权专员莫斯卡尔科娃呼吁国际社会谴责乌克兰武装部队对赫尔松地区平民的袭击。",
@@ -540,15 +589,15 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
-          "title": "台湾证交所加权股价指数上涨1%至29,257.22点。",
-          "url": "https://wallstreetcn.com/livenews/3029708",
-          "source": "华尔街见闻-快讯",
+          "title": "人类首次“躺平”横穿美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D%E6%A8%AA%E7%A9%BF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "美国新一轮限制外国公民入境措施生效",
@@ -557,7 +606,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -579,18 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3029703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -612,7 +650,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -623,7 +661,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
