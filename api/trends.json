@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T01:21:18.538622+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-08T02:22:32.508407+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 88,
+      "match_count": 107,
       "titles": [
         {
           "title": "中方对原产于日本的进口二氯二氢硅发起反倾销立案调查，二氯二氢硅是做什么的？此举对日方会产生哪些影响？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "中方回应日本就出口管制提出抗议",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "乌克兰海港管理局表示，2025年俄罗斯对乌克兰敖德萨地区海港发动了96次袭击，而前一年仅为36次。",
@@ -49,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -65,15 +66,26 @@
           "time_info": "00时21分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国正讨论收购格陵兰岛可能的情形。 （谈及对格陵兰岛动武）所有选项都在考虑范围内。",
-          "url": "https://wallstreetcn.com/livenews/3032622",
+          "title": "特朗普：我将呼吁美国国会将其编入法典。",
+          "url": "https://flash.jin10.com/detail/20260108014836291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "据知情人士透露，聊天平台Discord Inc.秘密递交美国IPO申请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3032643",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时22分"
         },
         {
           "title": "美国农业部长罗林斯：将很快敲定针对补充营养协助计划（SNAP）项目食品的规则。",
@@ -82,20 +94,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
-          "url": "https://wallstreetcn.com/livenews/3032621",
+          "title": "美国11月失业率为4.6%",
+          "url": "https://wallstreetcn.com/livenews/3032642",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时22分"
         },
         {
           "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
@@ -115,9 +127,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
+          "url": "https://wallstreetcn.com/articles/3762736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "EIA数据显示，截至1月2日当周，美国墨西哥湾沿岸炼油厂利用率升至2023年6月以来最高水平。",
@@ -137,9 +161,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国国土安全部发言人：移民与海关执法局官员在明尼阿波利斯鸣枪自卫。",
+          "url": "https://flash.jin10.com/detail/20260108014344900800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "白宫新闻秘书Leavitt：被美国截获的油轮Bella 1的船员们将被起诉。 必要时将被掳到美国。",
@@ -148,9 +183,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国宣布已扣押“贝拉1”号油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国正讨论收购格陵兰岛可能的情形。 （谈及对格陵兰岛动武）所有选项都在考虑范围内。",
+          "url": "https://wallstreetcn.com/livenews/3032622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         },
         {
           "title": "俄罗斯要求美方尊重“水手”号油轮上的俄公民权益",
@@ -165,6 +225,18 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
+          "url": "https://wallstreetcn.com/livenews/3032621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
+        },
+        {
           "title": "俄罗斯谴责美国扣押油轮",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -172,19 +244,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "大陆博主购买卫星影像曝光“台独”顽固分子住处，国台办回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32332821",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "郭正亮：日本已经被打到“脑震荡”了",
@@ -194,19 +267,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
-        },
-        {
-          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
-          "url": "https://wallstreetcn.com/articles/3762736",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "美国不装了，“或转移运往中国的原油”",
@@ -216,20 +278,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
-          "title": "美国宣布已扣押“贝拉1”号油轮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
-          "source": "澎湃新闻",
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            7
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "中国留学生讲述“日本梅毒扩散”",
@@ -237,11 +299,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "郭正亮：日本已经被打“脑震荡”了",
@@ -252,8 +315,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "美国打击委内瑞拉对世界七大危害",
@@ -263,8 +326,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "日本经济界对中方全面禁运感到恐慌",
@@ -272,11 +335,12 @@
           "source": "微博",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "中国留学生讲述“日本梅毒扩散”",
@@ -287,8 +351,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "梅事变疣事,日本梅毒扩散加剧",
@@ -299,19 +363,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
-        },
-        {
-          "title": "中方回应日本就出口管制提出抗议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
         },
         {
           "title": "中方回应美国威胁武力夺取格陵兰岛",
@@ -321,8 +374,32 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时22分]"
+        },
+        {
+          "title": "第一次来美国的魔幻冲击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时22分]"
+        },
+        {
+          "title": "日本单身也要替别人养娃",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%95%E8%BA%AB%E4%B9%9F%E8%A6%81%E6%9B%BF%E5%88%AB%E4%BA%BA%E5%85%BB%E5%A8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         },
         {
           "title": "美国至1月7日4个月国债竞拍-投标倍数 3.02，前值3.11。",
@@ -331,7 +408,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -353,9 +430,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "英国证实参与美国北大西洋扣押油轮行动",
+          "url": "https://wallstreetcn.com/livenews/3032638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国国务卿鲁比奥：委内瑞拉希望被扣押油轮中的石油成为交易的一部分。",
@@ -364,9 +452,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://flash.jin10.com/detail/20260108013739412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国国务卿鲁比奥：我不会给出委内瑞拉石油出口的时间表。",
@@ -375,9 +474,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
+          "url": "https://wallstreetcn.com/livenews/3032636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "英国国防部：美国要求英国配合其在大西洋针对油轮的行动。",
@@ -408,9 +518,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "白宫：美国已开始在市场“推销”委内瑞拉原油",
+          "url": "https://flash.jin10.com/detail/20260108013203044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降383万桶，彭博用户预计减少200万桶、分析师预期下降133.18万桶，之前一周减少193.4万桶。",
@@ -452,9 +573,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国会众议长：白宫正通过外交渠道处理格陵兰岛问题",
+          "url": "https://flash.jin10.com/detail/20260108012526267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国1月2日当周EIA精炼厂设备利用率变化 0%，前值 0.1%。",
@@ -474,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -485,7 +617,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -507,7 +639,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -523,15 +655,37 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://wallstreetcn.com/livenews/3032630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
           "title": "美国国务卿鲁比奥：关于格陵兰岛的会议将与丹麦举行。",
           "url": "https://flash.jin10.com/detail/20260108002815266800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
+          "url": "https://flash.jin10.com/detail/20260108012356461800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国1月2日当周EIA原油库存变动 -383.2万桶，前值 -193.4万桶。",
@@ -551,9 +705,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "白宫称美国对委内瑞拉拥有最大筹码",
+          "url": "https://wallstreetcn.com/livenews/3032628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "英国国防部：英国应美国请求提供了援助。",
@@ -573,7 +738,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -584,7 +749,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -606,9 +771,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国能源部：美国正有选择性地取消制裁，以允许委内瑞拉原油和石油产品运往全球市场并进行销售。",
+          "url": "https://flash.jin10.com/detail/20260108012207760800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "俄罗斯谴责美国扣押油轮",
@@ -628,31 +804,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
         {
-          "title": "日本单身也要替别人养娃",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%95%E8%BA%AB%E4%B9%9F%E8%A6%81%E6%9B%BF%E5%88%AB%E4%BA%BA%E5%85%BB%E5%A8%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "美国已开始在全球兜售委内瑞拉石油",
+          "url": "https://wallstreetcn.com/livenews/3032626",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "第一次来美国的魔幻冲击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时22分"
         },
         {
           "title": "美国至1月2日当周EIA车用汽油总产量引伸需求数据 913.66万桶/日，前值946.43万桶/日。",
@@ -672,7 +837,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -686,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国会众议长：白宫正通过外交渠道处理格陵兰岛问题",
+          "url": "https://wallstreetcn.com/livenews/3032624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
@@ -705,9 +881,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国能源部：委内瑞拉原油及石油产品销售所得全部款项将首先结算至全球知名银行中由美国控制的账户。",
+          "url": "https://flash.jin10.com/detail/20260108012139280800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国至1月2日当周EIA原油产量引伸需求数据 2069.7万桶/日，前值1905.6万桶/日。",
@@ -727,7 +914,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -749,7 +936,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -760,7 +947,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -782,9 +969,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国能源部：已与全球领先的大宗商品交易商、主要银行合作，以执行相关业务并提供资金支持，以促进委内瑞拉原油及原油产品的销售。",
+          "url": "https://flash.jin10.com/detail/20260108012051255800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国至1月2日当周EIA原油进口 56.3万桶，前值-95.7万桶。",
@@ -804,7 +1002,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -818,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：被美国截获的油轮Bella 1的船员们将被起诉，必要时他们将被掳到美国。 这艘油轮没有国籍，悬挂的国旗是假的。 Sophia油轮正被王美国押送。",
+          "url": "https://wallstreetcn.com/livenews/3032619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国至1月2日当周EIA精炼油库存 559.4万桶，预期210.9万桶，前值497.7万桶。",
@@ -859,7 +1068,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -892,9 +1101,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特就格陵兰岛表态：将使美国对北极地区拥有更多控制权。",
+          "url": "https://flash.jin10.com/detail/20260108012017353800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美国至1月2日当周EIA汽油库存 770.2万桶，预期318.6万桶，前值584.5万桶。",
@@ -914,7 +1134,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -947,7 +1167,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -995,11 +1215,12 @@
           "url": "https://wallstreetcn.com/livenews/3032614",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         }
       ]
     }
