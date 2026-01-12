@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:19:58.411348+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-01-12T23:19:39.551765+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 140,
+      "match_count": 152,
       "titles": [
         {
           "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时43分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时43分 ~ 23时19分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时09分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 23时19分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时14分]"
+        },
+        {
+          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
+          "url": "https://news.ifeng.com/c/8pqzcww1ile",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时26分 ~ 23时19分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时09分 ~ 16时22分]"
-        },
-        {
-          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
-          "url": "https://news.ifeng.com/c/8pqzcww1ile",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 22时19分]"
         },
         {
           "title": "日本造船巨头并购，能追赶中韩吗",
@@ -112,11 +112,12 @@
             15,
             9,
             7,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时19分]"
         },
         {
           "title": "人皮制品风靡美国,场景堪比地狱",
@@ -135,8 +136,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时43分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时43分 ~ 23时19分]"
         },
         {
           "title": "格陵兰岛即将成为美国第 51 个州吗？",
@@ -262,6 +263,21 @@
           "time_info": "[09时09分 ~ 16时22分]"
         },
         {
+          "title": "日本第一代“不婚族”开始后悔了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时19分]"
+        },
+        {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3034751",
           "source": "华尔街见闻-快讯",
@@ -303,19 +319,19 @@
           "time_info": "[09时09分 ~ 13时25分]"
         },
         {
-          "title": "日本第一代“不婚族”开始后悔了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美国向高糖发出挑战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            28,
-            19,
-            10,
-            8,
-            6
+            30,
+            15,
+            17,
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时19分]"
         },
         {
           "title": "古巴外交部长在社交媒体平台上表示，该国尚未因向任何国家提供安全服务而获得补偿，古巴政府不会屈服于美国的勒索或军事胁迫。",
@@ -355,20 +371,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美国向高糖发出挑战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            15,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时19分]"
         },
         {
           "title": "日本朝野各党加速选举准备，高市早苗避谈解散众议院",
@@ -456,6 +458,20 @@
           "time_info": "20时31分"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时19分]"
+        },
+        {
           "title": "金十数据整理：下周重要事件与数据预告——中国12月贸易帐、美国12月CPI及美联储官员密集发声",
           "url": "https://flash.jin10.com/detail/20260111215247371800",
           "source": "金十数据",
@@ -534,6 +550,17 @@
           "time_info": "18时19分"
         },
         {
+          "title": "梅赛德斯-奔驰美国第四季度乘用车销量为79,350辆，同比下降12%。",
+          "url": "https://flash.jin10.com/detail/20260112230500601800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1.1%至30,617.49点。",
           "url": "https://wallstreetcn.com/livenews/3034852",
           "source": "华尔街见闻-快讯",
@@ -565,6 +592,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "奉劝台湾当局停止拙劣政治表演",
+          "url": "https://www.douyin.com/hot/2365362",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "据日本气象厅消息，当地时间今天（1月12日）上午9点50分左右，日本北海道宗谷地区南部发生5.0级地震，最大震感为震度3，震源深度极浅。",
@@ -600,6 +640,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "美国前财长耶伦：美联储主席鲍威尔的调查“令人极度担忧”，市场应当关注联储的独立性。",
+          "url": "https://flash.jin10.com/detail/20260112230345662800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
           "url": "https://wallstreetcn.com/livenews/3035048",
           "source": "华尔街见闻-快讯",
@@ -609,6 +660,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "伊朗议长：如遭攻击将给美国“永生难忘的教训”",
+          "url": "https://wallstreetcn.com/livenews/3035430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
+          "url": "https://www.zhihu.com/question/1994067615191162961",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "美国能源部长：可将委内瑞拉石油用于填充SPR",
@@ -665,19 +739,6 @@
           "time_info": "[04时15分 ~ 07时14分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
           "title": "乌克兰军方表示，其在里海打击了俄罗斯卢克石油公司的三座钻井平台。",
           "url": "https://flash.jin10.com/detail/20260111214523540800",
           "source": "金十数据",
@@ -726,19 +787,6 @@
           "time_info": "[05时13分 ~ 07时14分]"
         },
         {
-          "title": "奉劝台湾当局停止拙劣政治表演",
-          "url": "https://www.douyin.com/hot/2365362",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时19分]"
-        },
-        {
           "title": "日本第一代不婚族开始后悔了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%8D%E5%A9%9A%E6%97%8F%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -749,18 +797,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时44分 ~ 14时26分]"
-        },
-        {
-          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
-          "url": "https://www.zhihu.com/question/1994067615191162961",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时19分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -907,6 +943,17 @@
           "time_info": "[13时25分 ~ 14时26分]"
         },
         {
+          "title": "台湾子弹6元一发卖美国，再花18元买回来？",
+          "url": "https://news.ifeng.com/c/8pqxAyapic6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
           "title": "美国国务卿卢比奥与墨西哥外长讨论了毒品恐怖主义问题，卢比奥谈及加强与墨西哥合作的必要性。",
           "url": "https://wallstreetcn.com/livenews/3034946",
           "source": "华尔街见闻-快讯",
@@ -929,6 +976,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时26分]"
+        },
+        {
+          "title": "郭正亮：日本敢强来中国大陆就硬干",
+          "url": "https://www.toutiao.com/trending/7593932017853300778/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收高0.9%报30,567.29点。",
@@ -1045,24 +1104,24 @@
           "time_info": "07时14分"
         },
         {
+          "title": "加密货币法案进入美国参议院审议阶段，Coinbase加大施压力度",
+          "url": "https://wallstreetcn.com/livenews/3035428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "据美国纽约联储数据，上个交易日（1月9日，非农日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。",
           "url": "https://wallstreetcn.com/livenews/3035388",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "台湾子弹6元一发卖美国，再花18元买回来？",
-          "url": "https://news.ifeng.com/c/8pqxAyapic6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1111,6 +1170,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "美国12月谘商会就业趋势指数 104.27，前值105.8。",
+          "url": "https://flash.jin10.com/detail/20260112230025629800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美总统称美国靠战争赚钱",
           "url": "https://www.toutiao.com/trending/7593344390068846634/",
           "source": "今日头条",
@@ -1139,7 +1209,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1177,17 +1247,6 @@
           "time_info": "21时38分"
         },
         {
-          "title": "郭正亮：日本敢强来中国大陆就硬干",
-          "url": "https://www.toutiao.com/trending/7593932017853300778/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "据悉美国联邦住房金融局局长是美联储传票一事的主要推手",
           "url": "https://flash.jin10.com/detail/20260112130105372800",
           "source": "金十数据",
@@ -1205,7 +1264,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1219,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国总统特朗普：是我拯救了北约。",
@@ -1276,6 +1346,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "伊朗外长与美国特使Witkoff讨论了伊朗发生的抗议活动。 双方讨论了近期举行会议的可能性。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "伊朗或很快遭美国以色列攻击",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%88%96%E5%BE%88%E5%BF%AB%E9%81%AD%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E5%87%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1326,7 +1407,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1364,6 +1445,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "黄金价格创下历史新高，美国上市金矿股上涨。金罗斯黄金上涨1.4%，巴里克矿业上涨1.1%，Gold Fields上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20260112224428134800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：仍有意担任美联储职位。 美联储主席鲍威尔是个好人。 未与鲍威尔讨论过他在理事会留任一事。",
           "url": "https://wallstreetcn.com/livenews/3035349",
           "source": "华尔街见闻-快讯",
@@ -1395,6 +1487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "银价创下历史新高后，美国上市的银矿股股价上涨。Hecla矿业上涨6.5%，Coeur矿业上涨5.8%。iShares白银信托上涨6.2%，Global X白银矿业ETF上涨4.8%。",
+          "url": "https://flash.jin10.com/detail/20260112224154070800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "蒋万安：台湾民众都希望两岸交流",
@@ -1485,6 +1588,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "格陵兰岛当局：包括美国在内的所有北约成员国在保卫格陵兰岛方面拥有共同利益。",
+          "url": "https://flash.jin10.com/detail/20260112223752584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "西班牙外交大臣呼吁美国停止对格陵兰岛施压",
           "url": "https://wallstreetcn.com/livenews/3035278",
           "source": "华尔街见闻-快讯",
@@ -1540,6 +1654,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "美国发卡机构的股价下跌，Visa(V.N)下跌3.2%，万事达(MA.N)下跌3%。",
+          "url": "https://flash.jin10.com/detail/20260112223715700800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "报道：美国联邦检察官已对美联储主席鲍威尔展开刑事调查",
           "url": "https://wallstreetcn.com/livenews/3034815",
           "source": "华尔街见闻-快讯",
@@ -1582,6 +1707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "丹麦驻美大使回应美国格陵兰岛特使言论",
+          "url": "https://wallstreetcn.com/livenews/3035400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "格陵兰岛坚称“不做美国人”",
