@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T00:23:00.014109+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-14T01:21:52.579446+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 39,
+      "match_count": 60,
       "titles": [
         {
           "title": "白俄罗斯边境出现前所未有军事集结",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
@@ -37,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "格陵兰岛矿产资源部长：我们感到被美国背叛了，这不是我们寻求的，也不认为我们应得的。",
@@ -47,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -58,18 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3036300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -80,20 +58,78 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "EIA短期能源展望报告：预计2026年美国石油需求为2060万桶/日，与此前预测的2060万桶/日持平；预计2027年需求为2070万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114010857347800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
+          "url": "https://wallstreetcn.com/livenews/3036319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "EIA短期能源展望报告：美国天然气产量1月份平均为1202亿立方英尺/天，低于12月份的1205亿立方英尺/天；2月份平均为1198亿立方英尺/天。",
+          "url": "https://flash.jin10.com/detail/20260114010715308800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3036300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时21分]"
         },
         {
           "title": "美国参议院批准“针对非自愿的深度欺骗性图片”的立法草案。",
           "url": "https://wallstreetcn.com/livenews/3036299",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时21分]"
         },
         {
           "title": "“驻韩国台北代表部”人员妄谈台湾问题，中方表态",
@@ -103,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "日本专家：稀土短期仍需依赖中国，南鸟岛开发难解燃眉之急",
@@ -114,19 +150,67 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2256676",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "日本女市长与下属开房辞职后再当选",
+          "url": "https://www.toutiao.com/trending/7594479242625597494/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376079",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "美国牵头，在卡塔尔设立中东防空联合防御作战协调中心",
+          "url": "https://wallstreetcn.com/livenews/3036293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "time_info": "[00时23分 ~ 01时21分]"
         },
         {
           "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
@@ -140,59 +224,137 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2256676",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376079",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "日本女市长与下属开房辞职后再当选",
-          "url": "https://www.toutiao.com/trending/7594479242625597494/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "美国牵头，在卡塔尔设立中东防空联合防御作战协调中心",
-          "url": "https://wallstreetcn.com/livenews/3036293",
+          "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
+          "url": "https://wallstreetcn.com/livenews/3036292",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时21分]"
+        },
+        {
+          "title": "EIA短期能源展望报告：美国1月份石油产量平均为1349万桶/日，低于12月份的1352万桶/日；预计2月份石油产量平均为1338万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114010649894800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA次年天然气产量预期 1097亿立方英尺/日，前值1091.1亿立方英尺/日。",
+          "url": "https://flash.jin10.com/detail/20260114010507647800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA当年天然气产量预期 1088亿立方英尺/日，前值1077.4亿立方英尺/日。",
+          "url": "https://flash.jin10.com/detail/20260114010454675800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
+          "url": "https://wallstreetcn.com/livenews/3036315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA次年短期前景美国原油产量预期 1325万桶/日，前值1353万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114010432720800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时21分"
         },
         {
-          "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
-          "url": "https://wallstreetcn.com/livenews/3036292",
+          "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
+          "url": "https://wallstreetcn.com/articles/3763207",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA当年短期前景美国原油产量预期 1359万桶/日，前值1361万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114010425838800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
+          "url": "https://wallstreetcn.com/livenews/3036313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA当年布伦特原油均价预期 55.87美元/千立方英尺，前值68.91美元/千立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260114010402283800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国1月EIA当年WTI原油均价预期 52.21美元/桶，前值65.32美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260114010353575800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.585%，投标倍数2.97。",
+          "url": "https://wallstreetcn.com/livenews/3036310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "加拿大贸易部长：我们正寻求在蒙特利尔等现有港口增加更多产能，以提振对非美国市场的出口。",
@@ -201,7 +363,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -212,7 +374,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -223,7 +385,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -234,9 +396,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "L3Harris（LHX）一度涨约4%，美国国防部准备以10亿美元可转换优先证券的方式投资于L3Harris Technologies Inc.的导弹业务部门，从而进一步加强美国政府与这家大型国防承包商之间的直接联系。",
+          "url": "https://wallstreetcn.com/livenews/3036302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
@@ -245,7 +418,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -256,7 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -267,9 +440,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "南非政府：仍在就一项贸易协议与美国保持接触。",
+          "url": "https://flash.jin10.com/detail/20260114004741592800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国众议院议长约翰逊：如果美联储主席鲍威尔是无辜的，调查结果将给出证明。 必须让司法部调查鲍威尔。",
@@ -278,7 +462,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -289,7 +473,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -300,7 +484,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -311,9 +495,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "南非贸易部长对美国众议院批准《非洲增长与机会法案》续签法案表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260114004613862800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
@@ -322,7 +517,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -333,9 +528,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "赛默飞CEO：制药业回流美国将在2027年和2028年成为该行业的顺风。",
+          "url": "https://flash.jin10.com/detail/20260114004246560800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国参议院共和党领袖图恩：预计信用卡竞争法案将付诸表决。",
@@ -344,7 +550,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -355,7 +561,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -366,7 +572,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -377,7 +583,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -388,7 +594,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -399,9 +605,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "台湾大多数民众拒绝当“台独”炮灰",
+          "url": "https://www.toutiao.com/trending/7594762175781896228/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -410,9 +627,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国至1月13日6周国债竞拍-得标利率配置百分比 69.91%，前值0.41%。",
+          "url": "https://flash.jin10.com/detail/20260114003435900800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国参议院共和党领袖图恩：信用卡利率上限可能导致许多人失去信贷渠道。",
@@ -421,9 +649,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "印度外交部长：与美国国务卿鲁比奥讨论了贸易、关键矿物、核能合作、国防和能源事宜，同意就这些问题及其他问题保持联系",
+          "url": "https://flash.jin10.com/detail/20260114003412787800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国圣路易联储主席Musalem：没必要采取（继续）宽松立场，那样做也不可取。",
@@ -432,7 +671,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
