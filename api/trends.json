@@ -1,532 +1,99 @@
 {
-  "generated_at": "2026-01-13T23:19:18.672870+08:00",
-  "total_titles_processed": 2139,
+  "generated_at": "2026-01-14T00:23:00.014109+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 275,
+      "match_count": 39,
       "titles": [
         {
-          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
-          "url": "https://wallstreetcn.com/articles/3763056",
-          "source": "华尔街见闻",
+          "title": "白俄罗斯边境出现前所未有军事集结",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E8%BE%B9%E5%A2%83%E5%87%BA%E7%8E%B0%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E5%86%9B%E4%BA%8B%E9%9B%86%E7%BB%93",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时02分]"
-        },
-        {
-          "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
-          "url": "https://news.ifeng.com/c/8pso6PvxQPt",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时22分 ~ 23时19分]"
-        },
-        {
-          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
-          "url": "https://news.ifeng.com/c/8pqzcww1ile",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "奉劝台湾当局停止拙劣政治表演",
-          "url": "https://www.douyin.com/hot/2365362",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 11时23分]"
-        },
-        {
-          "title": "美国为“夺岛”拉中俄挡枪，外交部：美谋私利别拿他国当借口",
-          "url": "https://news.ifeng.com/c/8ps76smonk7",
-          "source": "凤凰网",
-          "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 16时21分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12,
-            11,
-            10,
-            8,
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时23分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
-          "url": "https://www.zhihu.com/question/1994338886751625788",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时23分 ~ 23时19分]"
-        },
-        {
-          "title": "日本第一代“不婚族”开始后悔了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            17,
-            9,
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 11时23分]"
-        },
-        {
-          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
-          "url": "https://www.zhihu.com/question/1994067615191162961",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 11时23分]"
-        },
-        {
-          "title": "台湾子弹6元一发卖美国，再花18元买回来？",
-          "url": "https://news.ifeng.com/c/8pqxAyapic6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "美国非农搅乱华尔街：小摩预测180度转弯、大摩高盛集体推迟预期",
-          "url": "https://www.cls.cn/detail/2255098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "美国向高糖发出挑战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20,
-            17,
-            22,
-            19,
-            26,
-            30,
-            15,
-            12,
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 21时37分]"
-        },
-        {
-          "title": "郭正亮：日本敢强来中国大陆就硬干",
-          "url": "https://www.toutiao.com/trending/7593932017853300778/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时02分]"
-        },
-        {
-          "title": "人皮制品风靡美国,场景堪比地狱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348976&amp;topic_name=%E4%BA%BA%E7%9A%AE%E5%88%B6%E5%93%81%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD%2C%E5%9C%BA%E6%99%AF%E5%A0%AA%E6%AF%94%E5%9C%B0%E7%8B%B1",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            23,
-            26,
-            25,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 18时17分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://www.cls.cn/detail/2255607",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时21分]"
-        },
-        {
-          "title": "日本女市长与下属开房辞职后再当选",
-          "url": "https://www.toutiao.com/trending/7594479242625597494/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 23时19分]"
-        },
-        {
-          "title": "日本专家：稀土短期仍需依赖中国，南鸟岛开发难解燃眉之急",
-          "url": "https://news.ifeng.com/c/8pswh967tHM",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 23时19分]"
-        },
-        {
-          "title": "台湾甜品店因用“青提”二字被骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E2%80%9C%E9%9D%92%E6%8F%90%E2%80%9D%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            12,
-            14,
-            15,
-            16,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 17时22分]"
-        },
-        {
-          "title": "2026版美国膳食指南解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E7%89%88%E7%BE%8E%E5%9B%BD%E8%86%B3%E9%A3%9F%E6%8C%87%E5%8D%97%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            23,
-            10,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时21分]"
-        },
-        {
-          "title": "美国两州把特朗普政府告了",
-          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
+          "url": "https://news.ifeng.com/c/8pso6PvxQPt",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
-          "url": "https://flash.jin10.com/detail/20260113020225349800",
+          "title": "格陵兰岛矿产资源部长：我们感到被美国背叛了，这不是我们寻求的，也不认为我们应得的。",
+          "url": "https://flash.jin10.com/detail/20260114001026704800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美联储威廉姆斯：关税通胀主要由美国人承担。",
-          "url": "https://flash.jin10.com/detail/20260113070320839800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "乌克兰电力公司UKRENERGO表示，俄罗斯昨夜发动袭击后，基辅已实施停电。",
-          "url": "https://flash.jin10.com/detail/20260113140221190800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "策略师：如果美国12月的通胀趋势持续 美联储将有空间在Q1降息",
-          "url": "https://flash.jin10.com/detail/20260113221026604800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国农业部（USDA）：预计美国大豆期末库存3.50亿蒲式耳，分析师预期2.9447亿蒲式耳，USDA之前预计2.90亿蒲式耳。",
-          "url": "https://wallstreetcn.com/livenews/3035481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
-          "url": "https://wallstreetcn.com/livenews/3035514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨1.1%至30,909.83点。",
-          "url": "https://wallstreetcn.com/livenews/3035678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem：没必要采取（继续）宽松立场，那样做也不可取。",
-          "url": "https://wallstreetcn.com/livenews/3036269",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
-          "url": "https://wallstreetcn.com/articles/3763162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时31分 ~ 23时19分]"
-        },
-        {
-          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
-          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时34分 ~ 17时22分]"
-        },
-        {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时34分 ~ 17时22分]"
-        },
-        {
-          "title": "俄罗斯再次发动大规模导弹袭击",
-          "url": "https://www.toutiao.com/trending/7594641878683795494/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 15时20分]"
-        },
-        {
-          "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
-          "url": "https://flash.jin10.com/detail/20260113005631248800",
+          "title": "格陵兰岛矿产资源部长：我们无意成为美国的一部分，但希望与美国合作。",
+          "url": "https://flash.jin10.com/detail/20260114000824898800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国至1月12日3年期国债竞拍-投标倍数 2.65，前值2.64。",
-          "url": "https://flash.jin10.com/detail/20260113020220430800",
-          "source": "金十数据",
+          "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3036300",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "金十整理：机构前瞻美国12月CPI数据",
-          "url": "https://flash.jin10.com/detail/20260113135953044800",
+          "title": "格陵兰岛矿产资源部长：我们希望在周三与美国的会晤中，能就美国在格陵兰岛问题上的立场有更明确的说明。",
+          "url": "https://flash.jin10.com/detail/20260114000707396800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时23分"
+          "time_info": "00时23分"
         },
         {
-          "title": "俄新社：俄罗斯军队对乌克兰的能源和军工设施发动了大规模打击。",
-          "url": "https://flash.jin10.com/detail/20260113171242689800",
-          "source": "金十数据",
+          "title": "美国参议院批准“针对非自愿的深度欺骗性图片”的立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3036299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "美国银行：将Alphabet(GOOG.O)目标价从335美元上调至370美元。",
-          "url": "https://flash.jin10.com/detail/20260113185314111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "00时23分"
         },
         {
           "title": "“驻韩国台北代表部”人员妄谈台湾问题，中方表态",
@@ -536,506 +103,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时36分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国至1月12日10年期国债竞拍-投标倍数 2.55，前值2.55。",
-          "url": "https://flash.jin10.com/detail/20260113020204591800",
-          "source": "金十数据",
+          "title": "日本专家：稀土短期仍需依赖中国，南鸟岛开发难解燃眉之急",
+          "url": "https://news.ifeng.com/c/8pswh967tHM",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美联储威廉姆斯：美国2026年经济增长率可能在2.5%至2.75%之间。",
-          "url": "https://flash.jin10.com/detail/20260113070259299800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国公民被要求立即离开伊朗",
-          "url": "https://flash.jin10.com/detail/20260113082350416800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "日本12月经济观察家前景指数 50.5，预期50.2，前值50.3。",
-          "url": "https://flash.jin10.com/detail/20260113130031236800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国两年期国债收益率升至3.5530%的三周高位。",
-          "url": "https://flash.jin10.com/detail/20260113135752821800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "乌克兰军方表示，已袭击并破坏了位于罗斯托夫地区的俄罗斯无人机工厂。",
-          "url": "https://flash.jin10.com/detail/20260113161056932800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "大摩：美国CPI报告或显示价格压力出现明显反弹",
-          "url": "https://flash.jin10.com/detail/20260113171209747800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "美国12月季调后CPI及核心CPI月率、未季调CPI及核心CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260113212000001800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "台湾证交所加权股价指数高开0.2%报30,630.86点。",
-          "url": "https://wallstreetcn.com/livenews/3035676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "2025年日本企业破产数量创新高",
-          "url": "https://wallstreetcn.com/livenews/3036070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "商务部：对原产于美国和韩国的进口太阳能级多晶硅继续征收反倾销税 实施期限为5年",
-          "url": "https://www.cls.cn/detail/2256174",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国至1月12日10年期国债竞拍-得标利率配置百分比 93.91%，前值70.5%。",
-          "url": "https://flash.jin10.com/detail/20260113020204590800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "日本5年期国债收益率上升4个基点至1.595%。",
-          "url": "https://flash.jin10.com/detail/20260113082220738800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "日本12月经济观察家现况指数 48.6，预期48.7，前值48.7。",
-          "url": "https://flash.jin10.com/detail/20260113130010691800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "三菱日联：日元下跌或引发日本国内外政策制定者的进一步担忧",
-          "url": "https://flash.jin10.com/detail/20260113185010042800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国芝商所将推出100盎司白银期货",
-          "url": "https://wallstreetcn.com/livenews/3036217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国至1月12日10年期国债竞拍-得标利率 4.173%，前值4.18%。",
-          "url": "https://flash.jin10.com/detail/20260113020204567800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：外汇汇率由多种因素决定，长期利率也由市场上的各种因素决定，不能说财政政策单独决定市场走势。",
-          "url": "https://flash.jin10.com/detail/20260113135056591800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "美国12月NFIB小型企业信心指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260113185000001800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国食品药品管理局（FDA）：要求从一系列GLP-1药物移除关于加重“自杀倾向行为”（SI/B）的警示。 FDA并没有发现使用这类药物会加重SI/B风险。 受影响的药物是Wegovy、Zepbound、以及Saxenda。",
-          "url": "https://wallstreetcn.com/livenews/3036216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem：我认为，短期内没理由继续放松货币政策。 我的感觉是，（FOMC利率）政策恰好处于中性水平附近。 政策将在两个方向上平衡风险。 政策在“对任何方向做出反应”方面准备就绪。 美国仍然存在通胀顽固的风险。",
-          "url": "https://wallstreetcn.com/livenews/3036265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "郑丽文：正常台湾人认同自己是中国人",
-          "url": "https://www.toutiao.com/trending/7593672166011387945/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时37分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国内政部长Burgum：低油价为填充战略石油储备（SPR）提供了契机。",
-          "url": "https://wallstreetcn.com/livenews/3035533",
-          "source": "华尔街见闻-快讯",
+          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
+          "url": "https://www.zhihu.com/question/1994338886751625788",
+          "source": "知乎",
           "ranks": [
-            1,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时14分]"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗表示，她打算在定于1月23日开始的议会会议伊始解散众议院。",
-          "url": "https://flash.jin10.com/detail/20260113122338792800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美国石油协会（API）：美国石油贸易集团正与政府合作补充战略石油储备。",
-          "url": "https://flash.jin10.com/detail/20260113025808868800",
-          "source": "金十数据",
+          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
+          "url": "https://wallstreetcn.com/articles/3763162",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "市场消息：美国法官批准禁令，允许Orsted恢复罗德岛海上风电项目的建设。",
-          "url": "https://flash.jin10.com/detail/20260113050104462800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "日本10年期国债收益率上行7BP至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3035856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时20分]"
-        },
-        {
-          "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
-          "url": "https://flash.jin10.com/detail/20260113035754570800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "据华尔街日报：台积电(TSM.N)计划在美国亚利桑那州大规模扩张。",
-          "url": "https://flash.jin10.com/detail/20260113055928145800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时12分]"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗向执政党高层传达了她解散议会的意向。",
-          "url": "https://flash.jin10.com/detail/20260113121958232800",
-          "source": "金十数据",
-          "ranks": [
-            2,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "辉瑞：白宫愿意在外国药品价格问题上提供帮助。 乐观预计白宫确定性“已经被甩在身后”。 医药行业CEO们应该与美国总统特朗普接触。",
-          "url": "https://wallstreetcn.com/livenews/3035549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "日本首相高市早苗有意宣布提前大选",
-          "url": "https://wallstreetcn.com/livenews/3035797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "台甜品店因用青提二字被骂滚出台湾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E9%9D%92%E6%8F%90%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时20分]"
-        },
-        {
-          "title": "惠誉评级：认为美联储的独立性以及在实现低且稳定的通胀方面的良好记录，是美国主权评级的关键支撑因素。在评估美国主权评级时，将继续监测治理的演变，包括“制度制衡”。",
-          "url": "https://flash.jin10.com/detail/20260113055923534800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时12分]"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社指责美国查封其网络域名",
-          "url": "https://wallstreetcn.com/livenews/3035567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "美国石油协会（API）：美国石油行业要进入委内瑞拉，必须先在该国落实劳动力安全保障和政策改革。",
-          "url": "https://flash.jin10.com/detail/20260113025031742800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "美国已发布新的警报，建议美国公民离开伊朗或就地避难。",
-          "url": "https://flash.jin10.com/detail/20260113055724376800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时12分]"
-        },
-        {
-          "title": "美国参议院共和党成员Lisa Murkowski置评美联储主席鲍威尔、美联储、以及国会山，称：为回应司法部调查鲍威尔的做法，支持共和党参议员Thom Tillis在参议院银行委员会投票反对任何美联储提名人的决定。 今天与鲍威尔对话，（总统）特朗普政府的（刑事）调查让人感到担忧。",
-          "url": "https://wallstreetcn.com/livenews/3035454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.570%，投标倍数2.79。",
-          "url": "https://wallstreetcn.com/livenews/3035510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "市场消息：由美国参议员Chris Coons率领的一个跨党派议员代表团正前往格陵兰岛。此次行程旨在会见丹麦政府高级官员及商业领袖。",
-          "url": "https://flash.jin10.com/detail/20260113033215917800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "美国财政部拍390亿美元10年期国债，得标利率4.173%（12月9日为4.175%），投标倍数2.55（前次为2.55）。",
-          "url": "https://wallstreetcn.com/livenews/3035509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "白俄罗斯边境出现军事集结",
-          "url": "https://www.douyin.com/hot/2366701",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时19分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
@@ -1045,341 +147,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时19分 ~ 23时19分]"
-        },
-        {
-          "title": "日本女市长与下属开房辞职后再当选",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%B8%82%E9%95%BF%E4%B8%8E%E4%B8%8B%E5%B1%9E%E5%BC%80%E6%88%BF%E8%BE%9E%E8%81%8C%E5%90%8E%E5%86%8D%E5%BD%93%E9%80%89%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时19分]"
-        },
-        {
-          "title": "日本餐厅墙壁女尸身份确认",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%A5%B3%E5%B0%B8%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "美国国家运输安全委员会将于1月27日举行听证会，以确定美国航空客机与陆军直升机致命相撞事故的可能原因。",
-          "url": "https://flash.jin10.com/detail/20260113000750045800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "美国银行：因利率周期而上调巴西股票评级至超配。",
-          "url": "https://wallstreetcn.com/livenews/3035507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3035527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3035545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "提醒：北京时间21:30，将公布美国12月CPI。",
-          "url": "https://wallstreetcn.com/livenews/3036192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时19分]"
-        },
-        {
-          "title": "美国参议员Murkowski：在问题解决之前，Tillis参议员阻挠任何美联储提名人选的做法是正确的。",
-          "url": "https://flash.jin10.com/detail/20260113000526382800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "据AXIOS：美国财长贝森特并未质疑对美联储主席鲍威尔展开调查的必要性，也未在与美国总统特朗普的谈话中为美联储主席辩护。",
-          "url": "https://flash.jin10.com/detail/20260113024556417800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "俄罗斯塔甘罗格地区州长表示，俄罗斯防空部队正试图击退乌克兰对塔甘罗格的空袭。",
-          "url": "https://flash.jin10.com/detail/20260113120223043800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3035581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时12分]"
-        },
-        {
-          "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
-          "url": "https://wallstreetcn.com/livenews/3035813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时23分]"
-        },
-        {
-          "title": "美国参议员Murkowski：今早与鲍威尔主席交谈后，显而易见，政府的这项调查无非是企图进行政治胁迫。",
-          "url": "https://flash.jin10.com/detail/20260113000510310800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
-          "url": "https://wallstreetcn.com/livenews/3035504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
-          "url": "https://wallstreetcn.com/livenews/3035812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时23分]"
-        },
-        {
-          "title": "日本央行前委员：日元疲软或促使央行在4月加息",
-          "url": "https://wallstreetcn.com/livenews/3035783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "欧盟官员：若美国以军事手段夺取格陵兰 北约将“走向终结”",
-          "url": "https://wallstreetcn.com/livenews/3035522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
-          "url": "https://wallstreetcn.com/livenews/3035537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普在吞并格陵兰岛方面并没有时间表。",
-          "url": "https://wallstreetcn.com/livenews/3035521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "美国正在研究伊朗提出的外交手段解决问题的建议。 副总统万斯要求总统特朗普设法与伊朗通过外交途径解决问题。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "日本餐厅老板杀人藏尸墙内营业10天",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E6%9D%80%E4%BA%BA%E8%97%8F%E5%B0%B8%E5%A2%99%E5%86%85%E8%90%A5%E4%B8%9A10%E5%A4%A9%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
-        },
-        {
-          "title": "芝加哥玉米期货创2024年以来最大跌幅，因美国农业部意外上调美国单产预期",
-          "url": "https://wallstreetcn.com/livenews/3035499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "两年期日本国债收益率上升1个基点，至1.155%。",
-          "url": "https://flash.jin10.com/detail/20260113115050299800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
-          "url": "https://wallstreetcn.com/livenews/3035517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "美国参议院多数党领袖John Thune：司法部针对美联储主席鲍威尔的指控最好确有其事，且性质严重。 司法部调查使得关于任命美联储主席的（国会山）确认（程序）面临挑战。 司法部对美联储的相关调查必须“尽快解决”。",
-          "url": "https://wallstreetcn.com/livenews/3035555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "美国共和党参议员Dave McCormick声明：不认为美联储主席杰罗姆·鲍威尔存在刑事罪行。 坚信美联储应该保持独立。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3035553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3035514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "台湾大多数民众拒绝当“台独”炮灰",
-          "url": "https://www.toutiao.com/trending/7594762175781896228/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
@@ -1390,1770 +159,282 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "商务部：对原产于美国和韩国的进口太阳能级多晶硅所适用反倾销措施的期终复审裁定",
-          "url": "https://wallstreetcn.com/livenews/3035966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
-        },
-        {
-          "title": "日媒：日本大阪府知事有意辞职",
-          "url": "https://www.toutiao.com/trending/7594769141656272937/",
+          "title": "日本女市长与下属开房辞职后再当选",
+          "url": "https://www.toutiao.com/trending/7594479242625597494/",
           "source": "今日头条",
           "ranks": [
-            29,
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "白俄罗斯边境出现前所未有军事集结",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E8%BE%B9%E5%A2%83%E5%87%BA%E7%8E%B0%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E5%86%9B%E4%BA%8B%E9%9B%86%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "日本急寻稀土替代难在哪儿",
-          "url": "https://www.toutiao.com/trending/7594675878936972851/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
-        },
-        {
-          "title": "美国务院要求美公民立即离开伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国至1月12日3个月国债竞拍-投标倍数 2.79，前值2.84。",
-          "url": "https://flash.jin10.com/detail/20260113020203929800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "日本20年期国债收益率上升8个基点至3.135%，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260113082051169800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "前日本央行委员：日元疲软或促使央行最早4月加息",
-          "url": "https://flash.jin10.com/detail/20260113105327154800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：我们需要仔细考量包括工资增长可持续性在内的各种因素，以确保日本不会重回通货紧缩。",
-          "url": "https://flash.jin10.com/detail/20260113135038427800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
-          "url": "https://wallstreetcn.com/livenews/3035848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "外交部回应美国对与伊朗有商业往来的国家加征25%关税：中方将坚定维护自身正当合法权益",
-          "url": "https://wallstreetcn.com/livenews/3035899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "市场消息：伊朗向俄罗斯运送了价值27亿美元的导弹。",
-          "url": "https://flash.jin10.com/detail/20260113004457906800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至1月12日3个月国债竞拍-得标利率配置百分比 12.52%，前值77.13%。",
-          "url": "https://flash.jin10.com/detail/20260113020203866800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
-          "url": "https://flash.jin10.com/detail/20260113032057566800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "日本股市因提前大选预期涨至历史新高",
-          "url": "https://flash.jin10.com/detail/20260113082018835800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。",
-          "url": "https://flash.jin10.com/detail/20260113134902719800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "阿联酋贸易部长：尚不清楚美国总统特朗普宣布对与伊朗有贸易往来的国家征收关税将如何实施，我们将观察这是否会影响从伊朗进口食品。",
-          "url": "https://flash.jin10.com/detail/20260113201116059800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（1月12日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3036214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国至1月12日3个月国债竞拍-得标利率 3.57%，前值3.54%。",
-          "url": "https://flash.jin10.com/detail/20260113020203830800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
-          "url": "https://flash.jin10.com/detail/20260113032013915800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "德国外交部长：与美国国务卿鲁比奥讨论了格陵兰岛问题。",
-          "url": "https://flash.jin10.com/detail/20260113053053222800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美国天然气期货日内下跌3.00%，现报3.299美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260113134320916800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "罗素投资：劳动力与地产市场制约 美国通胀上行空间有限",
-          "url": "https://flash.jin10.com/detail/20260113143829992800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：美联储没有面临改变利率的强大压力。 美联储的独立性带来了巨大好处。 在央行独立性之争中市场相对平静，反映出对结果的不确定性。 预计下一任美联储主席将理解这一职位的重要性。 所有进入美联储的人都明白这份工作的重要性。 目前的经济形势相当不错。",
-          "url": "https://wallstreetcn.com/livenews/3035670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "据知情人士称，野村控股亚洲除日本外咨询投资银行主管Pei Shen Chou将离开这家日资银行。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3036061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国10月新屋销售环比 -0.1%，预期 -10.6%。",
-          "url": "https://wallstreetcn.com/livenews/3036261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "美国两州起诉特朗普政府",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国参议员Murkowski：如果司法部认为有必要基于项目成本超支对鲍威尔主席展开调查，那么国会就有必要对司法部展开调查。",
-          "url": "https://flash.jin10.com/detail/20260113000503759800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美国石油协会（API）：美国石油游说团体支持废除针对车辆而非发电厂和工厂的基础性气候法规。",
-          "url": "https://flash.jin10.com/detail/20260113031905806800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美股三大股指小幅收涨，几乎摆脱了美联储遭调查事件的影响。今晚将公布美国12月CPI报告，黄金、白银早盘小幅走低，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260113104258081800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本首相高市早苗政府的负责任、积极的政策兼顾了财政纪律，绝不意味着肆意支出。",
-          "url": "https://flash.jin10.com/detail/20260113134143446800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "分析师：若CPI数据推高美元 日本当局或被迫采取行动支撑日元",
-          "url": "https://flash.jin10.com/detail/20260113211403123800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美元/日元升至一年高位158.25。 日本10年期国债收益率升至2.135%，创1999年2月来最高。",
-          "url": "https://wallstreetcn.com/livenews/3035669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国10月新屋销售 73.7万户，预期 71.5万户。",
-          "url": "https://wallstreetcn.com/livenews/3036260",
+          "title": "美国牵头，在卡塔尔设立中东防空联合防御作战协调中心",
+          "url": "https://wallstreetcn.com/livenews/3036293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "奋起直追SpaceX：欧洲、加拿大、日本都在发力，就连印度也在整活...",
-          "url": "https://wallstreetcn.com/articles/3763109",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "知情人士：周一，俄罗斯无人机袭击了位于乌克兰切尔诺莫尔斯克港附近的两艘悬挂外国国旗的船只。",
-          "url": "https://flash.jin10.com/detail/20260113003627921800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：司法部并未被用作政治武器。",
-          "url": "https://flash.jin10.com/detail/20260113031725116800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "乌克兰能源公司DTEK：俄罗斯的袭击严重损坏了火力发电厂的设备。",
-          "url": "https://flash.jin10.com/detail/20260113143453370800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "丹麦外交部长：美国副总统万斯也将出席在华盛顿举行的会议。",
-          "url": "https://flash.jin10.com/detail/20260113184011964800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
-          "url": "https://wallstreetcn.com/livenews/3035469",
+          "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
+          "url": "https://wallstreetcn.com/livenews/3036292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
-          "url": "https://wallstreetcn.com/livenews/3035668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "日本首相高市早苗：希望在2026年将日韩关系提升到新高度。",
-          "url": "https://wallstreetcn.com/livenews/3035841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "美国参议院银行业委员会共和党籍议员Cramer：鲍威尔并非罪犯，应尽快结束针对美联储的调查，以“恢复对美联储的信心”。",
-          "url": "https://flash.jin10.com/detail/20260113003336595800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国内政部长伯格姆：我认为我们正目睹一场历史性转变，欧佩克的影响力将被削弱。",
-          "url": "https://flash.jin10.com/detail/20260113031518862800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "丹麦外交部长：丹麦和格陵兰岛的外交负责人将于周三会见美国国务卿鲁比奥。",
-          "url": "https://flash.jin10.com/detail/20260113183955329800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
-          "url": "https://wallstreetcn.com/livenews/3035446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "共和党要员抨击美国司法部调查，特朗普“驯服”美联储计划遇阻力",
-          "url": "https://wallstreetcn.com/livenews/3035468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "韩国总统李在明在与日本首相高市早苗的会谈中评论，韩日合作比以往任何时候都更加重要。",
-          "url": "https://wallstreetcn.com/livenews/3035839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "在580亿美元的三年期美国国债拍卖后，三年期美国国债收益率维持涨势，最新报3.602%，上涨0.7个基点。",
-          "url": "https://flash.jin10.com/detail/20260113003254821800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "白俄罗斯国防部：过去一周至少16架次北约飞机对白进行侦察",
-          "url": "https://flash.jin10.com/detail/20260113015129318800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：打算让对美联储主席鲍威尔的调查“顺其自然”，不急于下结论。",
-          "url": "https://flash.jin10.com/detail/20260113031450230800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "韩国总统李在明：韩国与日本就朝鲜事务保持密切沟通。",
-          "url": "https://flash.jin10.com/detail/20260113154305996800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "日本央行发言人就欧洲央行及其他一些央行支持美联储主席鲍威尔的声明表示，将避免评论其他央行的行动。",
-          "url": "https://flash.jin10.com/detail/20260113183819715800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今晚将公布美国12月CPI报告，2028年FOMC票委、圣路易联储主席穆萨莱姆将发表讲话",
-          "url": "https://flash.jin10.com/detail/20260113200815271800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "美国财政部拍卖六个月期国债，得标利率3.490%，投标倍数3.17。",
-          "url": "https://wallstreetcn.com/livenews/3035467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国法官批准禁令，允许丹麦沃旭能源Orsted恢复罗德岛海上风电项目的建设。",
-          "url": "https://wallstreetcn.com/livenews/3035575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美国财政部：财长贝森特就关键矿物问题会见了（七国集团/G7的）财长门。",
-          "url": "https://wallstreetcn.com/livenews/3035600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
-          "url": "https://wallstreetcn.com/livenews/3036257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国至1月12日6个月国债竞拍-得标利率 3.49%，前值3.48%。",
-          "url": "https://flash.jin10.com/detail/20260113003205436800",
+          "title": "加拿大贸易部长：我们正寻求在蒙特利尔等现有港口增加更多产能，以提振对非美国市场的出口。",
+          "url": "https://flash.jin10.com/detail/20260113235654484800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至1月12日10年期国债竞拍-得标利率、投标倍数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260113015000000800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国内政部长伯格姆：为满足需求，必须增加天然气发电量并将其并网。",
-          "url": "https://flash.jin10.com/detail/20260113031436446800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美国参议院多数党领袖图恩：对美联储主席鲍威尔的联邦调查应迅速解决，以确保美联储的独立性。",
-          "url": "https://flash.jin10.com/detail/20260113043043043800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "韩国总统李在明：韩国与日本将合作打击网络诈骗。",
-          "url": "https://flash.jin10.com/detail/20260113154103283800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.609%，投标倍数2.65。",
-          "url": "https://wallstreetcn.com/livenews/3035466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国参议院Collins：我上周日深夜已经与美联储主席鲍威尔通电话。",
-          "url": "https://wallstreetcn.com/livenews/3035599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "摩根大通首席执行官：各业务线表现良好。 美国经济保持韧性。 市场似乎低估了潜在风险。",
-          "url": "https://wallstreetcn.com/livenews/3036127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "提醒：北京时间23:00将发布美国10月新屋销售，美国圣路易联储主席Musalem将参加一个媒体节目。",
-          "url": "https://wallstreetcn.com/livenews/3036256",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "路透调查显示，俄罗斯经济将在2026年增长1.1%。",
-          "url": "https://flash.jin10.com/detail/20260112235210846800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美国至1月12日6个月国债竞拍-投标倍数 3.17，前值3.28。",
-          "url": "https://flash.jin10.com/detail/20260113003205362800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普将于周四会见委内瑞拉反对派领导人。",
-          "url": "https://flash.jin10.com/detail/20260113014955133800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "据CNBC：美国内政部长伯格姆表示，低油价是填补战略石油储备的机会。",
-          "url": "https://flash.jin10.com/detail/20260113031223938800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美国伊利诺伊州州长：就“危险使用武力”起诉美国国土安全部。",
-          "url": "https://flash.jin10.com/detail/20260113042243111800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "塞尔维亚总统武契奇：预计美国财政部将延长对俄罗斯拥有的NIS石油公司的运营许可。",
-          "url": "https://flash.jin10.com/detail/20260113164213748800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "俄罗斯Roszarubezhneft公司：公司在委内瑞拉的所有资产均为俄罗斯所有，由俄方按市场价格收购。",
-          "url": "https://flash.jin10.com/detail/20260113172624676800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "台湾证交所加权股价指数收高0.5%报30,707.22点。",
-          "url": "https://wallstreetcn.com/livenews/3035834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "日本首相高市早苗：与韩国总统李在明就供应链合作进行了深入讨论。",
-          "url": "https://wallstreetcn.com/livenews/3035928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国12月CPI数据速评",
-          "url": "https://wallstreetcn.com/livenews/3036205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "#美国开年狂飙特朗普到底想干嘛#",
-          "url": "https://www.baidu.com/s?wd=%23%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%B4%E7%8B%82%E9%A3%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%BA%95%E6%83%B3%E5%B9%B2%E5%98%9B%23",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国至1月12日6个月国债竞拍-得标利率配置百分比 42.32%，前值12.96%。",
-          "url": "https://flash.jin10.com/detail/20260113003205340800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：需争取在议会中尽早通过2026年财政预算案。",
-          "url": "https://flash.jin10.com/detail/20260113131640750800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "韩国总统李在明：韩国、日本将就人工智能和知识产权寻求合作。",
-          "url": "https://flash.jin10.com/detail/20260113153952079800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国两州起诉特朗普政府",
-          "url": "https://wallstreetcn.com/livenews/3035662",
+          "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
+          "url": "https://wallstreetcn.com/livenews/3036287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国CPI数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3036204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯安全委员会秘书绍伊古与伊朗最高国家安全委员会秘书举行了电话会谈。",
-          "url": "https://flash.jin10.com/detail/20260113002800045800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国天然气期货日内大涨6.00%，现报3.360美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260113014641658800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "辉瑞(PFE.N)CEO：预计未来几年国际业务将实现增长，而美国业务将实现温和增长。",
-          "url": "https://flash.jin10.com/detail/20260113022315034800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
-          "url": "https://wallstreetcn.com/livenews/3035439",
+          "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
+          "url": "https://wallstreetcn.com/livenews/3036285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "俄罗斯shoigu与伊朗Larijani通话。（国际文传通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3035463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "日本20年期、30年期国债收益率大涨，受日本或提前举行大选的报道影响",
-          "url": "https://wallstreetcn.com/livenews/3035661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "日本经济团体联合会筒井义信：日元的疲软程度有些过度。 日本股市的上涨反映了全球趋势。",
-          "url": "https://wallstreetcn.com/livenews/3035877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "美国：美公民立即离开伊朗",
-          "url": "https://www.douyin.com/hot/2365939",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国财政部：美国财长贝森特及其各国对口官员讨论了确保并多元化关键矿产供应链。",
-          "url": "https://flash.jin10.com/detail/20260113062320672800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
-          "url": "https://wallstreetcn.com/livenews/3035551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)CEO：同意美国药品价格过高，欧洲药品价格过低，但欧洲各国政府持有不同观点。",
-          "url": "https://flash.jin10.com/detail/20260113002621682800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国证交会（SEC）：Paul Tzur 和David Morrell被任命为执法部副主任。",
-          "url": "https://flash.jin10.com/detail/20260113041629116800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "美国财政部：财政部长贝森特对各国将选择审慎的“去风险化”而非“脱钩”表示乐观，并认为各国已认识到有必要弥补关键矿产供应链中当前存在的不足。",
-          "url": "https://flash.jin10.com/detail/20260113062243021800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "格陵兰岛自治政府：任何情况下都无法接受美国接管格陵兰岛",
-          "url": "https://wallstreetcn.com/livenews/3035493",
+          "title": "美国总统特朗普：美联储主席鲍威尔做得并不好。 鲍威尔要么无能，要么腐败。",
+          "url": "https://wallstreetcn.com/livenews/3036283",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国参议院民主党成员Warren：与总统特朗普讨论了那些有助于降低成本的方式。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3035594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "瑞银集团CEO：日本市场重现乐观情绪。扩大在日本的核心业务。",
-          "url": "https://wallstreetcn.com/livenews/3035659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国12月核心CPI同比 2.6%，预期 2.7%，前值 2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3036201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国财政部：财政部长贝森特敦促部分外国财政部长提高其供应链韧性。",
-          "url": "https://flash.jin10.com/detail/20260113062125230800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国10月新屋销售年化月率 -0.1%，预期-10.6%。",
-          "url": "https://flash.jin10.com/detail/20260113230035628800",
+          "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
+          "url": "https://flash.jin10.com/detail/20260113234352865800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国12月核心CPI环比 0.2%，预期 0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3036200",
+          "title": "美国众议院议长约翰逊：格陵兰岛关乎“国家安全”，关乎矿物利益。",
+          "url": "https://wallstreetcn.com/livenews/3036282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国12月CPI数据，圣路易联储主席穆萨莱姆将发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260113075841359800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国10月新屋销售总数年化 73.7万户，预期72万户。",
-          "url": "https://flash.jin10.com/detail/20260113230021554800",
+          "title": "美国众议院议长约翰逊：任何限制信用卡利率的举措都可能产生“负面的连锁反应”，并指出需要通过立法来设定上限。",
+          "url": "https://flash.jin10.com/detail/20260113234213964800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
-          "url": "https://wallstreetcn.com/livenews/3035592",
+          "title": "美国众议院议长约翰逊：如果美联储主席鲍威尔是无辜的，调查结果将给出证明。 必须让司法部调查鲍威尔。",
+          "url": "https://wallstreetcn.com/livenews/3036281",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "00时23分"
         },
         {
-          "title": "中国驻韩国大使馆发言人就“驻韩国台北代表部”人员妄谈台湾问题表明严正立场",
-          "url": "https://wallstreetcn.com/livenews/3036172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美国12月CPI同比 2.7%，预期 2.7%，前值 2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3036199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "德国外长：欧洲有望就格陵兰岛与美国达成妥协",
-          "url": "https://flash.jin10.com/detail/20260113061938002800",
+          "title": "美国众议院议长约翰逊：在信用卡利率上限问题上必须格外审慎。",
+          "url": "https://flash.jin10.com/detail/20260113233950832800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "00时23分"
         },
         {
-          "title": "10年期日本国债收益率继续走高，上涨7个基点至2.160%。",
-          "url": "https://flash.jin10.com/detail/20260113140548693800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：伊朗政府的支持率正在上升，这对美国而言是一个警告。",
-          "url": "https://wallstreetcn.com/livenews/3035489",
+          "title": "美国总统特朗普：将在底特律谈论经济。",
+          "url": "https://wallstreetcn.com/livenews/3036280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://wallstreetcn.com/livenews/3035656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国12月CPI环比 0.3%，预期 0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3036198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
-          "url": "https://flash.jin10.com/detail/20260113021957699800",
+          "title": "美国众议院议长约翰逊：在信贷利率上限问题上达成共识仍需大量工作。",
+          "url": "https://flash.jin10.com/detail/20260113233941487800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
-          "url": "https://flash.jin10.com/detail/20260113050153642800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美国食品药品监督管理局（FDA）：未发现使用GLP-1会增加“自杀行为”风险。",
-          "url": "https://flash.jin10.com/detail/20260113220003846800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国众议院共和党成员French Hill：（特朗普政府）对美联储主席鲍威尔诉诸法律的做法造成不必要的干扰。",
-          "url": "https://wallstreetcn.com/livenews/3035488",
+          "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
+          "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "墨西哥总统辛鲍姆：如果受邀，墨西哥已准备好协助古巴与美国之间的沟通。",
-          "url": "https://flash.jin10.com/detail/20260112233534164800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：美国总统特朗普并未指示司法部官员调查美联储主席鲍威尔。",
-          "url": "https://flash.jin10.com/detail/20260113021950421800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "俄罗斯至12月26日当周央行黄金和外汇储备 7639亿美元，前值7526亿美元。",
-          "url": "https://flash.jin10.com/detail/20260113210058095800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "伊朗议长：如遭攻击将给美国“永生难忘的教训”",
-          "url": "https://wallstreetcn.com/livenews/3035430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "委内瑞拉“反对派”Machado将于周四会见美国总统特朗普。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3035486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "日经225指数早盘收涨3.1%，日本东证指数收涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3035741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "媒体：美国“弃台”？不必大惊小怪",
-          "url": "https://www.toutiao.com/trending/7594410952787758646/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "日本30年期国债收益率上涨12个基点至3.52%。",
-          "url": "https://flash.jin10.com/detail/20260113075135761800",
+          "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260113233739122800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
-          "url": "https://wallstreetcn.com/livenews/3035485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国国务院：我们正在考虑向伊朗人民“提供援助”，这是我们外交政策的一部分。",
-          "url": "https://flash.jin10.com/detail/20260112233237210800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "日本11月贸易帐 6253亿日元，预期5083亿日元，前值983亿日元。",
-          "url": "https://flash.jin10.com/detail/20260113075123190800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国12月CPI报告整体符合预期 部分环比数据可能被扭曲",
-          "url": "https://flash.jin10.com/detail/20260113215520839800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "俄罗斯外长：华盛顿发出的新军事打击威胁断然不可接受。我们强烈反对通过提高贸易关税公然勒索伊朗的外国合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260113225500151800",
+          "title": "美国参议院共和党领袖图恩：预计信用卡竞争法案将付诸表决。",
+          "url": "https://flash.jin10.com/detail/20260113233703383800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "加密货币法案进入美国参议院审议阶段，Coinbase加大施压力度",
-          "url": "https://wallstreetcn.com/livenews/3035428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美国农业部（USDA）：预计美国棉花期末库存420万捆，分析师预期456万捆，USDA之前预计450万捆。",
-          "url": "https://wallstreetcn.com/livenews/3035484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：增强美联储信誉的最佳方式是出色地履行职责。 市场很难对不确定事件进行定价。",
-          "url": "https://wallstreetcn.com/livenews/3035651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
-          "url": "https://flash.jin10.com/detail/20260112233206127800",
+          "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
+          "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "特朗普：政府若在关税问题上败诉 美国或面临数万亿债务泥潭",
-          "url": "https://flash.jin10.com/detail/20260113021526999800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美国至1月9日当周红皮书商业零售销售年率 5.7%，前值7.1%。",
-          "url": "https://flash.jin10.com/detail/20260113215502113800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国农业部（USDA）：预计美国小麦期末总库存9.26亿蒲式耳，分析师预期8.9641亿蒲式耳，USDA之前预计9.01亿蒲式耳。",
-          "url": "https://wallstreetcn.com/livenews/3035483",
+          "title": "美国新屋销量维持在2023年以来最快增速附近",
+          "url": "https://wallstreetcn.com/livenews/3036274",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "哥伦比亚特区联邦检察官Pirro：美国联邦检察官办公室已多次与美联储取得联系。 关于成本超支问题与美联储的沟通被无视。 期待鲍威尔给予全面配合。 针对美联储的法律程序 “并非威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3035734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "据福克斯新闻：白宫表示，伊朗公开宣称的立场与其私下向美国传递的信息截然不同。",
-          "url": "https://flash.jin10.com/detail/20260113021336855800",
+          "title": "美国众议院议长约翰逊：格陵兰岛有美国的国家安全和矿产利益。",
+          "url": "https://flash.jin10.com/detail/20260113233626975800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本11月季调后经常账 31378亿日元，预期30364亿日元，前值24764亿日元。",
-          "url": "https://flash.jin10.com/detail/20260113075100772800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "英国首相斯塔默预计将接受美国主导的“加沙和平委员会”的职位。",
-          "url": "https://flash.jin10.com/detail/20260113215442009800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国农业部（USDA）：预计美国玉米期末库存22.27亿蒲式耳，分析师预期19.8551亿蒲式耳，USDA之前预计20.29亿蒲式耳。",
-          "url": "https://wallstreetcn.com/livenews/3035482",
+          "title": "美国圣路易联储主席Musalem：那些美联储主席候选人都是高度合格的。 预计下一任主席将遵守双重职责（国会山批准的实现充分就业+实现价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3036273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本三重县确认一起高致病性禽流感疫情",
-          "url": "https://wallstreetcn.com/livenews/3035733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "墨西哥总统克劳迪娅·辛鲍姆12日表示，她当天与美国总统特朗普通电话，已明确排除美国在墨境内采取军事行动的可能性。她告诉特朗普，向墨西哥派遣美军打击贩毒集团的提议“不在讨论范围内”。",
-          "url": "https://flash.jin10.com/detail/20260113012423463800",
+          "title": "美国众议院议长约翰逊：如果美联储主席鲍威尔是清白的，将在调查中水落石出。必须让司法部对鲍威尔的调查进行下去。",
+          "url": "https://flash.jin10.com/detail/20260113233530065800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本12月季调后除信托外银行贷款年率 4.8%，前值4.50%。",
-          "url": "https://flash.jin10.com/detail/20260113075046666800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国农业部上调大豆期末库存预期",
-          "url": "https://wallstreetcn.com/livenews/3035481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "要求终止联邦移民执法机构行动，美国明尼苏达州起诉国土安全部",
-          "url": "https://wallstreetcn.com/livenews/3035614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "日本经济团体联合会会长筒井义信：认为日元的跌势有点过头了，相信向日元升值的方向调整是必要的。 在极端环境下，外汇干预可能是合理的。 汇率波动应该反映基本面。 汇率总体上应该由市场力量驱动。",
-          "url": "https://wallstreetcn.com/livenews/3035907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国银行：将百度目标价从151美元上调至180美元。",
-          "url": "https://wallstreetcn.com/livenews/3036105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "日本12月季调后银行贷款年率 4.4%，前值4.20%。",
-          "url": "https://flash.jin10.com/detail/20260113075004140800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后发表讲话；美国10月新屋销售总数年化将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260113225000001800",
+          "title": "美国总统特朗普：将在底特律谈论经济。",
+          "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国国务卿卢比奥将于美国东部时间周二上午10点会见巴拿马外交部长。",
-          "url": "https://wallstreetcn.com/livenews/3035730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "日人士：高市言论只会让日本远离和平",
-          "url": "https://www.toutiao.com/trending/7594533985448591387/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "日本11月未季调经常帐 36741亿日元，预期35936亿日元，前值28335亿日元。",
-          "url": "https://flash.jin10.com/detail/20260113075002811800",
+          "title": "美国参议院共和党领袖图恩：信用卡利率上限可能导致许多人失去信贷渠道。",
+          "url": "https://flash.jin10.com/detail/20260113233332966800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "00时23分"
         },
         {
-          "title": "在美国CPI数据公布后，墨西哥比索兑美元升值0.46%，创下自2024年7月以来的最大涨幅。",
-          "url": "https://flash.jin10.com/detail/20260113215015806800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "白俄罗斯国防部：过去一周至少16架次北约飞机对白进行侦察",
-          "url": "https://wallstreetcn.com/livenews/3035506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美国国务院：特朗普政府已撤销逾10万份签证",
-          "url": "https://wallstreetcn.com/livenews/3035646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "世界银行：目前预计2026年全球实际经济（GDP）将增长2.6%，高于去年6月预测的2.3%。 美国经济今年的预期增速也获得了大幅提升，从此前的1.6%上调至2.2%。 去年的全球增长率估计达到2.7%。 世界经济的韧性“显著”，但风险仍偏向下行。 贸易紧张局势存在大幅升级的重大风险，尤其是高关税可能导致出口转向第三国，进而引发这些国家的国内生产商针对进口竞争加剧而寻求贸易保护。",
-          "url": "https://wallstreetcn.com/livenews/3036238",
+          "title": "美国圣路易联储主席Musalem：没必要采取（继续）宽松立场，那样做也不可取。",
+          "url": "https://wallstreetcn.com/livenews/3036269",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时23分"
         }
       ]
     }
