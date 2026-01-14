@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:20:50.149601+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-01-14T16:21:30.427692+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 235,
+      "match_count": 240,
       "titles": [
         {
           "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
@@ -26,11 +26,12 @@
             1,
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时21分]"
         },
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
@@ -45,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时21分 ~ 15时20分]"
+          "appearance_count": 17,
+          "time_info": "[01时21分 ~ 16时21分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -60,6 +61,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时15分]"
+        },
+        {
+          "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
+          "url": "https://news.ifeng.com/c/8ptlZ2L9T7B",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时21分]"
         },
         {
           "title": "“驻韩国台北代表部”人员妄谈台湾问题，中方表态",
@@ -147,11 +161,12 @@
           "ranks": [
             19,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时21分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -167,17 +182,17 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
-          "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
-          "url": "https://news.ifeng.com/c/8ptlZ2L9T7B",
-          "source": "凤凰网",
+          "title": "格陵兰岛自治政府发声明，「任何情况下都无法接受美国接管格陵兰岛」，如何看待近期各方反应？是冲突前兆吗？",
+          "url": "https://www.zhihu.com/question/1994357311955755468",
+          "source": "知乎",
           "ranks": [
+            6,
             7,
-            8,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时21分]"
         },
         {
           "title": "国民党高层将前往大陆？国台办回应",
@@ -193,19 +208,6 @@
           "time_info": "[11时31分 ~ 15时20分]"
         },
         {
-          "title": "格陵兰岛自治政府发声明，「任何情况下都无法接受美国接管格陵兰岛」，如何看待近期各方反应？是冲突前兆吗？",
-          "url": "https://www.zhihu.com/question/1994357311955755468",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 15时20分]"
-        },
-        {
           "title": "美国即将正式退出世卫组织",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%B3%E5%B0%86%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -216,6 +218,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 15时20分]"
+        },
+        {
+          "title": "国台办：解决台湾问题是中国人自己的事",
+          "url": "https://news.ifeng.com/c/8pu4igIyY9D",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 16时21分]"
+        },
+        {
+          "title": "台湾网红“馆长”被起诉，国台办回应",
+          "url": "https://news.ifeng.com/c/8pu68igBrSN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 16时21分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -244,26 +268,31 @@
           "time_info": "[09时08分 ~ 13时19分]"
         },
         {
-          "title": "国台办：解决台湾问题是中国人自己的事",
-          "url": "https://news.ifeng.com/c/8pu4igIyY9D",
-          "source": "凤凰网",
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
           "ranks": [
+            18,
+            13,
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时31分 ~ 15时20分]"
+          "time_info": "[12时41分 ~ 16时21分]"
         },
         {
-          "title": "台湾网红“馆长”被起诉，国台办回应",
-          "url": "https://news.ifeng.com/c/8pu68igBrSN",
-          "source": "凤凰网",
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时31分 ~ 15时20分]"
+          "time_info": "[12时41分 ~ 16时21分]"
         },
         {
           "title": "美国批准向中国出口英伟达H200芯片",
@@ -347,32 +376,6 @@
           "time_info": "[12时41分 ~ 15时20分]"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 15时20分]"
-        },
-        {
           "title": "格陵兰岛矿产资源部长：我们无意成为美国的一部分，但希望与美国合作。",
           "url": "https://flash.jin10.com/detail/20260114000824898800",
           "source": "金十数据",
@@ -437,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "奥迪：美国关税政策影响整个行业并塑造消费者行为。",
+          "url": "https://flash.jin10.com/detail/20260114161044128800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国里士满联储主席Barkin：央行独立性有利于促进经济成果。",
@@ -1240,6 +1254,18 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
+          "title": "“古德之死”引爆美国",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时21分]"
+        },
+        {
           "title": "蔡正元：我是台湾首个戴电子脚镣的",
           "url": "https://www.toutiao.com/trending/7594331599529918510/",
           "source": "今日头条",
@@ -1372,6 +1398,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美国即将正式退出世卫组织",
+          "url": "https://www.toutiao.com/trending/7593964676934352902/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国1月EIA当年天然气产量预期 1088亿立方英尺/日，前值1077.4亿立方英尺/日。",
           "url": "https://flash.jin10.com/detail/20260114010454675800",
           "source": "金十数据",
@@ -1488,7 +1525,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1966,6 +2003,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "媒体：李在明用韩国方式和日本打交道",
+          "url": "https://www.toutiao.com/trending/7594468648489386025/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
           "url": "https://flash.jin10.com/detail/20260114032319867800",
           "source": "金十数据",
@@ -2302,7 +2350,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2522,9 +2570,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "日本租客死后2个月房内又现腐尸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%9F%E5%AE%A2%E6%AD%BB%E5%90%8E2%E4%B8%AA%E6%9C%88%E6%88%BF%E5%86%85%E5%8F%88%E7%8E%B0%E8%85%90%E5%B0%B8%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国众议院议长约翰逊：格陵兰岛有美国的国家安全和矿产利益。",
@@ -2593,6 +2652,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "最大的美国代表团将出席达沃斯论坛",
+          "url": "https://www.toutiao.com/trending/7595083258956546111/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -2624,17 +2694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        },
-        {
-          "title": "“古德之死”引爆美国",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "美国参议院共和党领袖图恩：信用卡利率上限可能导致许多人失去信贷渠道。",
@@ -2698,7 +2757,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
