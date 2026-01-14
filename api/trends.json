@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-15T01:23:16.906098+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-01-15T02:24:07.157079+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 70,
+      "match_count": 80,
       "titles": [
-        {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
-        },
         {
           "title": "沙特带头，劝美国不要对伊朗动武",
           "url": "https://news.ifeng.com/c/8puV4iW19Yi",
@@ -27,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -38,8 +26,46 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "美国考虑招募私营公司协助应对网络攻击。",
@@ -53,15 +79,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3037223",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
+          "url": "https://flash.jin10.com/detail/20260115015652993800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "02时24分"
         },
         {
           "title": "美国地质勘探局：巴布亚新几内亚莱城以北119公里处发生5.1级地震。",
@@ -75,16 +101,27 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
-          "source": "澎湃新闻",
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3763230",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
@@ -109,38 +146,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
+          "url": "https://wallstreetcn.com/livenews/3037243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
-        },
-        {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
-        },
-        {
-          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3763230",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国将暂停对俄罗斯等75国签证",
@@ -148,11 +162,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "美媒：美国将暂停对75个国家的所有签证",
@@ -162,8 +177,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "升级！美国向英国发出严厉威胁",
@@ -173,8 +188,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "“古德之死”引爆美国",
@@ -182,11 +197,25 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
+          "url": "https://www.zhihu.com/question/27559895",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "斩杀线登美国头条,牢A连夜跑路",
@@ -196,8 +225,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "魔幻美国:杀人探员获400万捐款",
@@ -207,42 +236,44 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
-        },
-        {
-          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
-          "url": "https://www.zhihu.com/question/27559895",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "日本深海开采稀土无法规避哪些挑战",
           "url": "https://www.toutiao.com/trending/7595036144396406310/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
           "url": "https://www.douyin.com/hot/2367901",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3037223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时24分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -252,19 +283,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 02时24分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E4%BB%8E%E4%B8%AD%E4%B8%9C%E4%B8%BB%E8%A6%81%E5%9F%BA%E5%9C%B0%E6%92%A4%E5%87%BA%E4%BA%BA%E5%91%98",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 02时24分]"
+        },
+        {
+          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
+          "url": "https://wallstreetcn.com/livenews/3037216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "time_info": "[01时23分 ~ 02时24分]"
+        },
+        {
+          "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
+          "url": "https://wallstreetcn.com/livenews/3037215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时24分]"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.560%，投标倍数3。",
+          "url": "https://wallstreetcn.com/livenews/3037211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时24分]"
         },
         {
           "title": "EIA报告：美国墨西哥湾沿岸汽油库存在最新一周上升至2020年1月以来的最高水平。",
@@ -284,7 +352,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -311,17 +379,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
-          "url": "https://wallstreetcn.com/livenews/3037216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
           "title": "美国参议院共和党领袖图恩：不确定是否有足够票数阻止今天就《战争权力决议》进行表决。",
           "url": "https://flash.jin10.com/detail/20260114233514403800",
           "source": "金十数据",
@@ -344,15 +401,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
-          "url": "https://wallstreetcn.com/livenews/3037215",
+          "title": "美国财长贝森特称，在与澳大利亚国库部长Jim Chalmers的会晤中，赞扬了澳大利亚“致力于建立强有力的、以行动为导向的伙伴关系，以创建长期安全的关键矿产供应链”。 财政部就贝森特1月12日与Chalmers的会面置评。 贝森特和Chalmers讨论了“关键矿产机遇，以及经济和国家安全方面的共同关切”。",
+          "url": "https://wallstreetcn.com/livenews/3037231",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "02时24分"
         },
         {
           "title": "美联储理事米兰：“雄心勃勃”的美国放松监管支持美联储进一步宽松",
@@ -388,6 +445,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
+          "url": "https://wallstreetcn.com/livenews/3037229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
           "title": "金十数据整理：美国当周EIA库存数据最值一览",
           "url": "https://flash.jin10.com/detail/20260114233356129800",
           "source": "金十数据",
@@ -410,17 +478,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.560%，投标倍数3。",
-          "url": "https://wallstreetcn.com/livenews/3037211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
           "title": "美国至1月9日当周EIA蒸馏燃油产量引伸需求数据 552.01万桶/日，前值472.29万桶/日。",
           "url": "https://flash.jin10.com/detail/20260114233220217800",
           "source": "金十数据",
@@ -441,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari（2026年FOMC票委）：通胀太高，但趋势处于正确的方向。 如果通胀持续得足够长久，人们会质疑美联储（维持价格稳定性的信誉）。 我对美国经济前景的展望是，增速会相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3037226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国至1月9日当周EIA车用汽油总产量引伸需求数据 916.3万桶/日，前值913.66万桶/日。",
@@ -482,7 +550,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -504,7 +572,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -526,7 +594,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -559,9 +627,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "市场消息：美国加州总检察长对马斯克旗下xAI和Grok启动调查。",
+          "url": "https://flash.jin10.com/detail/20260115013111465800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国1月9日当周EIA精炼油库存变动 -2.9万桶，预期 -66.2万桶，前值 559.4万桶。",
@@ -581,7 +660,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -592,9 +671,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国驻沙特使馆要求工作人员“提高警惕”",
+          "url": "https://wallstreetcn.com/livenews/3037242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美国加州州长纽森：呼吁司法部长立即调查xAI并追究其责任。",
+          "url": "https://flash.jin10.com/detail/20260115013044140800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国司法部长Bondi：美国五角大楼一位泄漏保密信息的承包商被收监。",
@@ -625,9 +726,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯发动袭击后，乌克兰能源部门将宣布进入紧急状态。",
+          "url": "https://flash.jin10.com/detail/20260115012704189800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国至1月9日当周EIA精炼厂设备利用率 95.3%，预期94%，前值94.7%。",
@@ -647,7 +759,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -680,7 +792,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -735,7 +847,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -771,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为5.3%，此前预计为5.1%。",
+          "url": "https://flash.jin10.com/detail/20260115012339804800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国至1月9日当周EIA取暖油库存 -74.5万桶，前值67.2万桶。",
