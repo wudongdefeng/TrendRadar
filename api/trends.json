@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T20:31:23.905769+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-01-14T21:36:51.505306+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 282,
+      "match_count": 291,
       "titles": [
         {
           "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
@@ -19,6 +19,19 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 21时36分]"
+        },
+        {
           "title": "斩杀线登美国头条,牢A连夜跑路",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
           "source": "贴吧",
@@ -29,24 +42,12 @@
             4,
             6,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时08分 ~ 20时31分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 21时36分]"
         },
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
@@ -61,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时21分 ~ 20时31分]"
+          "appearance_count": 26,
+          "time_info": "[01时21分 ~ 21时36分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -89,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 21时36分]"
         },
         {
           "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
@@ -131,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时41分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[12时41分 ~ 21时36分]"
         },
         {
           "title": "白俄罗斯边境出现前所未有军事集结",
@@ -394,7 +395,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -525,17 +526,6 @@
           "time_info": "06时15分"
         },
         {
-          "title": "日本公明党与立宪民主党将商讨组建新政党。（朝日新闻）",
-          "url": "https://wallstreetcn.com/livenews/3037022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "奥迪：美国关税政策影响整个行业并塑造消费者行为。",
           "url": "https://flash.jin10.com/detail/20260114161044128800",
           "source": "金十数据",
@@ -657,6 +647,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "欧佩克预测2027年美国经济增长率为2%。欧佩克预测2027年欧元区经济增长率为1.2%。",
+          "url": "https://flash.jin10.com/detail/20260114212221972800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
           "url": "https://wallstreetcn.com/livenews/3036416",
           "source": "华尔街见闻-快讯",
@@ -677,6 +678,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时36分]"
         },
         {
           "title": "国台办回应美国某智库发布所谓报告",
@@ -900,16 +914,16 @@
           "time_info": "[00时23分 ~ 01时21分]"
         },
         {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
+          "title": "日本公明党与立宪民主党将商讨组建新政党。（朝日新闻）",
+          "url": "https://wallstreetcn.com/livenews/3037022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 20时31分]"
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
@@ -1116,6 +1130,30 @@
           "time_info": "[03时16分 ~ 05时15分]"
         },
         {
+          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3763230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时36分]"
+        },
+        {
+          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
+          "url": "https://www.zhihu.com/question/27559895",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时36分]"
+        },
+        {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
           "url": "https://flash.jin10.com/detail/20260114030200145800",
           "source": "金十数据",
@@ -1284,17 +1322,6 @@
           "time_info": "[13时19分 ~ 14时24分]"
         },
         {
-          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3763230",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
-        },
-        {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
           "url": "https://wallstreetcn.com/livenews/3036292",
           "source": "华尔街见闻-快讯",
@@ -1412,17 +1439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时19分]"
-        },
-        {
-          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
-          "url": "https://www.zhihu.com/question/27559895",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
         },
         {
           "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
@@ -1553,7 +1569,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1567,6 +1583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari表示，特朗普对美联储的举措“关乎货币政策”。其表示鲍威尔对此事“解释得很准确”。Kashkari称目前没有“一月降息的动力”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国1月EIA次年天然气产量预期 1097亿立方英尺/日，前值1091.1亿立方英尺/日。",
@@ -1652,9 +1679,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "欧佩克：12月产量低于计划78万桶/日，俄罗斯低于计划27万桶/日，哈萨克斯坦高于计划8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114212116847800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1674,7 +1712,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1721,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "欧佩克：俄罗斯12月石油产量较11月减少7.3万桶/日，至930万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114212058248800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
@@ -1828,9 +1877,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "欧佩克：数据显示，俄罗斯石油产量在2025年小幅下降0.7%。",
+          "url": "https://flash.jin10.com/detail/20260114212039176800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国参议院农业委员会将于1月27日“起草”加密货币立法草案。",
@@ -1971,7 +2031,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2073,6 +2133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美国11月零售销售月率、PPI月率及年率、第三季度经常帐将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260114212000001800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国1月EIA当年WTI原油均价预期 52.21美元/桶，前值65.32美元/桶。",
@@ -2213,7 +2284,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2235,7 +2306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2279,9 +2350,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "AI热潮推高美国电价 美国电价或持续上涨",
+          "url": "https://flash.jin10.com/detail/20260114211742495800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国可能会在数周、或者数月内对格陵兰岛采取行动。（今日美国）",
@@ -2389,7 +2471,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2455,9 +2537,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "贝拉1号油轮抵达英国水域 此前在大西洋被美国扣押",
+          "url": "https://flash.jin10.com/detail/20260114211436329800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
@@ -2477,7 +2570,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2521,7 +2614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2587,7 +2680,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -3206,6 +3299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "EagleNXT在美国建立无人机制造中心。",
+          "url": "https://flash.jin10.com/detail/20260114210214696800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国圣路易联储主席Musalem：没必要采取（继续）宽松立场，那样做也不可取。",
