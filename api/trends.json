@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-16T01:27:31.707651+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-16T02:27:24.509383+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "火药味拉满,美国酝酿搞伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时27分]"
+        },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
           "url": "https://flash.jin10.com/detail/20260115235739581800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
+          "url": "https://wallstreetcn.com/livenews/3038156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -30,37 +52,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率下跌至6.06%，创2022年9月份以来新低，前值6.16%。",
-          "url": "https://wallstreetcn.com/livenews/3038141",
+          "title": "周四（1月15日），韩元兑美元最终跌0.27%，报1468.62韩元。 北京时间12:57，韩元一度跌至1473.39，意味着1月14日美国财长贝森特“口头干预”带来的涨幅回吐过半。",
+          "url": "https://wallstreetcn.com/livenews/3038153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "房地美：美国抵押贷款利率跌至6.06%，创2022年9月以来新低。",
-          "url": "https://flash.jin10.com/detail/20260116010136356800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "火药味拉满,美国酝酿搞伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时27分"
         },
         {
           "title": "美国财政部宣布对伊朗实施新制裁",
@@ -74,27 +74,17 @@
           "time_info": "00时26分"
         },
         {
-          "title": "美国油籽加工商协会（NOPA）：美国2025年12月豆油库存为16.42亿磅，市场预期为16.86亿磅，2025年11月为15.13亿磅；美国2025年12月大豆压榨量为2.24991亿蒲式耳，市场预期为2.24809亿蒲式耳，2025年11月为2.16041亿蒲式耳。",
-          "url": "https://flash.jin10.com/detail/20260116010118483800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
           "url": "https://wallstreetcn.com/livenews/3038125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -102,11 +92,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -114,11 +105,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率下跌至6.06%，创2022年9月份以来新低，前值6.16%。",
+          "url": "https://wallstreetcn.com/livenews/3038141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 02时27分]"
+        },
+        {
+          "title": "房地美：美国抵押贷款利率跌至6.06%，创2022年9月以来新低。",
+          "url": "https://flash.jin10.com/detail/20260116010136356800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时27分]"
+        },
+        {
+          "title": "美国油籽加工商协会（NOPA）：美国2025年12月豆油库存为16.42亿磅，市场预期为16.86亿磅，2025年11月为15.13亿磅；美国2025年12月大豆压榨量为2.24991亿蒲式耳，市场预期为2.24809亿蒲式耳，2025年11月为2.16041亿蒲式耳。",
+          "url": "https://flash.jin10.com/detail/20260116010118483800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时27分]"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -128,8 +156,108 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "美国财政部对伊朗实施新制裁",
+          "url": "https://www.douyin.com/hot/2369134",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "媒体：日本两大在野党联手对抗高市",
+          "url": "https://www.toutiao.com/trending/7595585661743140415/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施新制裁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "普京：俄罗斯支持加强联合国的核心作用",
+          "url": "https://wallstreetcn.com/livenews/3038094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时27分]"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.595%，投标倍数2.92。 拍卖八周期国债，得标利率3.6%，投标倍数2.71。",
+          "url": "https://wallstreetcn.com/livenews/3038133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 02时27分]"
         },
         {
           "title": "美国财政部：制裁“支持伊朗的影子银行网络”。",
@@ -144,28 +272,16 @@
           "time_info": "[00时26分 ~ 01时27分]"
         },
         {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
-        },
-        {
-          "title": "美国财政部对伊朗实施新制裁",
-          "url": "https://www.douyin.com/hot/2369134",
-          "source": "抖音",
+          "title": "美国联邦住房金融局局长Bill Pulte：1月14日，会见了来自多家抵押贷款公司和相关公司的主管们。",
+          "url": "https://wallstreetcn.com/livenews/3038129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 02时27分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存减少710亿立方英尺，周环比降幅2.18%，至3.19万亿立方英尺。",
@@ -180,28 +296,16 @@
           "time_info": "[00时26分 ~ 01时27分]"
         },
         {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
+          "title": "美国移民与海关执法局副局长宣布离职",
+          "url": "https://wallstreetcn.com/livenews/3038128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            13
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
-        },
-        {
-          "title": "媒体：日本两大在野党联手对抗高市",
-          "url": "https://www.toutiao.com/trending/7595585661743140415/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 02时27分]"
         },
         {
           "title": "美国1月9日当周EIA天然气库存变动 -710亿立方英尺，预期 -910亿立方英尺，前值 -1190亿立方英尺。",
@@ -216,39 +320,16 @@
           "time_info": "[00时26分 ~ 01时27分]"
         },
         {
-          "title": "普京：俄罗斯支持加强联合国的核心作用",
-          "url": "https://wallstreetcn.com/livenews/3038094",
-          "source": "华尔街见闻-快讯",
+          "title": "聂卫平曾连胜多位日本超一流棋手",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            25,
-            14
+            23,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
-        },
-        {
-          "title": "美国宣布对伊朗实施新制裁",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
-        },
-        {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时27分]"
+          "time_info": "[00时26分 ~ 02时27分]"
         },
         {
           "title": "日本首相高市早苗与意大利总理梅洛尼就太空垃圾清除达成协议。",
@@ -262,15 +343,37 @@
           "time_info": "00时26分"
         },
         {
-          "title": "美国财政部拍卖四周期国债，得标利率3.595%，投标倍数2.92。 拍卖八周期国债，得标利率3.6%，投标倍数2.71。",
-          "url": "https://wallstreetcn.com/livenews/3038133",
-          "source": "华尔街见闻-快讯",
+          "title": "惠誉：美国信用卡年利率上限为10%将大幅削减资产支持证券的损失缓冲。",
+          "url": "https://flash.jin10.com/detail/20260116014453498800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时27分"
+        },
+        {
+          "title": "消息人士：美国页岩油生产商戴文能源公司和科特拉能源公司正在洽谈合并事宜。",
+          "url": "https://flash.jin10.com/detail/20260116014320696800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3038147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：将与美国继续开展北极安全工作。",
@@ -290,31 +393,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
         {
-          "title": "美国联邦住房金融局局长Bill Pulte：1月14日，会见了来自多家抵押贷款公司和相关公司的主管们。",
-          "url": "https://wallstreetcn.com/livenews/3038129",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
+          "url": "https://flash.jin10.com/detail/20260116013602991800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时27分"
         },
         {
-          "title": "美国移民与海关执法局副局长宣布离职",
-          "url": "https://wallstreetcn.com/livenews/3038128",
-          "source": "华尔街见闻-快讯",
+          "title": "北约秘书长：就俄罗斯的袭击和乌克兰的能源状况与乌克兰总统泽连斯基通话。",
+          "url": "https://flash.jin10.com/detail/20260116013458021800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时27分"
         },
         {
           "title": "美国财政部：制裁支持伊朗的影子银行网络。",
@@ -389,7 +492,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -400,20 +503,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "聂卫平曾连胜多位日本超一流棋手",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时27分"
         },
         {
           "title": "格陵兰岛领导人重申，该岛不希望被美国拥有。",
@@ -433,7 +525,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -444,7 +536,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -455,7 +547,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -477,7 +569,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -488,7 +580,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -499,7 +591,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -510,7 +602,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
