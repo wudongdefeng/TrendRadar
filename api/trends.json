@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:32:54.975675+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-01-20T21:41:35.394933+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 197,
+      "match_count": 223,
       "titles": [
         {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时20分 ~ 21时41分]"
         },
         {
           "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
@@ -184,11 +184,12 @@
             17,
             21,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 21时41分]"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -314,6 +315,17 @@
           "time_info": "[02时22分 ~ 07时14分]"
         },
         {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 21时41分]"
+        },
+        {
           "title": "中方代表：日本从没真正认罪悔过",
           "url": "https://www.douyin.com/hot/2373937",
           "source": "抖音",
@@ -321,11 +333,36 @@
             21,
             15,
             2,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 21时41分]"
+        },
+        {
+          "title": "冯德莱恩：欧盟决定永久冻结俄罗斯资产",
+          "url": "https://news.ifeng.com/c/8q4aXVvC1hK",
+          "source": "凤凰网",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时41分]"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时41分]"
         },
         {
           "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
@@ -341,17 +378,6 @@
           "time_info": "[09时05分 ~ 12时39分]"
         },
         {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 20时32分]"
-        },
-        {
           "title": "俄罗斯一地居民挖通积雪才能回家",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8C%96%E9%80%9A%E7%A7%AF%E9%9B%AA%E6%89%8D%E8%83%BD%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -363,17 +389,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 07时14分]"
-        },
-        {
-          "title": "冯德莱恩：欧盟决定永久冻结俄罗斯资产",
-          "url": "https://news.ifeng.com/c/8q4aXVvC1hK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时32分]"
         },
         {
           "title": "瑞典财政大臣：美国“夺岛”关税胁迫荒谬至极，欧洲必须强硬反击",
@@ -388,6 +403,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 05时14分]"
+        },
+        {
+          "title": "联合国会议上，中方痛批日本从未真正认罪悔过",
+          "url": "https://news.ifeng.com/c/8q4ZfIaBfxg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "日本40年期国债收益率自2007年发行以来首次触及4%",
@@ -454,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美国财长贝森特：不要因格陵兰岛事件对美国采取报复行动。",
+          "url": "https://flash.jin10.com/detail/20260120213553482800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "台湾证交所加权股价指数低开0.2%报31,584.34点。",
@@ -528,9 +565,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美国财长贝森特：难以将美国国债走势与日本区分开来。",
+          "url": "https://flash.jin10.com/detail/20260120213544144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "法国总统马克龙：我们正步入一个不稳定和失衡的时期。 美国加征关税不可接受，尤其是在被用作筹码的情况下。 欧洲必须捍卫有效的多边主义。",
+          "url": "https://wallstreetcn.com/livenews/3040502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国财长贝森特：欧洲人应该以开放的心态看待格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260120213540202800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "日本30年期国债收益率上升26.5个基点至3.875%；日本40年期国债收益率上升27个基点至4.215%。",
@@ -566,16 +636,15 @@
           "time_info": "18时20分"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
+          "title": "ADP：截至12月27日四周，美国私营部门就业人数平均每周增加8000人。",
+          "url": "https://wallstreetcn.com/livenews/3040501",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国银行全球基金经理调查：随着全球增长预期大幅上升，全球投资者的乐观情绪已升至2021年7月以来的最高水平。多空指标已升至“极度看多”的9.4水平。",
@@ -611,6 +680,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "市场消息：丹麦养老基金Akademiker Pension将退出美国国债市场。截至12月底，该养老金持有1亿美元的美国国债，该养老金首席投资官表示，美国“基本上不再是一个良好的信用对象”。",
+          "url": "https://flash.jin10.com/detail/20260120213406008800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "日本财务大臣片山皋月：与市场保持密切沟通。 与日本央行也保持着非常好的关系。 有信心能在债券市场提供稳定性。 债券市场形势应会改善。",
           "url": "https://wallstreetcn.com/livenews/3040383",
           "source": "华尔街见闻-快讯",
@@ -620,17 +700,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "联合国会议上，中方痛批日本从未真正认罪悔过",
-          "url": "https://news.ifeng.com/c/8q4ZfIaBfxg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "花旗：日元疲软或导致日本央行在2026年加息三次",
@@ -699,15 +768,15 @@
           "time_info": "19时18分"
         },
         {
-          "title": "加拿大百年来首次模拟美国军事入侵",
-          "url": "https://wallstreetcn.com/livenews/3040466",
-          "source": "华尔街见闻-快讯",
+          "title": "美国天然气期货日内暴涨27.00%，现报3.941美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260120213330630800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时41分"
         },
         {
           "title": "中方代表：日本从来没真正认罪悔过",
@@ -897,6 +966,18 @@
           "time_info": "[19时18分 ~ 20时32分]"
         },
         {
+          "title": "加拿大百年来首次模拟美国军事入侵",
+          "url": "https://wallstreetcn.com/livenews/3040466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时41分]"
+        },
+        {
           "title": "美国数十个城市爆发大规模示威游行",
           "url": "https://www.toutiao.com/trending/7596514107835088922/",
           "source": "今日头条",
@@ -1031,6 +1112,17 @@
           "time_info": "[17时27分 ~ 19时18分]"
         },
         {
+          "title": "欧盟决定永久冻结俄罗斯资产",
+          "url": "https://www.douyin.com/hot/2374373",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时41分]"
+        },
+        {
           "title": "中方代表在联合国当场质问日本",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%BD%93%E5%9C%BA%E8%B4%A8%E9%97%AE%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -1079,6 +1171,18 @@
           "time_info": "[12时39分 ~ 13时23分]"
         },
         {
+          "title": "美国30年期国债收益率跳升10个基点至4.94%；10年期国债收益率攀升7个基点至4.29%，此前日债遭抛售。",
+          "url": "https://wallstreetcn.com/livenews/3040464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时41分]"
+        },
+        {
           "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
           "url": "https://wallstreetcn.com/livenews/3039914",
           "source": "华尔街见闻-快讯",
@@ -1089,6 +1193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "美国合众银行第四季度调整后每股收益为1.26美元，预估1.19美元。 第四季度净利息收入为43.1亿美元，预估42.8亿美元。 美国合众银行盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3040463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。 我们将在达沃斯讨论格陵兰岛问题。 在达沃斯我们安排了很多次会议。 不认为欧盟会在格陵兰岛问题上过度抵制。 不关心诺贝尔和平奖。我关心的是拯救生命。 已经邀请普京加入和平理事会。 达沃斯之行会非常有趣。 20年来北约一直在警告丹麦来自俄罗斯的威胁。",
@@ -1186,17 +1302,6 @@
           "time_info": "[12时39分 ~ 13时23分]"
         },
         {
-          "title": "欧盟决定永久冻结俄罗斯资产",
-          "url": "https://www.douyin.com/hot/2374373",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时32分]"
-        },
-        {
           "title": "日本自卫队员性侵男同僚",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E6%80%A7%E4%BE%B5%E7%94%B7%E5%90%8C%E5%83%9A%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1217,6 +1322,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "英国对俄罗斯总统普京邀请加入美国总统特朗普和平委员会表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260120213328450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国：美国国务卿卢比奥将于2月4日主持召开首次重要矿产部长级会议。",
+          "url": "https://wallstreetcn.com/livenews/3040497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "日本击败韩国晋级U23亚洲杯决赛",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%87%BB%E8%B4%A5%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
@@ -1263,24 +1401,13 @@
           "time_info": "09时06分"
         },
         {
-          "title": "美国30年期国债收益率跳升10个基点至4.94%；10年期国债收益率攀升7个基点至4.29%，此前日债遭抛售。",
-          "url": "https://wallstreetcn.com/livenews/3040464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "为什么“斩杀线”理论让美国破防",
           "url": "https://www.toutiao.com/trending/7597372681050164774/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1307,15 +1434,15 @@
           "time_info": "19时18分"
         },
         {
-          "title": "美国合众银行第四季度调整后每股收益为1.26美元，预估1.19美元。 第四季度净利息收入为43.1亿美元，预估42.8亿美元。 美国合众银行盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3040463",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：总统担心，一旦格陵兰遭到入侵，美国将被要求出兵保卫。",
+          "url": "https://flash.jin10.com/detail/20260120213316020800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时41分"
         },
         {
           "title": "媒体：台万亿军购是把台湾往绝路上推",
@@ -1384,6 +1511,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "美国财长贝森特：美国总统特朗普认为，格陵兰岛对“金色圆顶”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260120213302531800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "提醒：美国财政部长贝森特在达沃斯的讲话结束。",
           "url": "https://wallstreetcn.com/livenews/3040288",
           "source": "华尔街见闻-快讯",
@@ -1401,7 +1539,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1439,6 +1577,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "美国财长贝森特：总统对西半球安全有着强烈看法。",
+          "url": "https://flash.jin10.com/detail/20260120213219672800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "台湾证交所加权股价指数收涨0.4%报31,759.99点。",
           "url": "https://wallstreetcn.com/livenews/3040168",
           "source": "华尔街见闻-快讯",
@@ -1448,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "日本债券市场突现特拉斯时刻 市场人士形容遭遇“近年最混乱交易日”",
+          "url": "https://wallstreetcn.com/livenews/3040491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京已被邀请加入和平委员会。",
@@ -1481,6 +1641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "U23亚洲杯日本1:0韩国",
+          "url": "https://www.douyin.com/hot/2374386",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "基辅市长表示，俄罗斯的袭击导致基辅有5635栋高层公寓楼停暖。",
@@ -1522,7 +1693,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1547,6 +1718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "阿联酋总统接受美国发出的加入和平委员会的邀请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3040489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "丹麦国防部长：丹麦和格陵兰岛坚持与美国开展对话。",
@@ -1681,6 +1863,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "名嘴：大陆无人机巡东沙台军不敢开枪",
+          "url": "https://www.toutiao.com/trending/7597262051715055635/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "俄新社：俄罗斯方面表示，扎波罗热核电站已通过一条线路恢复供电。",
           "url": "https://flash.jin10.com/detail/20260120003039485800",
           "source": "金十数据",
@@ -1712,6 +1905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "法国总统马克龙：欧洲竞争力仍落后于美国。",
+          "url": "https://flash.jin10.com/detail/20260120212427011800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "法国计划周三召集G7会议，讨论美国关税威胁",
@@ -1775,7 +1979,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1822,6 +2026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国天然气期货价格飙升23%，因天气预报显示气温将下降。",
+          "url": "https://wallstreetcn.com/livenews/3040480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -1885,7 +2100,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1907,7 +2122,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1918,7 +2133,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -2132,6 +2347,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "法国总统马克龙：美国关税不可接受，尤其是在被用作筹码的情况下。",
+          "url": "https://flash.jin10.com/detail/20260120211756688800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "法国：美国总统的葡萄酒关税威胁不可接受",
           "url": "https://wallstreetcn.com/livenews/3040409",
           "source": "华尔街见闻-快讯",
@@ -2176,6 +2402,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "法国总统马克龙：与美国的竞争旨在使欧洲屈从，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260120211751800800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "日本20年期国债收益率上行4BP至3.295%。",
           "url": "https://wallstreetcn.com/livenews/3039977",
           "source": "华尔街见闻-快讯",
@@ -2207,6 +2444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "市场消息：两名高级官员表示，刚果民主共和国已向华盛顿提交一份国有采矿资产的候选名单，以推进矿产伙伴关系。官员表示，刚果入围美国投资者名单的项目包括基森格锰矿和金矿、穆托希铜钴矿、科米涅锂矿、索基莫金矿开采许可证以及萨基马钶钽矿。",
+          "url": "https://flash.jin10.com/detail/20260120211731323800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "ADP：2025年最后一周美国招聘出现温和放缓。",
+          "url": "https://flash.jin10.com/detail/20260120211712456800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "根据俄罗斯财政部数据测算得出，俄12月预算开支同比锐减19%，全年增长7%——之前一年增长24%。 2025年预算赤字5.6万亿卢布。（彭博）",
@@ -2242,6 +2501,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "美国为何在此时成立“和平委员会”",
+          "url": "https://www.toutiao.com/trending/7597396950022884890/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "佩斯科夫：俄总统特别代表计划在达沃斯与美国代表会面",
           "url": "https://wallstreetcn.com/livenews/3040399",
           "source": "华尔街见闻-快讯",
@@ -2262,6 +2532,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "加拿大百年来首次模拟美国军事入侵",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%99%BE%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%A8%A1%E6%8B%9F%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%85%A5%E4%BE%B5",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "U23亚洲杯日本vs韩国",
+          "url": "https://s.weibo.com/weibo?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%97%A5%E6%9C%ACvs%E9%9F%A9%E5%9B%BD&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：我已同意在瑞士达沃斯举行多方会议。",
