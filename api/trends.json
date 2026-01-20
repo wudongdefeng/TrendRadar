@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T17:27:34.641672+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-01-20T18:20:36.194193+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 152,
+      "match_count": 166,
       "titles": [
         {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
@@ -116,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "中国无意与美国搞“中美共治”",
@@ -181,11 +181,12 @@
             9,
             12,
             10,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 17时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -390,9 +391,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "英国央行副行长拉姆斯登：今年迄今，英国央行的核心市场——英国国债、美国国债和欧元区债券的波动性几乎没有迹象，日本债券则是个例外。",
+          "url": "https://flash.jin10.com/detail/20260120181555498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "台湾证交所加权股价指数低开0.2%报31,584.34点。",
@@ -415,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：恐怕不可能与目前的欧洲领导人达成一致。",
+          "url": "https://wallstreetcn.com/livenews/3040388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "日本可能又要换首相了",
@@ -472,6 +495,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "美国众议院议长约翰逊：“美国优先”绝不意味着“美国孤立”。 美国无意独自行动。",
+          "url": "https://wallstreetcn.com/livenews/3040384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国银行全球基金经理调查：随着全球增长预期大幅上升，全球投资者的乐观情绪已升至2021年7月以来的最高水平。多空指标已升至“极度看多”的9.4水平。",
           "url": "https://flash.jin10.com/detail/20260120151925117800",
           "source": "金十数据",
@@ -489,9 +523,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与市场保持密切沟通。 与日本央行也保持着非常好的关系。 有信心能在债券市场提供稳定性。 债券市场形势应会改善。",
+          "url": "https://wallstreetcn.com/livenews/3040383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "花旗：日元疲软或导致日本央行在2026年加息三次",
@@ -533,20 +578,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
         {
-          "title": "美国黄金股盘前普涨，哈莫尼黄金上涨5.8%，黄金原野上涨5%，巴里克矿业上涨3.9%，纽蒙特股价上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3040348",
-          "source": "华尔街见闻-快讯",
+          "title": "韩元在有关美国投资延迟的报告发布后收复部分失地。",
+          "url": "https://flash.jin10.com/detail/20260120181432932800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "18时20分"
         },
         {
           "title": "中方代表：日本从来没真正认罪悔过",
@@ -561,6 +606,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时39分 ~ 15时23分]"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时20分]"
+        },
+        {
+          "title": "中方代表：日本从没真正认罪悔过",
+          "url": "https://www.douyin.com/hot/2373937",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时20分]"
         },
         {
           "title": "委内瑞拉“反对派”人士Machado：希望委内瑞拉成为美国“最坚定的”盟友。",
@@ -712,6 +781,18 @@
           "time_info": "[16时22分 ~ 17时27分]"
         },
         {
+          "title": "美国黄金股盘前普涨，哈莫尼黄金上涨5.8%，黄金原野上涨5%，巴里克矿业上涨3.9%，纽蒙特股价上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3040348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
+        },
+        {
           "title": "美国数十个城市爆发大规模示威游行",
           "url": "https://www.toutiao.com/trending/7596514107835088922/",
           "source": "今日头条",
@@ -721,17 +802,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 15时23分]"
-        },
-        {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时27分]"
         },
         {
           "title": "美国女子发帖吐槽白宫发言人引来特工",
@@ -805,6 +875,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "美国特工破门误抓一老挝裔美公民",
+          "url": "https://www.toutiao.com/trending/7597320741830410294/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时20分]"
         },
         {
           "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
@@ -925,30 +1008,6 @@
           "time_info": "[13时23分 ~ 14时25分]"
         },
         {
-          "title": "美国特工破门误抓一老挝裔美公民",
-          "url": "https://www.toutiao.com/trending/7597320741830410294/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时27分]"
-        },
-        {
-          "title": "中方代表：日本从没真正认罪悔过",
-          "url": "https://www.douyin.com/hot/2373937",
-          "source": "抖音",
-          "ranks": [
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时27分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：在达沃斯，我会见了美国国会的两党代表团。我们讨论了为在乌克兰实现公正持久和平所做的共同努力。",
           "url": "https://flash.jin10.com/detail/20260120034124185800",
           "source": "金十数据",
@@ -984,6 +1043,18 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "美国为何成立和平委员会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%88%90%E7%AB%8B%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
+        },
+        {
           "title": "中方：防止日本再走军国主义老路邪路",
           "url": "https://www.toutiao.com/trending/7597184901091229702/",
           "source": "今日头条",
@@ -993,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
@@ -1012,9 +1094,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯对北约与日本在俄罗斯边境附近的联合活动表示关切。",
+          "url": "https://flash.jin10.com/detail/20260120181414650800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国天然气期货上涨超15%。",
@@ -1188,7 +1281,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1210,7 +1303,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1243,9 +1336,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "联合国人权事务负责人：对俄罗斯一再对乌克兰能源基础设施发动大规模袭击深感愤慨。",
+          "url": "https://flash.jin10.com/detail/20260120180939146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
@@ -1257,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯没有夺取格陵兰岛的计划。 美国知道俄罗斯对格陵兰岛没有计划。",
+          "url": "https://wallstreetcn.com/livenews/3040370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -1298,7 +1413,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1397,7 +1512,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1457,6 +1572,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "如果美国真的拿下了加拿大、巴拿马运河和格陵兰岛，实力大增，是不是再也无法撼动美国世界霸主地位了？",
+          "url": "https://www.zhihu.com/question/9131960101",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "市场预期日本央行将维持利率不变，交易员聚焦外汇干预风险",
           "url": "https://flash.jin10.com/detail/20260120080133396800",
           "source": "金十数据",
@@ -1490,13 +1616,24 @@
           "time_info": "16时22分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯不太可能与当今欧洲的领导人达成协议。",
+          "url": "https://flash.jin10.com/detail/20260120180455992800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "日本财务大臣：计划投入超过3300亿美元用于人工智能和芯片领域",
           "url": "https://wallstreetcn.com/livenews/3040320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1556,6 +1693,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "俄外长：俄罗斯将继续寻求通过外交途径解决乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3040363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "10年期美国国债收益率升至4.259%，为去年9月初以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260120075232751800",
           "source": "金十数据",
@@ -1587,6 +1735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：美国无意孤军奋战。",
+          "url": "https://flash.jin10.com/detail/20260120180309614800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国30年期国债收益率上行3.8BP至4.879%，创去年9月初以来新高。",
@@ -1633,6 +1792,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "日本财务大臣片山皋月：我们有信心为债券市场提供稳定性。",
+          "url": "https://flash.jin10.com/detail/20260120180148631800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
           "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
@@ -1664,17 +1834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "美国为何成立和平委员会",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%88%90%E7%AB%8B%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "乌克兰能源部长：已向国际原子能机构负责人通报，俄罗斯正准备对保障核电站运行的能源设施发动袭击。",
