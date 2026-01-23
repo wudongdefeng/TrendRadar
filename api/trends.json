@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T12:37:13.048059+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-01-23T13:23:12.414834+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 259,
+      "match_count": 269,
       "titles": [
         {
           "title": "中方重申：日本根本没有资格“入常”",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 11时28分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时23分]"
         },
         {
           "title": "格陵兰“框架协议”流出：丹麦出让“格陵兰小块土地”主权，美国将建军事基地",
@@ -113,17 +124,6 @@
           "time_info": "[00时24分 ~ 09时07分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 12时37分]"
-        },
-        {
           "title": "美国正式退出世卫组织",
           "url": "https://www.douyin.com/hot/2375680",
           "source": "抖音",
@@ -151,8 +151,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 13时23分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -177,11 +177,12 @@
             30,
             21,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 13时23分]"
         },
         {
           "title": "格陵兰岛蛋糕印美国国旗，美国政客聚会持刀瓜分",
@@ -206,8 +207,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 13时23分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时24分]"
+        },
+        {
+          "title": "日本众议院正式解散",
+          "url": "https://www.douyin.com/hot/2376945",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "俄媒：中国应对美国威胁迎来新机遇",
@@ -247,6 +259,46 @@
           "time_info": "[09时07分 ~ 11时28分]"
         },
         {
+          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
+          "url": "https://wallstreetcn.com/articles/3763953",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时23分]"
+        },
+        {
+          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
+          "url": "https://www.cls.cn/detail/2267117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时23分]"
+        },
+        {
           "title": "日本众议院已正式解散",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%A7%A3%E6%95%A3",
           "source": "bilibili 热搜",
@@ -259,14 +311,15 @@
         },
         {
           "title": "日本众议院正式解散",
-          "url": "https://www.douyin.com/hot/2376945",
-          "source": "抖音",
+          "url": "https://www.toutiao.com/trending/7598110606285213238/",
+          "source": "今日头条",
           "ranks": [
-            5
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "市场消息：美国众议院在共和党克服内部分歧后，推进了包含美国移民和海关执法局资金在内的1.2万亿美元方案。",
@@ -278,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "日本众议院正式解散",
-          "url": "https://flash.jin10.com/detail/20260123120521419800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -322,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "日本众议院正式解散",
-          "url": "https://wallstreetcn.com/livenews/3042559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -419,15 +450,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "中联部副部长陆慷会见美国“哈佛中国行”代表团",
-          "url": "https://wallstreetcn.com/livenews/3042557",
+          "title": "日本40年期国债收益率下跌5.5个基点至3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3042583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "13时23分"
         },
         {
           "title": "美国至1月16日当周EIA战略石油储备库存 80.6万桶，前值21.4万桶。",
@@ -450,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "据英国金融时报：英国金融科技公司Revolut放弃美国并购计划，转而寻求独立牌照。",
+          "url": "https://flash.jin10.com/detail/20260123130400943800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国银行、花旗集团考虑执行10%这一新版信用卡利率。",
@@ -494,17 +536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "泰国2025年出口同比增长12.9%，进口增长12.9%。 泰国2025年12月对美国出口同比增长54%。",
-          "url": "https://wallstreetcn.com/livenews/3042553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "美国1月堪萨斯联储制造业产出指数 -2，前值-3。",
@@ -562,44 +593,6 @@
           "time_info": "06时16分"
         },
         {
-          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
-          "url": "https://wallstreetcn.com/articles/3763953",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 12时37分]"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 12时37分]"
-        },
-        {
-          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
-          "url": "https://www.cls.cn/detail/2267117",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 12时37分]"
-        },
-        {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
           "url": "https://wallstreetcn.com/livenews/3042270",
           "source": "华尔街见闻-快讯",
@@ -611,6 +604,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时16分]"
+        },
+        {
+          "title": "日本众议院正式解散",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%AD%A3%E5%BC%8F%E8%A7%A3%E6%95%A3",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
@@ -650,6 +654,30 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "日本众议院正式解散",
+          "url": "https://flash.jin10.com/detail/20260123120521419800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
+        },
+        {
+          "title": "日本众议院正式解散",
+          "url": "https://wallstreetcn.com/livenews/3042559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
+        },
+        {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率1.940%（11月20日为1.843%），投标倍数2.38（前次为2.41）。",
           "url": "https://wallstreetcn.com/livenews/3042249",
           "source": "华尔街见闻-快讯",
@@ -685,6 +713,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时37分]"
+        },
+        {
+          "title": "中联部副部长陆慷会见美国“哈佛中国行”代表团",
+          "url": "https://wallstreetcn.com/livenews/3042557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
         },
         {
           "title": "北欧养老金负责人：由于债务担忧和地缘政治因素，持有美国资产的风险溢价已上升。",
@@ -771,6 +811,18 @@
           "time_info": "[11时28分 ~ 12时37分]"
         },
         {
+          "title": "泰国2025年出口同比增长12.9%，进口增长12.9%。 泰国2025年12月对美国出口同比增长54%。",
+          "url": "https://wallstreetcn.com/livenews/3042553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
+        },
+        {
           "title": "美国方面称已完成退出世界卫生组织的程序。",
           "url": "https://flash.jin10.com/detail/20260123060222322800",
           "source": "金十数据",
@@ -819,6 +871,17 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
+          "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
+          "url": "https://wallstreetcn.com/articles/3763970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
+        },
+        {
           "title": "俄罗斯超级暴雪是怎么形成的",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%9B%AA%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84",
           "source": "bilibili 热搜",
@@ -829,6 +892,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 04时19分]"
+        },
+        {
+          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
+        },
+        {
+          "title": "流浪在美国的中国女子",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "美国批量“退群”图什么",
@@ -859,17 +946,6 @@
           "source": "抖音",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "日本众议院正式解散",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%AD%A3%E5%BC%8F%E8%A7%A3%E6%95%A3",
-          "source": "百度热搜",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1020,17 +1096,6 @@
           "time_info": "[11时28分 ~ 12时37分]"
         },
         {
-          "title": "日本众议院正式解散",
-          "url": "https://www.toutiao.com/trending/7598110606285213238/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
           "title": "美国1月16日当周EIA原油库存变动 360.2万桶，预期 -10.8万桶，前值 339.1万桶。",
           "url": "https://wallstreetcn.com/livenews/3042220",
           "source": "华尔街见闻-快讯",
@@ -1067,15 +1132,15 @@
           "time_info": "[11时28分 ~ 12时37分]"
         },
         {
-          "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
-          "url": "https://wallstreetcn.com/articles/3763970",
-          "source": "华尔街见闻",
+          "title": "美国拖欠会费联合国有没有办法应对",
+          "url": "https://www.toutiao.com/trending/7598370272940412462/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "日本众议院正式解散",
@@ -1161,17 +1226,6 @@
           "time_info": "[03时20分 ~ 04时19分]"
         },
         {
-          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
           "title": "美国北达科他州石油产量因严寒天气而减产11万-14万桶/日。",
           "url": "https://wallstreetcn.com/livenews/3042254",
           "source": "华尔街见闻-快讯",
@@ -1196,15 +1250,26 @@
           "time_info": "[03时20分 ~ 04时19分]"
         },
         {
-          "title": "流浪在美国的中国女子",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "美国批量“退群”图什么",
+          "url": "https://www.toutiao.com/trending/7598203075370683913/",
+          "source": "今日头条",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "日本公布新一代远程打击武器",
+          "url": "https://www.toutiao.com/trending/7598063085684788763/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "美国1月堪萨斯联储制造业综合指数 0，预期4，前值由1修正为0。",
@@ -1257,7 +1322,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -1400,7 +1465,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -1675,9 +1740,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "汇丰：日本央行行长植田和男的立场或将倾向鹰派",
+          "url": "https://flash.jin10.com/detail/20260123125825821800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "德银：日本央行须释放进一步收紧信号以安抚市场",
@@ -1774,7 +1850,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -1862,7 +1938,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -2043,6 +2119,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "据日本读卖新闻：日本汽车制造商将推出汽车半导体信息共享系统。",
+          "url": "https://flash.jin10.com/detail/20260123124819057800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "美国商务部长卢特尼克声称：所谓的美国墨西哥加拿大贸易协议（USMCA）的重新谈判可能会在今年“夏末或夏中”前后进行。",
           "url": "https://wallstreetcn.com/livenews/3042175",
           "source": "华尔街见闻-快讯",
@@ -2131,6 +2218,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "日本2年期国债收益率上涨2.5个基点，至1.240%。",
+          "url": "https://flash.jin10.com/detail/20260123124701893800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
           "url": "https://wallstreetcn.com/livenews/3042173",
           "source": "华尔街见闻-快讯",
@@ -2203,9 +2301,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "策略师：日本央行维持利率不变后 日元或将持续疲软",
+          "url": "https://flash.jin10.com/detail/20260123124422984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "芬兰总理：必须承认，我们与美国的关系已经发生变化。 欧洲必须团结一致，必要时利用那些贸易工具（来打击报复美国总统特朗普）。 美国仍然是欧洲最重要的盟友。",
@@ -2285,6 +2394,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "“抛售美国”势头强劲 新兴市场股票和黄金飙升",
+          "url": "https://flash.jin10.com/detail/20260123123658993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "特朗普：美国将申办2035年世博会",
           "url": "https://wallstreetcn.com/livenews/3042278",
           "source": "华尔街见闻-快讯",
@@ -2357,7 +2477,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -2610,7 +2730,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
