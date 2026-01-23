@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:19:35.107936+08:00",
-  "total_titles_processed": 2138,
+  "generated_at": "2026-01-23T23:19:07.124139+08:00",
+  "total_titles_processed": 2247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 391,
+      "match_count": 421,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -70,6 +70,37 @@
           "time_info": "[00时24分 ~ 11时28分]"
         },
         {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            5,
+            6,
+            16,
+            25,
+            29,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 23时19分]"
+        },
+        {
+          "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
+          "url": "https://news.ifeng.com/c/8q9QZP2fRDr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
+        },
+        {
           "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
           "url": "https://wallstreetcn.com/articles/3763953",
           "source": "华尔街见闻",
@@ -81,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时07分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时07分 ~ 23时19分]"
         },
         {
           "title": "日本众议院正式解散",
@@ -130,22 +161,19 @@
           "time_info": "[12时36分 ~ 21时38分]"
         },
         {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "中方回应美国调重兵前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2,
-            5,
-            6,
-            16,
-            25,
-            29,
-            30
+            1,
+            4,
+            13,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时20分 ~ 22时19分]"
+          "time_info": "[16时21分 ~ 23时19分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -186,8 +214,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[12时36分 ~ 23时19分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -248,8 +276,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时24分 ~ 22时19分]"
+          "appearance_count": 30,
+          "time_info": "[00时24分 ~ 23时19分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -307,31 +335,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时24分 ~ 15时21分]"
-        },
-        {
-          "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
-          "url": "https://news.ifeng.com/c/8q9QZP2fRDr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时19分]"
-        },
-        {
-          "title": "中方回应美国调重兵前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 22时19分]"
         },
         {
           "title": "日本众议院正式解散",
@@ -398,6 +401,17 @@
           "time_info": "[09时07分 ~ 11时28分]"
         },
         {
+          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
+          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
           "url": "https://www.cls.cn/detail/2267060",
           "source": "财联社热门",
@@ -453,11 +467,12 @@
           "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F+%E8%BD%AC%E6%92%AD%E8%AE%A1%E5%88%92%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时19分]"
         },
         {
           "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
@@ -514,7 +529,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -679,9 +694,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "金十提示：由于世界大型企业联合会发生临时网络中断，美国领先经济指标推迟发布。该指数将在网络连接恢复后立即公布。",
+          "url": "https://flash.jin10.com/detail/20260123231151920800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "日本内阁通过众议院解散决议",
@@ -704,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "美国北达科他州：11月石油产量118.9104万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3043029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国至1月16日当周EIA战略石油储备库存 80.6万桶，前值21.4万桶。",
@@ -767,9 +804,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "从解散众议院到投票仅隔16天，日本创战后最短纪录",
+          "url": "https://wallstreetcn.com/livenews/3043028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "扎哈罗娃：任何人都不能这样评论俄罗斯",
+          "url": "https://news.ifeng.com/c/8q9ZmmSWmjC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "美国至1月16日当周EIA精炼厂设备利用率 93.3%，预期94.5%，前值95.3%。",
@@ -822,7 +881,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -849,6 +908,19 @@
           "time_info": "14时23分"
         },
         {
+          "title": "与日本决赛在即 中领馆提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时19分]"
+        },
+        {
           "title": "美国十几个州宣布进入紧急状态",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B7%9E%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -861,15 +933,16 @@
           "time_info": "[16时21分 ~ 18时18分]"
         },
         {
-          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
-          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
-          "source": "凤凰网",
+          "title": "央视转播U23国足与日本比赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BD%AC%E6%92%ADU23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "美国1月堪萨斯联储制造业产出指数 -2，前值-3。",
@@ -966,7 +1039,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1337,15 +1410,16 @@
           "time_info": "[14时23分 ~ 16时21分]"
         },
         {
-          "title": "扎哈罗娃：任何人都不能这样评论俄罗斯",
-          "url": "https://news.ifeng.com/c/8q9ZmmSWmjC",
-          "source": "凤凰网",
+          "title": "日本“闪电”大选：政客寒风中求关注",
+          "url": "https://www.toutiao.com/trending/7598538203410222618/",
+          "source": "今日头条",
           "ranks": [
+            19,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "欧盟外长就美国启动和平委员会表态",
@@ -1372,6 +1446,17 @@
           "time_info": "[15时20分 ~ 17时23分]"
         },
         {
+          "title": "美国十几个州宣布进入紧急状态",
+          "url": "https://www.cls.cn/detail/2268133",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
           "title": "老鼠干火到美国了",
           "url": "https://s.weibo.com/weibo?q=%E8%80%81%E9%BC%A0%E5%B9%B2%E7%81%AB%E5%88%B0%E7%BE%8E%E5%9B%BD%E4%BA%86&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1383,6 +1468,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时15分 ~ 21时38分]"
+        },
+        {
+          "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
+          "url": "https://www.zhihu.com/question/1997699067581588527",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时19分]"
         },
         {
           "title": "美国批量“退群”图什么",
@@ -1740,18 +1837,6 @@
           "time_info": "[11时28分 ~ 12时37分]"
         },
         {
-          "title": "与日本决赛在即 中领馆提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
-        },
-        {
           "title": "牢A称没见过美国底层成功逆袭",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E7%A7%B0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E6%88%90%E5%8A%9F%E9%80%86%E8%A2%AD%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1824,6 +1909,28 @@
           "time_info": "[03时20分 ~ 04时19分]"
         },
         {
+          "title": "美国超1400架次航班被取消",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B6%851400%E6%9E%B6%E6%AC%A1%E8%88%AA%E7%8F%AD%E8%A2%AB%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "俄罗斯一航班在我上空遇紧急状态降落兰州，原因公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32449650",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
           "title": "美国批量“退群”图什么",
           "url": "https://www.toutiao.com/trending/7598203075370683913/",
           "source": "今日头条",
@@ -1833,6 +1940,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "记者：美国想以退为进拿下格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7598533567504715306/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "日本公布新一代远程打击武器",
@@ -1918,9 +2036,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "意大利总理梅洛尼：我们与美国合作的意愿依然坚定。",
+          "url": "https://flash.jin10.com/detail/20260123230808400800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -1954,6 +2083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数终值56.4，创五个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3043024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "日本众议院解散，外交部回应",
@@ -2044,6 +2184,17 @@
           "time_info": "20时31分"
         },
         {
+          "title": "美国国务卿鲁比奥与哥伦比亚外长讨论了即将举行的总统级双边会谈。",
+          "url": "https://flash.jin10.com/detail/20260123230355608800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国铝业CEO：本公司总体关税开销10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3042356",
           "source": "华尔街见闻-快讯",
@@ -2132,6 +2283,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "美国11月谘商会数据暂未公布。",
+          "url": "https://flash.jin10.com/detail/20260123230315120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产下海至7.70万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3042295",
           "source": "华尔街见闻-快讯",
@@ -2149,9 +2311,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数终值 56.4，预期 54，初值 54。",
+          "url": "https://wallstreetcn.com/livenews/3043022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国至1月16日当周EIA成品油进口 -39.7万桶/日，前值4.1万桶/日。",
@@ -2215,7 +2388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2231,6 +2404,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "美国1月密歇根大学消费者预期指数终值 57，预期 55，初值 55。",
+          "url": "https://wallstreetcn.com/livenews/3043021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国“斩杀线”究竟“斩杀”了谁",
           "url": "https://www.toutiao.com/trending/7598202268298513939/",
           "source": "今日头条",
@@ -2240,17 +2424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
-        },
-        {
-          "title": "央视转播U23国足与日本比赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BD%AC%E6%92%ADU23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "美国至1月16日当周EIA原油进口 -2.7万桶，前值71万桶。",
@@ -2358,9 +2531,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "美国1月五至十年期通胀率预期终值 3.3%，预期3.4%，前值3.40%。",
+          "url": "https://flash.jin10.com/detail/20260123230002768800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国1月16日当周EIA精炼厂设备利用率变化 -2%，预期 -0.65%，前值 0.6%。",
@@ -2396,15 +2580,15 @@
           "time_info": "18时18分"
         },
         {
-          "title": "美国十几个州宣布进入紧急状态",
-          "url": "https://www.cls.cn/detail/2268133",
-          "source": "财联社热门",
+          "title": "美国1月密歇根大学5年通胀预期终值 3.3，预期 3.4，初值 3.4。",
+          "url": "https://wallstreetcn.com/livenews/3043019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时19分"
         },
         {
           "title": "美国至1月16日当周EIA取暖油库存 27.9万桶，前值-74.5万桶。",
@@ -2512,9 +2696,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "美国1月一年期通胀率预期终值 4%，预期4.2%，前值4.20%。",
+          "url": "https://flash.jin10.com/detail/20260123230002725800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国1月16日当周EIA精炼油库存变动 334.8万桶，预期 0万桶，前值 -2.9万桶。",
@@ -2537,6 +2732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者现况指数终值 55.4，预期 52.3，初值 52.4。",
+          "url": "https://wallstreetcn.com/livenews/3043020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国至1月16日当周EIA俄克拉荷马州库欣原油库存 147.8万桶，前值74.5万桶。",
@@ -2627,6 +2833,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "美国1月密歇根大学预期指数终值 57，前值55。",
+          "url": "https://flash.jin10.com/detail/20260123230002692800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "德银：日本央行须释放进一步收紧信号以安抚市场",
           "url": "https://wallstreetcn.com/livenews/3042289",
           "source": "华尔街见闻-快讯",
@@ -2658,6 +2875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美国1月密歇根大学1年通胀预期终值 4，预期 4.2，初值 4.2。",
+          "url": "https://wallstreetcn.com/livenews/3043018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国至1月16日当周EIA汽油产量 -24.6万桶/日，前值2.9万桶/日。",
@@ -2746,6 +2974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "美国1月密歇根大学现况指数终值 55.4，前值52.4。",
+          "url": "https://flash.jin10.com/detail/20260123230002546800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存减少1200亿立方英尺，周环比降幅3.77%（之前一周下降2.18%），至3.07万亿立方英尺。",
@@ -2864,9 +3103,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数终值 56.4，预期54，前值54。",
+          "url": "https://flash.jin10.com/detail/20260123230002524800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国1月16日当周EIA天然气库存变动 -1200亿立方英尺，预期 -950亿立方英尺，前值 -710亿立方英尺。",
@@ -3166,6 +3416,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美国1月标普全球制造业PMI就业分项指数初值下降至51.1，创7月份以来新低，但仍连续六个月扩张。",
+          "url": "https://wallstreetcn.com/livenews/3043014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯和乌克兰都应做出妥协。",
           "url": "https://flash.jin10.com/detail/20260122235721849800",
           "source": "金十数据",
@@ -3298,6 +3559,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "标普全球市场财智（S&P Global Market Intelligence）首席商业经济学家克里斯·威廉姆森（Chris Williamson）：美国制造业和服务业的新业务增长率均处于令人担忧的低迷水平，这进一步表明第一季度的增长可能会令人失望。 与此同时，就业增长已经令人失望，1月份上报的工资单人数再次近乎停滞，因为企业担心在充满不确定性、需求疲软和高成本的环境下增加更多员工。",
+          "url": "https://wallstreetcn.com/livenews/3043012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国总统特朗普：杰米·戴蒙让我失去了银行账户。",
           "url": "https://flash.jin10.com/detail/20260123055540534800",
           "source": "金十数据",
@@ -3419,17 +3691,6 @@
           "time_info": "20时31分"
         },
         {
-          "title": "日本“闪电”大选：政客寒风中求关注",
-          "url": "https://www.toutiao.com/trending/7598538203410222618/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "“和平委员会”标志被指和联合国相似，但主打金色、聚焦美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_32447553",
           "source": "澎湃新闻",
@@ -3458,7 +3719,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -3551,6 +3812,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "美国年初经济持续保持增长态势，但速度已放缓",
+          "url": "https://flash.jin10.com/detail/20260123225418467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "特朗普：美国将申办2035年世博会",
           "url": "https://wallstreetcn.com/livenews/3042278",
           "source": "华尔街见闻-快讯",
@@ -3573,15 +3845,15 @@
           "time_info": "14时23分"
         },
         {
-          "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
-          "url": "https://www.zhihu.com/question/1997699067581588527",
-          "source": "知乎",
+          "title": "美国1月标普全球制造业PMI初值 51.9，预期 52，前值 51.8。",
+          "url": "https://wallstreetcn.com/livenews/3043010",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "23时19分"
         },
         {
           "title": "荷兰首相斯胡夫：坚信若就对乌克兰的安全保障达成一致，美国将予以落实。",
@@ -3672,6 +3944,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "美国11月谘商会领先指标月率、1月密歇根大学消费者信心指数终值及一年期通胀率预期终值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260123225000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国经济分析局：10月价格由9月至11月CPI的几何平均值推算得出。",
           "url": "https://wallstreetcn.com/livenews/3042170",
           "source": "华尔街见闻-快讯",
@@ -3725,6 +4008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "美国1月标普全球服务业PMI初值 52.5，预期 52.9，前值 52.5。",
+          "url": "https://wallstreetcn.com/livenews/3043009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "台湾网友高喊：下架民进党",
@@ -3826,6 +4120,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "美国1月标普全球综合PMI初值 52.8，预期 53，前值 52.7。",
+          "url": "https://wallstreetcn.com/livenews/3043008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "马斯克：今年年底前，美国境内的机器人出租车服务将非常、非常普及。",
           "url": "https://flash.jin10.com/detail/20260122235416206800",
           "source": "金十数据",
@@ -3879,6 +4184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美国1月标普全球服务业PMI初值 52.5，预期52.8，前值52.5。",
+          "url": "https://flash.jin10.com/detail/20260123224502384800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "克里姆林宫称，俄罗斯总统普京与美国特使的会谈结束。",
@@ -3967,6 +4283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "美国1月标普全球综合PMI初值 52.8，预期53，前值52.7。",
+          "url": "https://flash.jin10.com/detail/20260123224502383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.86。 拍卖八周期国债，得标利率3.630%，投标倍数2.84。",
@@ -4066,6 +4393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "美国1月标普全球制造业PMI初值 51.9，预期52，前值51.8。",
+          "url": "https://flash.jin10.com/detail/20260123224502140800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "日本央行利率决议看点",
