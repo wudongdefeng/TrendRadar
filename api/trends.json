@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-26T07:14:48.180091+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-01-26T09:12:33.334130+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
-          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
         {
           "title": "美国首次召集西半球 34 国军方高级官员举行会议，有何深层目的？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1998480988972475564",
@@ -29,8 +18,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 09时12分]"
+        },
+        {
+          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
+          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
         },
         {
           "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "明州发生第二起“ICE枪杀案”，美国政府月底关门风险“陡增”",
+          "url": "https://wallstreetcn.com/articles/3764091",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
         },
         {
           "title": "美国财长贝森特：特朗普很看重北约。",
@@ -74,15 +86,54 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "明州发生第二起“ICE枪杀案”，美国政府月底关门风险“陡增”",
-          "url": "https://wallstreetcn.com/articles/3764091",
-          "source": "华尔街见闻",
+          "title": "美国大乱,ICE再次枪杀白人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349641&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%B9%B1%2CICE%E5%86%8D%E6%AC%A1%E6%9E%AA%E6%9D%80%E7%99%BD%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            6
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "日本极端催生:不生娃就切子宫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "正视差距!国足0比4日本摘亚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "拒绝卡脖子,美国实现袜子本土造",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349624&amp;topic_name=%E6%8B%92%E7%BB%9D%E5%8D%A1%E8%84%96%E5%AD%90%2C%E7%BE%8E%E5%9B%BD%E5%AE%9E%E7%8E%B0%E8%A2%9C%E5%AD%90%E6%9C%AC%E5%9C%9F%E9%80%A0",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时12分]"
         },
         {
           "title": "受冬季风暴影响，美国超60万用户停电",
@@ -112,16 +163,20 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "美国大乱,ICE再次枪杀白人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349641&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%B9%B1%2CICE%E5%86%8D%E6%AC%A1%E6%9E%AA%E6%9D%80%E7%99%BD%E4%BA%BA",
-          "source": "贴吧",
+          "title": "美国特大冬季风暴来袭，多州进入紧急状态，上万架次航班被取消，中领馆发布提醒，情况如何？居民应如何应对？",
+          "url": "https://www.zhihu.com/question/1998308430738392576",
+          "source": "知乎",
           "ranks": [
-            10,
-            7
+            12,
+            11,
+            6,
+            8,
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "time_info": "[01时12分 ~ 09时12分]"
         },
         {
           "title": "受冬季风暴影响 美国超60万用户停电",
@@ -178,56 +233,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "日本极端催生:不生娃就切子宫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "正视差距!国足0比4日本摘亚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "拒绝卡脖子,美国实现袜子本土造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349624&amp;topic_name=%E6%8B%92%E7%BB%9D%E5%8D%A1%E8%84%96%E5%AD%90%2C%E7%BE%8E%E5%9B%BD%E5%AE%9E%E7%8E%B0%E8%A2%9C%E5%AD%90%E6%9C%AC%E5%9C%9F%E9%80%A0",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "美国特大冬季风暴来袭，多州进入紧急状态，上万架次航班被取消，中领馆发布提醒，情况如何？居民应如何应对？",
-          "url": "https://www.zhihu.com/question/1998308430738392576",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时14分]"
-        },
-        {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
@@ -276,6 +281,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "日本30年期国债收益率下跌3.5个基点，至3.605%。",
+          "url": "https://flash.jin10.com/detail/20260126090104323800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.1%报32,002.56点。",
+          "url": "https://wallstreetcn.com/livenews/3043517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "据PowerOutage.us网站统计，截至东部时间上午7:22，美国全境报告的停电户数已达523,067户。",
@@ -529,7 +556,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -545,13 +572,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "明尼苏达州再发移民执法枪击事件，美国政府“部分关门”风险陡增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32460744",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "市场消息：摩根士丹利准备进军日本现货电力交易市场。",
           "url": "https://flash.jin10.com/detail/20260126063240971800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -562,9 +600,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "日本5年期国债收益率下行2.5BP至1.665%。",
+          "url": "https://wallstreetcn.com/livenews/3043502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "今天，美国航空公司共取消了近12000个航班，超过20个机场完全关闭。",
@@ -573,7 +622,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -584,7 +633,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -600,6 +649,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有2000亿元1年期中期借贷便利（MLF）和1583亿元7天期逆回购到期；美国11月耐用品订单月率。",
+          "url": "https://flash.jin10.com/detail/20260126082412384800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "台湾民众说我们是台湾人也是中国人",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E8%AF%B4%E6%88%91%E4%BB%AC%E6%98%AF%E5%8F%B0%E6%B9%BE%E4%BA%BA%E4%B9%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -609,6 +669,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本立宪民主党党首野田佳彦：政府必须避免干预日本央行提高利率的努力。",
+          "url": "https://flash.jin10.com/detail/20260126081721608800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本立宪民主党党首野田佳彦：政府和日本央行应调整当前以对抗通缩为重点的联合协议，制定一项明确双方在遏制通胀中各自角色的协议。",
+          "url": "https://flash.jin10.com/detail/20260126081717729800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本立宪民主党党首野田佳彦：货币干预对可持续遏制日元下跌的效果可能有限。",
+          "url": "https://flash.jin10.com/detail/20260126081701029800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本立宪民主党党魁野田佳彦：汇率干预对持续阻止日圆贬值可能效果有限。 政府必须避免妨碍日本央行升息的努力。 日本必须向市场发出更强的信号，表明整顿财政的决心，以阻止日元过度贬值。 政府和央行应修改目前以抗击通缩为重点的联合协议，明确双方在抑制通胀方面各自扮演的角色。",
+          "url": "https://wallstreetcn.com/livenews/3043489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：拒绝对据报道的汇率干预置评。",
+          "url": "https://flash.jin10.com/detail/20260126080658937800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本外汇事务最高官员三村淳：将根据日美联合声明采取适当外汇措施。 就外汇与美国保持密切联系。 无法就是否干预市场发表评论。 不愿意谈论外汇市场的具体动向。 拒绝对有关汇率询价的报道发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3043484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     }
