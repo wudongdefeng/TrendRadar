@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T12:41:53.431302+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-01-27T13:22:07.739885+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 166,
+      "match_count": 178,
       "titles": [
         {
           "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "欧盟理事会批准俄罗斯天然气禁令",
@@ -71,11 +71,12 @@
           "ranks": [
             1,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
@@ -127,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "导演魏德圣：台湾人绝对不是亲日本的，我们的经历不一样",
@@ -261,11 +262,48 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            5
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时22分]"
+        },
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时41分]"
+          "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "好活!LPL全员穿越斗罗大陆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349725&amp;topic_name=%E5%A5%BD%E6%B4%BB%21LPL%E5%85%A8%E5%91%98%E7%A9%BF%E8%B6%8A%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 13时22分]"
         },
         {
           "title": "4名中国公民在日本受伤",
@@ -313,40 +351,28 @@
           "time_info": "[00时24分 ~ 06时16分]"
         },
         {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
+          "title": "巨大商机？美国引爆地缘危机之际：各国竞相布局“卫星主权”",
+          "url": "https://www.cls.cn/detail/2270763",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
         },
         {
-          "title": "好活!LPL全员穿越斗罗大陆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349725&amp;topic_name=%E5%A5%BD%E6%B4%BB%21LPL%E5%85%A8%E5%91%98%E7%A9%BF%E8%B6%8A%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86",
-          "source": "贴吧",
+          "title": "54年来首次 日本国内没有大熊猫了",
+          "url": "https://www.baidu.com/s?wd=54%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1+%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -358,6 +384,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时17分]"
+        },
+        {
+          "title": "2只旅日大熊猫今日回国，日本将迎无熊猫时代",
+          "url": "https://news.ifeng.com/c/8qFS7Iw771Q",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时22分]"
         },
         {
           "title": "美国天然气价格突破7美元大关 寒冷地区价格突破200美元",
@@ -430,15 +467,17 @@
           "time_info": "09时11分"
         },
         {
-          "title": "巨大商机？美国引爆地缘危机之际：各国竞相布局“卫星主权”",
-          "url": "https://www.cls.cn/detail/2270763",
-          "source": "财联社热门",
+          "title": "美国多地暴雪无家可归者仍露宿街头",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92%E8%80%85%E4%BB%8D%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            19,
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
         },
         {
           "title": "收益率或仍有上行空间，日本寿险业回避超长期日债",
@@ -447,9 +486,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "韩国贸易特使：即将访美并与美国贸易代表办公室会谈，以在两国政府之间寻求理性解决方案。",
+          "url": "https://flash.jin10.com/detail/20260127130838841800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报32,095.08点。",
@@ -461,6 +511,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "美国正式退出世卫组织还抹黑中国，外交部：坚决反对将疫情政治化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465034",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时22分]"
         },
         {
           "title": "日本列车与卡车相撞 4名中国公民受伤",
@@ -526,18 +588,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时18分]"
-        },
-        {
-          "title": "54年来首次 日本国内没有大熊猫了",
-          "url": "https://www.baidu.com/s?wd=54%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1+%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
         },
         {
           "title": "德国总理默茨：美国境内的暴力水平“让人感到忧心忡忡”。",
@@ -615,17 +665,6 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
-          "title": "2只旅日大熊猫今日回国，日本将迎无熊猫时代",
-          "url": "https://news.ifeng.com/c/8qFS7Iw771Q",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时41分]"
-        },
-        {
           "title": "据CNN报道，美国联邦航空管理局表示，缅因州班戈机场一架飞机坠毁，造成7人死亡、1人重伤。",
           "url": "https://flash.jin10.com/detail/20260127001524607800",
           "source": "金十数据",
@@ -674,16 +713,66 @@
           "time_info": "[03时19分 ~ 04时18分]"
         },
         {
-          "title": "美国多地暴雪无家可归者仍露宿街头",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92%E8%80%85%E4%BB%8D%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
+          "url": "https://www.cls.cn/detail/2270500",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            5
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32469591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时22分]"
+        },
+        {
+          "title": "日本暴雪为何这么厉害",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%AA%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "美国多地暴雪 无家可归者露宿街头",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA+%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92%E8%80%85%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
         },
         {
           "title": "日本国内没有大熊猫了",
@@ -698,15 +787,52 @@
           "time_info": "[09时10分 ~ 11时42分]"
         },
         {
-          "title": "美国正式退出世卫组织还抹黑中国，外交部：坚决反对将疫情政治化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465034",
-          "source": "澎湃新闻",
+          "title": "美国最新国防战略报告说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%9B%BD%E9%98%B2%E6%88%98%E7%95%A5%E6%8A%A5%E5%91%8A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
+            26,
             19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时41分]"
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "UP主网恋奔现美国女孩之见家长",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E4%B9%8B%E8%A7%81%E5%AE%B6%E9%95%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "中方在联合国驳斥日本涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7599249174270328870/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "美国正式退出《巴黎协定》",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E3%80%8A%E5%B7%B4%E9%BB%8E%E5%8D%8F%E5%AE%9A%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时22分]"
         },
         {
           "title": "美国发现围堵中国的网开始漏风",
@@ -995,18 +1121,6 @@
           "time_info": "[01时24分 ~ 02时25分]"
         },
         {
-          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
-          "url": "https://www.cls.cn/detail/2270500",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
           "url": "https://wallstreetcn.com/livenews/3044120",
           "source": "华尔街见闻-快讯",
@@ -1067,6 +1181,29 @@
           "time_info": "[02时25分 ~ 03时19分]"
         },
         {
+          "title": "日本30年期国债收益率上行3.5个基点，至3.655%。",
+          "url": "https://wallstreetcn.com/livenews/3044434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时22分]"
+        },
+        {
+          "title": "外网AI视频假如中国替代了美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
           "title": "日本首相继子迫于压力退选",
           "url": "https://www.douyin.com/hot/2380198",
           "source": "抖音",
@@ -1090,18 +1227,6 @@
           "time_info": "[11时42分 ~ 12时41分]"
         },
         {
-          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
           "title": "美国交通部长Duffy宣布关于改革联邦航空管理局（FAA）组织架构的若干计划。",
           "url": "https://wallstreetcn.com/livenews/3044175",
           "source": "华尔街见闻-快讯",
@@ -1114,16 +1239,15 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
-          "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32469591",
-          "source": "澎湃新闻",
+          "title": "日本警方逮捕一名三刀流男子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%90%8D%E4%B8%89%E5%88%80%E6%B5%81%E7%94%B7%E5%AD%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "欧盟理事会批准俄罗斯天然气禁令",
@@ -1154,20 +1278,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
         {
-          "title": "日本暴雪为何这么厉害",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%AA%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3",
-          "source": "bilibili 热搜",
+          "title": "英媒：以色列官员称将寻求与美国达成新安全协议",
+          "url": "https://flash.jin10.com/detail/20260127130833747800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时22分"
         },
         {
           "title": "航空信息公司Cirium：由于冬季风暴，航空公司在周一取消了19%的美国离港航班。",
@@ -1242,7 +1366,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -1302,6 +1426,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "韩国贸易特使：韩国政府仍在努力弄清美国总统特朗普的信息和措施的背景。",
+          "url": "https://flash.jin10.com/detail/20260127130628798800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "日本进入无大熊猫时代",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%85%A5%E6%97%A0%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%97%B6%E4%BB%A3%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1333,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "俄罗斯国防部：部队已夺取了乌克兰东部的库皮扬斯克-武兹洛维和新亚科夫利夫卡地区。",
+          "url": "https://flash.jin10.com/detail/20260127130612708800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "北约秘书长吕特：美国在欧洲始终拥有非常强大的常规军事存在，核保护伞也将一直存在。",
@@ -1390,6 +1536,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "俄罗斯国防部：自一月初以来，部队已夺取乌克兰境内的17个定居点。",
+          "url": "https://flash.jin10.com/detail/20260127130520258800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "日本千叶县确认高致病性禽流感疫情",
           "url": "https://flash.jin10.com/detail/20260127083910423800",
           "source": "金十数据",
@@ -1399,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "市场消息：俄罗斯总参谋长格拉西莫夫视察了“西部”集团的俄罗斯部队。",
+          "url": "https://flash.jin10.com/detail/20260127130506589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "美国1月达拉斯联储商业活动指数 -1.2，预期 -8.6，前值 -10.9。",
@@ -1445,15 +1613,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "日本30年期国债收益率上行3.5个基点，至3.655%。",
-          "url": "https://wallstreetcn.com/livenews/3044434",
-          "source": "华尔街见闻-快讯",
+          "title": "据英国金融时报：官员表示，以色列将寻求与美国达成新的安全协议。",
+          "url": "https://flash.jin10.com/detail/20260127130426609800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时22分"
         },
         {
           "title": "北约秘书长吕特：任何认为欧洲可以在没有美国支持的情况下实现自我防卫的人“应该继续做梦”。",
@@ -1506,9 +1674,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "据英国金融时报：美国将乌克兰的安全保障与割让领土的和平协议挂钩。",
+          "url": "https://flash.jin10.com/detail/20260127130411994800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "消息人士：俄罗斯能源部提议提前解除汽油出口禁令。",
@@ -1553,6 +1732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "美国能源部：今天发布紧急命令，以缓解冬季风暴“弗恩”给纽约及其周边地区带来的停电问题。",
+          "url": "https://flash.jin10.com/detail/20260127130310891800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "北约秘书长吕特：俄罗斯总统普京会乐见一支独立于北约的欧洲防卫力量。",
@@ -1643,17 +1833,6 @@
           "time_info": "11时42分"
         },
         {
-          "title": "美国多地暴雪 无家可归者露宿街头",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%AA+%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92%E8%80%85%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "美国至1月26日6个月国债竞拍-得标利率 3.525%，前值3.52%。",
           "url": "https://flash.jin10.com/detail/20260127003206076800",
           "source": "金十数据",
@@ -1698,17 +1877,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "UP主网恋奔现美国女孩之见家长",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E4%B9%8B%E8%A7%81%E5%AE%B6%E9%95%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "美国至1月26日3个月国债竞拍-得标利率 3.58%，前值3.59%。",
           "url": "https://flash.jin10.com/detail/20260127003204774800",
           "source": "金十数据",
@@ -1718,6 +1886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "欧洲资管巨头：美国政策威胁正驱动资金由美元转向黄金",
+          "url": "https://flash.jin10.com/detail/20260127125718271800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
@@ -1742,17 +1921,6 @@
           "time_info": "11时42分"
         },
         {
-          "title": "中方在联合国驳斥日本涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7599249174270328870/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "德国外交部长：俄罗斯正以高度针对性的方式，通过破坏海底电缆、干扰GPS信号、开展虚假信息宣传以及动用影子船队等混合战术，对我们发动攻击，以此考验我们的韧性。",
           "url": "https://flash.jin10.com/detail/20260127002948353800",
           "source": "金十数据",
@@ -1773,17 +1941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "美国最新国防战略报告说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%9B%BD%E9%98%B2%E6%88%98%E7%95%A5%E6%8A%A5%E5%91%8A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "俄罗斯央行对企业进行的调查显示，2026年第一季度投资增速将放缓至低于2025年平均值的水平。",
@@ -1927,17 +2084,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "美国正式退出《巴黎协定》",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E3%80%8A%E5%B7%B4%E9%BB%8E%E5%8D%8F%E5%AE%9A%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "美国1月达拉斯联储制造业产出指数 11.2，前值-3.2。",
