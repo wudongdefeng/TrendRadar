@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T15:20:59.640307+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-28T16:22:33.259096+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 179,
+      "match_count": 192,
       "titles": [
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -68,6 +68,18 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
+          "title": "美国、英国、法国、德国发表联合声明",
+          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时22分]"
+        },
+        {
           "title": "外交部回应加拿大出售白鲸给美国",
           "url": "https://www.toutiao.com/trending/7599947141838700550/",
           "source": "今日头条",
@@ -99,21 +111,6 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
-          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时20分]"
-        },
-        {
           "title": "日本一女性在同一家公司上班近70年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -128,16 +125,20 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
-          "title": "美国、英国、法国、德国发表联合声明",
-          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
-          "source": "凤凰网",
+          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
+            5,
+            6,
+            7,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 15时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "董军同俄罗斯防长视频通话",
@@ -193,20 +194,6 @@
           "time_info": "[00时21分 ~ 14时26分]"
         },
         {
-          "title": "外交敲警钟:春节慎去日本蹦跶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时20分]"
-        },
-        {
           "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_32469591",
           "source": "澎湃新闻",
@@ -218,6 +205,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "外交敲警钟:春节慎去日本蹦跶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13,
+            16,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "美国防战略报告“零次”提台湾，释放了什么信号？",
@@ -238,11 +240,12 @@
             14,
             20,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
@@ -346,11 +349,41 @@
           "source": "今日头条",
           "ranks": [
             1,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 16时22分]"
+        },
+        {
+          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
+          "url": "https://www.zhihu.com/question/1998544659715228295",
+          "source": "知乎",
+          "ranks": [
+            9,
+            14,
+            17,
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时22分]"
+        },
+        {
+          "title": "美国将在中东举行空军战备演习",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时22分]"
         },
         {
           "title": "台湾青年：我愿为了中华民族而统一",
@@ -367,6 +400,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时07分 ~ 15时20分]"
+        },
+        {
+          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
+          "url": "https://news.ifeng.com/c/8qHOIFwrrfC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时22分]"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2271951",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -391,32 +449,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
-          "url": "https://www.zhihu.com/question/1998544659715228295",
-          "source": "知乎",
+          "title": "欧盟外交官Kallas：跨大西洋关系“动摇”。 美国仍将是欧洲的伙伴和盟友。 欧洲必须挺身而出，不能把生存仰仗他人。",
+          "url": "https://wallstreetcn.com/livenews/3045415",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            14,
-            17,
-            13,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 15时20分]"
-        },
-        {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 15时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "外交部提醒春节避免前往日本",
@@ -457,6 +498,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "韩国总统顾问：将与美国沟通以防止关税上调。",
+          "url": "https://flash.jin10.com/detail/20260128161717524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -477,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "韩国总统顾问：阿拉斯加液化天然气项目尚未在美国和韩国之间讨论，将在启动投资基金后根据商业可行性原则进行审议。",
+          "url": "https://flash.jin10.com/detail/20260128161711046800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "日本在第二次非竞争性发售中发售380亿日元债券。",
@@ -503,6 +566,17 @@
           "time_info": "[12时39分 ~ 15时20分]"
         },
         {
+          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
+          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
           "title": "日本两年期国债收益率下跌3.5个基点，至1.240%。",
           "url": "https://flash.jin10.com/detail/20260128142144332800",
           "source": "金十数据",
@@ -514,15 +588,15 @@
           "time_info": "14时26分"
         },
         {
-          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
-          "url": "https://news.ifeng.com/c/8qHOIFwrrfC",
-          "source": "凤凰网",
+          "title": "韩国总统顾问：美国的挫败感似乎源于急于尽快启动投资业务。",
+          "url": "https://flash.jin10.com/detail/20260128161658470800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时22分"
         },
         {
           "title": "乌克兰总统泽连斯基谴责俄罗斯对火车的无人机袭击为恐怖主义行为，称已造成四人死亡。",
@@ -564,9 +638,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "韩国总统顾问：不能排除美国因未来在投资问题上产生分歧而再次提及加征关税的可能性。",
+          "url": "https://flash.jin10.com/detail/20260128161645066800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
@@ -578,19 +663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 15时20分]"
         },
         {
           "title": "专家：美国会诱使中国“经济自杀”",
@@ -629,17 +701,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时13分]"
-        },
-        {
-          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
-          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 15时20分]"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -812,6 +873,19 @@
           "time_info": "[05时13分 ~ 06时17分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时22分]"
+        },
+        {
           "title": "美国至1月27日5年期国债竞拍-得标利率 3.823%，前值3.75%。",
           "url": "https://flash.jin10.com/detail/20260128020206064800",
           "source": "金十数据",
@@ -847,19 +921,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时20分]"
         },
         {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
@@ -1137,6 +1198,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
+          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国石油协会（API）数据显示，上周，美国API原油库存 -24.7万桶，之前一周 +300万桶。",
           "url": "https://wallstreetcn.com/livenews/3045002",
           "source": "华尔街见闻-快讯",
@@ -1181,6 +1253,17 @@
           "time_info": "12时39分"
         },
         {
+          "title": "韩国总统顾问：政府将努力确保美国投资法案的议会审议于二月有意义地进行。",
+          "url": "https://flash.jin10.com/detail/20260128161617266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国将在中东举行空军战备演习",
           "url": "https://flash.jin10.com/detail/20260128033221303800",
           "source": "金十数据",
@@ -1190,6 +1273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128161606852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展",
@@ -1203,13 +1297,24 @@
           "time_info": "05时13分"
         },
         {
+          "title": "韩国总统顾问：预计将于二月与美国就3500亿美元投资方案的项目遴选展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260128161546533800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "台湾退役军人能否免费进入大陆景区",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E8%83%BD%E5%90%A6%E5%85%8D%E8%B4%B9%E8%BF%9B%E5%85%A5%E5%A4%A7%E9%99%86%E6%99%AF%E5%8C%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1264,7 +1369,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1355,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "民进党当局针对大陆应用程序渲染所谓“资安风险”，国台办回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479919",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
@@ -1638,7 +1754,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1660,7 +1776,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1674,6 +1790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "SK海力士第四季度销售额32.83万亿韩元，预期31.3万亿韩元。 第四季度营业利润为19.17万亿韩元，预期16.69万亿韩元。 SK海力士全年营业利润47.2万亿韩元，全年销售额97.1万亿韩元。 SK海力士继续考虑美国上市，尚未作出决定。 SK海力士称HBM4大规模量产工作正按计划推进，第四季度增长势头进一步增强。",
+          "url": "https://wallstreetcn.com/livenews/3045383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普：美元的价值很棒，美元状况很好。",
@@ -1729,6 +1856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "ASML计划在荷兰和美国裁员约1,700人 主要涉及技术与IT部门",
+          "url": "https://wallstreetcn.com/livenews/3045382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "乌克兰副总理：俄罗斯无人机袭击损坏了位于东部哈尔科夫地区的客运列车。",
@@ -2037,6 +2175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "暴风雪致美国电价飙升1400%",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%A3%8E%E9%9B%AA%E8%87%B4%E7%BE%8E%E5%9B%BD%E7%94%B5%E4%BB%B7%E9%A3%99%E5%8D%871400%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国的寒潮究竟有多厉害",
