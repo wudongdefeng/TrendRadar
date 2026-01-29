@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:02:41.446326+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-01-29T13:38:30.847009+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 135,
+      "match_count": 144,
       "titles": [
         {
           "title": "美国贸易代表坐不住了：印度占便宜了！",
@@ -91,11 +91,12 @@
             12,
             10,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时38分]"
         },
         {
           "title": "民进党当局针对大陆应用程序渲染所谓“资安风险”，国台办回应",
@@ -195,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 13时38分]"
         },
         {
           "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
@@ -205,9 +206,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时38分]"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方同意就关键工业品更严格的原产地规则、关键矿物领域的强化合作以及对外贸易政策协调加强展开磋商。",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对Rubin的需求令人难以置信的强劲。能源对美国、台湾和欧洲来说是一个巨大挑战。正与英特尔合作开发定制x86处理器。",
+          "url": "https://wallstreetcn.com/livenews/3046136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年12月PPI同比下降3.3%，环比下降1.6%。",
@@ -276,6 +288,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "现代汽车：美国关税削减在第四季度的影响有限。",
+          "url": "https://flash.jin10.com/detail/20260129132139586800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国美联储FOMC利率决策(上限) 3.75%，预期 3.75%，前值 3.75%。",
           "url": "https://wallstreetcn.com/livenews/3045759",
           "source": "华尔街见闻-快讯",
@@ -285,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "东大发飙!日本熊猫库存清零",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方承认近几个月取得了实质性进展，并同意继续开展密集接触，以解决非关税壁垒问题。",
@@ -428,6 +440,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "东大发飙!日本熊猫库存清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时38分]"
         },
         {
           "title": "美国国务卿鲁比奥：（被问及美国国务院对伊朗抗议活动中死亡人数的估计）肯定有数千人。",
@@ -976,6 +1000,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "日本1月家庭消费者信心指数 37.9，预期37.1，前值37.2。",
+          "url": "https://flash.jin10.com/detail/20260129130023945800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国1月23日当周EIA精炼厂设备利用率变化 -2.4%，预期 -0.65%，前值 -2%。",
           "url": "https://wallstreetcn.com/livenews/3045684",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1099,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
+          "url": "https://www.zhihu.com/question/1999590149818954631",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "据福克斯新闻：美国联邦调查局（FBI）在佐治亚州选举办公室执行搜查令。",
           "url": "https://flash.jin10.com/detail/20260129013805850800",
           "source": "金十数据",
@@ -1095,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "现代汽车：美国关税在第四季度对营业利润造成了1.5万亿韩元的负面影响。",
+          "url": "https://flash.jin10.com/detail/20260129125844075800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
@@ -1163,6 +1220,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "预测平台Polymarket：美国政府本周六停摆概率大幅下行",
+          "url": "https://flash.jin10.com/detail/20260129125657736800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
           "url": "https://wallstreetcn.com/livenews/3045782",
           "source": "华尔街见闻-快讯",
@@ -1196,6 +1264,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "现代汽车：丰田2025年从日本出口到美国的汽车数量增至615,204辆。",
+          "url": "https://flash.jin10.com/detail/20260129125404576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "贝森特：美国目前“绝对不会”干预美元兑日元的汇率",
           "url": "https://wallstreetcn.com/livenews/3045674",
           "source": "华尔街见闻-快讯",
@@ -1216,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "日本1月家庭消费者信心指数 37.9，预期 37.1，前值 37.2。",
+          "url": "https://wallstreetcn.com/livenews/3046109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "法兴银行美国利率策略主管拉贾帕：美国就业市场似乎正在反弹。",
@@ -1290,7 +1380,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1323,7 +1413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1356,7 +1446,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1392,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "丰田汽车：丰田12月从日本出口至美国的汽车数量同比下降6.2%，至52357辆。",
+          "url": "https://flash.jin10.com/detail/20260129125028094800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储主席鲍威尔新闻发布会开场白：美国经济在去年按稳健的速度扩张。 进入2026年的美国经济根基是稳固的。 失业率在一定程度上出现企稳迹象。 在经历了逐步走软之后，劳动力市场可能趋于稳定。 招聘、职位空缺、薪资增速几乎都没有变化。 消费者开支一直具有韧性。 通胀偏高，在一定程度上体现出关税推高商品价格的影响。 长期通胀预期与目标保持一致。 企业投资继续扩大。 政府关门可能不利于四季度经济，但形势将会逆转。",
@@ -1571,7 +1672,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
