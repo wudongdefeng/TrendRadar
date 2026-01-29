@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:36:16.407292+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-29T16:31:42.643022+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 153,
+      "match_count": 162,
       "titles": [
         {
           "title": "美国贸易代表坐不住了：印度占便宜了！",
@@ -40,19 +40,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 16时31分]"
         },
         {
           "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
           "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "东北人发现飞俄罗斯坐船回家更便宜",
@@ -118,11 +119,12 @@
             8,
             13,
             25,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 15时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 16时31分]"
         },
         {
           "title": "民进党当局针对大陆应用程序渲染所谓“资安风险”，国台办回应",
@@ -187,6 +189,20 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "东大发飙!日本熊猫库存清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时31分]"
+        },
+        {
           "title": "美国超级暴风雪大量流浪汉冻死街头",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%A3%8E%E9%9B%AA%E5%A4%A7%E9%87%8F%E6%B5%81%E6%B5%AA%E6%B1%89%E5%86%BB%E6%AD%BB%E8%A1%97%E5%A4%B4&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -213,20 +229,6 @@
           "time_info": "[06时21分 ~ 09时16分]"
         },
         {
-          "title": "东大发飙!日本熊猫库存清零",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 15时36分]"
-        },
-        {
           "title": "伊朗接收俄罗斯装备",
           "url": "https://www.toutiao.com/trending/7600325965138886662/",
           "source": "今日头条",
@@ -248,6 +250,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
+          "url": "https://www.zhihu.com/question/1999590149818954631",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 16时31分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年12月PPI同比下降3.3%，环比下降1.6%。",
@@ -437,6 +452,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "俄军首次公开宣布使用美国星链",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%AE%A3%E5%B8%83%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%93%BE%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004308229800",
           "source": "金十数据",
@@ -470,16 +496,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
-          "url": "https://www.zhihu.com/question/1999590149818954631",
-          "source": "知乎",
+          "title": "德国总理默茨：欧盟已表明自己不会被美国的关税威胁吓倒。",
+          "url": "https://wallstreetcn.com/livenews/3046278",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 15时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国国务卿鲁比奥：（被问及美国国务院对伊朗抗议活动中死亡人数的估计）肯定有数千人。",
@@ -590,6 +615,17 @@
           "time_info": "[02时28分 ~ 03时21分]"
         },
         {
+          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
+          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 16时31分]"
+        },
+        {
           "title": "美联储主席鲍威尔向继任者提议：与美国政治“划清界限”",
           "url": "https://news.ifeng.com/c/8qIXJnaIdAe",
           "source": "凤凰网",
@@ -611,6 +647,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时28分]"
+        },
+        {
+          "title": "越南与美国计划下周举行第六轮贸易谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时31分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少230万桶，彭博用户预计增加110万桶、分析师预期增加79.417万桶，之前一周增加360.2万桶。",
@@ -647,17 +695,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时28分]"
-        },
-        {
-          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
-          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -787,15 +824,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "越南与美国计划下周举行第六轮贸易谈判。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3046220",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "16时31分"
         },
         {
           "title": "美国国务卿鲁比奥：我们现在与格陵兰岛的关系很好。",
@@ -870,9 +907,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "德国总理默茨：们作为欧洲人希望维护北约，并从内部及欧洲层面予以加强。因此，我们将始终向美国伸出合作之手。",
+          "url": "https://flash.jin10.com/detail/20260129161804488800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国1月23日当周EIA库欣地区原油库存变动 -27.8万桶，前值 147.8万桶。",
@@ -928,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国国务卿鲁比奥：没有美国的支持，北约的安全保障毫无意义。",
@@ -1447,6 +1506,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "中方是否给TikTok美国合资公司算法本地化许可？商务部回应",
+          "url": "https://wallstreetcn.com/livenews/3046236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美国罕见冬季风暴致多人被冻死",
           "url": "https://www.toutiao.com/trending/7600321393936187419/",
           "source": "今日头条",
@@ -1478,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：起亚美国公司召回42,677辆美国车辆，因为仪表盘显示屏无法显示速度表、胎压或警示灯等关键安全信息，这会增加发生车祸的风险。",
+          "url": "https://flash.jin10.com/detail/20260129160612614800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
@@ -1513,6 +1594,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回568,576辆美国车辆，因为仪表盘显示屏无法显示速度表或警示灯等关键安全信息，从而增加了发生车祸的风险。",
+          "url": "https://flash.jin10.com/detail/20260129160556849800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "据MS NOW：参与周六明尼阿波利斯枪击事件的美国特工已被停职。",
           "url": "https://flash.jin10.com/detail/20260129011646568800",
           "source": "金十数据",
@@ -1533,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回41,651辆美国车辆，因为在碰撞中侧帘式气囊部署不当会增加受伤风险。",
+          "url": "https://flash.jin10.com/detail/20260129160539922800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国务卿：美俄乌三方会谈仍在推进，领土议题仍存分歧",
