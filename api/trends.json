@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-01-29T16:31:42.643022+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-29T17:35:26.593784+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 162,
+      "match_count": 166,
       "titles": [
+        {
+          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 17时35分]"
+        },
+        {
+          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
+          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时35分]"
+        },
         {
           "title": "美国贸易代表坐不住了：印度占便宜了！",
           "url": "https://news.ifeng.com/c/8qHiTLSBV91",
@@ -29,31 +54,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 09时16分]"
-        },
-        {
-          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 16时31分]"
-        },
-        {
-          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
-          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "东北人发现飞俄罗斯坐船回家更便宜",
@@ -196,11 +196,12 @@
             3,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时35分]"
         },
         {
           "title": "美国超级暴风雪大量流浪汉冻死街头",
@@ -452,17 +453,6 @@
           "time_info": "06时21分"
         },
         {
-          "title": "俄军首次公开宣布使用美国星链",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%AE%A3%E5%B8%83%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%93%BE%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004308229800",
           "source": "金十数据",
@@ -502,7 +492,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -579,6 +569,18 @@
           "time_info": "[01时28分 ~ 02时28分]"
         },
         {
+          "title": "俄军首次公开宣布使用美国星链",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%AE%A3%E5%B8%83%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%93%BE%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时35分]"
+        },
+        {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢比尔·阿克曼。",
           "url": "https://wallstreetcn.com/livenews/3045720",
           "source": "华尔街见闻-快讯",
@@ -589,6 +591,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时28分]"
+        },
+        {
+          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
+          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上赞赏英伟达的捐款。",
@@ -615,17 +628,6 @@
           "time_info": "[02时28分 ~ 03时21分]"
         },
         {
-          "title": "台当局拟在校园禁用5款大陆App，微博、小红书等位列其中",
-          "url": "https://news.ifeng.com/c/8qJDOWuG2kr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 16时31分]"
-        },
-        {
           "title": "美联储主席鲍威尔向继任者提议：与美国政治“划清界限”",
           "url": "https://news.ifeng.com/c/8qIXJnaIdAe",
           "source": "凤凰网",
@@ -635,6 +637,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -707,6 +720,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.590%，投标倍数2.92。",
@@ -824,17 +848,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "美国国务卿鲁比奥：我们现在与格陵兰岛的关系很好。",
           "url": "https://flash.jin10.com/detail/20260128235619642800",
           "source": "金十数据",
@@ -918,7 +931,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -978,15 +991,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
-          "source": "华尔街见闻",
+          "title": "欧洲领导人排队访华美国急了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8E%92%E9%98%9F%E8%AE%BF%E5%8D%8E%E7%BE%8E%E5%9B%BD%E6%80%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时35分"
         },
         {
           "title": "美国国务卿鲁比奥：没有美国的支持，北约的安全保障毫无意义。",
@@ -1231,6 +1244,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "据福克斯新闻：美国联邦调查局（FBI）在佐治亚州选举办公室执行搜查令。",
           "url": "https://flash.jin10.com/detail/20260129013805850800",
           "source": "金十数据",
@@ -1251,6 +1275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "欧洲领导人排队访华 美国急了",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8E%92%E9%98%9F%E8%AE%BF%E5%8D%8E+%E7%BE%8E%E5%9B%BD%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国和墨西哥同意就《美墨加协定》的改革事宜展开谈判",
@@ -1361,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "瑞典央行：2026年的地缘政治发展十分剧烈，尤其是受美国外交政策行动的影响。",
+          "url": "https://flash.jin10.com/detail/20260129163516037800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
@@ -1512,7 +1558,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1556,7 +1602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1600,7 +1646,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1633,7 +1679,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
