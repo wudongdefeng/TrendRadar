@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:32:16.751285+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-02-04T17:36:31.614803+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 170,
+      "match_count": 185,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -150,11 +150,12 @@
             19,
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 16时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 17时36分]"
         },
         {
           "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
@@ -238,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 17时36分]"
         },
         {
           "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
@@ -252,8 +253,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 17时36分]"
         },
         {
           "title": "美国收紧签证政策 Alphabet计划将印度业务的规模大幅扩张",
@@ -273,9 +274,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "乌克兰国家天然气公司（Naftogaz）：乌克兰已接收1亿立方米美国液化天然气批次的交付，这是2026年的首次交付。",
+          "url": "https://flash.jin10.com/detail/20260204173345272800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -328,7 +340,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -386,6 +398,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国劳工部2月4日恢复正常全面运作",
+          "url": "https://wallstreetcn.com/livenews/3049768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "大陆将于近期恢复上海居民赴金门、马祖旅游",
+          "url": "https://www.cls.cn/detail/2280203",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时36分]"
         },
         {
           "title": "日本公开采集稀土泥全过程",
@@ -691,6 +726,18 @@
           "time_info": "[02时45分 ~ 04时28分]"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时36分]"
+        },
+        {
           "title": "普京：俄罗斯2025年经济增长1%，放缓符合预期",
           "url": "https://wallstreetcn.com/livenews/3049271",
           "source": "华尔街见闻-快讯",
@@ -717,15 +764,16 @@
           "time_info": "[03时42分 ~ 05时27分]"
         },
         {
-          "title": "大陆将于近期恢复上海居民赴金门、马祖旅游",
-          "url": "https://www.cls.cn/detail/2280203",
-          "source": "财联社热门",
+          "title": "大陆将恢复上海居民赴金门马祖旅游",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%B0%86%E6%81%A2%E5%A4%8D%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%B5%B4%E9%87%91%E9%97%A8%E9%A9%AC%E7%A5%96%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
           "ranks": [
-            7
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时36分]"
         },
         {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
@@ -738,17 +786,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时28分]"
-        },
-        {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -797,17 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时28分]"
-        },
-        {
-          "title": "大陆将恢复上海居民赴金门马祖旅游",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%B0%86%E6%81%A2%E5%A4%8D%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%B5%B4%E9%87%91%E9%97%A8%E9%A9%AC%E7%A5%96%E6%97%85%E6%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
@@ -884,9 +910,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "习近平同俄罗斯总统普京举行视频会晤",
+          "url": "https://wallstreetcn.com/livenews/3049761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -988,6 +1025,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "美国劳工部2月4日恢复正常全面运作",
+          "url": "https://flash.jin10.com/detail/20260204172402111800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "提醒：美国总统特朗普签署法案，结束部分政府的关门状态。",
           "url": "https://wallstreetcn.com/livenews/3049345",
           "source": "华尔街见闻-快讯",
@@ -1087,6 +1135,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美国总统特朗普：我希望普京结束战争。",
           "url": "https://flash.jin10.com/detail/20260204054601265800",
           "source": "金十数据",
@@ -1107,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "诺和诺德首席财务官：我们预计2026年美国销售额将出现“两位数”百分比降幅。",
+          "url": "https://flash.jin10.com/detail/20260204171959563800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
@@ -1170,7 +1240,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1208,6 +1278,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "诺和诺德首席财务官：“最惠国待遇”在一定程度上促成了美国药品价格的降低；但更重要的因素则与规模更大的现金业务有关。",
+          "url": "https://flash.jin10.com/detail/20260204171504723800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3049340",
           "source": "华尔街见闻-快讯",
@@ -1217,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国夫妻斩首两名亲生子女",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "白宫新闻秘书：美国题特使威特科夫已离开并准备与伊朗方面会谈，谈判仍按原计划进行。",
@@ -1250,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "瑞银集团首席财务官：美国将在2026年成为财富管理净流入的积极贡献者。",
+          "url": "https://flash.jin10.com/detail/20260204171431048800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1305,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "美国拨款法案落地，非农报告能否准时登场？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260204171342908800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国住房开发商概念股普遍扩大涨幅，报道称行业力争为100万套住宅赢得支持",
@@ -1670,6 +1784,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "俄罗斯财政部：1月份石油和天然气销售为国家预算带来3933亿卢布收入，低于12月份的4478亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260204170255631800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "报道称伊朗炮艇逼近悬挂美国旗油轮",
           "url": "https://wallstreetcn.com/livenews/3049255",
           "source": "华尔街见闻-快讯",
@@ -1758,6 +1883,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "日本深海开采稀土泥是否具有可行性",
+          "url": "https://www.toutiao.com/trending/7602905812545048074/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国特使威特科夫的会晤已经结束。",
           "url": "https://flash.jin10.com/detail/20260204023907502800",
           "source": "金十数据",
@@ -1791,6 +1927,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "俄罗斯财政部表示，预计2月份预算能源收入将出现2094亿卢布的缺口。",
+          "url": "https://flash.jin10.com/detail/20260204170112722800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "日本一小学生遭初中生勒脖又推入海",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%88%9D%E4%B8%AD%E7%94%9F%E5%8B%92%E8%84%96%E5%8F%88%E6%8E%A8%E5%85%A5%E6%B5%B7%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1800,6 +1947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "美国夫妻斩首两名亲生子女",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国至1月30日当周API原油进口 55.3万桶，前值-80.3万桶。",
@@ -1822,6 +1980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "习近平将同俄罗斯总统普京举行视频会晤",
+          "url": "https://wallstreetcn.com/livenews/3049738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国一男子躺在数十只冻僵的鬣蜥下",
