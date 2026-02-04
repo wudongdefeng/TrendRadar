@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:40:07.735655+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-04T16:32:16.751285+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 163,
+      "match_count": 170,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -51,11 +51,12 @@
             1,
             11,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "港口案裁决倒向美国的巴拿马，需要来一场“混合双打”",
@@ -148,11 +149,12 @@
             13,
             19,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
@@ -228,6 +230,32 @@
           "time_info": "[09时16分 ~ 15时40分]"
         },
         {
+          "title": "普京：俄罗斯经济放缓是人为造成的",
+          "url": "https://news.ifeng.com/c/8qSyftiySGT",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时32分]"
+        },
+        {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时32分]"
+        },
+        {
           "title": "美国收紧签证政策 Alphabet计划将印度业务的规模大幅扩张",
           "url": "https://flash.jin10.com/detail/20260204040043066800",
           "source": "金十数据",
@@ -237,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "爱沙尼亚税务与海关局：该船只不属于俄罗斯“影子船队”，也不受欧盟制裁约束。",
+          "url": "https://flash.jin10.com/detail/20260204162247462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -281,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "爱沙尼亚税务与海关局：该船正从厄瓜多尔驶往俄罗斯圣彼得堡。",
+          "url": "https://flash.jin10.com/detail/20260204162243384800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "日媒：日本多个水库水位告急，国土交通省呼吁民众节水应对“前所未有”干涸",
@@ -336,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "普京：俄罗斯经济放缓是人为造成的",
-          "url": "https://news.ifeng.com/c/8qSyftiySGT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时40分]"
         },
         {
           "title": "日本公开采集稀土泥全过程",
@@ -413,19 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时40分]"
         },
         {
           "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
@@ -691,6 +717,17 @@
           "time_info": "[03时42分 ~ 05时27分]"
         },
         {
+          "title": "大陆将于近期恢复上海居民赴金门、马祖旅游",
+          "url": "https://www.cls.cn/detail/2280203",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
           "url": "https://flash.jin10.com/detail/20260204031034048800",
           "source": "金十数据",
@@ -701,6 +738,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时28分]"
+        },
+        {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -749,6 +797,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时28分]"
+        },
+        {
+          "title": "大陆将恢复上海居民赴金门马祖旅游",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E5%B0%86%E6%81%A2%E5%A4%8D%E4%B8%8A%E6%B5%B7%E5%B1%85%E6%B0%91%E8%B5%B4%E9%87%91%E9%97%A8%E9%A9%AC%E7%A5%96%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
@@ -814,9 +873,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "市场消息：韩国国会成立美国投资特别委员会。",
+          "url": "https://flash.jin10.com/detail/20260204161826962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -1092,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "市场对日本债务风险反应过度 日债收益率曲线或因政策预期走陡",
+          "url": "https://flash.jin10.com/detail/20260204160955840800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯经济在2025年增长1%。",
