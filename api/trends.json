@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T09:16:52.467816+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-05T12:08:31.113873+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 156,
+      "match_count": 170,
       "titles": [
         {
           "title": "大陆将于近期恢复上海居民赴金门、马祖旅游",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时08分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时08分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -74,22 +74,28 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时08分]"
         },
         {
-          "title": "台湾发生多起砍人事件，警察开枪误伤见义勇为市民(图)",
-          "url": "https://news.ifeng.com/c/8qTgKIQpibT",
-          "source": "凤凰网",
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            18,
+            15,
+            9,
+            6,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时40分 ~ 12时08分]"
         },
         {
           "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
@@ -100,7 +106,19 @@
             12,
             13,
             15,
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时08分]"
+        },
+        {
+          "title": "台湾发生多起砍人事件，警察开枪误伤见义勇为市民(图)",
+          "url": "https://news.ifeng.com/c/8qTgKIQpibT",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -182,21 +200,6 @@
           "time_info": "[00时39分 ~ 07时20分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时40分 ~ 09时16分]"
-        },
-        {
           "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
           "url": "https://www.zhihu.com/question/2001956434041124754",
           "source": "知乎",
@@ -227,7 +230,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -252,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "禁运卡脖子,日本闹药荒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350220&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E9%97%B9%E8%8D%AF%E8%8D%92",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国务卿：俄乌谈判取得进展 但最棘手问题仍未解决",
@@ -282,9 +296,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "日本拍卖30年期国债，认购倍数为3.64，前次为3.14，过去12个月均值为3.35。",
+          "url": "https://wallstreetcn.com/livenews/3050337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国财长贝森特：抵押贷款与国债之间的利差已降至多年来的最低水平。",
@@ -326,9 +351,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "马杜罗亲信被捕，将被引渡到美国",
+          "url": "https://news.ifeng.com/c/8qUW1Cg4uHC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -348,9 +384,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国纽约宣布加入世卫组织疫情响应网络",
+          "url": "https://wallstreetcn.com/livenews/3050335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -592,6 +639,19 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "就业大幅放缓！美国1月ADP就业人数增长2.2万人，低于预期4.5万人",
+          "url": "https://wallstreetcn.com/articles/3764977",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 12时08分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：如果两房上市的话，我们将会出售其2.5%至5%的股份。",
           "url": "https://flash.jin10.com/detail/20260205033752733800",
           "source": "金十数据",
@@ -639,19 +699,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时26分]"
-        },
-        {
-          "title": "就业大幅放缓！美国1月ADP就业人数增长2.2万人，低于预期4.5万人",
-          "url": "https://wallstreetcn.com/articles/3764977",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时16分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -969,9 +1016,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "10年期日本国债收益率下跌1个基点，至2.235%。",
+          "url": "https://flash.jin10.com/detail/20260205114959142800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "俄罗斯2月2日当周CPI周环比上升0.20%，2026年迄今累计上升2.11%。",
@@ -1005,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
+          "url": "https://wallstreetcn.com/articles/3764991",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗外长：与美国的核谈判定于当地时间周五上午10点左右在马斯喀特举行。",
@@ -1051,6 +1120,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "据日本共同社：东京电力公司计划于下周重启柏崎刈羽核电站6号反应堆。",
+          "url": "https://flash.jin10.com/detail/20260205114205052800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国财长贝森特：稳定币可能对美国政府的融资具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/3049995",
           "source": "华尔街见闻-快讯",
@@ -1068,7 +1148,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1079,7 +1159,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1101,7 +1181,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1172,6 +1252,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "日本30年期债券拍卖投标倍数为3.64，高于上一次发行时的3.14。",
+          "url": "https://flash.jin10.com/detail/20260205113606791800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国1月30日当周EIA汽油库存变动 68.5万桶，预期 75.5万桶，前值 22.3万桶。",
           "url": "https://wallstreetcn.com/livenews/3049991",
           "source": "华尔街见闻-快讯",
@@ -1222,7 +1313,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1244,9 +1335,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "台湾问题是中国核心利益中的核心",
+          "url": "https://www.toutiao.com/trending/7603047592255520831/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "据联合声明，美国和欧盟将在未来30天内签署一份谅解备忘录，以加强关键矿产供应链的安全保障。美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以加强关键矿产供应链的抗风险能力。",
@@ -1398,7 +1500,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1445,6 +1547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "小米YU7现身美国高速公路",
+          "url": "https://www.toutiao.com/trending/7602805186335817791/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国贸易代表办公室（USTR）：美国和墨西哥正在就如何将价格上限纳入有关关键矿产贸易的多边协议事宜进行磋商。",
@@ -1541,7 +1654,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1588,6 +1701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "台积电(TSM.N)：将在熊本的第二座日本晶圆厂生产3纳米先进芯片。",
+          "url": "https://flash.jin10.com/detail/20260205112556420800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "墨西哥推进与美国之家的外交谈判，希望继续向古巴供应石油。 墨西哥国家石油公司PEMEX的CEO称，去年向古巴（出口）销售价值4.96亿美元的石油和燃料。",
@@ -1706,7 +1830,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1750,7 +1874,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1761,9 +1885,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国夫妻杀亲生子强迫其余子女观看",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%9D%80%E4%BA%B2%E7%94%9F%E5%AD%90%E5%BC%BA%E8%BF%AB%E5%85%B6%E4%BD%99%E5%AD%90%E5%A5%B3%E8%A7%82%E7%9C%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
@@ -1775,6 +1910,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "据纽约时报：委内瑞拉据悉将扣押遭美国制裁的马杜罗盟友。",
+          "url": "https://flash.jin10.com/detail/20260205110523372800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "国台办回应郑丽文表示大陆是亲人",
+          "url": "https://www.toutiao.com/trending/7603216277796195866/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国国务卿鲁比奥：美国贸易代表格里尔将提出关键矿物的价格下限机制。",
@@ -1794,7 +1951,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1816,7 +1973,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
