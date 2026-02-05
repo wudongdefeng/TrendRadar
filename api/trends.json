@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:48:43.868817+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-02-05T15:45:16.544777+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 189,
+      "match_count": 196,
       "titles": [
         {
           "title": "大陆将于近期恢复上海居民赴金门、马祖旅游",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时45分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时45分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 14时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 15时45分]"
         },
         {
           "title": "日本人神言论:稀土属于全地球",
@@ -93,11 +93,12 @@
             7,
             16,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时45分]"
         },
         {
           "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
@@ -202,28 +203,43 @@
           "time_info": "[00时39分 ~ 07时20分]"
         },
         {
+          "title": "马杜罗亲信被捕，将被引渡到美国",
+          "url": "https://news.ifeng.com/c/8qUW1Cg4uHC",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时45分]"
+        },
+        {
           "title": "禁运卡脖子,日本闹药荒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350220&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E9%97%B9%E8%8D%AF%E8%8D%92",
           "source": "贴吧",
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
-          "title": "马杜罗亲信被捕，将被引渡到美国",
-          "url": "https://news.ifeng.com/c/8qUW1Cg4uHC",
-          "source": "凤凰网",
+          "title": "就业大幅放缓！美国1月ADP就业人数增长2.2万人，低于预期4.5万人",
+          "url": "https://wallstreetcn.com/articles/3764977",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 15时45分]"
         },
         {
           "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
@@ -237,19 +253,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 07时20分]"
-        },
-        {
-          "title": "就业大幅放缓！美国1月ADP就业人数增长2.2万人，低于预期4.5万人",
-          "url": "https://wallstreetcn.com/articles/3764977",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 14时48分]"
         },
         {
           "title": "美国财长贝森特：我们将引入外部审计师来监控流向委内瑞拉的石油资金。",
@@ -302,7 +305,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -346,9 +349,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "俄罗斯特使德米特里耶夫：双方正在积极努力恢复俄美关系。",
+          "url": "https://flash.jin10.com/detail/20260205153153780800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "日本拍卖30年期国债，认购倍数为3.64，前次为3.14，过去12个月均值为3.35。",
@@ -362,17 +376,6 @@
           "time_info": "12时08分"
         },
         {
-          "title": "立陶宛总理承认：在台湾问题上犯了战略性错误",
-          "url": "https://news.ifeng.com/c/8qUibpkboE7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "美国财长贝森特：抵押贷款与国债之间的利差已降至多年来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260205011620421800",
           "source": "金十数据",
@@ -382,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "俄罗斯特使德米特里耶夫：俄罗斯与美国在阿布扎比举行的会晤是积极的。",
+          "url": "https://flash.jin10.com/detail/20260205153033854800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -423,7 +437,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -448,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "俄罗斯特使德米特里耶夫：尽管面临来自欧盟和英国的压力，和平协议仍取得积极进展和实质性推进。",
+          "url": "https://flash.jin10.com/detail/20260205153023002800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "中信证券：当前美国金融市场环境不具备缩表的条件",
@@ -510,6 +535,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时25分]"
+        },
+        {
+          "title": "立陶宛总理承认：在台湾问题上犯了战略性错误",
+          "url": "https://news.ifeng.com/c/8qUibpkboE7",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时45分]"
         },
         {
           "title": "美国总统特朗普：仍必须就（移民执法）保持强硬的立场。",
@@ -760,6 +797,17 @@
           "time_info": "[00时39分 ~ 02时38分]"
         },
         {
+          "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
+          "url": "https://wallstreetcn.com/articles/3764991",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时45分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
           "url": "https://flash.jin10.com/detail/20260205033722491800",
           "source": "金十数据",
@@ -808,17 +856,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时25分]"
-        },
-        {
-          "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
-          "url": "https://wallstreetcn.com/articles/3764991",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时48分]"
         },
         {
           "title": "美国核管理委员会表示，正根据美国总统特朗普推动核反应堆许可的举措进行重组，将在60天内制定新的组织架构图及管理计划。",
@@ -996,6 +1033,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "大陆和台湾不存在所谓国籍问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%99%86%E5%92%8C%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%89%80%E8%B0%93%E5%9B%BD%E7%B1%8D%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时45分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
@@ -1176,7 +1225,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -1192,17 +1241,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "大陆和台湾不存在所谓国籍问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%99%86%E5%92%8C%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%89%80%E8%B0%93%E5%9B%BD%E7%B1%8D%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "俄罗斯外交部：俄罗斯仍愿在平等对话基础上寻求稳定战略局势的途径。",
           "url": "https://flash.jin10.com/detail/20260205020404571800",
           "source": "金十数据",
@@ -1212,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "商务部：中国诉美国《通胀削减法》案裁决反映世贸成员基本共识",
+          "url": "https://wallstreetcn.com/livenews/3050440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "伊朗高级官员：与美国在阿曼的会谈只涉及核问题，导弹计划不在谈判桌上。",
@@ -1245,6 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "印度贸易部长：印度将很快宣布与美国达成的贸易协议的第一批内容。",
+          "url": "https://flash.jin10.com/detail/20260205152459439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美国财长贝森特：稳定币可能对美国政府的融资具有重要意义。",
@@ -1555,6 +1615,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "博主：爱泼斯坦案燃爆美国民粹主义",
+          "url": "https://www.toutiao.com/trending/7603240520764100115/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美国财长贝森特：伊朗存在严重的美元短缺问题。",
           "url": "https://flash.jin10.com/detail/20260204234331988800",
           "source": "金十数据",
@@ -1685,6 +1756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "潘多拉首席执行官：我们并未在美国看到客流量、消费者情绪和信用卡消费情况的改善。",
+          "url": "https://flash.jin10.com/detail/20260205151645143800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美国国会山考虑增加CFTC虚拟货币监管职能，律师预测监管力度较轻",
@@ -1847,7 +1929,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -2023,7 +2105,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -2056,7 +2138,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -2144,7 +2226,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
