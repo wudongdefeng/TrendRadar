@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T14:33:29.601954+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-02-07T15:27:25.554666+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 124,
+      "match_count": 127,
       "titles": [
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -26,11 +26,34 @@
             6,
             8,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时27分]"
+        },
+        {
+          "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
+          "url": "https://news.ifeng.com/c/8qXDJawISCo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时27分]"
+        },
+        {
+          "title": "美伊谈判之际，美国继续向中东调派战机",
+          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时27分]"
         },
         {
           "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
@@ -44,17 +67,6 @@
           "time_info": "[00时35分 ~ 09时15分]"
         },
         {
-          "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
-          "url": "https://news.ifeng.com/c/8qXDJawISCo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时33分]"
-        },
-        {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
           "source": "澎湃新闻",
@@ -64,11 +76,12 @@
             16,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时27分]"
         },
         {
           "title": "日本持续强降雪已致42人死亡",
@@ -81,17 +94,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 12时02分]"
-        },
-        {
-          "title": "美伊谈判之际，美国继续向中东调派战机",
-          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时33分]"
         },
         {
           "title": "日本挖到稀土泥 中方回应亮了",
@@ -121,6 +123,20 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
+          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 15时27分]"
+        },
+        {
           "title": "美国宣布制裁伊朗相关实体及个人",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%B8%AA%E4%BA%BA",
           "source": "百度热搜",
@@ -138,41 +154,15 @@
           "time_info": "[01时36分 ~ 07时18分]"
         },
         {
-          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 14时33分]"
-        },
-        {
-          "title": "美国驻联合国代表：美国将向联合国支付部分拖欠会费",
-          "url": "https://flash.jin10.com/detail/20260207123415442800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时33分]"
-        },
-        {
-          "title": "美国联邦航空局航行通告：波兰卢布林与热舒夫管制区/终端管制区因涉及确保国家安全的计划外军事活动而暂时不可用。",
-          "url": "https://flash.jin10.com/detail/20260207133733468800",
+          "title": "乌克兰能源部长：俄罗斯袭击了乌克兰的能源发电与配电设施。",
+          "url": "https://flash.jin10.com/detail/20260207145501937800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时27分"
         },
         {
           "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。",
@@ -184,6 +174,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国驻联合国代表：美国将向联合国支付部分拖欠会费",
+          "url": "https://flash.jin10.com/detail/20260207123415442800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时27分]"
+        },
+        {
+          "title": "敏感时刻，一个罕见情况在日本出现",
+          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时27分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -211,6 +225,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "乌克兰能源部长：俄罗斯对乌克兰能源设施发动大规模袭击。",
+          "url": "https://flash.jin10.com/detail/20260207145241784800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
           "url": "https://flash.jin10.com/detail/20260207002458087800",
           "source": "金十数据",
@@ -222,6 +247,20 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美常驻联合国代表：美国将向联合国支付部分拖欠会费",
+          "url": "https://wallstreetcn.com/livenews/3051684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
+        },
+        {
           "title": "美国股指延续涨势，道指涨2%。",
           "url": "https://flash.jin10.com/detail/20260207010644081800",
           "source": "金十数据",
@@ -231,6 +270,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "日本免税销售额持续下滑",
+          "url": "https://flash.jin10.com/detail/20260207110054483800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -259,6 +312,20 @@
           "time_info": "[02时38分 ~ 05时24分]"
         },
         {
+          "title": "据AXIOS网站：美国白宫计划于2月19日为加沙“和平委员会”举行领导人会议。",
+          "url": "https://flash.jin10.com/detail/20260207104933551800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
+        },
+        {
           "title": "美国芝商所（CME）：我们注意到金属结算数据发布出现延迟，技术支持团队已介入处理。",
           "url": "https://wallstreetcn.com/livenews/3051593",
           "source": "华尔街见闻-快讯",
@@ -282,41 +349,16 @@
           "time_info": "[03时33分 ~ 07时18分]"
         },
         {
-          "title": "美常驻联合国代表：美国将向联合国支付部分拖欠会费",
-          "url": "https://wallstreetcn.com/livenews/3051684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
-        },
-        {
-          "title": "敏感时刻，一个罕见情况在日本出现",
-          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时33分]"
-        },
-        {
-          "title": "日本免税销售额持续下滑",
-          "url": "https://flash.jin10.com/detail/20260207110054483800",
+          "title": "美国联邦航空局航行通告：波兰卢布林与热舒夫管制区/终端管制区因涉及确保国家安全的计划外军事活动而暂时不可用。",
+          "url": "https://flash.jin10.com/detail/20260207133733468800",
           "source": "金十数据",
           "ranks": [
-            3,
-            6,
-            8
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时27分]"
         },
         {
           "title": "美国发生两起小型飞机坠毁事故 已致1死1伤",
@@ -328,19 +370,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时18分]"
-        },
-        {
-          "title": "据AXIOS网站：美国白宫计划于2月19日为加沙“和平委员会”举行领导人会议。",
-          "url": "https://flash.jin10.com/detail/20260207104933551800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
         },
         {
           "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
@@ -458,6 +487,17 @@
           "time_info": "[09时15分 ~ 13时37分]"
         },
         {
+          "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
+          "url": "https://news.ifeng.com/c/8qY33XqGNml",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 15时27分]"
+        },
+        {
           "title": "美国能源信息署：美国11月石油总需求同比下降0.7%，或14万桶/日，至2022.7万桶/日（10月降幅为1.9%）。",
           "url": "https://flash.jin10.com/detail/20260207040004786800",
           "source": "金十数据",
@@ -504,6 +544,20 @@
           "time_info": "[02时38分 ~ 03时33分]"
         },
         {
+          "title": "古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁",
+          "url": "https://flash.jin10.com/detail/20260207103825838800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国11月汽油需求同比下降1.7%，或15.2万桶/日，至868万桶/日（而10月降幅为2.0%）。",
           "url": "https://flash.jin10.com/detail/20260207035906454800",
           "source": "金十数据",
@@ -515,6 +569,20 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
+          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
+          "url": "https://flash.jin10.com/detail/20260207095625549800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
+        },
+        {
           "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
           "url": "https://flash.jin10.com/detail/20260207034858058800",
           "source": "金十数据",
@@ -524,6 +592,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时27分]"
         },
         {
           "title": "据华尔街日报：根据法庭传票，美国司法部正在询问奈飞(NFLX.O)是否从事可能导致垄断的“排他性行为”。",
@@ -559,15 +641,16 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
-          "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
-          "url": "https://news.ifeng.com/c/8qY33XqGNml",
-          "source": "凤凰网",
+          "title": "美国副总统在冬奥开幕式遭狂嘘",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E9%81%AD%E7%8B%82%E5%98%98",
+          "source": "百度热搜",
           "ranks": [
-            8
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 15时27分]"
         },
         {
           "title": "美国FDA采取行动，打击“山寨版”减肥药",
@@ -581,19 +664,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时15分]"
-        },
-        {
-          "title": "古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁",
-          "url": "https://flash.jin10.com/detail/20260207103825838800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -674,19 +744,6 @@
           "time_info": "[06时16分 ~ 09时15分]"
         },
         {
-          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
-          "url": "https://flash.jin10.com/detail/20260207095625549800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
-        },
-        {
           "title": "美国2月6日当周天然气钻井数 130，前值 125。",
           "url": "https://wallstreetcn.com/livenews/3051582",
           "source": "华尔街见闻-快讯",
@@ -713,19 +770,6 @@
           "time_info": "[02时38分 ~ 04时25分]"
         },
         {
-          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
-          "url": "https://wallstreetcn.com/livenews/3051669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时33分]"
-        },
-        {
           "title": "美国2月6日当周总钻井数 551，前值 546。",
           "url": "https://wallstreetcn.com/livenews/3051580",
           "source": "华尔街见闻-快讯",
@@ -750,6 +794,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
+          "url": "https://wallstreetcn.com/livenews/3051691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时27分]"
         },
         {
           "title": "美国驻联合国特使迈克·沃尔茨：美国计划在数周内就拖欠联合国的数十亿美元债务支付首笔款项。",
@@ -783,17 +840,6 @@
           "source": "今日头条",
           "ranks": [
             29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时33分]"
-        },
-        {
-          "title": "美国副总统在冬奥开幕式遭狂嘘",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E9%81%AD%E7%8B%82%E5%98%98",
-          "source": "百度热搜",
-          "ranks": [
             30
           ],
           "is_new": false,
@@ -1003,18 +1049,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时37分]"
-        },
-        {
-          "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
-          "url": "https://wallstreetcn.com/livenews/3051691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时33分]"
         },
         {
           "title": "乌克兰能源部长Shmyhal：与美国能源部长Wright讨论了美国发货液化天然气（LNG）的事宜。",
@@ -1425,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国将向联合国支付部分拖欠会费",
+          "url": "https://www.toutiao.com/trending/7603301984086704169/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "伊朗向地区外交官通报情况：德黑兰在与美国的会谈中坚持其“铀浓缩权利”。",
