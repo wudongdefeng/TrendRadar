@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T09:15:29.930921+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-02-07T12:02:17.464385+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 111,
+      "match_count": 118,
       "titles": [
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -19,24 +19,25 @@
           "time_info": "[00时35分 ~ 09时15分]"
         },
         {
-          "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
-          "url": "https://news.ifeng.com/c/8qWmpB37rDV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 09时15分]"
-        },
-        {
           "title": "立陶宛承认开设台湾代表处是错误，外交部：同立方沟通大门始终敞开",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549545",
           "source": "澎湃新闻",
           "ranks": [
             6,
             8,
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 12时02分]"
+        },
+        {
+          "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
+          "url": "https://news.ifeng.com/c/8qWmpB37rDV",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 09时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 12时02分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -61,11 +62,12 @@
           "ranks": [
             17,
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 09时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 12时02分]"
         },
         {
           "title": "日本挖到稀土泥 中方回应亮了",
@@ -118,9 +120,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
+          "title": "美伊谈判之际，美国继续向中东调派战机",
+          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。",
@@ -148,17 +161,6 @@
           "time_info": "[02时38分 ~ 07时18分]"
         },
         {
-          "title": "美伊谈判之际，美国继续向中东调派战机",
-          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "克里姆林宫发言人佩斯科夫：有关乌克兰问题的新一轮谈判即将举行，目前还没有确切的日期。目前没有计划在美国举行下一轮谈判，也没有就此进行过讨论。",
           "url": "https://flash.jin10.com/detail/20260207010811530800",
           "source": "金十数据",
@@ -168,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "美常驻联合国代表：美国将向联合国支付部分拖欠会费",
+          "url": "https://wallstreetcn.com/livenews/3051684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
@@ -181,6 +194,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "日本免税销售额持续下滑",
+          "url": "https://flash.jin10.com/detail/20260207110054483800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国股指延续涨势，道指涨2%。",
           "url": "https://flash.jin10.com/detail/20260207010644081800",
           "source": "金十数据",
@@ -192,15 +216,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "title": "据AXIOS网站：美国白宫计划于2月19日为加沙“和平委员会”举行领导人会议。",
+          "url": "https://flash.jin10.com/detail/20260207104933551800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时02分"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -302,6 +326,19 @@
           "time_info": "[06时16分 ~ 09时15分]"
         },
         {
+          "title": "日本再度达到流感流行警报级别",
+          "url": "https://wallstreetcn.com/livenews/3051648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 12时02分]"
+        },
+        {
           "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
           "url": "https://flash.jin10.com/detail/20260207040013468800",
           "source": "金十数据",
@@ -324,18 +361,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时16分]"
-        },
-        {
-          "title": "日本再度达到流感流行警报级别",
-          "url": "https://wallstreetcn.com/livenews/3051648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时15分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -373,6 +398,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时18分]"
+        },
+        {
+          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "美国能源信息署：11月馏分油需求较去年增长3.2%，或11.6万桶/日，至379.6万桶/日（10月则下降1.4%）。",
@@ -451,6 +488,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时18分]"
+        },
+        {
+          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 12时02分]"
         },
         {
           "title": "美国FDA采取行动，打击“山寨版”减肥药",
@@ -609,6 +659,18 @@
           "time_info": "[02时38分 ~ 04时25分]"
         },
         {
+          "title": "台湾102岁老人娶68岁看护 子女抢人",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE102%E5%B2%81%E8%80%81%E4%BA%BA%E5%A8%B668%E5%B2%81%E7%9C%8B%E6%8A%A4+%E5%AD%90%E5%A5%B3%E6%8A%A2%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
           "title": "美国能源信息署（EIA）将10月石油产量下调6000桶/日，至1386.4万桶/日。",
           "url": "https://flash.jin10.com/detail/20260207021051631800",
           "source": "金十数据",
@@ -619,6 +681,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时33分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不得拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260207083216996800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与乌克兰进行非常良好的会谈。",
+          "url": "https://flash.jin10.com/detail/20260207083136238800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我们有充足的时间来处理伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20260207083122839800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -645,6 +743,18 @@
           "time_info": "[01时37分 ~ 02时38分]"
         },
         {
+          "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260207083052569800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
           "title": "美银策略师认定科技巨头失宠，美国中期选举前看好中小盘股",
           "url": "https://wallstreetcn.com/livenews/3051545",
           "source": "华尔街见闻-快讯",
@@ -669,16 +779,16 @@
           "time_info": "[07时18分 ~ 09时15分]"
         },
         {
-          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
+          "url": "https://flash.jin10.com/detail/20260207083032901800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            10
+            10,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时15分]"
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "俄罗斯经济在2025年增长1%。",
@@ -691,6 +801,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时37分]"
+        },
+        {
+          "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
+          "url": "https://flash.jin10.com/detail/20260207083019927800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "俄罗斯12月工业产出同比增长3.7%。",
@@ -715,6 +837,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时16分]"
+        },
+        {
+          "title": "敏感时刻，一个罕见情况在日本出现",
+          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "美国芝商所：留意到金属结算数据发布出现延迟，技术团队已介入",
@@ -789,26 +922,15 @@
           "time_info": "[00时35分 ~ 01时37分]"
         },
         {
-          "title": "美国总统特朗普：伊朗不得拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260207083216996800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "美国总统特朗普：正在与乌克兰进行非常良好的会谈。",
-          "url": "https://flash.jin10.com/detail/20260207083136238800",
+          "title": "古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁",
+          "url": "https://flash.jin10.com/detail/20260207103825838800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时02分"
         },
         {
           "title": "贝克休斯油服：美国钻井公司连续第三周增加石油和天然气钻井。",
@@ -822,17 +944,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "美国总统特朗普：我们有充足的时间来处理伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20260207083122839800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "美国至2月6日当周天然气钻井总数 130口，前值125口。",
           "url": "https://flash.jin10.com/detail/20260207020143004800",
           "source": "金十数据",
@@ -842,17 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260207083052569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
         },
         {
           "title": "美国至2月6日当周总钻井总数 551口，前值546口。",
@@ -866,17 +966,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
-          "url": "https://flash.jin10.com/detail/20260207083032901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "美国至2月6日当周石油钻井总数 412口，前值411口。",
           "url": "https://flash.jin10.com/detail/20260207020050020800",
           "source": "金十数据",
@@ -888,26 +977,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
-          "url": "https://flash.jin10.com/detail/20260207083019927800",
+          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
+          "url": "https://flash.jin10.com/detail/20260207095625549800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "敏感时刻，一个罕见情况在日本出现",
-          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
@@ -916,9 +994,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "美国逮捕一名袭击美驻利比亚领事馆嫌疑人",
@@ -960,7 +1049,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -985,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国驻联合国特使迈克·沃尔茨：美国计划在数周内就拖欠联合国的数十亿美元债务支付首笔款项。",
+          "url": "https://flash.jin10.com/detail/20260207092931142800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年GDP同比增幅为1%，而2024年为4.9%。",
@@ -1053,17 +1153,6 @@
           "time_info": "03时33分"
         },
         {
-          "title": "台湾102岁老人娶68岁看护 子女抢人",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE102%E5%B2%81%E8%80%81%E4%BA%BA%E5%A8%B668%E5%B2%81%E7%9C%8B%E6%8A%A4+%E5%AD%90%E5%A5%B3%E6%8A%A2%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "乌克兰能源部长：乌克兰提供天然气储存设施用于存储美国液化天然气供应。",
           "url": "https://flash.jin10.com/detail/20260206234145905800",
           "source": "金十数据",
@@ -1092,7 +1181,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -1268,7 +1357,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
