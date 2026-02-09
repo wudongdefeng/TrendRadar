@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T14:03:35.762750+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-02-09T15:51:57.937646+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 111,
+      "match_count": 123,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -62,26 +62,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时03分]"
-        },
-        {
-          "title": "日本执政联盟将获众议院过半议席",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            28,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时51分]"
         },
         {
           "title": "欧盟各国如何应对美国威胁",
@@ -98,8 +84,24 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时51分]"
+        },
+        {
+          "title": "日本执政联盟将获众议院过半议席",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            28,
+            23,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时51分]"
         },
         {
           "title": "王楚钦暴打张本,击溃日本夺冠",
@@ -108,11 +110,12 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时51分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -278,6 +281,29 @@
           "time_info": "[00时21分 ~ 06时19分]"
         },
         {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时51分]"
+        },
+        {
+          "title": "日本众议院选举结果公布：执政联盟获得过半数议席",
+          "url": "https://www.cls.cn/detail/2284063",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时51分]"
+        },
+        {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260208232345943800",
           "source": "金十数据",
@@ -323,28 +349,6 @@
           "time_info": "[00时21分 ~ 06时19分]"
         },
         {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时03分]"
-        },
-        {
-          "title": "日本众议院选举结果公布：执政联盟获得过半数议席",
-          "url": "https://www.cls.cn/detail/2284063",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时03分]"
-        },
-        {
           "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
           "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
@@ -378,6 +382,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时20分]"
+        },
+        {
+          "title": "日本执政联盟获得过半数议席",
+          "url": "https://www.douyin.com/hot/2394137",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时51分]"
         },
         {
           "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
@@ -441,6 +459,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "日本彻底右转",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%8F%B3%E8%BD%AC%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "日本五年期国债收益率上升3个基点，至1.715%。",
           "url": "https://flash.jin10.com/detail/20260209090120641800",
           "source": "金十数据",
@@ -458,9 +487,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260209153806428800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "日经225指数CME期货走高，现涨2.2%。在8日举行的日本众议院选举中，由自民党和日本维新会组成的执政联盟获得过半数议席。",
@@ -502,7 +542,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -513,7 +553,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -524,7 +564,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -540,6 +580,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时23分 ~ 14时03分]"
+        },
+        {
+          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2003926420188000507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时51分]"
         },
         {
           "title": "分析：日本执政党拿下多数席位 市场将迎更多财政刺激",
@@ -570,22 +623,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
         {
-          "title": "日本执政联盟获得过半数议席",
-          "url": "https://www.douyin.com/hot/2394137",
-          "source": "抖音",
+          "title": "外交部：日本是走和平道路还是逆历史潮流值得深思",
+          "url": "https://wallstreetcn.com/livenews/3052159",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
             10,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时03分]"
+          "time_info": "[09时22分 ~ 15时51分]"
         },
         {
           "title": "出口民调：日本执政联盟将获得众议院过半数议席",
@@ -678,6 +742,19 @@
           "time_info": "[00时21分 ~ 04时18分]"
         },
         {
+          "title": "日本大选结果冲击市场：日元跌至两周新低 日股创历史新高",
+          "url": "https://www.cls.cn/detail/2284129",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时51分]"
+        },
+        {
           "title": "日本耍赖，拒还中国“头号流失国宝”(图)",
           "url": "https://news.ifeng.com/c/8qaoq4HucSU",
           "source": "凤凰网",
@@ -712,19 +789,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 14时03分]"
-        },
-        {
-          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2003926420188000507",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时03分]"
         },
         {
           "title": "日本财相准备周一与市场沟通安抚情绪",
@@ -763,19 +827,6 @@
           "time_info": "[06时19分 ~ 07时23分]"
         },
         {
-          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时03分]"
-        },
-        {
           "title": "美国总统特朗普：正从明尼阿波利斯撤走（国土安全部/DHS）官员，他们在当地做得不错。",
           "url": "https://wallstreetcn.com/livenews/3051849",
           "source": "华尔街见闻-快讯",
@@ -788,6 +839,17 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
+          "title": "台湾桃园机场10分钟内3个航班发出求救信号",
+          "url": "https://news.ifeng.com/c/8qb6zL28MJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 15时51分]"
+        },
+        {
           "title": "美国传奇选手冬奥比赛中摔倒重伤",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%A0%E5%A5%87%E9%80%89%E6%89%8B%E5%86%AC%E5%A5%A5%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%91%94%E5%80%92%E9%87%8D%E4%BC%A4",
           "source": "百度热搜",
@@ -798,18 +860,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 12时19分]"
-        },
-        {
-          "title": "日本大选结果冲击市场：日元跌至两周新低 日股创历史新高",
-          "url": "https://www.cls.cn/detail/2284129",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时03分]"
         },
         {
           "title": "周一悉尼盘初，美元兑日元涨0.3%，暂报157.68。 日本财相片山皋月软硬兼施，称若有需要周一会和市场沟通。 “日本和美国签署了谅解备忘录，明确规定我们可以对脱离基本面的快速波动采取果断措施，” 片山说，“那当然包括干预。” 片山说她正密切关注金融市场，同时强调奉行负责任的财政政策。",
@@ -848,6 +898,29 @@
           "time_info": "[12时19分 ~ 14时03分]"
         },
         {
+          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
+          "url": "https://wallstreetcn.com/articles/3765261",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时51分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时51分]"
+        },
+        {
           "title": "日本众议院选举结果",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -859,15 +932,16 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "台湾桃园机场10分钟内3个航班发出求救信号",
-          "url": "https://news.ifeng.com/c/8qb6zL28MJE",
-          "source": "凤凰网",
+          "title": "中国特警vs美国特警",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AD%A6vs%E7%BE%8E%E5%9B%BD%E7%89%B9%E8%AD%A6&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            13,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时03分]"
+          "time_info": "[14时03分 ~ 15时51分]"
         },
         {
           "title": "美国FBI诱捕爱泼斯坦管家视频曝光",
@@ -879,6 +953,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "日本应在靖国神社等问题谨言慎行",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BA%94%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%AD%89%E9%97%AE%E9%A2%98%E8%B0%A8%E8%A8%80%E6%85%8E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "选举大败，日本最大在野党代表引咎辞职",
+          "url": "https://news.ifeng.com/c/8qbTm7hXVwo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "日本10年期国债收益率上行4.5个基点至2.275%。 日本5年期国债收益率上行至1.725%，创2001年有记录以来的最高水平。",
@@ -920,20 +1016,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
         {
-          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
-          "url": "https://wallstreetcn.com/articles/3765261",
-          "source": "华尔街见闻",
+          "title": "外交部回应日本自民党胜选",
+          "url": "https://www.douyin.com/hot/2394913",
+          "source": "抖音",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "15时51分"
         },
         {
           "title": "5年期日本国债收益率上升4.0个基点，至1.725%。20年期日本国债收益率上升1.5个基点，至3.145%。",
@@ -986,7 +1082,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -997,7 +1093,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -1008,9 +1104,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "日本股市连破三道大关创下新高 显示出市场愿意暂时信任高市早苗政府",
+          "url": "https://flash.jin10.com/detail/20260209151611623800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "日本10年期国债收益率上涨4.5个基点，至2.275%。",
@@ -1024,26 +1131,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "中国特警vs美国特警",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AD%A6vs%E7%BE%8E%E5%9B%BD%E7%89%B9%E8%AD%A6&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "外交部：日本应在靖国神社等重大历史问题上谨言慎行",
+          "url": "https://wallstreetcn.com/livenews/3052150",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "15时51分"
         },
         {
           "title": "摩根大通将2026年年底日经225指数目标上调至61000点，此前目标为60000点；将日本东证指数2026年年底目标上调至4100点。",
@@ -1052,9 +1148,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "外交部：无论日本领导人是谁都必须恪守中日四个政治文件",
+          "url": "https://wallstreetcn.com/livenews/3052149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "瑞穗：日本众议院选举结果揭晓后，日元看跌",
@@ -1074,9 +1181,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：（谈美俄关系）在经济领域，我们看不到任何光明的前景。",
+          "url": "https://flash.jin10.com/detail/20260209151248139800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "新西兰银行：日本众议院选举结果巩固了日元走软的前景",
@@ -1096,9 +1214,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯外长拉夫罗夫表示，俄罗斯仍对与美国合作持开放态度，但正是美国自己在制造人为障碍。",
+          "url": "https://flash.jin10.com/detail/20260209150910802800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获得过半数议席",
@@ -1129,7 +1258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -1140,7 +1269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -1211,6 +1340,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "美国FBI诱捕爱泼斯坦管家视频曝光",
+          "url": "https://www.toutiao.com/trending/7603725573000691762/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "日本30年期国债收益率上涨6.5个基点，至3.615%。",
           "url": "https://flash.jin10.com/detail/20260209075120075800",
           "source": "金十数据",
@@ -1239,7 +1379,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
