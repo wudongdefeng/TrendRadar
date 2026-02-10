@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T12:27:05.383904+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-02-10T14:08:43.728371+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 96,
+      "match_count": 108,
       "titles": [
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -38,11 +38,12 @@
             18,
             19,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 14时08分]"
         },
         {
           "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
@@ -64,11 +65,12 @@
             8,
             13,
             14,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时44分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[01时44分 ~ 14时08分]"
         },
         {
           "title": "日本执政联盟将获众议院过半议席",
@@ -83,8 +85,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 09时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时44分 ~ 14时08分]"
         },
         {
           "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
@@ -109,6 +111,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时44分 ~ 07时31分]"
+        },
+        {
+          "title": "“这是中方给日本的预警”",
+          "url": "https://news.ifeng.com/c/8qckmxWq8Sf",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 14时08分]"
         },
         {
           "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
@@ -150,18 +164,6 @@
           "time_info": "[01时44分 ~ 07时31分]"
         },
         {
-          "title": "“这是中方给日本的预警”",
-          "url": "https://news.ifeng.com/c/8qckmxWq8Sf",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时27分]"
-        },
-        {
           "title": "慕尼黑安全报告对美国火力全开，美大使驳斥：绝不认同",
           "url": "https://news.ifeng.com/c/8qc7awIbvKX",
           "source": "凤凰网",
@@ -170,8 +172,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时27分]"
+          "time_info": "[12时26分 ~ 14时08分]"
         },
         {
           "title": "评论员：日本对外国人不再友好",
@@ -203,26 +217,26 @@
           "time_info": "[03时58分 ~ 07时31分]"
         },
         {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "日本经济产业大臣赤泽亮正：计划于2月11日至14日访问美国，商讨日本的投资计划。",
           "url": "https://flash.jin10.com/detail/20260210120317204800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "20年期日本国债收益率下跌5.0个基点至3.115%。",
+          "url": "https://flash.jin10.com/detail/20260210140106716800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -231,7 +245,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -264,7 +278,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -291,6 +305,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "40年期日本国债收益率下跌8.0个基点至3.735%。",
+          "url": "https://flash.jin10.com/detail/20260210135240844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -311,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "台湾桃园机场 10 分钟内 3 个航班发出「Mayday」求救信号，什么情况会发出该信号？发生了什么？",
+          "url": "https://www.zhihu.com/question/2004135673645462043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国众议院民主党成员们可能会在周三强行表决撤销加拿大关税。（PunchBowl）",
@@ -336,6 +372,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
+          "url": "https://www.zhihu.com/question/2001734144858793345",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 14时08分]"
         },
         {
           "title": "孟加拉国首席顾问：美国承诺建立机制，使来自孟加拉国的特定纺织品和服装在美国享受零关税。",
@@ -398,18 +447,6 @@
           "time_info": "[04时37分 ~ 05时33分]"
         },
         {
-          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
-          "url": "https://www.zhihu.com/question/2001734144858793345",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时27分]"
-        },
-        {
           "title": "外交部回应日本自民党胜选",
           "url": "https://www.douyin.com/hot/2394913",
           "source": "抖音",
@@ -418,8 +455,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 14时08分]"
         },
         {
           "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
@@ -429,8 +466,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时08分]"
+        },
+        {
+          "title": "俄罗斯经济快撑不住了吗",
+          "url": "https://www.toutiao.com/trending/7605054942725803556/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时08分]"
         },
         {
           "title": "孟加拉国首席顾问：美国将进一步把对等关税降至19%。",
@@ -649,24 +698,13 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
-          "title": "俄罗斯经济快撑不住了吗",
-          "url": "https://www.toutiao.com/trending/7605054942725803556/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "10年期日本国债收益率下跌4.0个基点，至2.250%。",
           "url": "https://flash.jin10.com/detail/20260210113433777800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -737,6 +775,28 @@
           "time_info": "09时31分"
         },
         {
+          "title": "日本2月18日举行首相指名选举",
+          "url": "https://flash.jin10.com/detail/20260210132825793800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：乌克兰问题谈判任重道远。",
+          "url": "https://flash.jin10.com/detail/20260210132038513800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
           "url": "https://wallstreetcn.com/livenews/3052545",
           "source": "华尔街见闻-快讯",
@@ -746,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "中国台湾证交所股价指数收高2.1%，报33072.97点。",
+          "url": "https://wallstreetcn.com/livenews/3052744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国军方：在东太平洋对一艘船只发动了打击，击毙两人，一人幸存。",
@@ -759,6 +830,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "日本气象厅表示，夏季出现厄尔尼诺现象的概率为60%。",
+          "url": "https://flash.jin10.com/detail/20260210125658319800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "日本5年期国债收益率下跌2.5个基点，至1.715%。",
           "url": "https://flash.jin10.com/detail/20260210084125660800",
           "source": "金十数据",
@@ -768,6 +850,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "日本气象厅表示，春季出现正常天气状况的概率为50%，出现厄尔尼诺现象的概率也为50%。",
+          "url": "https://flash.jin10.com/detail/20260210125537655800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "美国能源部长拟访问委内瑞拉，称推翻马杜罗政权不是为了石油",
+          "url": "https://www.cls.cn/detail/2285127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
@@ -853,7 +957,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -886,9 +990,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "日本40年期国债收益率下行7.5个基点，至3.74%。",
+          "url": "https://wallstreetcn.com/livenews/3052729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "日本10年期国债收益率下跌3.5个基点，至2.255%。",
@@ -1001,6 +1116,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "日本30年期国债收益率下行6个基点至3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3052719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国至2月9日3个月国债竞拍-得标利率 3.6%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260210003206789800",
           "source": "金十数据",
@@ -1018,7 +1144,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1051,7 +1177,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1078,6 +1204,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "日本经济产业大臣拟访问美国，与美商务部长卢特尼克讨论投资项目",
+          "url": "https://wallstreetcn.com/livenews/3052715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国至2月9日6个月国债竞拍-得标利率 3.5%，前值3.53%。",
           "url": "https://flash.jin10.com/detail/20260210003203739800",
           "source": "金十数据",
@@ -1095,7 +1232,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1117,7 +1254,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -1132,11 +1269,12 @@
           "url": "https://www.toutiao.com/trending/7604967211082580011/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时08分]"
         }
       ]
     }
