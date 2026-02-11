@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T01:54:46.059899+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-12T02:53:37.304756+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 45,
+      "match_count": 60,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "今夜，美国非农或现“百万级”下修",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -48,20 +48,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
         {
-          "title": "德债收益率在美国非农日冲高回落，长端德债收益率跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3053896",
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时53分"
         },
         {
           "title": "美国财长贝森特：非农就业数据超过预期。",
@@ -70,18 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美国财政部长贝森特：非农就业人口超过预期。",
-          "url": "https://wallstreetcn.com/livenews/3053895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -95,6 +84,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "加拿大央行会议纪要：地缘政治紧张局势和美国贸易政策依然难以预测。",
+          "url": "https://flash.jin10.com/detail/20260212023158409800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "摩根大通：如果美国核心CPI接近、或低于分析师预期，预计标普500指数上涨的概率为70%。",
+          "url": "https://wallstreetcn.com/livenews/3053912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国至2月11日4个月国债竞拍-得标利率配置百分比 84.52%，前值12.58%。",
@@ -145,6 +156,18 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
+          "title": "德债收益率在美国非农日冲高回落，长端德债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3053896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时53分]"
+        },
+        {
           "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
           "url": "https://flash.jin10.com/detail/20260212003139866800",
           "source": "金十数据",
@@ -157,6 +180,18 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
+          "title": "美国财政部长贝森特：非农就业人口超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3053895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时53分]"
+        },
+        {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
           "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
           "source": "凤凰网",
@@ -164,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "美国指责中国开展核爆炸试验，外交部驳斥",
@@ -173,11 +208,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "中国女特警实力碾压美国男队",
@@ -185,11 +221,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
@@ -199,8 +236,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
         },
         {
           "title": "中国女子特警队实力碾压美国男队",
@@ -211,8 +248,20 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时53分]"
+        },
+        {
+          "title": "欧洲央行Schnabel：欧洲是一个拥有“巨大潜力的”大陆。",
+          "url": "https://wallstreetcn.com/livenews/3053886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "time_info": "[01时54分 ~ 02时53分]"
         },
         {
           "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
@@ -243,9 +292,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "Meta跌幅扩大至2%，刷新日低。 该公司“Dear Algo”已经在美国、新西兰、澳大利亚、英国上线。",
+          "url": "https://wallstreetcn.com/livenews/3053908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "伊朗议会安全委员会主席：相信美国已经避免了对伊朗采取军事行动。",
@@ -265,7 +325,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -279,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
+          "url": "https://wallstreetcn.com/livenews/3053907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -303,15 +374,37 @@
           "time_info": "00时57分"
         },
         {
-          "title": "欧洲央行Schnabel：欧洲是一个拥有“巨大潜力的”大陆。",
-          "url": "https://wallstreetcn.com/livenews/3053886",
+          "title": "Meta斥资逾100亿美元，在美国印第安纳州建设数据中心",
+          "url": "https://wallstreetcn.com/livenews/3053904",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国能源部：美国能源部长赖特将与委内瑞拉临时总统罗德里格斯会面。",
+          "url": "https://flash.jin10.com/detail/20260212022640580800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国能源部：美国能源部长赖特也将访问委内瑞拉的部分油田。",
+          "url": "https://flash.jin10.com/detail/20260212022551343800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国政府发放一批通用许可证，允许多家油田服务公司可以在特定限制条件下进入委内瑞拉展开业务。",
@@ -325,13 +418,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国能源部：美国能源部长赖特在访问期间将直接与委内瑞拉临时领导层接触。",
+          "url": "https://flash.jin10.com/detail/20260212022533484800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
           "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
           "url": "https://wallstreetcn.com/livenews/3053882",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -358,6 +462,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "摩根大通：如果美国核心CPI接近或低于分析师预期，预计标普500指数上涨的概率为70%。",
+          "url": "https://flash.jin10.com/detail/20260212021913646800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3053849",
           "source": "华尔街见闻-快讯",
@@ -375,7 +490,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -408,9 +523,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：欧洲需要论据来向俄罗斯施压，而不仅仅是空谈。",
+          "url": "https://flash.jin10.com/detail/20260212021507830800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国2月6日当周EIA精炼厂设备利用率变化 -1.1%，预期 -0.5%，前值 -0.4%。",
@@ -452,7 +578,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -479,6 +605,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "乌克兰总统泽连斯基：只有美国加大对俄罗斯的压力，才有可能在夏季前结束战争。",
+          "url": "https://flash.jin10.com/detail/20260212020511803800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
           "title": "美国2月6日当周EIA原油库存变动 853万桶，预期 -2.4万桶，前值 -345.5万桶。",
           "url": "https://wallstreetcn.com/livenews/3053843",
           "source": "华尔街见闻-快讯",
@@ -499,6 +636,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "英国国防大臣：英国将向PURL倡议投入1.5亿英镑，用于向乌克兰提供美国武器。",
+          "url": "https://flash.jin10.com/detail/20260212020433983800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国10年期国债收益率在国债拍卖后走高，最新报4.168%，上涨2.3个基点。",
+          "url": "https://flash.jin10.com/detail/20260212020343791800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：“Dear Algo”现已在美国、新西兰、澳大利亚和英国上线。",
+          "url": "https://flash.jin10.com/detail/20260212020320696800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
@@ -522,11 +692,12 @@
           "url": "https://www.toutiao.com/trending/7605018736370991131/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时53分]"
         }
       ]
     }
