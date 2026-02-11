@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:31:20.165795+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-12T06:23:27.193236+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 103,
+      "match_count": 127,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
         },
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -28,19 +28,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
         },
         {
           "title": "今夜，美国非农或现“百万级”下修",
           "url": "https://wallstreetcn.com/articles/3765468",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
         },
         {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
@@ -50,8 +51,51 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
+        },
+        {
+          "title": "中国女子特警队实力碾压美国男队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            23,
+            18,
+            7,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
+        },
+        {
+          "title": "中国女特警实力碾压美国男队",
+          "url": "https://www.toutiao.com/trending/7605420621232623131/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9,
+            27,
+            10,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
+        },
+        {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时23分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -67,67 +111,37 @@
           "time_info": "[03时52分 ~ 05时31分]"
         },
         {
-          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/3053969",
+          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
+          "url": "https://wallstreetcn.com/livenews/3053985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
-          "title": "中国女子特警队实力碾压美国男队",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
+          "url": "https://flash.jin10.com/detail/20260212055211838800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            23,
-            18,
-            7,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
-          "title": "中国女特警实力碾压美国男队",
-          "url": "https://www.toutiao.com/trending/7605420621232623131/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            9,
-            27,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
-        },
-        {
-          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时31分]"
-        },
-        {
-          "title": "委内瑞拉代总统Rodriguez：寻找尽快推进（与美国合作的）方式。",
-          "url": "https://wallstreetcn.com/livenews/3053968",
+          "title": "美国联邦贸易委员会（FTC）官员Ferguson写信给苹果公司CEO库克，谈及苹果新闻（Apple News）。 Ferguson自称对该服务相关的内容感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3053984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -141,15 +155,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美联储理事米兰：如果获得（美国总统提名），我很乐意（长期性地）留在美联储。",
-          "url": "https://wallstreetcn.com/livenews/3053967",
+          "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
           "title": "美国财长贝森特：非农就业数据超过预期。",
@@ -169,9 +183,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美联储哈玛克：美国政府债务正走在一条不可持续的道路上，必须加以解决。",
+          "url": "https://flash.jin10.com/detail/20260212055130754800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
@@ -202,20 +227,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
         {
-          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053965",
+          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212055115912800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普兜售标普和道指创新高。",
+          "url": "https://wallstreetcn.com/livenews/3053981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -319,6 +355,18 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
           "url": "https://flash.jin10.com/detail/20260212032127249800",
           "source": "金十数据",
@@ -355,6 +403,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时54分]"
+        },
+        {
+          "title": "委内瑞拉代总统Rodriguez：寻找尽快推进（与美国合作的）方式。",
+          "url": "https://wallstreetcn.com/livenews/3053968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
         },
         {
           "title": "美国财长贝森特：我认为未来几个月制造业工作岗位将会增加。",
@@ -407,6 +467,18 @@
           "time_info": "[01时54分 ~ 02时53分]"
         },
         {
+          "title": "美联储理事米兰：如果获得（美国总统提名），我很乐意（长期性地）留在美联储。",
+          "url": "https://wallstreetcn.com/livenews/3053967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
           "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
           "url": "https://flash.jin10.com/detail/20260212003139866800",
           "source": "金十数据",
@@ -429,6 +501,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时53分]"
+        },
+        {
+          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
         },
         {
           "title": "美国财长贝森特：我预计建筑业就业岗位将继续增加。",
@@ -583,6 +667,18 @@
           "time_info": "[02时53分 ~ 03时52分]"
         },
         {
+          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
+          "url": "https://wallstreetcn.com/livenews/3053959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
           "title": "美国本财年至今关税收入飙升逾300%",
           "url": "https://flash.jin10.com/detail/20260212033122882800",
           "source": "金十数据",
@@ -641,6 +737,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时53分]"
+        },
+        {
+          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
         },
         {
           "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
@@ -713,6 +821,39 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
+          "url": "https://wallstreetcn.com/livenews/3053980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212054736263800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：向世界各地出口煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "两位安全消息人士称，美国领导的打击“伊斯兰国”联盟部队已从叙利亚的阿尔坦夫基地撤往约旦。",
           "url": "https://flash.jin10.com/detail/20260212011136086800",
           "source": "金十数据",
@@ -722,6 +863,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货黄金涨1.06%，报5078.98美元/盎司，北京时间20:00刷新日高至5119.30美元，随后在美国非农就业报告发布时跳水至5020.28美元刷新日低，1月30日以来持续测试5000美元整数位心理关口。 COMEX黄金期货涨1.48%，报5105.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "伊朗议会安全委员会主席：相信美国已经避免了对伊朗采取军事行动。",
@@ -746,6 +920,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "俄罗斯2月9日当周CPI周环比上升0.13%，2026年迄今累计上升2.24%。",
           "url": "https://wallstreetcn.com/livenews/3053862",
           "source": "华尔街见闻-快讯",
@@ -757,15 +942,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
-          "url": "https://wallstreetcn.com/livenews/3053959",
+          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
+          "url": "https://wallstreetcn.com/livenews/3053974",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -801,6 +986,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
+          "url": "https://wallstreetcn.com/livenews/3053971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "美国能源部：美国能源部长赖特将与委内瑞拉临时总统罗德里格斯会面。",
           "url": "https://flash.jin10.com/detail/20260212022640580800",
           "source": "金十数据",
@@ -812,15 +1008,15 @@
           "time_info": "02时53分"
         },
         {
-          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3053953",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
+          "url": "https://flash.jin10.com/detail/20260212054108494800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时23分"
         },
         {
           "title": "美国能源部：美国能源部长赖特也将访问委内瑞拉的部分油田。",
@@ -832,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美国政府发放一批通用许可证，允许多家油田服务公司可以在特定限制条件下进入委内瑞拉展开业务。",
@@ -895,7 +1102,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -909,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
+          "url": "https://flash.jin10.com/detail/20260212053407550800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "摩根大通：如果美国核心CPI接近或低于分析师预期，预计标普500指数上涨的概率为70%。",
@@ -933,6 +1151,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "美国能源部长赖特：预计今年委内瑞拉的石油、天然气和电力产量将大幅增加。",
+          "url": "https://flash.jin10.com/detail/20260212053353627800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3053849",
           "source": "华尔街见闻-快讯",
@@ -950,7 +1179,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -975,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国能源部长赖特：美国不希望美洲发生冲突，也不希望采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260212052822629800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加853万桶，彭博用户预计增加300万桶、受访分析师预期减少20.4万桶，之前一周下降345.5万桶。 五个地区都在增加。",
@@ -1041,6 +1281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260212052606935800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美国2月6日当周EIA精炼厂设备利用率变化 -1.1%，预期 -0.5%，前值 -0.4%。",
@@ -1131,6 +1382,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "委内瑞拉代总统罗德里格斯：希望与美国的关系在没有障碍的情况下取得进展。",
+          "url": "https://flash.jin10.com/detail/20260212052327132800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "美国2月6日当周EIA原油库存变动 853万桶，预期 -2.4万桶，前值 -345.5万桶。",
           "url": "https://wallstreetcn.com/livenews/3053843",
           "source": "华尔街见闻-快讯",
@@ -1197,6 +1459,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "日本首相正开启东亚“潘多拉魔盒”",
+          "url": "https://www.toutiao.com/trending/7605523759625145883/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
           "url": "https://wallstreetcn.com/livenews/3053838",
           "source": "华尔街见闻-快讯",
@@ -1225,8 +1498,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时23分]"
         }
       ]
     }
