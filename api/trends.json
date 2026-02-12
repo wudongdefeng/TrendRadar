@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T00:49:47.529285+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T01:53:34.236130+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "俄罗斯宣布：从古巴接回公民",
+          "url": "https://news.ifeng.com/c/8qgZKCp5S0r",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "美国涉爱泼斯坦案听证会吵成一团，美司法部长与国会议员对喷 5 小时，庭审中透露了哪些关键信息？",
+          "url": "https://www.zhihu.com/question/2005250500040357518",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "已购买美国出售的委石油？中方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E8%B4%AD%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%94%AE%E7%9A%84%E5%A7%94%E7%9F%B3%E6%B2%B9%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -30,48 +63,15 @@
           "time_info": "00时49分"
         },
         {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
-          "url": "https://wallstreetcn.com/livenews/3054633",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
+          "url": "https://flash.jin10.com/detail/20260213014349442800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "俄罗斯宣布：从古巴接回公民",
-          "url": "https://news.ifeng.com/c/8qgZKCp5S0r",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国涉爱泼斯坦案听证会吵成一团，美司法部长与国会议员对喷 5 小时，庭审中透露了哪些关键信息？",
-          "url": "https://www.zhihu.com/question/2005250500040357518",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "已购买美国出售的委石油？中方回应",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E8%B4%AD%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%94%AE%E7%9A%84%E5%A7%94%E7%9F%B3%E6%B2%B9%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时53分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -85,6 +85,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "据CNBC：与关税相关的美国海关担保资金缺口在2025年将达到创纪录的35亿美元。",
           "url": "https://flash.jin10.com/detail/20260213003635236800",
           "source": "金十数据",
@@ -96,15 +107,98 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
+          "url": "https://wallstreetcn.com/livenews/3054633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.78。 拍卖八周期国债，得标利率3.630%，投标倍数2.88。",
           "url": "https://wallstreetcn.com/livenews/3054630",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "让美国造船业再次伟大？美媒：韩国人自己都不想干",
+          "url": "https://news.ifeng.com/c/8qgj9QlzvWC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "两艘美国海军舰艇发生碰撞",
+          "url": "https://www.douyin.com/hot/2398558",
+          "source": "抖音",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "为什么美国人说中国人是精灵族",
+          "url": "https://www.douyin.com/hot/2398088",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "两艘美国海军舰船相撞致2伤",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B9%E7%9B%B8%E6%92%9E%E8%87%B42%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "岚目镜观｜从执政美国到选举美国：2026中期选举与“两个美国”的另一面相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32584344",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
+        },
+        {
+          "title": "美国外交官唱《大东北我的家乡》拜年",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E5%94%B1%E3%80%8A%E5%A4%A7%E4%B8%9C%E5%8C%97%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%E3%80%8B%E6%8B%9C%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时53分]"
         },
         {
           "title": "美国参议院共和党领袖图恩预计参议院将对众议院提出的终止对加拿大征收关税的法案进行投票。",
@@ -118,15 +212,26 @@
           "time_info": "00时49分"
         },
         {
-          "title": "让美国造船业再次伟大？美媒：韩国人自己都不想干",
-          "url": "https://news.ifeng.com/c/8qgj9QlzvWC",
-          "source": "凤凰网",
+          "title": "美国众议院共和党针对加州养老基金发起ESG调查。",
+          "url": "https://wallstreetcn.com/livenews/3054654",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "C.H. Robinson跌幅扩大至24%，创美国IPO以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3054653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国至2月12日4周国债竞拍-投标倍数 2.78，前值2.85。",
@@ -140,20 +245,20 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国司法部反垄断负责人辞职",
+          "url": "https://flash.jin10.com/detail/20260213013744898800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "美国至2月12日4周国债竞拍-得标利率配置百分比 29.74%，前值30.35%。",
           "url": "https://flash.jin10.com/detail/20260213003204567800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "两艘美国海军舰艇发生碰撞",
-          "url": "https://www.douyin.com/hot/2398558",
-          "source": "抖音",
           "ranks": [
             10
           ],
@@ -184,15 +289,26 @@
           "time_info": "00时49分"
         },
         {
-          "title": "为什么美国人说中国人是精灵族",
-          "url": "https://www.douyin.com/hot/2398088",
-          "source": "抖音",
+          "title": "提醒：美国能源部长与委内瑞拉代总统在一个石油设施讲话。",
+          "url": "https://wallstreetcn.com/livenews/3054647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.09%，前值6.10%。",
+          "url": "https://wallstreetcn.com/livenews/3054644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
@@ -200,17 +316,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "岚目镜观｜从执政美国到选举美国：2026中期选举与“两个美国”的另一面相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32584344",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,15 +333,26 @@
           "time_info": "00时49分"
         },
         {
-          "title": "两艘美国海军舰船相撞致2伤",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B9%E7%9B%B8%E6%92%9E%E8%87%B42%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "以色列总理内塔尼亚胡动身离开白宫之前宣称：美国总统特朗普可能会与伊朗达成不错的协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3054639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国能源部长Wright：特朗普政府已经销售超过10亿美元委内瑞拉石油。 预计还将销售50亿美元委内瑞拉石油。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3054638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）主席Andrew N. Ferguson给苹果公司CEO库克发信。 该官员警告称，如果苹果错误地展示新闻服务Apple News、或违反其服务条款，该公司可能就违反FTC法令。",
@@ -250,22 +366,22 @@
           "time_info": "00时49分"
         },
         {
+          "title": "标普全球：美国超大规模科技企业再度大举投入资本支出。",
+          "url": "https://flash.jin10.com/detail/20260213011837767800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少2490亿立方英尺（分析师预计减少2571.4亿立方英尺），周环比降幅10.11%（之前一周下降12.75%），至2.21万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3054611",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国外交官唱《大东北我的家乡》拜年",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E5%94%B1%E3%80%8A%E5%A4%A7%E4%B8%9C%E5%8C%97%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%E3%80%8B%E6%8B%9C%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -281,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯再次对乌克兰能源部门发动大规模袭击。昨晚有24枚弹道导弹、1枚巡航导弹和200多架无人机攻击，其中相当一部分已被成功击落。",
+          "url": "https://flash.jin10.com/detail/20260213010905109800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "软银旗下日本支付应用PayPay正式提交美国IPO申请",
@@ -305,6 +432,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国能源部长赖特：美委合作“前途无量”。",
+          "url": "https://flash.jin10.com/detail/20260213010615952800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "挪威首相：美国政策使挪威面临“高度严峻”局面",
           "url": "https://wallstreetcn.com/livenews/3054605",
           "source": "华尔街见闻-快讯",
@@ -314,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3054631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国司法部反垄断主管盖尔·斯莱特宣布辞职。",
