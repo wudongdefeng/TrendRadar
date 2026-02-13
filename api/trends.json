@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:39:12.509992+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-02-13T23:35:31.313225+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 272,
+      "match_count": 286,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时34分 ~ 22时39分]"
+          "appearance_count": 11,
+          "time_info": "[16时34分 ~ 23时35分]"
         },
         {
           "title": "俄罗斯宣布：从古巴接回公民",
@@ -88,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时33分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时33分 ~ 23时35分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -100,8 +100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 22时39分]"
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 23时35分]"
         },
         {
           "title": "中方回应日本扣押中国渔船",
@@ -192,6 +192,17 @@
           "time_info": "[02时52分 ~ 09时25分]"
         },
         {
+          "title": "王毅与美国务卿鲁比奥会谈",
+          "url": "https://www.toutiao.com/trending/7605305923930718218/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时35分]"
+        },
+        {
           "title": "中方回应日本扣押中国渔船",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
           "source": "百度热搜",
@@ -234,17 +245,6 @@
           "time_info": "[12时13分 ~ 16时34分]"
         },
         {
-          "title": "王毅与美国务卿鲁比奥会谈",
-          "url": "https://www.toutiao.com/trending/7605305923930718218/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时39分]"
-        },
-        {
           "title": "俄罗斯发动大规模袭击",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
@@ -253,8 +253,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时33分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时33分 ~ 23时35分]"
         },
         {
           "title": "时隔4年 日本再次扣押中国大陆渔船",
@@ -336,15 +336,15 @@
           "time_info": "20时39分"
         },
         {
-          "title": "美国通胀超预期降温，市场押注年内三次降息概率对半开",
-          "url": "https://flash.jin10.com/detail/20260213221551842800",
+          "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
+          "url": "https://flash.jin10.com/detail/20260213231654274800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "23时35分"
         },
         {
           "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。",
@@ -364,7 +364,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -421,9 +421,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "丹麦国防大臣：我期望美国能够为北约的北极哨兵任务提供相关能力。",
@@ -457,6 +468,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "美国国防部就采购流程改革寻求业界意见。",
+          "url": "https://flash.jin10.com/detail/20260213230957744800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "美国劳工部寻求为工人提高AI培训。（Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
@@ -547,6 +580,29 @@
           "time_info": "19时26分"
         },
         {
+          "title": "美国财政部发布与委内瑞拉相关的通用许可证，允许部分涉及委内瑞拉国家石油公司的交易。美国授权就某些委内瑞拉投资展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260213230441630800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "王毅与美国务卿鲁比奥会谈",
+          "url": "https://www.douyin.com/hot/2399915",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时38分 ~ 23时35分]"
+        },
+        {
           "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
           "url": "https://news.ifeng.com/c/8qhsTBfhicI",
           "source": "凤凰网",
@@ -571,6 +627,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 04时26分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.douyin.com/hot/2399989",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时35分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -658,6 +726,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时51分 ~ 15时45分]"
+        },
+        {
+          "title": "美国通胀超预期降温，市场押注年内三次降息概率对半开",
+          "url": "https://flash.jin10.com/detail/20260213221551842800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时35分]"
         },
         {
           "title": "美国能源部长Wright：我们对委内瑞拉的影响力是如此之大。",
@@ -998,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 02时52分]"
+        },
+        {
+          "title": "美国社交媒体成瘾案开庭审理：家长控诉社媒诱导孩子自杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596351",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时38分 ~ 23时35分]"
         },
         {
           "title": "俄罗斯向古巴援助石油有何考量",
@@ -1455,17 +1546,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "美国社交媒体成瘾案开庭审理：家长控诉社媒诱导孩子自杀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596351",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
           "url": "https://wallstreetcn.com/livenews/3054685",
           "source": "华尔街见闻-快讯",
@@ -1478,17 +1558,6 @@
           "time_info": "[03时46分 ~ 04时26分]"
         },
         {
-          "title": "王毅与美国务卿鲁比奥会谈",
-          "url": "https://www.douyin.com/hot/2399915",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
           "title": "美国年轻人为何想成为中国人",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%83%B3%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1498,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://news.ifeng.com/c/8qidID0KDkk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美国参议院共和党领袖图恩预计参议院将对众议院提出的终止对加拿大征收关税的法案进行投票。",
@@ -1589,14 +1669,25 @@
         },
         {
           "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.douyin.com/hot/2399989",
-          "source": "抖音",
+          "url": "https://www.toutiao.com/trending/7605877620357516836/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "23时35分"
+        },
+        {
+          "title": "中方正协助被日本扣押中国船员返回",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%8D%8F%E5%8A%A9%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E8%BF%94%E5%9B%9E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "日本央行审议委员田村直树：一旦日本央行的政策利率超过1%，其政策的刺激效将逐渐减弱。",
@@ -1630,6 +1721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "美国授权针对特定的委内瑞拉投资的谈判。 美国允许与委内瑞拉石油公司PDVSA相关的某些交易。",
+          "url": "https://wallstreetcn.com/livenews/3055269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美国官员：预计将有来自至少20个国家的代表团出席此次会议，其中包括多位国家元首。",
@@ -1682,7 +1784,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1742,6 +1844,17 @@
           "time_info": "21时57分"
         },
         {
+          "title": "货币市场预计，欧洲央行在12月之前降息的可能性为40%，而在公布美国CPI数据之前，这一概率仅为30%。",
+          "url": "https://flash.jin10.com/detail/20260213225406614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国至2月12日4周国债竞拍-得标利率配置百分比 29.74%，前值30.35%。",
           "url": "https://flash.jin10.com/detail/20260213003204567800",
           "source": "金十数据",
@@ -1784,6 +1897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美国海军两艘舰船在加勒比海相撞",
@@ -1869,7 +1993,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1979,7 +2103,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2083,6 +2207,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "加拿大安桥管道公司（Enbridge）：即使更多委内瑞拉石油流入美国，对加拿大原油的需求仍在增长。",
+          "url": "https://flash.jin10.com/detail/20260213224039072800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.09%，前值6.10%。",
           "url": "https://wallstreetcn.com/livenews/3054644",
           "source": "华尔街见闻-快讯",
@@ -2092,6 +2227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "俄罗斯供应给埃及核工厂的设备在港口遭到破坏。（RBC）",
+          "url": "https://wallstreetcn.com/livenews/3055260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "市场消息：美国执法官员称，亚利桑那州警长阻止联邦调查局获取古思里失踪案关键证据。",
@@ -2232,7 +2378,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2320,7 +2466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2397,7 +2543,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2485,7 +2631,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -2639,7 +2785,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -3126,6 +3272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国重要共和党参议员Tillis仍拒绝推进沃什的美联储主席提名",
+          "url": "https://wallstreetcn.com/livenews/3055244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     }
