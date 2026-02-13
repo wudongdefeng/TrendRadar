@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T14:51:21.110006+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-02-13T15:45:20.571147+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 152,
+      "match_count": 156,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 15时45分]"
         },
         {
           "title": "俄罗斯宣布：从古巴接回公民",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 15时45分]"
         },
         {
           "title": "为什么美国人说中国人是精灵族",
@@ -151,11 +151,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "时隔4年 日本再次扣押中国大陆渔船",
@@ -191,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "CPI前瞻：美国1月通胀可能因年初涨价而走高",
-          "url": "https://flash.jin10.com/detail/20260213144526604800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -281,6 +271,28 @@
           "time_info": "12时14分"
         },
         {
+          "title": "中方回应日本扣押中国渔船：希望日方遵守中日渔业协定",
+          "url": "https://wallstreetcn.com/livenews/3054980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
+          "url": "https://news.ifeng.com/c/8qhsTBfhicI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
           "title": "两艘美国海军舰船相撞致2伤",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B9%E7%9B%B8%E6%92%9E%E8%87%B42%E4%BC%A4",
           "source": "百度热搜",
@@ -294,6 +306,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 04时26分]"
+        },
+        {
+          "title": "女演员曾公开称美国上流精英吃婴儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E6%9B%BE%E5%85%AC%E5%BC%80%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8A%E6%B5%81%E7%B2%BE%E8%8B%B1%E5%90%83%E5%A9%B4%E5%84%BF%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -369,6 +393,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时55分]"
+        },
+        {
+          "title": "CPI前瞻：美国1月通胀可能因年初涨价而走高",
+          "url": "https://flash.jin10.com/detail/20260213144526604800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时45分]"
         },
         {
           "title": "美国能源部长Wright：我们对委内瑞拉的影响力是如此之大。",
@@ -527,17 +563,6 @@
           "time_info": "[03时46分 ~ 04时26分]"
         },
         {
-          "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
-          "url": "https://news.ifeng.com/c/8qhsTBfhicI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时51分]"
-        },
-        {
           "title": "为什么美国人说中国人是“精灵族”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E2%80%9C%E7%B2%BE%E7%81%B5%E6%97%8F%E2%80%9D",
           "source": "百度热搜",
@@ -545,18 +570,6 @@
             23,
             21,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时51分]"
-        },
-        {
-          "title": "女演员曾公开称美国上流精英吃婴儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E6%9B%BE%E5%85%AC%E5%BC%80%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8A%E6%B5%81%E7%B2%BE%E8%8B%B1%E5%90%83%E5%A9%B4%E5%84%BF%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -597,6 +610,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 02时52分]"
+        },
+        {
+          "title": "日本正在迈出“危险的三步”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%9C%A8%E8%BF%88%E5%87%BA%E2%80%9C%E5%8D%B1%E9%99%A9%E7%9A%84%E4%B8%89%E6%AD%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时45分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -957,18 +983,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "日本正在迈出“危险的三步”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%9C%A8%E8%BF%88%E5%87%BA%E2%80%9C%E5%8D%B1%E9%99%A9%E7%9A%84%E4%B8%89%E6%AD%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时51分]"
-        },
-        {
           "title": "美国参议院共和党领袖图恩预计参议院将对众议院提出的终止对加拿大征收关税的法案进行投票。",
           "url": "https://flash.jin10.com/detail/20260213003556555800",
           "source": "金十数据",
@@ -1030,7 +1044,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1228,7 +1242,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1404,7 +1418,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1530,6 +1544,28 @@
           "time_info": "13时55分"
         },
         {
+          "title": "民调显示更多人视美国为威胁，加拿大人增幅最大",
+          "url": "https://wallstreetcn.com/livenews/3054961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "CPI前瞻：今晚美国通胀报告或再报喜讯 2.5%的水平或为降息打开空间",
+          "url": "https://flash.jin10.com/detail/20260213145857020800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美国联邦贸易委员会（FTC）主席Andrew N. Ferguson给苹果公司CEO库克发信。 该官员警告称，如果苹果错误地展示新闻服务Apple News、或违反其服务条款，该公司可能就违反FTC法令。",
           "url": "https://wallstreetcn.com/livenews/3054612",
           "source": "华尔街见闻-快讯",
@@ -1583,6 +1619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "金十整理：机构前瞻美国1月整体CPI数据",
+          "url": "https://flash.jin10.com/detail/20260213144837852800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少2490亿立方英尺（分析师预计减少2571.4亿立方英尺），周环比降幅10.11%（之前一周下降12.75%），至2.21万亿立方英尺。",
