@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T17:44:38.267086+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-16T18:41:42.593133+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 18时41分]"
         },
         {
           "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
@@ -95,8 +96,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 18时41分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -438,6 +439,20 @@
           "time_info": "[14时02分 ~ 17时44分]"
         },
         {
+          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
+          "url": "https://wallstreetcn.com/livenews/3055689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
+        },
+        {
           "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
           "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
           "source": "凤凰网",
@@ -465,11 +480,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时41分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
+          "url": "https://flash.jin10.com/detail/20260216161953227800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时41分]"
         },
         {
           "title": "日本经济2025年增长1.1%",
@@ -484,29 +513,16 @@
           "time_info": "[14时02分 ~ 15时48分]"
         },
         {
-          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
-          "url": "https://flash.jin10.com/detail/20260216161953227800",
-          "source": "金十数据",
+          "title": "否认南京大屠杀的日本酒店老板死了",
+          "url": "https://www.baidu.com/s?wd=%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9A%84%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E8%80%81%E6%9D%BF%E6%AD%BB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            11
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时44分]"
-        },
-        {
-          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
-          "url": "https://wallstreetcn.com/livenews/3055689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
         },
         {
           "title": "匈牙利和斯洛伐克致函克罗地亚 请求协助运输俄罗斯原油",
@@ -557,16 +573,26 @@
           "time_info": "[16时37分 ~ 17时44分]"
         },
         {
-          "title": "否认南京大屠杀的日本酒店老板死了",
-          "url": "https://www.baidu.com/s?wd=%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9A%84%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E8%80%81%E6%9D%BF%E6%AD%BB%E4%BA%86",
-          "source": "百度热搜",
+          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
+          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
+        },
+        {
+          "title": "被王毅痛斥后日本急了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
         },
         {
           "title": "侯汉廷痛批民进党当局，甘当美国“提款机”",
@@ -578,28 +604,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时20分]"
-        },
-        {
-          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
-          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时44分]"
-        },
-        {
-          "title": "被王毅痛斥后日本急了",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时44分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -743,6 +747,17 @@
           "time_info": "[03时20分 ~ 07时19分]"
         },
         {
+          "title": "俄罗斯国防部：在24小时内击落了345架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260216175625730800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "日本第四季度GDP增长乏力或促进一步财政宽松",
           "url": "https://flash.jin10.com/detail/20260216084114753800",
           "source": "金十数据",
@@ -752,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "俄罗斯国防部：已夺取乌克兰东部的波克罗夫卡和明基夫卡。",
+          "url": "https://flash.jin10.com/detail/20260216175534390800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "日本防卫大臣炒作俄朝军事合作威胁",
@@ -831,6 +857,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
+          "url": "https://flash.jin10.com/detail/20260216174703967800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日，中国、韩国、越南、美国、加拿大等地金融市场都将迎来假期，敬请各位投资者留意。",
           "url": "https://flash.jin10.com/detail/20260216082159196800",
           "source": "金十数据",
@@ -840,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
+          "url": "https://wallstreetcn.com/livenews/3055709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "日本游客为免票背了1个月《滕王阁序》",
@@ -1079,7 +1127,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
