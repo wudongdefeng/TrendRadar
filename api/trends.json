@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T03:44:15.496088+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-02-18T04:29:52.375479+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 04时29分]"
         },
         {
           "title": "黄循财：日本给我们的苦难教训极重",
@@ -50,8 +50,56 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
+        },
+        {
+          "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
+          "url": "https://wallstreetcn.com/livenews/3056106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时29分]"
+        },
+        {
+          "title": "美媒：福特提议允许中国车企进入美国",
+          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
+        },
+        {
+          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
+        },
+        {
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -65,15 +113,38 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
-          "url": "https://wallstreetcn.com/livenews/3056106",
-          "source": "华尔街见闻-快讯",
+          "title": "日本国会今日将举行首相指名选举",
+          "url": "https://news.ifeng.com/c/8qpRmmnWLWB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
+        },
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时29分]"
+        },
+        {
+          "title": "美联储戴利：除了医疗和教育，美国经济中大部分行业都面临失业。",
+          "url": "https://flash.jin10.com/detail/20260218042225616800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时29分"
         },
         {
           "title": "美国能源部长赖特：如果国际能源署坚持“气候事务”，我们就不参与。",
@@ -87,42 +158,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美媒：福特提议允许中国车企进入美国",
-          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
-        },
-        {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
-        },
-        {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
-        },
-        {
           "title": "美国能源部长赖特：欧盟碳边境关税可能限制美国对欧洲的天然气出口。",
           "url": "https://flash.jin10.com/detail/20260218011255366800",
           "source": "金十数据",
@@ -134,38 +169,31 @@
           "time_info": "01时51分"
         },
         {
-          "title": "立陶宛危机管理中心：维尔纽斯（立陶宛共和国首都）机场因来自白俄罗斯的热气球而关闭。",
-          "url": "https://flash.jin10.com/detail/20260218031749513800",
-          "source": "金十数据",
+          "title": "俄罗斯民众在室外冒雪看春晚",
+          "url": "https://www.toutiao.com/trending/7606688823870914602/",
+          "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "日本国会今日将举行首相指名选举",
-          "url": "https://news.ifeng.com/c/8qpRmmnWLWB",
-          "source": "凤凰网",
-          "ranks": [
-            10
+            23,
+            16,
+            14,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
+          "time_info": "[01时51分 ~ 04时29分]"
         },
         {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
+          "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
+          "url": "https://wallstreetcn.com/livenews/3056092",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            1,
             13,
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时29分]"
         },
         {
           "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
@@ -191,18 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时51分]"
-        },
-        {
-          "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
-          "url": "https://wallstreetcn.com/livenews/3056092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时44分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.71。 拍卖六个月期国债，得标利率3.5%，投标倍数3.08。",
@@ -254,6 +270,18 @@
           "time_info": "[01时12分 ~ 01时51分]"
         },
         {
+          "title": "立陶宛危机管理中心：维尔纽斯（立陶宛共和国首都）机场因来自白俄罗斯的热气球而关闭。",
+          "url": "https://flash.jin10.com/detail/20260218031749513800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时29分]"
+        },
+        {
           "title": "据美国纽约联储数据，上个交易日（2月13日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
           "url": "https://wallstreetcn.com/livenews/3056069",
           "source": "华尔街见闻-快讯",
@@ -266,17 +294,28 @@
           "time_info": "[01时51分 ~ 02时53分]"
         },
         {
-          "title": "俄罗斯民众在室外冒雪看春晚",
-          "url": "https://www.toutiao.com/trending/7606688823870914602/",
+          "title": "“抛售日本”会否演变为“抛售美国”",
+          "url": "https://www.toutiao.com/trending/7607773879242866697/",
           "source": "今日头条",
           "ranks": [
-            23,
-            16,
-            14
+            11,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时51分 ~ 03时44分]"
+          "time_info": "[01时51分 ~ 04时29分]"
+        },
+        {
+          "title": "中国游客被困俄罗斯极光村超40小时",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%9E%81%E5%85%89%E6%9D%91%E8%B6%8540%E5%B0%8F%E6%97%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 04时29分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -291,29 +330,6 @@
           "time_info": "[01时12分 ~ 03时44分]"
         },
         {
-          "title": "“抛售日本”会否演变为“抛售美国”",
-          "url": "https://www.toutiao.com/trending/7607773879242866697/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时44分]"
-        },
-        {
-          "title": "中国游客被困俄罗斯极光村超40小时",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%9E%81%E5%85%89%E6%9D%91%E8%B6%8540%E5%B0%8F%E6%97%B6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 03时44分]"
-        },
-        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -321,8 +337,46 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 04时29分]"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.640%，投标倍数2.75。 拍卖52周期国债，得标利率3.345%，投标倍数2.96。",
+          "url": "https://wallstreetcn.com/livenews/3056083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时29分]"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时29分]"
+        },
+        {
+          "title": "美国加州遭暴雨冰雹侵袭：短暂喘息后下一波风暴周四将至",
+          "url": "https://wallstreetcn.com/livenews/3056101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时44分]"
+          "time_info": "[03时44分 ~ 04时29分]"
         },
         {
           "title": "美国至2月17日6个月国债竞拍-得标利率配置百分比 32.88%，前值52.72%。",
@@ -371,18 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时51分]"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.640%，投标倍数2.75。 拍卖52周期国债，得标利率3.345%，投标倍数2.96。",
-          "url": "https://wallstreetcn.com/livenews/3056083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时44分]"
         },
         {
           "title": "美国至2月17日3个月国债竞拍-得标利率配置百分比 82.09%，前值36.6%。",
@@ -455,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时51分]"
-        },
-        {
-          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
-          "url": "https://wallstreetcn.com/livenews/3056079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时44分]"
         },
         {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
@@ -600,6 +630,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国能源部长赖特：我们不需要国际能源署提出的净零排放情景。",
           "url": "https://flash.jin10.com/detail/20260218011131579800",
           "source": "金十数据",
@@ -611,15 +652,15 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美国加州遭暴雨冰雹侵袭：短暂喘息后下一波风暴周四将至",
-          "url": "https://wallstreetcn.com/livenews/3056101",
-          "source": "华尔街见闻-快讯",
+          "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
+          "url": "https://flash.jin10.com/detail/20260218041935194800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时29分"
         },
         {
           "title": "美国女友来中国过年是什么体验",
@@ -642,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260218041904754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "消息人士：乌克兰与俄罗斯在日内瓦政治小组的会谈今日已结束。军方代表仍在继续会谈。",
@@ -694,7 +746,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         },
@@ -708,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "消息人士：美国环保署预计本周将把2026年生物燃料掺混配额提交白宫进行最终审查。",
+          "url": "https://flash.jin10.com/detail/20260218040214010800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国至2月17日1年期国债竞拍-得标利率 3.345%，前值3.39%。",
