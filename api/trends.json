@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:38:22.654428+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-02-17T19:35:19.163503+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 116,
+      "match_count": 124,
       "titles": [
         {
           "title": "大年夜，中国外交官加班驳斥日本",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 19时35分]"
         },
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
@@ -53,11 +53,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 19时35分]"
         },
         {
           "title": "鲁比奥：美国对华断绝关系是不可思议的",
@@ -174,15 +175,26 @@
           "time_info": "14时49分"
         },
         {
-          "title": "哈梅内伊强调美国无法摧毁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055945",
-          "source": "华尔街见闻-快讯",
+          "title": "美国银行：将美国雅宝(ALB.N)评级从中性评级上调至买入；将目标价从167.00美元上调至190.00美元。",
+          "url": "https://flash.jin10.com/detail/20260217192538547800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "俄罗斯国家杜马（下议院）通过了一项法律，要求运营商应根据联邦安全局的要求切断有关通信。",
+          "url": "https://flash.jin10.com/detail/20260217192509458800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "19时35分"
         },
         {
           "title": "匈牙利与美国签署核能合作协议",
@@ -235,9 +247,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报3.145美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260217192409745800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -476,6 +499,18 @@
           "time_info": "[13时54分 ~ 14时49分]"
         },
         {
+          "title": "哈梅内伊强调美国无法摧毁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "美国空军向中东增派18架F-35战斗机",
           "url": "https://flash.jin10.com/detail/20260217034719785800",
           "source": "金十数据",
@@ -513,6 +548,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时49分 ~ 17时40分]"
+        },
+        {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时35分]"
+        },
+        {
+          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时35分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -604,18 +665,6 @@
           "time_info": "[12时12分 ~ 14时49分]"
         },
         {
-          "title": "黄循财：日本给我们的苦难教训极重",
-          "url": "https://www.toutiao.com/trending/7606935704773361670/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时38分]"
-        },
-        {
           "title": "市场消息：乌克兰总统泽连斯基对数名俄罗斯运动员实施制裁。",
           "url": "https://flash.jin10.com/detail/20260217012156699800",
           "source": "金十数据",
@@ -667,16 +716,17 @@
           "time_info": "[01时33分 ~ 02时33分]"
         },
         {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7
+            29,
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时35分]"
         },
         {
           "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
@@ -689,6 +739,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
         },
         {
           "title": "美国驻以色列大使就伊核谈判表态称致力于和平，但警告若为了未来而战不可避免，那就开战。",
@@ -749,6 +811,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "馆长看春晚机器人表演赞叹大陆科技",
+          "url": "https://www.toutiao.com/trending/7607441416575008822/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
         },
         {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
@@ -821,6 +895,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时33分]"
+        },
+        {
+          "title": "文件：日本财务省预计到2029财年偿债成本相比本财年几乎翻番",
+          "url": "https://wallstreetcn.com/livenews/3055935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
         },
         {
           "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
@@ -931,18 +1017,6 @@
           "time_info": "[13时54分 ~ 14时49分]"
         },
         {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
-        },
-        {
           "title": "俄罗斯外交部发言人用中文拜年",
           "url": "https://www.toutiao.com/trending/7607522995967655942/",
           "source": "今日头条",
@@ -960,7 +1034,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1020,17 +1094,6 @@
           "time_info": "17时40分"
         },
         {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "据国际文传电讯社：俄罗斯乌克兰问题谈判代表团抵达日内瓦。",
           "url": "https://flash.jin10.com/detail/20260217134944675800",
           "source": "金十数据",
@@ -1051,17 +1114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
-        },
-        {
-          "title": "馆长看春晚机器人表演赞叹大陆科技",
-          "url": "https://www.toutiao.com/trending/7607441416575008822/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
@@ -1130,24 +1182,13 @@
           "time_info": "17时40分"
         },
         {
-          "title": "文件：日本财务省预计到2029财年偿债成本相比本财年几乎翻番",
-          "url": "https://wallstreetcn.com/livenews/3055935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "乌克兰总理：昨晚，俄罗斯再次对乌克兰的平民进行协调攻击，目标直指剥夺我们人民的供暖、电力和水源。",
           "url": "https://flash.jin10.com/detail/20260217180127319800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1202,9 +1243,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "据报道，关于乌克兰问题的日内瓦谈判将在一个小时后开始，俄罗斯代表团的部分成员也将很快抵达谈判地点。",
+          "url": "https://flash.jin10.com/detail/20260217190001621800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -1224,7 +1276,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1246,9 +1298,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国纯正零件公司 (Genuine Parts)计划拆分汽车零部件和工业零部件部门。",
+          "url": "https://flash.jin10.com/detail/20260217185540608800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "日方称针对中方就日本安保政策作出的“不恰当发言”已提出交涉，中使馆：所谓交涉歪曲事实、颠倒黑白、纯属狡辩，完全于理不通！（环球时报）",
@@ -1284,6 +1347,28 @@
           "time_info": "15时45分"
         },
         {
+          "title": "法国外长：绕过欧洲制裁是要付出代价的。俄罗斯将无法再通过在我们海岸附近活动的幽灵舰队来肆无忌惮地为其战争提供资金。‘格林奇’号油轮在福斯港耗费数百万欧元并被扣留三周后，终于离开了法国水域。",
+          "url": "https://flash.jin10.com/detail/20260217183834065800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "中国冰壶男队8比5美国队",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E7%94%B7%E9%98%9F8%E6%AF%945%E7%BE%8E%E5%9B%BD%E9%98%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "乌克兰外长：俄罗斯在漠视和平的努力，在日内瓦下一轮会谈前夕，他们对乌克兰发动了大规模的导弹和无人机袭击。主要目标是能源设施和民用基础设施。莫斯科只能“读懂”施压，若外交行动缺乏实力支撑，它便不会认真对待。",
           "url": "https://flash.jin10.com/detail/20260217145535196800",
           "source": "金十数据",
@@ -1315,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "乌克兰军方：袭击了克拉斯诺达尔地区的俄罗斯炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260217183602795800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美国国务卿鲁比奥发农历新年祝福",
@@ -1356,7 +1452,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
