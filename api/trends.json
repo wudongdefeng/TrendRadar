@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:22:49.687457+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-02-18T09:22:57.124591+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 107,
+      "match_count": 138,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 09时22分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时53分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时53分 ~ 09时22分]"
         },
         {
           "title": "俄罗斯民众冒雪看春晚",
@@ -47,11 +47,39 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 09时22分]"
+        },
+        {
+          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 09时22分]"
+        },
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 09时22分]"
         },
         {
           "title": "黄循财：日本给我们的苦难教训极重",
@@ -76,33 +104,6 @@
             7,
             6,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时22分]"
-        },
-        {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时22分]"
-        },
-        {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -209,6 +210,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "日本内阁官房长官：日本在美国的投资项目将促进两国互利共赢、推动经济增长并保障经济安全。",
+          "url": "https://flash.jin10.com/detail/20260218085221078800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "据AXIOS网站记者：两名知情人士称，今天在日内瓦举行的政治小组谈判陷入了僵局。消息人士称，原因是俄罗斯新任首席谈判代表弗拉基米尔·梅金斯基提出的立场。",
           "url": "https://flash.jin10.com/detail/20260218044200465800",
           "source": "金十数据",
@@ -218,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         },
         {
           "title": "美国副总统万斯：也许会采用一种联邦人工智能标准，或者一种占主导地位的州范围标准。",
@@ -275,6 +276,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "日本首相高市早苗：与美国就首批投资项目达成共识，项目将互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3056184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国能源部长赖特：欧盟碳边境关税可能限制美国对欧洲的天然气出口。",
           "url": "https://flash.jin10.com/detail/20260218011255366800",
           "source": "金十数据",
@@ -295,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "日本出口额创下三年多来最快增速 芯片出口及汽车出口大幅增长",
+          "url": "https://flash.jin10.com/detail/20260218083954941800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
@@ -370,6 +393,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时28分]"
+        },
+        {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时22分]"
         },
         {
           "title": "美国能源部长赖特：我们将继续以低价向欧洲供应液化天然气。",
@@ -543,6 +578,30 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
+          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3056161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时22分]"
+        },
+        {
+          "title": "美国女友来中国过年是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时22分]"
+        },
+        {
           "title": "美国至2月17日3个月国债竞拍-投标倍数 2.71，前值2.76。",
           "url": "https://flash.jin10.com/detail/20260218003203691800",
           "source": "金十数据",
@@ -577,6 +636,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "13F报告显示，伯克希尔哈撒韦四季度建仓纽约时报。 增持Chubb、雪佛龙、达美乐披萨、Lamar。 减持亚马逊、美国银行、DaVita、Pool Corp.、Aon Plc.。 重仓苹果、美国运通、美国银行、可口可乐、雪佛龙。",
+          "url": "https://wallstreetcn.com/livenews/3056159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时22分]"
         },
         {
           "title": "美国至2月17日3个月国债竞拍-得标利率配置百分比 82.09%，前值36.6%。",
@@ -831,6 +902,28 @@
           "time_info": "[01时12分 ~ 01时51分]"
         },
         {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国能源部长赖特：我们对国际能源署做出的变化仍不满意。",
           "url": "https://flash.jin10.com/detail/20260218011228811800",
           "source": "金十数据",
@@ -859,9 +952,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国一18岁男子持枪冲向国会被捕，“枪已上膛”",
+          "url": "https://news.ifeng.com/c/8qpxf76aVCt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国能源部长赖特：我们不需要国际能源署提出的净零排放情景。",
@@ -886,26 +990,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://wallstreetcn.com/livenews/3056181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国女友来中国过年是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "09时22分"
         },
         {
           "title": "美国能源部长赖特：我认为到年底将看到委内瑞拉石油产量每天增加数十万桶。",
@@ -941,15 +1034,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "13F报告显示，伯克希尔哈撒韦四季度建仓纽约时报。 增持Chubb、雪佛龙、达美乐披萨、Lamar。 减持亚马逊、美国银行、DaVita、Pool Corp.、Aon Plc.。 重仓苹果、美国运通、美国银行、可口可乐、雪佛龙。",
-          "url": "https://wallstreetcn.com/livenews/3056159",
+          "title": "美国能源部长指责国际能源署，威胁“退群”",
+          "url": "https://wallstreetcn.com/livenews/3056180",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时22分"
         },
         {
           "title": "美国警方表示，一名手持霰弹枪冲向美国国会大厦的男子已被逮捕，没有发生枪击事件。",
@@ -974,6 +1067,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "国际货币基金组织驻日本代表团团长Rahul Anand：日本央行继续遵循数据依赖方法很重要。 日本央行明年应继续将利率调至中性。 日本央行的中性利率水平存在很大的不确定性。 日本央行独立有助于稳定通胀预期。 暂停征收消费税将削弱税基。 日本必须保障收入以保留财政空间。 美国关税对日本的影响远低于预期。",
+          "url": "https://wallstreetcn.com/livenews/3056179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本特别国会今日召开，高市早苗料将连任首相",
+          "url": "https://news.ifeng.com/c/8qq0M8TqGww",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "消息人士：乌克兰与俄罗斯在日内瓦政治小组的会谈今日已结束。军方代表仍在继续会谈。",
           "url": "https://flash.jin10.com/detail/20260218010214735800",
           "source": "金十数据",
@@ -983,6 +1098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "日本1月进口同比 -2.5%，前值 5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国能源部长赖特：欧盟碳边境关税风险巨大，可能导致向欧洲出口天然气风险过高。",
@@ -1018,6 +1144,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "日本1月未季调商品贸易帐 -11526.6亿日元，前值 1057亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
           "url": "https://wallstreetcn.com/livenews/3056114",
           "source": "华尔街见闻-快讯",
@@ -1027,6 +1164,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "日本1月季调后商品贸易帐 4554.86亿日元，前值 -2086亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本1月出口同比 16.8%，前值 5.1%。",
+          "url": "https://wallstreetcn.com/livenews/3056175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.douyin.com/hot/2404552",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "国际货币基金组织表示，日本应避免降低消费税，以防止增加财政风险并侵蚀财政空间。",
+          "url": "https://wallstreetcn.com/livenews/3056174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国副总统万斯：希望欧洲盟友们做得更好。",
@@ -1049,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "10年期日本国债收益率跌1个基点至2.115%。",
+          "url": "https://flash.jin10.com/detail/20260218082044092800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
@@ -1084,6 +1287,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://flash.jin10.com/detail/20260218081901850800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
           "url": "https://wallstreetcn.com/livenews/3056109",
           "source": "华尔街见闻-快讯",
@@ -1106,6 +1320,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "国际货币基金组织：日本应避免下调消费税以免加剧财政风险",
+          "url": "https://flash.jin10.com/detail/20260218080954192800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国至2月17日1年期国债竞拍-得标利率 3.345%，前值3.39%。",
           "url": "https://flash.jin10.com/detail/20260218020203998800",
           "source": "金十数据",
@@ -1117,6 +1342,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "国际货币基金组织日本代表团团长：（被问及日本当局在何种条件下可以进行外汇干预）我们无法推测当局未来的行动。",
+          "url": "https://flash.jin10.com/detail/20260218080233399800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国至2月17日1年期国债竞拍-投标倍数 2.96，前值3.42。",
           "url": "https://flash.jin10.com/detail/20260218020203972800",
           "source": "金十数据",
@@ -1126,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：我们在预测中假设今年日本央行将加息两次，并在2027年再加息一次。",
+          "url": "https://flash.jin10.com/detail/20260218075638479800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
@@ -1150,6 +1397,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "国际货币基金组织驻日本代表团团长：如果日元在较长时间内持续贬值，我们应会看到更高进口价格对整体通胀的传导效应增强。",
+          "url": "https://flash.jin10.com/detail/20260218075551832800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "加拿大寻求减少对美国武器的依赖",
           "url": "https://flash.jin10.com/detail/20260217235408525800",
           "source": "金十数据",
@@ -1159,6 +1417,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "日本1月对美出口同比增长5.0%。",
+          "url": "https://flash.jin10.com/detail/20260218075536780800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本1月对欧洲出口同比增长29.6%，日本1月对亚洲出口同比增长25.8%。",
+          "url": "https://flash.jin10.com/detail/20260218075524276800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
@@ -1183,6 +1463,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "国际货币基金组织日本代表团团长：日元汇率由市场力量决定，我们认为日元名义汇率并不存在“合理水平”。",
+          "url": "https://flash.jin10.com/detail/20260218075322004800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国SEC主席推动披露制度现代化 拟精简风险清单",
           "url": "https://wallstreetcn.com/livenews/3056039",
           "source": "华尔街见闻-快讯",
@@ -1192,6 +1483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：日元汇率波动不定，日本当局致力于实行灵活的汇率制度。",
+          "url": "https://flash.jin10.com/detail/20260218075310951800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -1216,6 +1518,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "国际货币基金组织日本代表团团长：不存在正确的汇率水平。",
+          "url": "https://flash.jin10.com/detail/20260218075210521800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国证交会文件显示，软银集团出售英伟达公司的股份。",
           "url": "https://flash.jin10.com/detail/20260217233326050800",
           "source": "金十数据",
@@ -1225,6 +1538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：外国投资者参与度的提高支撑了日本国债市场的流动性和交易深度，尤其是在日本央行缩减其在市场中的足迹之际。",
+          "url": "https://flash.jin10.com/detail/20260218075143119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国证交会主席阿特金斯寻求缩小风险因素披露范围的途径。",
@@ -1238,6 +1562,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "国际货币基金组织日本代表团团长：市场定价表明，尽管尚无证据表明外国投资者因财政担忧而撤回需求，投资者日益关注日本的财政管理问题。",
+          "url": "https://flash.jin10.com/detail/20260218075113162800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国证交会主席阿特金斯表示，减少披露量需要创造力。",
           "url": "https://flash.jin10.com/detail/20260217233044309800",
           "source": "金十数据",
@@ -1247,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "日本1月季调后商品贸易帐 4554.86亿日元，前值-2086亿日元。",
+          "url": "https://flash.jin10.com/detail/20260218075034268800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国住宅建筑商信心指数跌至五个月低点，受可负担性困扰拖累",
