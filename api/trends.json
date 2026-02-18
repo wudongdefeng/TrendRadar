@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T01:49:23.190748+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-02-19T02:42:23.899993+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 35,
+      "match_count": 53,
       "titles": [
         {
           "title": "再次连任日本首相的高市早苗，啥背景？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
         },
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
         },
         {
           "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
         },
         {
           "title": "美国污蔑中国搞核试验，中俄驳斥",
@@ -48,9 +48,42 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 02时42分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
+          "url": "https://wallstreetcn.com/livenews/3056442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
+          "url": "https://flash.jin10.com/detail/20260219022406723800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
+          "url": "https://wallstreetcn.com/livenews/3056441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国众议院将在2025年致命碰撞事件后，下周考虑航空安全立法。",
@@ -89,16 +122,16 @@
           "time_info": "[00时55分 ~ 01时49分]"
         },
         {
-          "title": "亿万富翁Leslie Wexner告诉美国众议院一个委员会，其造访过爱泼斯坦位于加勒比海域的岛屿，但对爱泼斯坦当时的所作所为并不知情。",
-          "url": "https://wallstreetcn.com/livenews/3056402",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            18
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
         },
         {
           "title": "中领馆再次提醒近期避免前往日本",
@@ -106,7 +139,45 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
+        },
+        {
+          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2007370042841462456",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
+        },
+        {
+          "title": "美国女友来中国过年是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
+        },
+        {
+          "title": "亿万富翁Leslie Wexner告诉美国众议院一个委员会，其造访过爱泼斯坦位于加勒比海域的岛屿，但对爱泼斯坦当时的所作所为并不知情。",
+          "url": "https://wallstreetcn.com/livenews/3056402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -125,36 +196,12 @@
           "time_info": "[00时55分 ~ 01时49分]"
         },
         {
-          "title": "伊朗与俄罗斯将举行海上联合军演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
-        },
-        {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
           "url": "https://flash.jin10.com/detail/20260218235340774800",
           "source": "金十数据",
           "ranks": [
             11,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
-        },
-        {
-          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2007370042841462456",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -173,16 +220,27 @@
           "time_info": "[00时55分 ~ 01时49分]"
         },
         {
-          "title": "美国女友来中国过年是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
+          "title": "日本教练谈苏翊鸣：最难那关挺过来了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E8%B0%88%E8%8B%8F%E7%BF%8A%E9%B8%A3%EF%BC%9A%E6%9C%80%E9%9A%BE%E9%82%A3%E5%85%B3%E6%8C%BA%E8%BF%87%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            23,
-            24
+            26,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "time_info": "[01时49分 ~ 02时42分]"
+        },
+        {
+          "title": "美联储理事鲍曼：（适用于美国的）新版巴塞尔协议计划处于在一季度末之前敲定的正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3056436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
@@ -191,9 +249,75 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯在军事层面的会谈富有实质性内容。",
+          "url": "https://flash.jin10.com/detail/20260219021526434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（谈及与俄罗斯的谈判）还不能说结果已经足够。",
+          "url": "https://flash.jin10.com/detail/20260219021517761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
+          "url": "https://flash.jin10.com/detail/20260219021420835800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
+          "url": "https://flash.jin10.com/detail/20260219021132913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
+          "url": "https://wallstreetcn.com/livenews/3056430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
@@ -202,9 +326,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国财政部宣布完成一项公私合作倡议，旨在加强金融服务领域人工智能的网络安全和风险管理。",
+          "url": "https://flash.jin10.com/detail/20260219021102479800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -224,9 +359,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "据克里姆林宫，俄罗斯并没有与美国讨论古巴问题。 俄罗斯总统普京称，俄方认为，（美国）对古巴施加新版限制是让人无法接受的。（国际文传电讯社IFX）",
+          "url": "https://wallstreetcn.com/livenews/3056428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
@@ -235,7 +381,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
@@ -257,9 +403,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国20年期国债收益率在拍卖后延续涨势，日内涨3.2个基点，至4.661%。",
+          "url": "https://flash.jin10.com/detail/20260219020527901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -279,9 +436,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国政府官员：美国国立卫生研究院院长将临时接管疾控中心。",
+          "url": "https://flash.jin10.com/detail/20260219020509041800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "声明显示，俄罗斯正在重新考虑其在和平委员会问题上的立场。",
@@ -290,9 +458,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-得标利率配置百分比 15.91%，前值3.89%。",
+          "url": "https://flash.jin10.com/detail/20260219020424765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "据日经新闻：日本国土交通省将对乘客携带上飞机的移动电源数量实施新限制。",
@@ -301,9 +480,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-投标倍数 2.36，前值2.86。",
+          "url": "https://flash.jin10.com/detail/20260219020418397800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "金十提示：美国1月谘商会领先指标月率暂未公布。",
@@ -323,9 +513,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-得标利率 4.664%，前值4.85%。",
+          "url": "https://flash.jin10.com/detail/20260219020410891800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国纽约州州长Hochul：衔接新泽西与纽约市的Gateway项目将于下周恢复建设工作。",
@@ -372,17 +573,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "日本教练谈苏翊鸣：最难那关挺过来了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E8%B0%88%E8%8B%8F%E7%BF%8A%E9%B8%A3%EF%BC%9A%E6%9C%80%E9%9A%BE%E9%82%A3%E5%85%B3%E6%8C%BA%E8%BF%87%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
           "title": "美国IPO市场在72亿美元爆发后步入季节性低迷",
           "url": "https://wallstreetcn.com/livenews/3056382",
           "source": "华尔街见闻-快讯",
@@ -403,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.940美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260219012706843800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -416,11 +617,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时42分]"
         }
       ]
     }
