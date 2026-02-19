@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T07:22:41.195943+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-02-19T09:22:20.568908+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 134,
+      "match_count": 163,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 09时22分]"
         },
         {
           "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 09时22分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 09时22分]"
         },
         {
           "title": "中领馆再次提醒近期避免前往日本",
@@ -99,11 +99,12 @@
             14,
             12,
             16,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 09时22分]"
         },
         {
           "title": "日本教练谈苏翊鸣：最难那关挺过来了",
@@ -134,15 +135,15 @@
           "time_info": "[00时55分 ~ 02时42分]"
         },
         {
-          "title": "美国海军将聘请私人公司，来负责监督管理造船项目。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3056521",
-          "source": "华尔街见闻-快讯",
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时30分 ~ 09时22分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -167,24 +168,13 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美国国土安全部“停摆”，其下属部门暂停部署救灾人员",
-          "url": "https://wallstreetcn.com/livenews/3056520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
           "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：将在未来几周内与美国贸易代表格里尔会面，讨论《美墨加协定》审查事宜。",
           "url": "https://flash.jin10.com/detail/20260219064740044800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -206,7 +196,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -217,20 +207,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时30分 ~ 07时22分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -270,6 +249,18 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "美国海军将聘请私人公司，来负责监督管理造船项目。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时22分]"
+        },
+        {
           "title": "美国众议院将在2025年致命碰撞事件后，下周考虑航空安全立法。",
           "url": "https://flash.jin10.com/detail/20260219001645313800",
           "source": "金十数据",
@@ -292,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时49分]"
+        },
+        {
+          "title": "美国国土安全部“停摆”，其下属部门暂停部署救灾人员",
+          "url": "https://wallstreetcn.com/livenews/3056520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时22分]"
         },
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
@@ -759,7 +762,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -773,6 +776,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3056540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "乌克兰总统泽连斯基：（谈及与俄罗斯的谈判）还不能说结果已经足够。",
@@ -803,9 +828,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
@@ -825,9 +861,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
@@ -839,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "20年期日本国债收益率下跌0.5个基点，至2.965%。",
+          "url": "https://flash.jin10.com/detail/20260219082637064800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -872,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美国将从叙利亚撤出所有军队",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%92%A4%E5%87%BA%E6%89%80%E6%9C%89%E5%86%9B%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -913,9 +982,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
@@ -960,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "日本2月13日当周净买进国外股票 -258亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "市场消息：两架美国E-3C哨兵预警机飞越以色列特拉维夫上空，前往沙特苏丹王子空军基地。",
@@ -1034,9 +1125,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://flash.jin10.com/detail/20260219081757489800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
@@ -1048,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "日本2月13日当周净买进国外债券 -4895亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -1100,9 +1213,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
+          "url": "https://flash.jin10.com/detail/20260219081720763800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美官员称美国将从叙利亚撤出所有军队",
@@ -1114,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "日本2月13日当周外资净买进日本股票 14242亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "声明显示，俄罗斯正在重新考虑其在和平委员会问题上的立场。",
@@ -1169,6 +1304,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国-东盟商业理事会：印尼国家石油公司与哈里伯顿公司将在油田恢复领域展开合作。",
+          "url": "https://flash.jin10.com/detail/20260219081604028800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本12月核心机械订单环比 19.1%，前值 -11%。",
+          "url": "https://wallstreetcn.com/livenews/3056530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "据日经新闻：日本国土交通省将对乘客携带上飞机的移动电源数量实施新限制。",
@@ -1232,9 +1389,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国-东盟商业理事会：印尼企业将在2030年前最多采购500万吨美国小麦。",
+          "url": "https://flash.jin10.com/detail/20260219081533539800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本12月核心机械订单同比 16.8%，前值 -6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "金十提示：美国1月谘商会领先指标月率暂未公布。",
@@ -1292,6 +1471,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国-东盟商业理事会：美国与印尼企业签署贸易及投资协议，涉及关键矿产、半导体合作、美国农业及林产品出口。印尼企业将在未明确期限内采购100万吨美国大豆、160万吨玉米和9.3万吨棉花。",
+          "url": "https://flash.jin10.com/detail/20260219081508439800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国纽约州州长Hochul：衔接新泽西与纽约市的Gateway项目将于下周恢复建设工作。",
           "url": "https://wallstreetcn.com/livenews/3056389",
           "source": "华尔街见闻-快讯",
@@ -1336,6 +1526,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国12月长期资本净流入 280亿美元，前值 2202亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056481",
           "source": "华尔街见闻-快讯",
@@ -1345,6 +1546,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "傅聪：日若介入台湾问题必将迎头痛击",
+          "url": "https://www.toutiao.com/trending/7607327972428628004/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -1391,6 +1614,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国纽约市长改组纽约租金委员会，旨在兑现“租金冻结”承诺",
           "url": "https://wallstreetcn.com/livenews/3056386",
           "source": "华尔街见闻-快讯",
@@ -1424,6 +1658,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "委内瑞拉政府：美国南方司令部司令会见委内瑞拉代总统及高级官员。",
+          "url": "https://flash.jin10.com/detail/20260219080444466800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
@@ -1441,7 +1686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1455,6 +1700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "高市早苗将提名日本央行新委员 或安插通货复涨派人士",
+          "url": "https://flash.jin10.com/detail/20260219075723631800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "遭日本男子殴打，一名中国香港游客在北海道遇袭受伤",
@@ -1523,6 +1779,28 @@
           "time_info": "03时43分"
         },
         {
+          "title": "日本至2月13日当周外资买进日债 -3930亿日元，前值-4641亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075052596800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美国务院称对18名伊朗人实施签证限制措施",
+          "url": "https://wallstreetcn.com/livenews/3056522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
           "url": "https://flash.jin10.com/detail/20260219024439079800",
           "source": "金十数据",
@@ -1532,6 +1810,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "日本至2月13日当周买进外国股票 -258亿日元，前值1627亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075043085800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美国加州雪崩致8名滑雪者死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E8%87%B48%E5%90%8D%E6%BB%91%E9%9B%AA%E8%80%85%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国白宫：超过20个国家将出席和平委员会会议。",
@@ -1545,6 +1845,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "日本至2月13日当周买进外国债券 -4895亿日元，前值由-3657亿日元修正为-3595亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075002722800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
           "url": "https://flash.jin10.com/detail/20260219024156843800",
           "source": "金十数据",
@@ -1554,6 +1865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "日本至2月13日当周外资买进日股 14242亿日元，前值由5432亿日元修正为5914亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075002721800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
