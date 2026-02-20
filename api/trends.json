@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:56:29.956647+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-02-20T22:36:26.659338+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 254,
+      "match_count": 278,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -51,11 +51,12 @@
             13,
             8,
             4,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 22时36分]"
         },
         {
           "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
@@ -111,19 +112,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 21时56分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 22时36分]"
         },
         {
           "title": "美国首都华盛顿宣布进入紧急状态，9 亿升污水泄漏带来大量与粪便有关的细菌和致病病原体，具体是什么情况？",
           "url": "https://www.zhihu.com/question/2007893638286373683",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 19时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 22时36分]"
         },
         {
           "title": "中国冰壶女队6:9日本",
@@ -219,8 +221,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 22时36分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 22时36分]"
         },
         {
           "title": "觉得自己闯祸的可以看看美国四人雪车",
@@ -295,17 +310,15 @@
           "time_info": "[13时48分 ~ 16时33分]"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
+          "title": "日本一货船与渔船发生相撞，多人死伤",
+          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时56分]"
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
@@ -319,26 +332,26 @@
           "time_info": "09时18分"
         },
         {
-          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
-          "url": "https://flash.jin10.com/detail/20260220214756529800",
+          "title": "印尼国家石油公司首席执行官：来自美国的液化石油气进口量可能从目前的57%增至70%。",
+          "url": "https://flash.jin10.com/detail/20260220222233983800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
-          "title": "提醒：北京时间21:30，将公布美国四季度GDP初值，12月个人收入、个人消费支出（PCE）。",
-          "url": "https://wallstreetcn.com/livenews/3056947",
+          "title": "美国将印度纳入与稳定供应链有关的Pax Silica集团。",
+          "url": "https://wallstreetcn.com/livenews/3056971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
@@ -352,17 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 15时45分]"
-        },
-        {
-          "title": "高志凯看完《惊蛰无声》后喊话美国",
-          "url": "https://www.toutiao.com/trending/7608332437038497798/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "Meta Platforms(META.O)：将在2026年美国大选竞选活动的最后一周继续屏蔽我们平台上的新政治广告。",
@@ -398,15 +400,15 @@
           "time_info": "19时26分"
         },
         {
-          "title": "受政府停摆拖累，美国第四季度经济增长放缓",
-          "url": "https://flash.jin10.com/detail/20260220214455248800",
+          "title": "印尼能源部长：印尼将在达成贸易协议后，在关键矿产投资方面向美国及其他国家提供平等机会。",
+          "url": "https://flash.jin10.com/detail/20260220222221736800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "美国银行对私人信用交易承诺250亿美元现金。",
@@ -429,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "印尼国家石油公司首席执行官：来自美国的能源产品进口将通过招标程序进行。",
+          "url": "https://flash.jin10.com/detail/20260220222152202800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "俄罗斯：已准备好接收伊朗浓缩铀",
@@ -464,17 +477,6 @@
           "time_info": "20时39分"
         },
         {
-          "title": "最新经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
-          "url": "https://flash.jin10.com/detail/20260220213948721800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
           "url": "https://wallstreetcn.com/livenews/3056700",
           "source": "华尔街见闻-快讯",
@@ -498,17 +500,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时34分 ~ 20时39分]"
-        },
-        {
-          "title": "日本一货船与渔船发生相撞，多人死伤",
-          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "美国向联合国支付1.6亿美元部分欠款",
@@ -545,6 +536,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时18分 ~ 14时45分]"
+        },
+        {
+          "title": "高志凯看完《惊蛰无声》后喊话美国",
+          "url": "https://www.toutiao.com/trending/7608332437038497798/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -688,6 +691,18 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
+          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
+          "url": "https://flash.jin10.com/detail/20260220214756529800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
           "url": "https://wallstreetcn.com/livenews/3056780",
           "source": "华尔街见闻-快讯",
@@ -698,6 +713,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时24分]"
+        },
+        {
+          "title": "提醒：北京时间21:30，将公布美国四季度GDP初值，12月个人收入、个人消费支出（PCE）。",
+          "url": "https://wallstreetcn.com/livenews/3056947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -750,6 +777,18 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
+          "title": "受政府停摆拖累，美国第四季度经济增长放缓",
+          "url": "https://flash.jin10.com/detail/20260220214455248800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "汇丰在美国债务资本市场团队裁员10%。",
           "url": "https://wallstreetcn.com/livenews/3056820",
           "source": "华尔街见闻-快讯",
@@ -760,6 +799,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时18分]"
+        },
+        {
+          "title": "日本冰壶女运动员撞脸孙燕姿",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时36分]"
         },
         {
           "title": "美国能源信息署数据显示，美国汽油库存降幅大于预期，美国汽油期货延续涨势。",
@@ -787,6 +839,18 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
+          "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
+          "url": "https://news.ifeng.com/c/8qtv0U1LKbC",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 22时36分]"
+        },
+        {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
           "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
@@ -809,6 +873,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 14时45分]"
+        },
+        {
+          "title": "最新经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://flash.jin10.com/detail/20260220213948721800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
@@ -861,16 +937,18 @@
           "time_info": "[01时44分 ~ 04时24分]"
         },
         {
-          "title": "日本冰壶女运动员撞脸孙燕姿",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
-          "source": "百度热搜",
+          "title": "默茨警告美国加征关税别太过分",
+          "url": "https://www.douyin.com/hot/2406442",
+          "source": "抖音",
           "ranks": [
-            5,
-            20
+            6,
+            11,
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 22时36分]"
         },
         {
           "title": "西方石油：预计2026年中游业务收益将略有下降。与2025年相比，在美国陆上业务的支出预计将减少4亿美元。",
@@ -961,18 +1039,6 @@
           "time_info": "[09时18分 ~ 14时45分]"
         },
         {
-          "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
-          "url": "https://news.ifeng.com/c/8qtv0U1LKbC",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时56分]"
-        },
-        {
           "title": "美国能源信息署：最新一周精炼油供应量升至2022年1月以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260220011418348800",
           "source": "金十数据",
@@ -997,19 +1063,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时24分]"
-        },
-        {
-          "title": "默茨警告美国加征关税别太过分",
-          "url": "https://www.douyin.com/hot/2406442",
-          "source": "抖音",
-          "ranks": [
-            6,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时56分]"
         },
         {
           "title": "据日经新闻：日本制铁首席财务官表示，通过减持持股，该公司有望再筹集19亿美元。",
@@ -1200,6 +1253,18 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
+          "title": "美国第四季度GDP价格指数初值 3.6%，预期2.80%，前值3.80%。",
+          "url": "https://flash.jin10.com/detail/20260220213654206800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "美国农民加码大豆种植",
           "url": "https://wallstreetcn.com/livenews/3056697",
           "source": "华尔街见闻-快讯",
@@ -1272,6 +1337,18 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
+          "title": "美国第四季度年化实际GDP总量初值 241118亿美元，前值240268亿美元。",
+          "url": "https://flash.jin10.com/detail/20260220213526603800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "美国向联合国支付1.6亿美元部分欠款",
           "url": "https://wallstreetcn.com/livenews/3056814",
           "source": "华尔街见闻-快讯",
@@ -1282,6 +1359,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时18分]"
+        },
+        {
+          "title": "终于，美国开始还钱了",
+          "url": "https://news.ifeng.com/c/8qtv0U1LKYV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
+          "title": "日本一货船与游船碰撞 多人死伤",
+          "url": "https://www.toutiao.com/trending/7607873021679992841/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "巴西法院恢复命令，解除对圣塔伦港口码头的通行限制，该码头由美国谷物贸易商嘉吉运营。",
@@ -1296,6 +1396,18 @@
           "time_info": "[03时36分 ~ 04时24分]"
         },
         {
+          "title": "美国第四季度PCE物价指数年率初值 2.8%，前值2.7%。",
+          "url": "https://flash.jin10.com/detail/20260220213433403800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
           "url": "https://wallstreetcn.com/livenews/3056813",
           "source": "华尔街见闻-快讯",
@@ -1308,6 +1420,17 @@
           "time_info": "[07时23分 ~ 09时18分]"
         },
         {
+          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
+          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "克里姆林宫：不会就和平协议与日本展开对话，东京正对俄罗斯采取敌对立场。",
           "url": "https://flash.jin10.com/detail/20260220175030919800",
           "source": "金十数据",
@@ -1318,6 +1441,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "美国第四季度核心PCE物价指数年率初值 2.9%，前值2.9%。",
+          "url": "https://flash.jin10.com/detail/20260220213413047800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
@@ -1344,6 +1479,17 @@
           "time_info": "[09时18分 ~ 12时09分]"
         },
         {
+          "title": "扎哈罗娃：美国在乌克兰问题上的立场具有双重性",
+          "url": "https://news.ifeng.com/c/8qttIC1x9wi",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "克里姆林宫：在不改变关系模式的情况下，不可能与日本讨论和平协议。",
           "url": "https://flash.jin10.com/detail/20260220175024871800",
           "source": "金十数据",
@@ -1356,6 +1502,18 @@
           "time_info": "[18时31分 ~ 19时26分]"
         },
         {
+          "title": "美国第四季度联邦支出降幅创1972年以来最快纪录。",
+          "url": "https://flash.jin10.com/detail/20260220213345111800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "日本1月CPI同比 1.5%，前值 2.1%。",
           "url": "https://wallstreetcn.com/livenews/3056827",
           "source": "华尔街见闻-快讯",
@@ -1366,6 +1524,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 12时09分]"
+        },
+        {
+          "title": "美国第四季度政府支出以5.1%的增速下滑，为2020年以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260220213236271800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "日本1月CPI(除生鲜食品及能源)同比 2.6%，前值 2.9%。",
@@ -1594,6 +1764,28 @@
           "time_info": "09时18分"
         },
         {
+          "title": "市场消息：美国国土安全部计划限制寻求庇护者的工作许可。",
+          "url": "https://flash.jin10.com/detail/20260220221628572800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "美国经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://wallstreetcn.com/livenews/3056966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "美国民主党参议员沃伦对美联储银行监管部门内部的人事变动提出质疑",
           "url": "https://flash.jin10.com/detail/20260219235900908800",
           "source": "金十数据",
@@ -1616,15 +1808,15 @@
           "time_info": "20时39分"
         },
         {
-          "title": "美国第四季度GDP价格指数初值 3.6%，预期2.80%，前值3.80%。",
-          "url": "https://flash.jin10.com/detail/20260220213654206800",
+          "title": "美国对三名智利官员实施签证限制。",
+          "url": "https://flash.jin10.com/detail/20260220221613177800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
@@ -1633,9 +1825,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国四季度GDP数据速评",
+          "url": "https://wallstreetcn.com/livenews/3056965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "日本胆敢介入台湾中方必将迎头痛击",
@@ -1682,15 +1885,26 @@
           "time_info": "14时45分"
         },
         {
-          "title": "美国第四季度年化实际GDP总量初值 241118亿美元，前值240268亿美元。",
-          "url": "https://flash.jin10.com/detail/20260220213526603800",
+          "title": "巴西总统卢拉欲就毒品贩运和稀土问题与美国总统特朗普展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260220221548754800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
+        },
+        {
+          "title": "美国2025年GDP增长2.2%，2024年增长2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3056964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "日本多地市民团体集会，反对部署“战斧”导弹",
@@ -1704,17 +1918,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "终于，美国开始还钱了",
-          "url": "https://news.ifeng.com/c/8qtv0U1LKYV",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "日本首相高市早苗：将维护市场信任，并将明确具体的财政指标。",
           "url": "https://flash.jin10.com/detail/20260220131115777800",
           "source": "金十数据",
@@ -1726,26 +1929,15 @@
           "time_info": "13时48分"
         },
         {
-          "title": "美国第四季度PCE物价指数年率初值 2.8%，前值2.7%。",
-          "url": "https://flash.jin10.com/detail/20260220213433403800",
-          "source": "金十数据",
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
-          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "美国顶级航空公司游说人士表示，将信用卡利率上限设定为10%的提议可能会对航空公司产生巨大影响。",
@@ -1792,17 +1984,6 @@
           "time_info": "14时45分"
         },
         {
-          "title": "美国第四季度核心PCE物价指数年率初值 2.9%，前值2.9%。",
-          "url": "https://flash.jin10.com/detail/20260220213413047800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "英方担忧违反国际法 尚未授权美国使用其基地打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3056765",
           "source": "华尔街见闻-快讯",
@@ -1814,15 +1995,15 @@
           "time_info": "05时26分"
         },
         {
-          "title": "扎哈罗娃：美国在乌克兰问题上的立场具有双重性",
-          "url": "https://news.ifeng.com/c/8qttIC1x9wi",
-          "source": "凤凰网",
+          "title": "美国12月核心PCE物价指数同比 3%，预期 2.9%，前值 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3056962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "标普：目前判断美国在未来12个月内开始衰退的概率为20%-25%，低于9月份的30%。",
@@ -1847,15 +2028,15 @@
           "time_info": "13时48分"
         },
         {
-          "title": "美国第四季度联邦支出降幅创1972年以来最快纪录。",
-          "url": "https://flash.jin10.com/detail/20260220213345111800",
-          "source": "金十数据",
+          "title": "美国12月PCE物价指数同比 2.9%，前值 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3056961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
@@ -1913,17 +2094,6 @@
           "time_info": "14时45分"
         },
         {
-          "title": "美国第四季度政府支出以5.1%的增速下滑，为2020年以来最大降幅。",
-          "url": "https://flash.jin10.com/detail/20260220213236271800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3056763",
           "source": "华尔街见闻-快讯",
@@ -1933,6 +2103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国四季度GDP平减指数年化季环比初值 3.6，前值 3.8。",
+          "url": "https://wallstreetcn.com/livenews/3056960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
@@ -1974,9 +2155,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国12月实际个人消费支出(PCE)环比 0.1%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与白俄罗斯总统卢卡申科在通话中讨论了与即将举行的两国最高国务委员会会议筹备相关的问题，该会议将于下周在莫斯科举行。",
@@ -2040,7 +2232,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2065,6 +2257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "美国12月PCE物价指数环比 0.4%，预期 0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3056958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "日本首相高市早苗：旨在全方位进一步加强与美国的联系。",
@@ -2095,9 +2298,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国12月核心PCE物价指数环比 0.4%，预期 0.4%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3056957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国至2月13日当周EIA天然气库存 -1440亿立方英尺，预期-1460亿立方英尺，前值-2490亿立方英尺。",
@@ -2172,9 +2386,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国12月通胀率增幅超出预期 强化美联储6月之前按兵不动的预期",
+          "url": "https://flash.jin10.com/detail/20260220220244076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少1440亿立方英尺（分析师预计减少1490亿立方英尺），周环比下降6.50%（之前一周下降10.11%），至2.07万亿立方英尺。",
@@ -2199,15 +2424,15 @@
           "time_info": "05时26分"
         },
         {
-          "title": "日本一货船与游船碰撞 多人死伤",
-          "url": "https://www.toutiao.com/trending/7607873021679992841/",
-          "source": "今日头条",
+          "title": "美国四季度实际GDP年化季环比初值 1.4%，预期 2.8%，前值 4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056956",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）代理主席Hill举行听证会。",
@@ -2249,9 +2474,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国2025年GDP增长2.2% 关税取消和降息稳住了经济",
+          "url": "https://flash.jin10.com/detail/20260220215756511800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国2月13日当周EIA天然气库存变动 -1440亿立方英尺。",
@@ -2263,6 +2499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国四季度个人消费支出(PCE)年化季环比初值 2.4%，前值 3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3056955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国承诺向和平委员会捐赠100亿美元",
@@ -2315,7 +2562,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2340,6 +2587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国四季度核心个人消费支出(PCE)物价指数年化季环比初值 2.7%，前值 2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3056954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国国务卿鲁比奥：我们还有很长的路要走。加沙没有B计划。",
@@ -2397,6 +2655,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国12月个人消费支出(PCE)环比 0.4%，预期 0.4%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3056953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。",
           "url": "https://flash.jin10.com/detail/20260220132914591800",
           "source": "金十数据",
@@ -2406,6 +2675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "美国12月个人收入环比 0.3%，预期 0.4%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国至2月13日当周EIA汽油库存 -321.3万桶，预期-28.4万桶，前值116万桶。",
@@ -2557,7 +2837,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2634,7 +2914,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2700,7 +2980,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2733,7 +3013,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2788,7 +3068,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2854,7 +3134,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2920,7 +3200,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -2964,7 +3244,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
