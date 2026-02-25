@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T22:05:54.283609+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-02-25T23:55:35.384582+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 255,
+      "match_count": 282,
       "titles": [
         {
           "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
@@ -57,6 +57,17 @@
           "time_info": "[00时58分 ~ 09时23分]"
         },
         {
+          "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
+          "url": "https://news.ifeng.com/c/8r2GQ0Lu8Kq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时55分]"
+        },
+        {
           "title": "被中国列入管控清单的20家日本实体，什么来头？",
           "url": "https://news.ifeng.com/c/8r0YLprccqB",
           "source": "凤凰网",
@@ -81,19 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时13分 ~ 22时05分]"
-        },
-        {
-          "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
-          "url": "https://news.ifeng.com/c/8r2GQ0Lu8Kq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时05分]"
+          "appearance_count": 17,
+          "time_info": "[12时13分 ~ 23时55分]"
         },
         {
           "title": "大疆反击美国禁令",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时58分 ~ 19时46分]"
+        },
+        {
+          "title": "福建喊话回归台湾回复收到",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时45分 ~ 23时55分]"
         },
         {
           "title": "为什么美国花滑主力基本上都是华裔，但中国花滑男女单的成绩却很一般？",
@@ -205,17 +216,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时39分 ~ 20时44分]"
-        },
-        {
-          "title": "福建喊话回归台湾回复收到",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时45分 ~ 22时05分]"
         },
         {
           "title": "彻底凉!日本断绝大鹅对话",
@@ -397,9 +397,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国至2月20日当周EIA精炼厂设备利用率 88.6%，预期91.4%，前值91%。",
+          "url": "https://flash.jin10.com/detail/20260225233008636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "台湾证交所加权股价指数收高2.1%，报35413.07。",
@@ -419,9 +430,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国2月20日当周EIA精炼油库存变动 25.2万桶，预期 -200万桶，前值 -456.6万桶。",
+          "url": "https://wallstreetcn.com/livenews/3058956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "被击毙的墨西哥最大毒枭塞万提斯是什么人？其被击毙和美国方面有什么关系？",
@@ -490,9 +512,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国至2月20日当周EIA精炼油库存 25.2万桶，预期-159.4万桶，前值-456.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国抵押贷款利率降至2022年以来最低 刺激再融资活动增加",
@@ -501,9 +534,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国2月20日当周EIA原油库存变动 1598.9万桶，预期 192.5万桶，前值 -901.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3058955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
@@ -523,9 +567,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国至2月20日当周EIA新配方汽油库存 0.3万桶，前值0.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003873800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国2月20日当周EIA汽油库存变动 -101.1万桶，预期 -150万桶，前值 -321.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3058954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国商务部初步裁定对印度、印尼及老挝太阳能电池板征收反补贴税。",
@@ -567,20 +633,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
         {
-          "title": "福建喊话回归台湾回复收到",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美国至2月20日当周EIA成品油进口 57.8万桶/日，前值13.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225233003736800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国2月20日当周EIA库欣地区原油库存变动 88.1万桶，前值 -109.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3058953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -633,9 +710,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国至2月20日当周EIA汽油库存 -101.1万桶，预期-56万桶，前值-321.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003737800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "俄罗斯副总理诺瓦克：当前油价水平有利于石油生产和出口。",
@@ -644,9 +732,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国2月20日当周EIA精炼厂设备利用率变化 -2.4%，预期 0.5%，前值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3058952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -889,6 +988,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时02分]"
+        },
+        {
+          "title": "福建喊话回归台湾回复收到",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时55分]"
+        },
+        {
+          "title": "中国男篮公布客战日本12人名单",
+          "url": "https://www.douyin.com/hot/2411803",
+          "source": "抖音",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时55分]"
         },
         {
           "title": "中国再出手反制日本军事化意图",
@@ -1409,7 +1532,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1447,6 +1570,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "美国至2月20日当周EIA精炼油产量 -13.6万桶/日，前值2.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225233003735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "Alphabet旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至另外四座美国城市。",
           "url": "https://wallstreetcn.com/livenews/3058310",
           "source": "华尔街见闻-快讯",
@@ -1475,7 +1609,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1502,6 +1636,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "美国至2月20日当周EIA原油进口 41.2万桶，前值-113.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003635800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特使威特科夫将前往日内瓦 与乌谈判官员会面",
           "url": "https://wallstreetcn.com/livenews/3058308",
           "source": "华尔街见闻-快讯",
@@ -1524,6 +1669,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3058948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特朗普：正与委内瑞拉“新总统”密切合作。",
           "url": "https://flash.jin10.com/detail/20260225114451548800",
           "source": "金十数据",
@@ -1544,6 +1700,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "美国至2月20日当周EIA取暖油库存 -11.9万桶，前值36.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003536800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "玉渊谭天：商务部此次对日本管制措施有三个特点，值得注意",
+          "url": "https://wallstreetcn.com/livenews/3058945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "古巴外长谴责美国对古能源围困",
@@ -1607,9 +1785,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "美国至2月20日当周EIA原油库存 1598.9万桶，预期148.1万桶，前值-901.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国对俄罗斯与阿联酋的个人和实体实施制裁",
@@ -1621,17 +1810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "中国男篮公布客战日本12人名单",
-          "url": "https://www.douyin.com/hot/2411803",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -1711,6 +1889,17 @@
           "time_info": "20时44分"
         },
         {
+          "title": "美国至2月20日当周EIA汽油产量 -22.3万桶/日，前值29万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225233003488800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3058239",
           "source": "华尔街见闻-快讯",
@@ -1775,6 +1964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "美国至2月20日当周EIA俄克拉荷马州库欣原油库存 88.1万桶，前值-109.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260225233003483800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "报告引发争议并招致美国不满后 德银分析师称将笔耕不辍",
@@ -1843,6 +2043,17 @@
           "time_info": "18时43分"
         },
         {
+          "title": "美国至2月20日当周EIA投产原油量 -41.6万桶/日，前值7.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225233003461800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
           "source": "华尔街见闻-快讯",
@@ -1871,7 +2082,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1997,6 +2208,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报2.916美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260225232716338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "日本30年期国债收益率上升10个基点，至3.375%。 日本10年期国债收益率上涨4个基点至2.140%。",
           "url": "https://wallstreetcn.com/livenews/3058643",
           "source": "华尔街见闻-快讯",
@@ -2014,7 +2236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2091,7 +2313,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2179,7 +2401,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2215,6 +2437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "美国至2月20日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260225232000001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "机构：美国可通过增发国库券弥补关税收入损失",
@@ -2382,6 +2615,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "全美国最大制酒商Brown-Forman Corp.跌6.5%，啤酒供应商Molson Coors与Constellation跌3%。 投资者关注酒类零售商帝亚吉欧的业绩报告和伦敦股价的表现。 帝亚吉欧跌幅扩大至15%，此前该公司下调销售指引。",
+          "url": "https://wallstreetcn.com/livenews/3058935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "大疆反击美国禁令",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -2465,9 +2709,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "市场消息：美国将部分油轮列入对伊朗的制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260225230955963800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国至2月24日2年期国债竞拍-得标利率配置百分比 51.32%，前值52.25%。",
@@ -2498,7 +2753,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2542,7 +2797,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2578,6 +2833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "据美国财政部网站：美国出台新一轮涉伊朗制裁措施。",
+          "url": "https://flash.jin10.com/detail/20260225230526909800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国推进太阳能产品反补贴调查，对印度、印尼和老挝设定高额初裁关税",
@@ -2641,9 +2907,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "市场消息：美国环保署周三将2026年生物燃料配额提交至白宫。",
+          "url": "https://flash.jin10.com/detail/20260225230441961800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
@@ -2685,7 +2962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2751,7 +3028,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2784,7 +3061,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2811,6 +3088,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "美国一人形机器人企业倒闭",
+          "url": "https://www.toutiao.com/trending/7610753644723441195/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特朗普：向受伤的国民警卫队成员颁发奖章。",
           "url": "https://flash.jin10.com/detail/20260225112704622800",
           "source": "金十数据",
@@ -2828,7 +3116,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2872,7 +3160,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2894,7 +3182,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2927,7 +3215,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2941,6 +3229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（2月24日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3058916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     }
