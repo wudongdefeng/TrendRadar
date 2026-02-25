@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T12:14:08.519588+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-02-25T13:56:53.445379+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 144,
+      "match_count": 161,
       "titles": [
         {
           "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
@@ -79,11 +79,12 @@
             9,
             7,
             10,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 12时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 13时56分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -92,11 +93,12 @@
           "ranks": [
             16,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 12时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 13时56分]"
         },
         {
           "title": "媒体：彻底击碎日本“军国梦”",
@@ -189,9 +191,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收高2.1%，报35413.07。",
+          "url": "https://wallstreetcn.com/livenews/3058628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "被击毙的墨西哥最大毒枭塞万提斯是什么人？其被击毙和美国方面有什么关系？",
@@ -221,6 +234,17 @@
           "time_info": "[01时55分 ~ 06时25分]"
         },
         {
+          "title": "特朗普：伊朗正研制很快打到美国的导弹",
+          "url": "https://www.toutiao.com/trending/7610645788871364115/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
           "url": "https://flash.jin10.com/detail/20260225033140480800",
           "source": "金十数据",
@@ -243,6 +267,18 @@
           "time_info": "04时09分"
         },
         {
+          "title": "乌克兰拉40多国发涉俄声明，美国未参与",
+          "url": "https://news.ifeng.com/c/8r1lJhBUB7N",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时56分]"
+        },
+        {
           "title": "美国商务部初步裁定对印度、印尼及老挝太阳能电池板征收反补贴税。",
           "url": "https://flash.jin10.com/detail/20260225013359766800",
           "source": "金十数据",
@@ -260,7 +296,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -431,6 +467,18 @@
           "time_info": "[01时55分 ~ 03时02分]"
         },
         {
+          "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009569700791752615",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时56分]"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -479,24 +527,25 @@
           "time_info": "[05时27分 ~ 07时24分]"
         },
         {
+          "title": "为什么美国花滑主力基本上都是华裔，但中国花滑男女单的成绩却很一般？",
+          "url": "https://www.zhihu.com/question/521184511",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时56分]"
+        },
+        {
           "title": "俄罗斯为何拿不下乌克兰",
           "url": "https://www.toutiao.com/trending/7610449388539743782/",
           "source": "今日头条",
           "ranks": [
             7,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时14分]"
-        },
-        {
-          "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2009569700791752615",
-          "source": "知乎",
-          "ranks": [
-            8,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -514,16 +563,39 @@
           "time_info": "[00时58分 ~ 09时23分]"
         },
         {
-          "title": "为什么美国花滑主力基本上都是华裔，但中国花滑男女单的成绩却很一般？",
-          "url": "https://www.zhihu.com/question/521184511",
-          "source": "知乎",
+          "title": "第1现场｜暴雪肆虐美国，7个州进入紧急状态，纽约成“孤城”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649718",
+          "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时14分]"
+          "time_info": "[12时13分 ~ 13时56分]"
+        },
+        {
+          "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
+          "url": "https://news.ifeng.com/c/8r1hgMQEeyI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时56分]"
+        },
+        {
+          "title": "大疆起诉美国联邦通信委员会",
+          "url": "https://www.toutiao.com/trending/7609967554191933449/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时56分]"
         },
         {
           "title": "记者观察：日本企业面临双重压力",
@@ -559,17 +631,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 05时28分]"
-        },
-        {
-          "title": "乌克兰拉40多国发涉俄声明，美国未参与",
-          "url": "https://news.ifeng.com/c/8r1lJhBUB7N",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
         },
         {
           "title": "新罕布什尔州州长称，美国暂停在新罕布什尔州设立移民执法局设施的计划。",
@@ -776,17 +837,6 @@
           "time_info": "[03时02分 ~ 04时09分]"
         },
         {
-          "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
-          "url": "https://news.ifeng.com/c/8r1hgMQEeyI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
           "title": "美国至2月20日当周API原油库存 1142.7万桶，预期125万桶，前值-60.9万桶。",
           "url": "https://flash.jin10.com/detail/20260225053311247800",
           "source": "金十数据",
@@ -883,28 +933,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "第1现场｜暴雪肆虐美国，7个州进入紧急状态，纽约成“孤城”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649718",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "大疆起诉美国联邦通信委员会",
-          "url": "https://www.toutiao.com/trending/7609967554191933449/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
           "title": "东风导弹可覆盖日本全境",
           "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83",
           "source": "百度热搜",
@@ -949,6 +977,28 @@
           "time_info": "04时09分"
         },
         {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "日本30年期国债收益率上升6.5个基点，至3.340%。",
+          "url": "https://flash.jin10.com/detail/20260225131121714800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "美国总统特使威特科夫将前往日内瓦 与乌谈判官员会面",
           "url": "https://wallstreetcn.com/livenews/3058308",
           "source": "华尔街见闻-快讯",
@@ -966,7 +1016,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -991,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "韩国军方：韩国与美国将于3月9日至19日举行大规模联合军事演习。",
+          "url": "https://flash.jin10.com/detail/20260225125926756800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国对俄罗斯与阿联酋的个人和实体实施制裁",
@@ -1021,9 +1082,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
+          "url": "https://flash.jin10.com/detail/20260225125758262800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
@@ -1043,9 +1115,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
+          "url": "https://flash.jin10.com/detail/20260225124552182800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -1065,7 +1148,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1109,9 +1192,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：呼吁美国民众团结一致，通过投票要求变革。",
+          "url": "https://flash.jin10.com/detail/20260225124047331800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国里士满联储主席Barkin：希望看到数据中体现出让通胀回落的那些因素。 通胀数据一直高于目标，有望回落至2%。 预计最高法院相关的关税调整不会对整体走势造成太大影响。",
@@ -1153,9 +1247,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
+          "url": "https://flash.jin10.com/detail/20260225124021948800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
@@ -1178,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "日本东证指数上涨1.0%，报3,854.18点。",
+          "url": "https://flash.jin10.com/detail/20260225123004943800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "据标普全球评级，美国私立学校年度学费上涨3.6%至48,922美元，寄宿制学校学费涨3.5%至75,466美元。",
@@ -1312,6 +1428,28 @@
           "time_info": "01时55分"
         },
         {
+          "title": "日本首相高市早苗：将与市场沟通，以确保债券发行稳定。",
+          "url": "https://wallstreetcn.com/livenews/3058602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "美国从委内瑞拉获得超8000万桶石油",
+          "url": "https://www.toutiao.com/trending/7609896090338918427/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "英国贸易大臣彼得·凯尔：我们与美国谈判达成的协议仍然有效。",
           "url": "https://flash.jin10.com/detail/20260225001631579800",
           "source": "金十数据",
@@ -1351,7 +1489,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1384,7 +1522,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1417,7 +1555,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1439,9 +1577,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
+          "url": "https://flash.jin10.com/detail/20260225121648684800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国至2月24日2年期国债竞拍-得标利率配置百分比 51.32%，前值52.25%。",
@@ -1499,13 +1659,24 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国推进太阳能产品反补贴调查，对印度、印尼和老挝设定高额初裁关税",
+          "url": "https://wallstreetcn.com/livenews/3058596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "美国总统特朗普：加沙冲突仍在继续，但强度非常低。",
           "url": "https://flash.jin10.com/detail/20260225113055338800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1560,7 +1731,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1571,7 +1742,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1593,7 +1764,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1604,7 +1775,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1620,6 +1791,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "日本东证指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3058591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "伊朗外交部长：与美国达成协议“只有在外交被置于优先地位”的情况下才触手可及。",
           "url": "https://flash.jin10.com/detail/20260225015035672800",
           "source": "金十数据",
@@ -1629,6 +1811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "“东风导弹可覆盖日本全境”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国2月里士满联储制造业指数 -10，预期 -5，前值 -6。",
