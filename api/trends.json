@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:46:19.754099+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-02-26T16:37:39.186961+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 154,
+      "match_count": 170,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
@@ -56,8 +56,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 16时37分]"
+        },
+        {
+          "title": "美国从陈志案获利150亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时37分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -75,15 +86,16 @@
           "time_info": "[01时01分 ~ 12时09分]"
         },
         {
-          "title": "美国从陈志案获利150亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时37分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -97,16 +109,18 @@
           "time_info": "[01时01分 ~ 07时22分]"
         },
         {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
+          "title": "乌友投奔日军,誓死保卫台湾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
+          "source": "贴吧",
           "ranks": [
-            5,
-            6
+            4,
+            6,
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时37分]"
         },
         {
           "title": "美国页岩油增长放缓，压裂服务商转向海外市场",
@@ -168,19 +182,6 @@
           "time_info": "[03时46分 ~ 05时29分]"
         },
         {
-          "title": "乌友投奔日军,誓死保卫台湾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时46分]"
-        },
-        {
           "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
           "url": "https://flash.jin10.com/detail/20260226055636334800",
           "source": "金十数据",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "津巴布韦终止与美国卫生合作谈判",
+          "url": "https://wallstreetcn.com/livenews/3059417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
@@ -324,6 +336,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美国最高法院裁决引发贸易协议变数 印度谨慎缩减俄油采购",
+          "url": "https://flash.jin10.com/detail/20260226162705468800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘涨0.1%，报35457.76点。",
           "url": "https://wallstreetcn.com/livenews/3059161",
           "source": "华尔街见闻-快讯",
@@ -379,6 +402,19 @@
           "time_info": "07时22分"
         },
         {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时37分]"
+        },
+        {
           "title": "据报道，俄罗斯总统特使德米特里耶夫计划于周四抵达日内瓦，与美方进行谈判。",
           "url": "https://flash.jin10.com/detail/20260226034855362800",
           "source": "金十数据",
@@ -389,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时29分]"
+        },
+        {
+          "title": "赖清德改口称“大陆”释放善意？港媒分析",
+          "url": "https://news.ifeng.com/c/8r3TwWpdpxk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时37分]"
         },
         {
           "title": "日本央行审议委员高田创：过去，一些海外央行不得不以相当快的速度加息，而日本则并非如此。",
@@ -513,17 +560,6 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
-          "title": "赖清德改口称“大陆”释放善意？港媒分析",
-          "url": "https://news.ifeng.com/c/8r3TwWpdpxk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时46分]"
-        },
-        {
           "title": "古巴称向一艘违规的美国快艇开火 致4死",
           "url": "https://flash.jin10.com/detail/20260226031002840800",
           "source": "金十数据",
@@ -625,18 +661,6 @@
           "time_info": "[13时53分 ~ 14时51分]"
         },
         {
-          "title": "中国男篮vs日本男篮",
-          "url": "https://www.douyin.com/hot/2412274",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时46分]"
-        },
-        {
           "title": "美国快艇闯入古巴领海，双方交火4人被打死",
           "url": "https://news.ifeng.com/c/8r3Cb63Ks2X",
           "source": "凤凰网",
@@ -647,6 +671,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 12时09分]"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -755,6 +790,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时28分]"
+        },
+        {
+          "title": "日本首相高市早苗：完全削减消费税可能会影响公共服务。",
+          "url": "https://wallstreetcn.com/livenews/3059373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
         },
         {
           "title": "台湾女孩疑在日本街头被恶意撞倒",
@@ -921,6 +968,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "伊朗外交部发言人：美国应该在谈判现场发表声明，而不是在媒体层面。",
+          "url": "https://flash.jin10.com/detail/20260226162517549800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "日本科研机构用宇树机器人诵经",
           "url": "https://www.toutiao.com/trending/7610684492474449974/",
           "source": "今日头条",
@@ -963,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们将在半小时后前往核谈判地点。据报道，美国官员之间似乎存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260226162446026800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "中国代表严厉驳斥日本等少数国家不实言论",
@@ -1053,15 +1122,26 @@
           "time_info": "14时51分"
         },
         {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
+          "title": "中国台湾第四季度经常帐 699.3亿美元，前值458.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260226162111754800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "16时37分"
+        },
+        {
+          "title": "中方回应将日本实体列入出口管控名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国国务卿鲁比奥：可以肯定的是，在公海上看到那样的交火是非常罕见的。我们不会根据古巴方面告诉我们的内容得出结论。",
@@ -1084,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "中国台湾1月M2货币供应年率 5.16%，前值5.00%。",
+          "url": "https://flash.jin10.com/detail/20260226162002098800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国国防部（五角大楼）在拉黑Anthropic方面迈出第一步。 要求国防企业评估对Anthropic的依赖性。 2月25日，国防部联系了波音公司与洛克-希德马丁公司。（Axios）",
@@ -1295,15 +1386,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "日本首相高市早苗：完全削减消费税可能会影响公共服务。",
-          "url": "https://wallstreetcn.com/livenews/3059373",
-          "source": "华尔街见闻-快讯",
+          "title": "印度贸易部长：接待了美国商务部长卢特尼克，就扩大两国贸易和经济伙伴关系进行了“非常富有成效”的讨论。",
+          "url": "https://flash.jin10.com/detail/20260226161623464800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "16时37分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：美国仍对来自其他国家的资金流动具有吸引力。",
@@ -1460,6 +1551,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "消息人士：美国航空航天和芯片行业稀土短缺问题日益加剧",
           "url": "https://flash.jin10.com/detail/20260226134425006800",
           "source": "金十数据",
@@ -1521,9 +1623,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "市场消息：阿曼将向美国谈判团队提交伊朗的提案草案。",
+          "url": "https://flash.jin10.com/detail/20260226160650158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -1546,6 +1659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "市场消息：今天美国参议院就银行监管举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260226160553062800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国至2月25日4个月国债竞拍-得标利率配置百分比 60.99%，前值86.82%。",
@@ -1576,9 +1700,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "市场消息：今天美国参议院将举行听证会，讨论罕见病治疗问题。",
+          "url": "https://flash.jin10.com/detail/20260226160530105800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国至2月25日4个月国债竞拍-投标倍数 3.01，前值3.15。",
@@ -1590,6 +1725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "市场消息：作为爱泼斯坦调查的一部分，美国前国务卿希拉里·克林顿今天将接受闭门质询。",
+          "url": "https://flash.jin10.com/detail/20260226160434045800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
@@ -1612,6 +1758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3059379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国至2月25日4个月国债竞拍-得标利率 3.59%，前值3.60%。",
@@ -1669,6 +1826,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "市场消息：美印贸易谈判继续进行，美国商务部长卢特尼克会见了印度贸易部长戈亚尔。",
+          "url": "https://flash.jin10.com/detail/20260226160322867800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "媒体：日本涉军工企业被管控一点不冤",
           "url": "https://www.toutiao.com/trending/7610988260478684718/",
           "source": "今日头条",
@@ -1678,6 +1846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
+          "url": "https://flash.jin10.com/detail/20260226160237755800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "国际货币基金组织（IMF）：美国（总统特朗普挑起的）关税风险造成动荡。",
