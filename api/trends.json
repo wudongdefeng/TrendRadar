@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-26T07:22:53.698925+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-26T09:18:19.711610+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 89,
+      "match_count": 100,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
           "url": "https://news.ifeng.com/c/8r2GQ0Lu8Kq",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 09时18分]"
         },
         {
           "title": "第1现场｜暴雪肆虐美国，7个州进入紧急状态，纽约成“孤城”",
@@ -38,11 +39,27 @@
             5,
             6,
             7,
-            8
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 09时18分]"
+        },
+        {
+          "title": "福建喊话回归台湾回复收到",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16,
+            19,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时22分]"
+          "time_info": "[01时01分 ~ 09时18分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -115,20 +132,6 @@
           "time_info": "[03时46分 ~ 05时29分]"
         },
         {
-          "title": "福建喊话回归台湾回复收到",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时22分]"
-        },
-        {
           "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
           "url": "https://flash.jin10.com/detail/20260226055636334800",
           "source": "金十数据",
@@ -146,9 +149,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "古巴官方媒体：古巴政府表示，快艇上的人均为居住在美国的古巴人。",
+          "url": "https://flash.jin10.com/detail/20260226090920780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国众议院一个委员会计划未来数周围绕住房立法草案采取行动。（PunchBowl）",
@@ -160,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "避开日本，中国游客推动泰国旅游业复苏",
+          "url": "https://wallstreetcn.com/livenews/3059163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
@@ -179,7 +204,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -190,7 +215,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -234,9 +259,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开盘涨0.1%，报35457.76点。",
+          "url": "https://wallstreetcn.com/livenews/3059161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国前财长、哈佛大学前校长萨默斯将辞去哈佛教授职位",
@@ -267,7 +303,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -615,6 +651,17 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "美国赢麻了？全世界都笑了",
+          "url": "https://news.ifeng.com/c/8r3Cb63Ks8E",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
           "url": "https://flash.jin10.com/detail/20260226013309691800",
           "source": "金十数据",
@@ -643,7 +690,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -654,7 +701,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -665,7 +712,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -679,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国快艇闯入古巴领海，双方交火4人被打死",
+          "url": "https://news.ifeng.com/c/8r3Cb63Ks2X",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "英伟达(NVDA.O)：任何根据新许可计划出货的H200芯片在进口到美国时都将被征收25%的关税。",
@@ -698,7 +756,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -709,7 +767,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -720,7 +778,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -742,7 +800,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -775,7 +833,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -797,7 +855,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -808,7 +866,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -819,7 +877,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -835,15 +893,48 @@
           "time_info": "01时01分"
         },
         {
+          "title": "中国代表严厉驳斥日本等少数国家",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%B8%A5%E5%8E%89%E9%A9%B3%E6%96%A5%E6%97%A5%E6%9C%AC%E7%AD%89%E5%B0%91%E6%95%B0%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "古巴领海发生船只交火，美国务卿否认美政府人员参与",
+          "url": "https://wallstreetcn.com/livenews/3059142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国防部继续施压Anthropic 拟将其列入风险名单",
           "url": "https://flash.jin10.com/detail/20260226064734738800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本2年期国债收益率上行2个基点至2.155%。",
+          "url": "https://wallstreetcn.com/livenews/3059141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
@@ -857,13 +948,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "日本东证指数创历史新高。 日经225指数涨超1%，史上首次涨至59000点上方。",
+          "url": "https://wallstreetcn.com/livenews/3059140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "据AXIOS：美国国防部已采取初步行动，威胁要将人工智能初创公司Anthropic列入黑名单。",
           "url": "https://flash.jin10.com/detail/20260226063756839800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -923,6 +1025,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
+          "url": "https://wallstreetcn.com/livenews/3059133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国至2月25日4个月国债竞拍-得标利率 3.59%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260226003432216800",
           "source": "金十数据",
@@ -940,9 +1053,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本五年期国债收益率上升2.5个基点，至1.605%。",
+          "url": "https://flash.jin10.com/detail/20260226083433596800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "据福克斯新闻：乌克兰将在与俄罗斯举行日内瓦会谈前夕会见特朗普特使。",
@@ -962,7 +1086,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -973,7 +1097,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -995,7 +1119,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
