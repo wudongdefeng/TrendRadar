@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T02:31:31.396985+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-28T03:28:56.172057+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 82,
+      "match_count": 97,
       "titles": [
         {
           "title": "涉核军控协议，鲁比奥：美国会施压中国",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "重磅：中国警示“尽快撤离”，美国建议“今天就走”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
@@ -46,11 +46,26 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "有美国入侵伊拉克时的味道了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E4%BC%8A%E6%8B%89%E5%85%8B%E6%97%B6%E7%9A%84%E5%91%B3%E9%81%93%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            4,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "美国能源信息署（EIA）：12月美国原油出口增至414.6万桶/日（11月为388.8万桶/日）；12月美国成品油出口总量增至351.3万桶/日，11月为335.1万桶/日；12月美国馏分油出口增至150.8万桶/日（11月为131.3万桶/日）；12月美国汽油出口降至90.3万桶/日，11月为102.3万桶/日。",
@@ -64,15 +79,37 @@
           "time_info": "01时29分"
         },
         {
-          "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3060467",
+          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
+          "url": "https://wallstreetcn.com/livenews/3060482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美国10年期国债收益率跌破3.96%，创去年10月23日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260228030911689800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：12月美国石油产量下滑至大约1370万桶/日，创半年最低。",
+          "url": "https://wallstreetcn.com/livenews/3060481",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时28分"
         },
         {
           "title": "法院文件显示，孩之宝公司已向美国提起诉讼，请求退还其向美国缴纳的所有《国际紧急经济权力法》关税。",
@@ -92,9 +129,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：12月美国石油产量下滑至大约1370万桶/日，创半年最低。",
+          "url": "https://flash.jin10.com/detail/20260228030711427800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "前美国总统比尔·克林顿：对爱泼斯坦的所作所为并不知情。",
@@ -108,28 +156,17 @@
           "time_info": "01时29分"
         },
         {
-          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
-          "url": "https://wallstreetcn.com/livenews/3060466",
-          "source": "华尔街见闻-快讯",
+          "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
+          "url": "https://wallstreetcn.com/articles/3766376",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "有美国入侵伊拉克时的味道了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E4%BC%8A%E6%8B%89%E5%85%8B%E6%97%B6%E7%9A%84%E5%91%B3%E9%81%93%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            4,
-            8
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -138,18 +175,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格正在大幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3060465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -171,22 +197,89 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
-          "url": "https://wallstreetcn.com/articles/3766376",
-          "source": "华尔街见闻",
+          "title": "美国1月PPI大超预期 三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2297715",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "美国 伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "玉渊谭天丨美国发动网攻侵占全球虚拟资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664803",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "日本撞人族出没,女童惨遭肘击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "美国下令外交官撤离以色列",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%A4%96%E4%BA%A4%E5%AE%98%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
+        },
+        {
+          "title": "逐帧解析男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
@@ -213,6 +306,18 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
+          "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3060467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
+        },
+        {
           "title": "美国否认从伊拉克和科威特撤出非必要外交人员",
           "url": "https://wallstreetcn.com/livenews/3060416",
           "source": "华尔街见闻-快讯",
@@ -225,84 +330,28 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "美国1月PPI大超预期 三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2297715",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
         },
         {
-          "title": "美国 伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3060465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "玉渊谭天丨美国发动网攻侵占全球虚拟资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664803",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
+            4,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "日本撞人族出没,女童惨遭肘击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "美国下令外交官撤离以色列",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%A4%96%E4%BA%A4%E5%AE%98%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "逐帧解析男篮逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
         },
         {
           "title": "美国双航母已就位",
@@ -310,11 +359,12 @@
           "source": "微博",
           "ranks": [
             8,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时28分]"
         },
         {
           "title": "日本去年仅出生70万人创百年新低",
@@ -322,11 +372,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时28分]"
         },
         {
           "title": "大量美国人离开伊拉克",
@@ -334,11 +385,48 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时28分]"
+        },
+        {
+          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3060463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
+        },
+        {
+          "title": "美国2月27日当周石油钻井数 407，前值 409。",
+          "url": "https://wallstreetcn.com/livenews/3060462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
+        },
+        {
+          "title": "美国2月27日当周天然气钻井数 134，前值 133。",
+          "url": "https://wallstreetcn.com/livenews/3060461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
@@ -351,6 +439,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "美国2月27日当周总钻井数 550，前值 551。",
+          "url": "https://wallstreetcn.com/livenews/3060460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
         },
         {
           "title": "美国前总统克林顿就爱泼斯坦案作证",
@@ -377,15 +477,28 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3060463",
+          "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
+          "url": "https://wallstreetcn.com/livenews/3060457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
+        },
+        {
+          "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
+          "url": "https://wallstreetcn.com/livenews/3060452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时28分]"
         },
         {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
@@ -394,20 +507,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "美国2月27日当周石油钻井数 407，前值 409。",
-          "url": "https://wallstreetcn.com/livenews/3060462",
+          "title": "美国维持以色列三级旅行警告，授权非必要人员离境",
+          "url": "https://wallstreetcn.com/livenews/3060475",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时28分"
         },
         {
           "title": "美国总统特朗普：已与普京通话，希望结束战争。我们希望与俄罗斯和乌克兰达成协议。",
@@ -416,18 +529,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国2月27日当周天然气钻井数 134，前值 133。",
-          "url": "https://wallstreetcn.com/livenews/3060461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -449,18 +551,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国2月27日当周总钻井数 550，前值 551。",
-          "url": "https://wallstreetcn.com/livenews/3060460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -493,9 +584,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "阿曼外长：与美国副总统万斯会面，讨论了美国与伊朗之间的持续谈判及迄今取得的进展。感谢美国官员的参与，并对外交进程表示乐观。",
+          "url": "https://flash.jin10.com/detail/20260228024412200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
@@ -504,9 +606,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国财政部：美国财政部官员将与瑞士方面探讨深化合作、应对非法金融威胁的途径。",
+          "url": "https://flash.jin10.com/detail/20260228024311947800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国30年期国债收益率跌至4.63%，创10月份以来新低。",
@@ -518,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
+          "url": "https://wallstreetcn.com/livenews/3060471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国众议院议长约翰逊：在不到100天的时间里，民主党第三次将美国人的生命和生计置于危险之中——为了非法移民的辩护。民主党需要停止这些把戏，认真履行他们的职责。",
@@ -537,20 +661,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
-          "url": "https://wallstreetcn.com/livenews/3060457",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财政部：财政部将于3月2日至3日派遣高级官员赴瑞士，同瑞士政府及私营部门官员就制裁优先事项和打击非法金融活动举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260228024210307800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时28分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2月24日当周消费者价格环比上涨0.19%。",
@@ -581,7 +705,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -603,7 +727,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -636,7 +760,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -647,9 +771,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国维持以色列三级旅行警告 授权非必要人员离境",
+          "url": "https://flash.jin10.com/detail/20260228023529764800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国总统特朗普：（谈卢特尼克和爱泼斯坦调查）他会做他想做的任何事。",
@@ -658,7 +793,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -672,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
-          "url": "https://wallstreetcn.com/livenews/3060452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
         },
         {
           "title": "市场消息：所有美国空军加油机已从卡塔尔乌代德空军基地撤离。",
@@ -702,7 +826,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -713,9 +837,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：关税已对诺华产生影响，并促使其杰出的领导人、医学博士瓦桑特·纳拉辛汉建设7个以上的制造和研发设施，创造了数以千计的就业岗位。激进左派以及那些就关税提起诉讼的“狂人”对此拒而不谈，但数百家其他公司也正在发生同样的情况。",
+          "url": "https://flash.jin10.com/detail/20260228023117307800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
@@ -724,7 +859,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -740,15 +875,37 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国建议美公民尽快离开以色列",
+          "url": "https://www.douyin.com/hot/2413612",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
           "title": "纽约联储GDPNowcast模型显示，美国第一季度经济增速预期为2.38%（前值2.37%）。",
           "url": "https://flash.jin10.com/detail/20260228015220772800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
+          "url": "https://flash.jin10.com/detail/20260228022930909800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
@@ -768,7 +925,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -790,7 +947,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -801,7 +958,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -812,7 +969,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -867,9 +1024,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国白宫：越来越多的公司在美国投资，总投资额已超过9.7万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228022333028800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "美国12月营建支出环比 0.3%，预期 0.2%。",
@@ -900,7 +1068,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -911,9 +1079,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国白宫：今年的平均退税将增加11%。",
+          "url": "https://flash.jin10.com/detail/20260228022228599800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "市场消息：一名美国议员要求美国商务部长卢特尼克提供有关关税退款的记录。",
@@ -922,7 +1101,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
