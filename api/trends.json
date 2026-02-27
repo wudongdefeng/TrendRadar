@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:39:34.477614+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-02-27T21:55:18.114830+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 218,
+      "match_count": 236,
       "titles": [
         {
           "title": "20家日本实体被中方列入管制名单，高市早苗急了",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 20时39分]"
+          "appearance_count": 9,
+          "time_info": "[15时41分 ~ 21时55分]"
         },
         {
           "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
@@ -71,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 21时55分]"
         },
         {
           "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
@@ -186,8 +186,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时53分 ~ 20时39分]"
+          "appearance_count": 23,
+          "time_info": "[01时53分 ~ 21时55分]"
         },
         {
           "title": "FIBA竟称“中国男篮从日本偷走胜利”",
@@ -343,11 +343,12 @@
           "url": "https://news.ifeng.com/c/8r5aiQTScCV",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 21时55分]"
         },
         {
           "title": "日本男篮主场裁判争议哨不断",
@@ -473,6 +474,20 @@
           "time_info": "07时23分"
         },
         {
+          "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
+          "url": "https://www.zhihu.com/question/2010047778584224612",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时55分]"
+        },
+        {
           "title": "媒体：日本男篮恶意伤人反吹中国犯规",
           "url": "https://www.toutiao.com/trending/7610272703174000686/",
           "source": "今日头条",
@@ -529,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "逐帧解析男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "乌克兰将首次通过立陶宛港口接收美国液化天然气",
@@ -619,6 +645,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "美国建议美公民尽快离开以色列",
+          "url": "https://www.douyin.com/hot/2413612",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 21时55分]"
+        },
+        {
           "title": "美国和古巴的矛盾，因为一艘快艇激化了",
           "url": "https://news.ifeng.com/c/8r5XBHYzjVN",
           "source": "凤凰网",
@@ -669,7 +706,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -696,6 +733,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3060340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "赖清德改口称“大陆”被舆论看透",
           "url": "https://www.toutiao.com/trending/7610314909164011556/",
           "source": "今日头条",
@@ -720,19 +768,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时32分 ~ 18时31分]"
-        },
-        {
-          "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
-          "url": "https://www.zhihu.com/question/2010047778584224612",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "中国男篮战胜日本男篮",
@@ -947,17 +982,6 @@
           "time_info": "[03时39分 ~ 05时26分]"
         },
         {
-          "title": "美国建议美公民尽快离开以色列",
-          "url": "https://www.douyin.com/hot/2413612",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 20时39分]"
-        },
-        {
           "title": "加拿大部长多米尼克·勒布朗：我对最终与美国达成双边部门协议并不悲观。",
           "url": "https://flash.jin10.com/detail/20260227022128020800",
           "source": "金十数据",
@@ -1104,6 +1128,19 @@
           "time_info": "[04时28分 ~ 06时26分]"
         },
         {
+          "title": "美国建议美国公民尽快离开以色列",
+          "url": "https://www.toutiao.com/trending/7610379938352513065/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时55分]"
+        },
+        {
           "title": "驻日使馆九问日本",
           "url": "https://www.toutiao.com/trending/7611468597239709705/",
           "source": "今日头条",
@@ -1166,6 +1203,19 @@
           "time_info": "[03时39分 ~ 05时26分]"
         },
         {
+          "title": "美国下令外交官撤离以色列",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%A4%96%E4%BA%A4%E5%AE%98%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时55分]"
+        },
+        {
           "title": "波兰计划禁止儿童使用社交媒体，向美国科技巨头发起挑战。",
           "url": "https://flash.jin10.com/detail/20260227132458345800",
           "source": "金十数据",
@@ -1200,18 +1250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时46分]"
-        },
-        {
-          "title": "美国建议美国公民尽快离开以色列",
-          "url": "https://www.toutiao.com/trending/7610379938352513065/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时39分]"
         },
         {
           "title": "据华尔街日报：消息人士称，卢旺达在打破停火协议后，卢旺达总统致电美国参议员格雷厄姆，请求他帮忙阻止白宫实施制裁。格雷厄姆同意了这一请求，白宫最终搁置了制裁计划。",
@@ -1332,18 +1370,6 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
-          "title": "美国下令外交官撤离以色列",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8B%E4%BB%A4%E5%A4%96%E4%BA%A4%E5%AE%98%E6%92%A4%E7%A6%BB%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时39分]"
-        },
-        {
           "title": "美国国务院：将悬赏最高1000万美元，以征集有助于逮捕和/或定罪涉嫌墨西哥锡那罗亚贩毒集团Plaza Bosses的相关信息。",
           "url": "https://flash.jin10.com/detail/20260227033457526800",
           "source": "金十数据",
@@ -1365,6 +1391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "玉渊谭天丨美国发动网攻侵占全球虚拟资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664803",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时55分]"
         },
         {
           "title": "赖清德罕见改口称中国大陆",
@@ -1449,6 +1487,17 @@
           "time_info": "[00时49分 ~ 01时53分]"
         },
         {
+          "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
+          "url": "https://www.cls.cn/detail/2297531",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
           "url": "https://flash.jin10.com/detail/20260227012041500800",
           "source": "金十数据",
@@ -1515,6 +1564,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "美国1月核心PPI同比 3.6%，预期 3%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3060339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "欧盟反欺诈机构“OLAF”证实，正在调查英国前驻美国大使彼得·曼德尔森的相关情况。",
           "url": "https://flash.jin10.com/detail/20260227012011522800",
           "source": "金十数据",
@@ -1570,6 +1630,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "美国1月PPI环比 0.5%，预期 0.3%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3060338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "市场消息：美国纽约州州长霍楚尔向美国财政部长贝森特发函，敦促退还关税。",
           "url": "https://flash.jin10.com/detail/20260227011933045800",
           "source": "金十数据",
@@ -1614,6 +1685,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "美国1月核心PPI环比 0.8%，预期 0.3%，前值 0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "陈丽君台湾巡演人气大爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%8F%B0%E6%B9%BE%E5%B7%A1%E6%BC%94%E4%BA%BA%E6%B0%94%E5%A4%A7%E7%88%86%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1656,6 +1738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美国1月PPI同比 2.9%，预期 2.6%，前值 3%。",
+          "url": "https://wallstreetcn.com/livenews/3060336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "据《迈阿密先驱报》：消息人士透露，美国官员在加勒比海地区会议的会外活动期间会见了劳尔·卡斯特罗的孙子。",
@@ -1799,6 +1892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "美国 伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
@@ -1988,6 +2092,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "提醒：北京时间21:30，将公布美国1月PPI、加拿大12月GDP。",
+          "url": "https://wallstreetcn.com/livenews/3060329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "据美国财经媒体Semafor：Paypal(PYPL.O)和Stripe目前未进行谈判。",
           "url": "https://flash.jin10.com/detail/20260227000634207800",
           "source": "金十数据",
@@ -2115,7 +2230,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -2131,15 +2246,15 @@
           "time_info": "00时49分"
         },
         {
-          "title": "玉渊谭天丨美国发动网攻侵占全球虚拟资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664803",
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "21时55分"
         },
         {
           "title": "美国建议美公民尽快离开以色列",
@@ -2346,7 +2461,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -2406,6 +2521,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "美国1月PPI年率 2.9%，预期2.60%，前值3.00%。",
+          "url": "https://flash.jin10.com/detail/20260227213004505800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "日本首相高市早苗：若方案敲定，目标在夏季前提交减税法案。",
           "url": "https://wallstreetcn.com/livenews/3059943",
           "source": "华尔街见闻-快讯",
@@ -2439,6 +2565,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "美国1月核心PPI月率 0.8%，预期0.30%，前值由0.70%修正为0.6%。",
+          "url": "https://flash.jin10.com/detail/20260227213004026800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "俄罗斯在强迫外国人参军吗",
           "url": "https://www.toutiao.com/trending/7611409655276768819/",
           "source": "今日头条",
@@ -2461,6 +2598,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "美国1月核心PPI年率 3.6%，预期3.00%，前值3.30%。",
+          "url": "https://flash.jin10.com/detail/20260227213003856800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3059783",
           "source": "华尔街见闻-快讯",
@@ -2481,6 +2629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美国双航母已就位",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8C%E8%88%AA%E6%AF%8D%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国联邦贸易委员会及11个州指控沃尔玛(WMT.N)就配送员的基本工资、小费和激励薪酬误导其配送司机。美国联邦贸易委员会称，沃尔玛须实施收入核查计划，以确保司机获得承诺的薪酬和小费。",
@@ -2516,6 +2675,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "美国1月PPI月率 0.5%，预期0.30%，前值由0.50%修正为0.4%。",
+          "url": "https://flash.jin10.com/detail/20260227213003777800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "日经225指数收涨0.2%，报58850.27点，创历史新高。 日本东证指数收涨1.5%，报3938.68点。 韩国首尔综指收跌1%，报6244.13点。",
           "url": "https://wallstreetcn.com/livenews/3060049",
           "source": "华尔街见闻-快讯",
@@ -2525,6 +2695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "杨毅：日本男篮这几年占便宜太多了",
+          "url": "https://www.toutiao.com/trending/7610786400359399478/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国参议院少数党领袖舒默：我们民主党参议员工作组将查阅所有未经删减的文件。",
@@ -2560,6 +2741,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "沙特媒体说大量美国人过去24小时离开伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3060312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：有消息称谈判出现了积极迹象，谈判有可能将延长至明天。伊朗方面在铀浓缩问题上表现出了很大的灵活性，而美国方面尚未同意完全解除对伊朗的制裁。",
           "url": "https://flash.jin10.com/detail/20260227003956662800",
           "source": "金十数据",
@@ -2569,6 +2761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "挪威国家石油公司拟削减安哥拉业务规模，同时加大巴西和美国业务的产量。",
+          "url": "https://flash.jin10.com/detail/20260227212855164800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     }
