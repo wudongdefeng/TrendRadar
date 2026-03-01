@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T05:16:23.740054+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-03-02T06:16:29.162202+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 50,
+      "match_count": 61,
       "titles": [
         {
           "title": "伊拉克民众冲击美国使馆，被警方动用催泪瓦斯驱散",
@@ -32,6 +32,19 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
+          "url": "https://www.cls.cn/detail/2298674",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3061240",
           "source": "华尔街见闻-快讯",
@@ -45,24 +58,75 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "伊朗公布击中美国MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BDMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20,
+            18,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32678556",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "美国出兵,联手以军炸伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
           "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
           "url": "https://news.ifeng.com/c/8r8HbwEHkpv",
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
-          "url": "https://www.cls.cn/detail/2298674",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -80,67 +144,26 @@
           "time_info": "[00时19分 ~ 05时16分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
+          "title": "本周重要事件与数据预告：美国非农与“恐怖数据”、中国制造业PMI与外汇储备",
+          "url": "https://flash.jin10.com/detail/20260302054006164800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
-          "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
-          "url": "https://wallstreetcn.com/articles/3766412",
-          "source": "华尔街见闻",
+          "title": "俄罗斯在中东的布局被美国搅乱了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A8%E4%B8%AD%E4%B8%9C%E7%9A%84%E5%B8%83%E5%B1%80%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%90%85%E4%B9%B1%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "伊朗公布击中美国MQ-9无人机画面",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BDMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32678556",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "美国出兵,联手以军炸伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
+          "time_info": "[01时17分 ~ 06时16分]"
         },
         {
           "title": "美国中央司令部：伊朗伊斯兰革命卫队（IRGC）在过去47年中杀害了超过1000名美国人。昨天，一次大规模的美国打击斩断了“蛇头”。美国拥有地球上最强大的军队，IRGC不再有指挥部。",
@@ -152,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普已乘坐空军一号离开棕榈滩，前往白宫，预计将于当地时间下午6点45分（北京时间周一早上7点45分）抵达。",
+          "url": "https://flash.jin10.com/detail/20260302053518222800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "美国袭击伊朗，致美军3死5重伤",
@@ -167,15 +201,28 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
-          "title": "俄罗斯在中东的布局被美国搅乱了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A8%E4%B8%AD%E4%B8%9C%E7%9A%84%E5%B8%83%E5%B1%80%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%90%85%E4%B9%B1%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "伊朗官员：无意攻击别国 打的是美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%97%A0%E6%84%8F%E6%94%BB%E5%87%BB%E5%88%AB%E5%9B%BD+%E6%89%93%E7%9A%84%E6%98%AF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            11
+            26,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时16分]"
+          "time_info": "[02时23分 ~ 06时16分]"
+        },
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时16分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
@@ -277,30 +324,6 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
-          "title": "伊朗官员：无意攻击别国 打的是美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%97%A0%E6%84%8F%E6%94%BB%E5%87%BB%E5%88%AB%E5%9B%BD+%E6%89%93%E7%9A%84%E6%98%AF%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时16分]"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时16分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -362,6 +385,18 @@
           "time_info": "[00时19分 ~ 01时17分]"
         },
         {
+          "title": "法、英、德三国领导人联合声明：已同意与美国及中东地区的所有盟友共同合作处理此事。",
+          "url": "https://flash.jin10.com/detail/20260302041941245800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
           "title": "美国中央司令部：在持续进行的行动中，已打击超过1000个伊朗目标。",
           "url": "https://flash.jin10.com/detail/20260302032829073800",
           "source": "金十数据",
@@ -374,15 +409,70 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
-          "title": "法、英、德三国领导人联合声明：已同意与美国及中东地区的所有盟友共同合作处理此事。",
-          "url": "https://flash.jin10.com/detail/20260302041941245800",
+          "title": "美方称3名美国军人身亡",
+          "url": "https://news.ifeng.com/c/8r9HcOcFPrL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
+          "url": "https://flash.jin10.com/detail/20260302052340816800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
+          "url": "https://flash.jin10.com/detail/20260302052042480800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美国总统特朗普：敦促伊朗革命卫队、伊朗军方及警方放下武器，即可获得豁免，否则必死无疑。",
+          "url": "https://flash.jin10.com/detail/20260302052037888800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美国总统特朗普：拥有远程导弹和核武器的伊朗政权将对每一个美国人构成严重威胁。",
+          "url": "https://flash.jin10.com/detail/20260302051405670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
+          "url": "https://flash.jin10.com/detail/20260302051359650800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
@@ -394,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "英国首相斯塔默：已接受美国的请求，允许使用英国军事基地，对伊朗的导弹储存库或发射装置实施防御性打击。",
+          "url": "https://flash.jin10.com/detail/20260302051044065800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "日本防卫省：关于当前的伊朗局势，防卫大臣与日本防卫省/自卫队正与包括我们的盟友美国在内的多个国家，以及中东国家进行密切沟通。",
@@ -418,6 +519,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗）整个军事指挥系统已瓦解，许多人希望投降。军事行动将持续进行，直至我们所有的目标得以实现。",
+          "url": "https://flash.jin10.com/detail/20260302050918097800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",
           "url": "https://flash.jin10.com/detail/20260302012309532800",
           "source": "金十数据",
@@ -427,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我们已经打击了数百个目标，包括伊朗伊斯兰革命卫队设施、防空系统以及九艘船只以及海军建设设施。",
+          "url": "https://flash.jin10.com/detail/20260302050850154800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
