@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T09:19:16.214618+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-03-02T12:07:26.070557+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 82,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊拉克民众冲击美国使馆，被警方动用催泪瓦斯驱散",
@@ -20,6 +20,21 @@
           "time_info": "[00时19分 ~ 05时16分]"
         },
         {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 12时07分]"
+        },
+        {
           "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32678556",
           "source": "澎湃新闻",
@@ -27,11 +42,12 @@
             17,
             16,
             18,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 12时07分]"
         },
         {
           "title": "美国出兵,联手以军炸伊朗",
@@ -82,20 +98,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 09时19分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -203,7 +205,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -217,6 +219,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时07分]"
         },
         {
           "title": "美国袭击伊朗，致美军3死5重伤",
@@ -401,6 +415,30 @@
           "time_info": "[03时18分 ~ 05时16分]"
         },
         {
+          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时07分]"
+        },
+        {
+          "title": "3名美国军人在对伊朗军事行动中死亡",
+          "url": "https://www.toutiao.com/trending/7612301599255301682/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时07分]"
+        },
+        {
           "title": "印度反对派团体谴责总理莫迪上周的以色列之行。 称莫迪此举是默许“（以色列和美国）对伊朗发动一系列激发地区危机的军事袭击”。",
           "url": "https://wallstreetcn.com/livenews/3061217",
           "source": "华尔街见闻-快讯",
@@ -435,17 +473,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时23分]"
-        },
-        {
-          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
-          "url": "https://wallstreetcn.com/articles/3766412",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "伊朗：6名美国中情局官员在阿联酋身亡",
@@ -493,28 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时16分]"
-        },
-        {
-          "title": "3名美国军人在对伊朗军事行动中死亡",
-          "url": "https://www.toutiao.com/trending/7612301599255301682/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
@@ -583,6 +588,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "伊拉克民众在美国大使馆附近举行抗议",
+          "url": "https://wallstreetcn.com/livenews/3061481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
           "url": "https://flash.jin10.com/detail/20260302051359650800",
           "source": "金十数据",
@@ -594,13 +610,35 @@
           "time_info": "06时16分"
         },
         {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://www.cls.cn/detail/2298995",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国防部将就针对伊朗行动开发布会",
+          "url": "https://www.toutiao.com/trending/7611632431304756777/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "两年期日本国债收益率下跌2.5个基点，至1.220%。",
           "url": "https://flash.jin10.com/detail/20260302090214519800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -611,7 +649,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -754,7 +792,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -781,15 +819,37 @@
           "time_info": "01时17分"
         },
         {
+          "title": "伊拉克民众在美国大使馆附近举行抗议",
+          "url": "https://flash.jin10.com/detail/20260302113325263800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "日本5年期国债收益率下行4.0个基点，至1.535%。",
           "url": "https://wallstreetcn.com/livenews/3061371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "美国中央司令部称正持续空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3061460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "日本股市下跌，因伊朗危机及油价飙升削弱风险偏好",
@@ -798,7 +858,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -880,6 +940,28 @@
           "time_info": "07时16分"
         },
         {
+          "title": "英首相表示同意美国使用英军事基地",
+          "url": "https://flash.jin10.com/detail/20260302113031823800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国防部将就针对伊朗的军事行动召开新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3061448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
           "url": "https://flash.jin10.com/detail/20260301232709215800",
           "source": "金十数据",
@@ -908,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -930,7 +1012,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -952,9 +1034,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：尽一切努力确保稳定的能源供应。 没有立即释放战略石油储备的计划。 没有关于石油供需受到直接影响的报告。",
+          "url": "https://wallstreetcn.com/livenews/3061438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "能源情报集团记者Amena Bakr：石油市场再次低估了巨大的地缘政治风险，考虑到形势的严重性，价格上涨了13%，这只是小幅波动。",
+          "url": "https://flash.jin10.com/detail/20260302113830220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
