@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T05:26:51.995937+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-03T06:20:40.749143+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 80,
+      "match_count": 88,
       "titles": [
         {
           "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时20分]"
         },
         {
           "title": "稀土靠中国,日本瞎忙找替代",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时20分]"
         },
         {
           "title": "印度GDP没超过日本",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时20分]"
         },
         {
           "title": "伊朗：摧毁美国驻伊拉克埃尔比勒总领馆",
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时20分]"
         },
         {
           "title": "俄罗斯",
@@ -63,11 +63,12 @@
             27,
             25,
             23,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 06时20分]"
         },
         {
           "title": "美国国务卿鲁比奥：美军对伊朗的最猛烈打击还在后头，伊朗最艰难的时刻尚未到来。",
@@ -76,9 +77,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
+          "url": "https://flash.jin10.com/detail/20260303055516565800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国国务卿鲁比奥：将实施一项计划以抵消能源成本。",
@@ -87,9 +99,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国国务院官员：美国国务院呼吁美国民众“立即离开”中东地区的十几个国家。",
+          "url": "https://flash.jin10.com/detail/20260303055513388800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
+          "url": "https://wallstreetcn.com/livenews/3062168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国财长贝森特：美方预计卢旺达国防部队的人员、武器及装备将立即撤离。",
@@ -109,7 +143,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -147,17 +181,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
           "url": "https://flash.jin10.com/detail/20260303011814305800",
           "source": "金十数据",
@@ -186,7 +209,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -265,6 +288,18 @@
           "time_info": "[04时27分 ~ 05时26分]"
         },
         {
+          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
+          "url": "https://wallstreetcn.com/livenews/3062140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时20分]"
+        },
+        {
           "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
           "url": "https://wallstreetcn.com/livenews/3062112",
           "source": "华尔街见闻-快讯",
@@ -300,6 +335,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时36分]"
+        },
+        {
+          "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
+          "url": "https://wallstreetcn.com/livenews/3062131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时20分]"
         },
         {
           "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
@@ -380,7 +427,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -402,7 +449,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -413,7 +460,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -424,7 +471,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -446,9 +493,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "据日经新闻：日本的原油储备足够用254天，如果霍尔木兹海峡封锁持续，日本可能释放原油储备以稳定国内供应。",
+          "url": "https://flash.jin10.com/detail/20260303053437638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国遥感卫星运营商万拓：新的高分辨率卫星图像显示，沙特阿拉伯拉斯坦乌拉石油设施在伊朗无人机袭击后遭受严重损坏。",
@@ -460,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元",
+          "url": "https://wallstreetcn.com/livenews/3062155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "俄罗斯交通部：国内外航空公司取消了俄罗斯与中东国家之间的216个航班。",
@@ -479,7 +548,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -495,26 +564,26 @@
           "time_info": "00时36分"
         },
         {
-          "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
-          "url": "https://wallstreetcn.com/livenews/3062131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "美国国务卿鲁比奥将于十分钟后在国会山向众议院和参议院领导人作简报。",
           "url": "https://flash.jin10.com/detail/20260303045000000800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260303052851593800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "市场消息：俄罗斯外长拉夫罗夫与沙特同行讨论伊朗问题。",
@@ -545,7 +614,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -578,9 +647,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国务卿：将公布措施以缓解油价上涨问题",
+          "url": "https://flash.jin10.com/detail/20260303052735954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美国国防部长赫格塞思：美国已做好应对伊朗潜伏小组可能在美国本土发动袭击的准备。",
@@ -622,7 +702,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -671,13 +751,24 @@
           "time_info": "02时36分"
         },
         {
+          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303051827835800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
           "url": "https://wallstreetcn.com/livenews/3062121",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -721,7 +812,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -809,7 +900,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -926,8 +1017,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时20分]"
         },
         {
           "title": "消息人士：巴西石油公司关于燃油价格的决定可能将于下周出炉，具体取决于布伦特原油价格。",
