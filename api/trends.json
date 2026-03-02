@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-02T12:07:26.070557+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-03-02T13:46:48.363780+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 90,
+      "match_count": 108,
       "titles": [
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 13时46分]"
+        },
         {
           "title": "伊拉克民众冲击美国使馆，被警方动用催泪瓦斯驱散",
           "url": "https://news.ifeng.com/c/8r92bEjGTPB",
@@ -18,21 +34,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时23分 ~ 12时07分]"
         },
         {
           "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
@@ -166,6 +167,18 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时46分]"
+        },
+        {
           "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
           "url": "https://news.ifeng.com/c/8r8HbwEHkpv",
           "source": "凤凰网",
@@ -186,6 +199,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时16分]"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：即使整体通胀率降至2%以下，如果我们判断潜在通胀正加速向我们的价格目标靠拢，我们仍可能将利率上调至中性水平。",
+          "url": "https://flash.jin10.com/detail/20260302132916040800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美国白宫发言人：战争部已于周日就针对伊朗的军事行动，向国会若干国家安全委员会的两党幕僚进行了简报。 卢比奥、赫格塞斯、拉特克利夫以及凯恩将于周二向国会两院全体议员进行简报。",
@@ -221,16 +245,15 @@
           "time_info": "03时18分"
         },
         {
-          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
-          "url": "https://wallstreetcn.com/articles/3766412",
-          "source": "华尔街见闻",
+          "title": "日本央行副行长冰见野良三：预计日本消费者通胀率将在一段时间内保持在2%以下。",
+          "url": "https://flash.jin10.com/detail/20260302132749571800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美国袭击伊朗，致美军3死5重伤",
@@ -246,6 +269,17 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "伊朗称不会与美国谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "伊拉克首都巴格达传出几声巨响，因一架试图袭击美国大使馆的伊朗单向攻击无人机被成功拦截，并在巴格达国际机场附近坠毁。",
           "url": "https://flash.jin10.com/detail/20260302064528547800",
           "source": "金十数据",
@@ -257,6 +291,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "中国台湾证交所股价指数收低0.9%，报35095.09点。",
+          "url": "https://wallstreetcn.com/livenews/3061555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "市场消息：美国对科威特的旅行警示提升至3级。",
           "url": "https://flash.jin10.com/detail/20260302064440497800",
           "source": "金十数据",
@@ -266,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "日本石油勘探公司：将退出越南北部液化天然气码头建设项目。",
+          "url": "https://flash.jin10.com/detail/20260302132646067800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美方称3名美国军人身亡",
@@ -364,6 +420,19 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时46分]"
+        },
+        {
           "title": "据巴林国家通讯社：巴林国王接到了美国总统的来电。",
           "url": "https://flash.jin10.com/detail/20260302034023940800",
           "source": "金十数据",
@@ -402,6 +471,19 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "3名美国军人在对伊朗军事行动中死亡",
+          "url": "https://www.toutiao.com/trending/7612301599255301682/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时46分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -413,30 +495,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时16分]"
-        },
-        {
-          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时07分]"
-        },
-        {
-          "title": "3名美国军人在对伊朗军事行动中死亡",
-          "url": "https://www.toutiao.com/trending/7612301599255301682/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时07分]"
         },
         {
           "title": "印度反对派团体谴责总理莫迪上周的以色列之行。 称莫迪此举是默许“（以色列和美国）对伊朗发动一系列激发地区危机的军事袭击”。",
@@ -486,6 +544,18 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://www.cls.cn/detail/2298995",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时46分]"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -508,6 +578,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "美国防部将就针对伊朗行动开发布会",
+          "url": "https://www.toutiao.com/trending/7611632431304756777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时46分]"
         },
         {
           "title": "美国中央司令部：在持续进行的行动中，已打击超过1000个伊朗目标。",
@@ -577,6 +659,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "日本央行副行长冰见野良三：中东局势可能影响日本的经济和物价。 很难说日本央行需要监测局势多长时间 即使整体CPI放缓，日本央行可能仍会认为价格趋势在上升。 日本央行与政府沟通良好。 需要持续关注资产价格，目前资产价格不需要日本央行采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3061552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "美国总统特朗普：拥有远程导弹和核武器的伊朗政权将对每一个美国人构成严重威胁。",
           "url": "https://flash.jin10.com/detail/20260302051405670800",
           "source": "金十数据",
@@ -594,7 +687,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -610,26 +703,15 @@
           "time_info": "06时16分"
         },
         {
-          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
-          "url": "https://www.cls.cn/detail/2298995",
-          "source": "财联社热门",
+          "title": "有消息称，美国驻科威特大使馆院内冒出浓烟。",
+          "url": "https://flash.jin10.com/detail/20260302132013569800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国防部将就针对伊朗行动开发布会",
-          "url": "https://www.toutiao.com/trending/7611632431304756777/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "13时46分"
         },
         {
           "title": "两年期日本国债收益率下跌2.5个基点，至1.220%。",
@@ -676,6 +758,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "日本央行副行长冰见野良三：即使市场波动、存在诸多不确定性，我们仍会作出必要决策。",
+          "url": "https://flash.jin10.com/detail/20260302131800511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "日本防卫省：关于当前的伊朗局势，防卫大臣与日本防卫省/自卫队正与包括我们的盟友美国在内的多个国家，以及中东国家进行密切沟通。",
           "url": "https://flash.jin10.com/detail/20260302002913286800",
           "source": "金十数据",
@@ -709,6 +802,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "日本央行副行长冰见野良三：我们不会因为市场波动就搁置政策调整。",
+          "url": "https://flash.jin10.com/detail/20260302131741675800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",
           "url": "https://flash.jin10.com/detail/20260302012309532800",
           "source": "金十数据",
@@ -731,6 +835,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "一架美国F15战斗机在科威特坠毁。",
+          "url": "https://flash.jin10.com/detail/20260302131059499800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
           "url": "https://flash.jin10.com/detail/20260301234546415800",
           "source": "金十数据",
@@ -751,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "英首相同意美国使用军事基地",
+          "url": "https://www.toutiao.com/trending/7612208281695567926/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
@@ -797,6 +923,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "日本央行副行长冰见野良三：难以预见美伊冲突的影响，现阶段不便就这一事件将如何影响日本央行基于特定情景作出的利率决议发表评论。",
+          "url": "https://flash.jin10.com/detail/20260302130807764800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普表示，美国清楚目前还剩下多少目标需要打击。",
           "url": "https://flash.jin10.com/detail/20260301234319714800",
           "source": "金十数据",
@@ -825,7 +962,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -847,9 +984,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "美以 28 日袭击伊朗，70 多年来，美国、伊朗这对曾经的战略盟友如何走向兵戎相见？",
+          "url": "https://www.zhihu.com/question/2011111265607632415",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "日本股市下跌，因伊朗危机及油价飙升削弱风险偏好",
@@ -907,6 +1055,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "日本央行副行长冰见野良三：中东局势发展难以预测。 中东局势可能影响日本经济与物价。 油价走势难以预测。 无法断言物价目标已达成。 维持宽松环境是合适的。 难以判断距离中性利率还有多远。 日本央行官员将密切关注价格趋势以作出政策决定。 日本央行的利率立场并未发生转变。 预计日本居民消费通胀将在一段时间内维持在2%以下。",
+          "url": "https://wallstreetcn.com/livenews/3061532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "据一位美国官员称，美国和以色列迄今已对伊朗境内2000多个目标发动袭击。",
           "url": "https://flash.jin10.com/detail/20260302055923807800",
           "source": "金十数据",
@@ -946,9 +1105,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "本田日本2月销量同比下降8.2%。",
+          "url": "https://flash.jin10.com/detail/20260302130354062800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美国防部将就针对伊朗的军事行动召开新闻发布会",
@@ -957,9 +1127,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "霍尔木兹海峡封锁将致命打击日本经济",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B0%81%E9%94%81%E5%B0%86%E8%87%B4%E5%91%BD%E6%89%93%E5%87%BB%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
@@ -982,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "初步报告显示，美国空军的一架F-15在科威特可能发生了友军误击事件。",
+          "url": "https://flash.jin10.com/detail/20260302130156010800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "日本2月制造业PMI终值 53，初值 52.8。",
@@ -1045,9 +1237,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "日媒：如果霍尔木兹海峡被长期封锁，日本将受极其严重“致命打击”，GDP预计将减少3%",
+          "url": "https://wallstreetcn.com/livenews/3061520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -1062,7 +1265,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
