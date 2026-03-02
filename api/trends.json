@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-02T15:44:36.261200+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-03-02T16:35:49.545774+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 125,
+      "match_count": 139,
       "titles": [
+        {
+          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时35分]"
+        },
         {
           "title": "王毅同俄罗斯外长拉夫罗夫通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32679938",
@@ -20,8 +33,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时23分 ~ 15时44分]"
+          "appearance_count": 14,
+          "time_info": "[02时23分 ~ 16时35分]"
         },
         {
           "title": "伊拉克民众冲击美国使馆，被警方动用催泪瓦斯驱散",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
-          "url": "https://wallstreetcn.com/articles/3766412",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时44分]"
         },
         {
           "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
@@ -101,17 +101,6 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
-          "title": "伊朗称不会与美国谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时44分]"
-        },
-        {
           "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
           "url": "https://www.cls.cn/detail/2298674",
           "source": "财联社热门",
@@ -123,6 +112,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时35分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -178,17 +180,16 @@
           "time_info": "[02时23分 ~ 09时19分]"
         },
         {
-          "title": "哈梅内伊之死与被“裹挟”下场的美国：战火燃遍波斯湾｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679607",
-          "source": "澎湃新闻",
+          "title": "伊朗称不会与美国谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            8,
-            7
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
@@ -202,6 +203,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书表示，不会与美国进行谈判，局势会如何发展？美伊到底在博弈什么？",
+          "url": "https://www.zhihu.com/question/2011782517548655680",
+          "source": "知乎",
+          "ranks": [
+            14,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
         },
         {
           "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
@@ -224,17 +238,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "伊朗称击落一架美国战机",
-          "url": "https://www.toutiao.com/trending/7612155761975771172/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         },
         {
           "title": "日本央行副行长冰见野良三：即使整体通胀率降至2%以下，如果我们判断潜在通胀正加速向我们的价格目标靠拢，我们仍可能将利率上调至中性水平。",
@@ -270,6 +273,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "巴克莱：美国和伊朗局势升级加剧滞胀风险",
+          "url": "https://wallstreetcn.com/livenews/3061717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国中央司令部：伊朗伊斯兰革命卫队（IRGC）在过去47年中杀害了超过1000名美国人。昨天，一次大规模的美国打击斩断了“蛇头”。美国拥有地球上最强大的军队，IRGC不再有指挥部。",
           "url": "https://flash.jin10.com/detail/20260302024955916800",
           "source": "金十数据",
@@ -298,7 +312,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -373,16 +387,15 @@
           "time_info": "13时46分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书表示，不会与美国进行谈判，局势会如何发展？美伊到底在博弈什么？",
-          "url": "https://www.zhihu.com/question/2011782517548655680",
-          "source": "知乎",
+          "title": "当地政府：俄罗斯新罗西斯克一燃料码头起火。",
+          "url": "https://flash.jin10.com/detail/20260302162817690800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美方称3名美国军人身亡",
@@ -394,6 +407,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时16分 ~ 09时19分]"
+        },
+        {
+          "title": "伊朗称击落一架美国战机",
+          "url": "https://www.toutiao.com/trending/7612155761975771172/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时35分]"
         },
         {
           "title": "本周重要事件与数据预告：美国非农与“恐怖数据”、中国制造业PMI与外汇储备",
@@ -544,6 +569,30 @@
           "time_info": "[13时46分 ~ 15时44分]"
         },
         {
+          "title": "伊朗：不会与美国进行谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
+        },
+        {
+          "title": "美国驻科威特使馆院内冒出浓烟",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E7%A7%91%E5%A8%81%E7%89%B9%E4%BD%BF%E9%A6%86%E9%99%A2%E5%86%85%E5%86%92%E5%87%BA%E6%B5%93%E7%83%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -591,29 +640,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时46分 ~ 14时47分]"
-        },
-        {
-          "title": "美国驻科威特使馆院内冒出浓烟",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E7%A7%91%E5%A8%81%E7%89%B9%E4%BD%BF%E9%A6%86%E9%99%A2%E5%86%85%E5%86%92%E5%87%BA%E6%B5%93%E7%83%9F",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时44分]"
-        },
-        {
-          "title": "伊朗：不会与美国进行谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时44分]"
         },
         {
           "title": "美国得州奥斯汀市中心发生枪击事件，致3死14伤",
@@ -687,6 +713,17 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683216",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时35分]"
+        },
+        {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
           "url": "https://flash.jin10.com/detail/20260302052340816800",
           "source": "金十数据",
@@ -726,9 +763,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美国和以色列对伊朗发动的袭击已造成555人死亡。",
+          "url": "https://flash.jin10.com/detail/20260302162745154800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "日经225指数收跌1.3%，报58057.24点。 日本东证指数收跌1%，报3898.42点。",
@@ -740,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "一架美军战机在科威特坠毁，美国驻科威特大使馆里冒出浓烟，当地目前情况如何？地区局势会走向失控吗？",
+          "url": "https://www.zhihu.com/question/2011801409423693815",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
@@ -830,6 +889,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "印度央行：日本与印度续签双边本币互换协议。",
+          "url": "https://wallstreetcn.com/livenews/3061702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "两年期日本国债收益率下跌2.5个基点，至1.220%。",
           "url": "https://flash.jin10.com/detail/20260302090214519800",
           "source": "金十数据",
@@ -839,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "据以色列媒体GLZRadio：德国正在认真考虑加入与伊朗的战争。德国消息人士称，德国与美国的计划已经在进行中，柏林可能会直接参与轰炸或提供军事支持。",
+          "url": "https://flash.jin10.com/detail/20260302162054277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "台湾证交所加权股价指数跌2.1%，报34653.08点。",
@@ -995,15 +1076,15 @@
           "time_info": "13时46分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683216",
-          "source": "澎湃新闻",
+          "title": "印度央行：延续日本与印度之间的双边本币互换安排。",
+          "url": "https://flash.jin10.com/detail/20260302161902531800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
@@ -1092,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "中方：美国军事行动前未提前通报中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%89%8D%E6%9C%AA%E6%8F%90%E5%89%8D%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示，美国清楚目前还剩下多少目标需要打击。",
@@ -1193,6 +1285,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "日本首相高市早苗：对袭击伊朗的合法性不予置评。",
+          "url": "https://wallstreetcn.com/livenews/3061688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "据以色列12频道：美国政府认为伊朗总统佩泽希齐扬在谈判中态度较为灵活，这也是以色列没有对他实施暗杀的原因。",
           "url": "https://flash.jin10.com/detail/20260302030511721800",
           "source": "金十数据",
@@ -1215,6 +1318,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "美国和以色列袭击伊朗FARS省，造成35人死亡。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3061687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "据一位美国官员称，美国和以色列迄今已对伊朗境内2000多个目标发动袭击。",
           "url": "https://flash.jin10.com/detail/20260302055923807800",
           "source": "金十数据",
@@ -1235,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "俄罗斯莫斯科遭遥控炸弹袭击 3名警察遇难",
+          "url": "https://wallstreetcn.com/livenews/3061686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国中央司令部：昨晚，美国B-2隐形轰炸机携带2000磅炸弹，袭击了伊朗加固的弹道导弹设施。任何国家都不应怀疑美国的决心。",
@@ -1279,6 +1404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "网红辛巴在美国被网友偶遇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%BE%9B%E5%B7%B4%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "跳伞逃生的美国F15战机飞行员在科威特居民的帮助下，被安置于车辆后备箱中。",
@@ -1358,6 +1494,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "日本最高外汇事务官员三村淳：以美元计价的稳定币的激增极有可能巩固美元作为关键货币的地位。",
+          "url": "https://flash.jin10.com/detail/20260302161034368800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "日本2月制造业PMI终值 53，初值 52.8。",
           "url": "https://wallstreetcn.com/livenews/3061362",
           "source": "华尔街见闻-快讯",
@@ -1397,7 +1544,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1411,6 +1558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "外交部：美国长期以来一直是网络空间最大不稳定源",
+          "url": "https://wallstreetcn.com/livenews/3061680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "日本首相高市早苗：与其他国家就伊朗局势展开合作；正在收集有关伊朗局势的信息。",
@@ -1449,18 +1607,19 @@
     },
     {
       "keyword_group": "石油 大豆 猪肉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美油轮被炸,石油价格暴涨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351204&amp;topic_name=%E7%BE%8E%E6%B2%B9%E8%BD%AE%E8%A2%AB%E7%82%B8%2C%E7%9F%B3%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时35分]"
         },
         {
           "title": "能源情报集团记者Amena Bakr：石油市场再次低估了巨大的地缘政治风险，考虑到形势的严重性，价格上涨了13%，这只是小幅波动。",
@@ -1472,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "伊朗冲突引发原油价格飙升影响，欧洲石油与天然气指数上涨2.5%，创下历史新高。 雷普索尔、加尔普、壳牌、OMV、英国石油、埃尼集团领涨，涨幅 5%至7.5%不等。",
+          "url": "https://wallstreetcn.com/livenews/3061692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     }
