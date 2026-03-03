@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:39:50.579378+08:00",
-  "total_titles_processed": 2103,
+  "generated_at": "2026-03-03T23:40:57.335717+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 204,
+      "match_count": 209,
       "titles": [
         {
           "title": "伊朗、美国宣布最新战果",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 22时39分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 23时40分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
@@ -54,22 +54,24 @@
             17,
             15,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时37分 ~ 22时39分]"
+          "appearance_count": 14,
+          "time_info": "[15时37分 ~ 23时40分]"
         },
         {
           "title": "美国国会将就限制总统战争权力议案举行投票",
           "url": "https://news.ifeng.com/c/8rBrWX2L2Mq",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时40分 ~ 22时39分]"
+          "appearance_count": 15,
+          "time_info": "[14时40分 ~ 23时40分]"
         },
         {
           "title": "稀土靠中国,日本瞎忙找替代",
@@ -88,6 +90,19 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时35分 ~ 17时35分]"
+        },
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时26分 ~ 23时40分]"
         },
         {
           "title": "伊朗：摧毁美国驻伊拉克埃尔比勒总领馆",
@@ -132,19 +147,6 @@
           "time_info": "[01时38分 ~ 07时19分]"
         },
         {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 22时39分]"
-        },
-        {
           "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
           "source": "澎湃新闻",
@@ -172,6 +174,19 @@
           "time_info": "[14时40分 ~ 16时32分]"
         },
         {
+          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
+          "url": "https://wallstreetcn.com/articles/3766570",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 23时40分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -183,17 +198,15 @@
           "time_info": "[13时43分 ~ 14时40分]"
         },
         {
-          "title": "周二开始“分阶段”推出措施，美国称有预案“缓解油价上涨”",
-          "url": "https://wallstreetcn.com/articles/3766570",
-          "source": "华尔街见闻",
+          "title": "美国什么时候决定袭击伊朗的？美特使透露",
+          "url": "https://news.ifeng.com/c/8rCHkyBU6Vh",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 22时39分]"
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
         },
         {
           "title": "新华社14秒创意视频揭露美国真面目",
@@ -350,7 +363,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -375,28 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "美国什么时候决定袭击伊朗的？美特使透露",
-          "url": "https://news.ifeng.com/c/8rCHkyBU6Vh",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
         },
         {
           "title": "美国财政部：卢旺达国防军在M23武装组织占领刚果东部地区期间对其提供了支持。",
@@ -443,6 +434,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国国土安全部部长诺姆：并未叫停对明尼苏达州枪击事件的调查。",
+          "url": "https://flash.jin10.com/detail/20260303232341021800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国下令非紧急工作人员撤离约旦和伊拉克。（法新社）",
           "url": "https://wallstreetcn.com/livenews/3062440",
           "source": "华尔街见闻-快讯",
@@ -463,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
+          "url": "https://v.ifeng.com/c/8rCMPURbjQx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
@@ -518,6 +531,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时40分]"
         },
         {
           "title": "美国驻沙特大使馆发生爆炸后起火",
@@ -656,6 +682,18 @@
           "time_info": "[04时27分 ~ 05时26分]"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -690,18 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 21时54分]"
-        },
-        {
-          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
-          "url": "https://www.cls.cn/detail/2301011",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时39分]"
         },
         {
           "title": "台湾热议台胞证能救命",
@@ -875,6 +901,18 @@
           "time_info": "[05时26分 ~ 06时20分]"
         },
         {
+          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
+          "url": "https://wallstreetcn.com/livenews/3062833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
+        },
+        {
           "title": "伊拉克居民捡到完整美国无人机",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%8B%89%E5%85%8B%E5%B1%85%E6%B0%91%E6%8D%A1%E5%88%B0%E5%AE%8C%E6%95%B4%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -884,6 +922,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月2日）担保隔夜融资利率（SOFR）报3.71%，之前一天报3.68%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3062831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
         },
         {
           "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
@@ -989,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯石油在印度备受青睐。",
+          "url": "https://flash.jin10.com/detail/20260303232217546800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国敦促美公民立即离开中东国家",
@@ -1217,7 +1278,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1294,7 +1355,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -1310,15 +1371,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
-          "url": "https://wallstreetcn.com/livenews/3062833",
+          "title": "美国纽约联储主席威廉姆斯：如果通胀像预期的那样下降，则FOMC有必要进一步降息。 货币政策目前情况良好。 就业和通胀面临的风险处于更好的平衡状态。",
+          "url": "https://wallstreetcn.com/livenews/3062854",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "23时40分"
         },
         {
           "title": "美国国务卿鲁比奥将于十分钟后在国会山向众议院和参议院领导人作简报。",
@@ -1352,17 +1413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（3月2日）担保隔夜融资利率（SOFR）报3.71%，之前一天报3.68%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3062831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
         },
         {
           "title": "市场消息：俄罗斯外长拉夫罗夫与沙特同行讨论伊朗问题。",
@@ -1415,9 +1465,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "韩元创2009年以来最弱，兰特跌3%，黄金跌5%，美国三大股指跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3062850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国财长贝森特：财政部正在终止我们部门对Anthropic产品的所有使用，包括其Claude平台。美国人民有权相信，政府的每一个工具都服务于公众利益，而在特朗普总统任内，任何私营公司都不会主导我们的国家安全条款。",
@@ -1855,7 +1916,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
