@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T00:35:04.601380+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:33:40.905068+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 41,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "人大台湾团代表：统一大势挡不住",
-          "url": "https://www.toutiao.com/trending/7613260801981599278/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
@@ -48,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "据福克斯新闻记者：美国参议院正在对结束伊朗行动的战争权力决议进行程序性投票。",
@@ -58,31 +47,79 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美众议院议否认美国与伊朗“处于战争状态”",
+          "url": "https://flash.jin10.com/detail/20260305012921422800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯仍然是可靠的能源供应方。 中东局势推高石油和天然气价格。 俄罗斯将评估“让天然气客户从欧盟转变为其他方面”。",
+          "url": "https://wallstreetcn.com/livenews/3063795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "我使馆提醒近期避免前往日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
+        },
+        {
+          "title": "中使馆提醒防范日本“撞人族”",
+          "url": "https://www.douyin.com/hot/2418523",
+          "source": "抖音",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
+        },
+        {
+          "title": "人大台湾团代表：统一大势挡不住",
+          "url": "https://www.toutiao.com/trending/7613260801981599278/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.590%，投标倍数3.25。",
           "url": "https://wallstreetcn.com/livenews/3063779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
-          "url": "https://www.toutiao.com/trending/7612478619336228883/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "time_info": "[00时35分 ~ 01时33分]"
         },
         {
           "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
@@ -92,8 +129,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
+        },
+        {
+          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
+          "url": "https://www.toutiao.com/trending/7612478619336228883/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
@@ -103,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "西班牙首相：不支持美国袭击伊朗，不会因为害怕报复而成为帮凶",
@@ -114,19 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "我使馆提醒近期避免前往日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "立陶宛蹚浑水：想帮美国打伊朗",
@@ -136,8 +174,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "美国多地爆发反战抗议活动",
@@ -147,19 +185,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "中使馆提醒防范日本“撞人族”",
-          "url": "https://www.douyin.com/hot/2418523",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
@@ -169,19 +196,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "霍尔木兹告急,日本:与我无瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "伊朗称用「卡德尔 -380」等导弹击中美国驱逐舰，具体情况如何？这款导弹性能怎么样？",
@@ -191,52 +219,90 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "马克龙声援西班牙以回应美国贸易威胁",
           "url": "https://www.toutiao.com/trending/7613398990788263979/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "中国游客在日本目睹老太被壮汉撞飞",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9D%B9%E8%80%81%E5%A4%AA%E8%A2%AB%E5%A3%AE%E6%B1%89%E6%92%9E%E9%A3%9E%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "Peabody Coal的CEO参加美国内政部长Burgum在委内瑞拉举办的矿业会议。",
           "url": "https://wallstreetcn.com/livenews/3063773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时33分]"
         },
         {
           "title": "美国3月2日宣布，延长与伊朗相关的全美紧急响应时间。",
           "url": "https://wallstreetcn.com/livenews/3063770",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时33分]"
+        },
+        {
+          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3063767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时33分]"
+        },
+        {
+          "title": "俄罗斯总统普京：对俄罗斯液化天然气运输船的袭击是“恐怖袭击”。",
+          "url": "https://flash.jin10.com/detail/20260305012249362800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "俄罗斯总统普京：也许我们现在离开欧洲市场，转向可靠的合作伙伴，才是明智之举。这还不是一项决定，我们还会讨论。",
+          "url": "https://flash.jin10.com/detail/20260305012205383800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时33分"
         },
         {
           "title": "美国联邦航空局将海地首都的飞行限制延长至2026年9月。",
@@ -245,9 +311,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "据半岛电视台：印度否认美国海军使用其港口的说法。",
+          "url": "https://flash.jin10.com/detail/20260305012147466800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "伊朗外交部长：伊朗的袭击行动仅针对美国利益。",
@@ -256,20 +333,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
         {
-          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
-          "url": "https://wallstreetcn.com/livenews/3063767",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯总统普京：油气价格正在上涨，部分原因是中东危机。",
+          "url": "https://flash.jin10.com/detail/20260305011928032800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "谈到美国电网中国白发院士笑了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%88%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%94%B5%E7%BD%91%E4%B8%AD%E5%9B%BD%E7%99%BD%E5%8F%91%E9%99%A2%E5%A3%AB%E7%AC%91%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "伊朗高级军事官员：如果美国和以色列追求政权更迭，我们将瞄准迪莫纳核反应堆和所有地区能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260305011918116800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：已有超过500名美国军人丧生",
@@ -278,7 +377,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -289,7 +388,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -300,7 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -311,7 +410,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -322,9 +421,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260305011308868800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "盖茨投资的核电公司Terra LLC.获得许可，将在美国怀俄明州修建利用下一代反应堆技术的第一座商用反应堆。",
+          "url": "https://wallstreetcn.com/livenews/3063781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "【伊朗军方称对阿联酋境内目标打击造成至少100美军死亡】总台记者获悉，当地时间3月4日，伊朗哈塔姆·安比亚中央司令部表示，在针对阿联酋迪拜境内美军目标的精确打击行动中，已造成至少100名美国海军陆战队成员死亡。美方对此暂无回应。（央视）",
@@ -333,7 +454,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -344,7 +465,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -355,7 +476,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -366,7 +487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -377,7 +498,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -388,7 +509,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -399,7 +520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -410,9 +531,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国为何非要搞垮伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%9D%9E%E8%A6%81%E6%90%9E%E5%9E%AE%E4%BC%8A%E6%9C%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "卡塔尔外交部：伊朗外交部长在通话中表示，伊朗的导弹袭击是针对美国利益的，并未针对卡塔尔国。对此，卡塔尔首相兼外交大臣穆罕默德坚决驳斥了这一说法。",
@@ -421,7 +553,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -432,7 +564,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -443,7 +575,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -454,7 +586,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
