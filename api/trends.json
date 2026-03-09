@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T13:53:17.828356+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-09T14:53:04.635543+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 101,
+      "match_count": 115,
       "titles": [
         {
           "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 13时53分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 14时53分]"
         },
         {
           "title": "伊朗、美国、以色列公布最新战报",
@@ -136,8 +136,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时53分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
@@ -247,6 +247,17 @@
           "time_info": "[04时17分 ~ 06时16分]"
         },
         {
+          "title": "据路透：叙利亚库尔德人警告伊朗库尔德人不要与美国结盟对抗伊朗，理由是他们自己在多年合作后被美国抛弃。",
+          "url": "https://flash.jin10.com/detail/20260309144443132800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "台湾证交所加权股价指数跌6.2%，自2月高点以来跌幅达10%。",
           "url": "https://wallstreetcn.com/livenews/3066031",
           "source": "华尔街见闻-快讯",
@@ -319,6 +330,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "交易商：沙特阿美在罕见的招标中向一家日本炼油商出售200万桶阿拉伯超轻原油。",
+          "url": "https://flash.jin10.com/detail/20260309144110551800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：将采取一切可能的措施，确保油价上涨不会对日本民众的生活造成负面影响。",
           "url": "https://flash.jin10.com/detail/20260309084334165800",
           "source": "金十数据",
@@ -330,15 +352,37 @@
           "time_info": "09时20分"
         },
         {
-          "title": "美国被曝对以袭击伊朗燃料存储设施不满",
-          "url": "https://wallstreetcn.com/livenews/3066229",
-          "source": "华尔街见闻-快讯",
+          "title": "日本着手准备释放石油储备，以应对中东局势",
+          "url": "https://flash.jin10.com/detail/20260309143946873800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "14时53分"
+        },
+        {
+          "title": "郑丽文：台湾“快要断气”",
+          "url": "https://news.ifeng.com/c/8rLd9p1Z0Du",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时53分]"
+        },
+        {
+          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
+          "url": "https://www.zhihu.com/question/2012579639827063482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时53分]"
         },
         {
           "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
@@ -462,6 +506,18 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满",
+          "url": "https://wallstreetcn.com/livenews/3066229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时53分]"
+        },
+        {
           "title": "马克龙分别与伊朗和美国总统通话",
           "url": "https://news.ifeng.com/c/8rLSvE5eQrE",
           "source": "凤凰网",
@@ -486,28 +542,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 06时16分]"
-        },
-        {
-          "title": "郑丽文：台湾“快要断气”",
-          "url": "https://news.ifeng.com/c/8rLd9p1Z0Du",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时53分]"
-        },
-        {
-          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
-          "url": "https://www.zhihu.com/question/2012579639827063482",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时53分]"
         },
         {
           "title": "王毅谈台湾问题",
@@ -630,6 +664,18 @@
           "time_info": "[00时19分 ~ 01时17分]"
         },
         {
+          "title": "中国台湾证交所加权股价指数收低4.4%报32,110.42点。",
+          "url": "https://wallstreetcn.com/livenews/3066222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时53分]"
+        },
+        {
           "title": "美国内政部长：周五与委内瑞拉签署了关键矿产许可证。",
           "url": "https://flash.jin10.com/detail/20260308232947054800",
           "source": "金十数据",
@@ -725,6 +771,17 @@
           "time_info": "[04时17分 ~ 05时17分]"
         },
         {
+          "title": "日经225指数收跌5.2%，报52,728.72点。 日经225指数进入技术性回调，较2月份峰值下跌10%。 日本东证指数收跌3.8%，报3,575.84点。 韩国首尔综指收跌6%，报5,251.87点。",
+          "url": "https://wallstreetcn.com/livenews/3066252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正表示，已与美国商务部长卢特尼克就能源问题进行磋商，但他未透露细节。",
           "url": "https://flash.jin10.com/detail/20260309084200729800",
           "source": "金十数据",
@@ -764,9 +821,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "日本已通知石油储备机构准备释放石油储备。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3066248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "日本股市恐慌指数飙升至六年新高",
@@ -808,7 +876,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -824,15 +892,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "中国台湾证交所加权股价指数收低4.4%报32,110.42点。",
-          "url": "https://wallstreetcn.com/livenews/3066222",
+          "title": "日本首相高市早苗：与伊朗就霍尔木兹海峡安全问题会谈。",
+          "url": "https://wallstreetcn.com/livenews/3066245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "14时53分"
         },
         {
           "title": "美国国务院发言人：我们已获悉奥斯陆美国大使馆发生的事件，正对此展开调查。",
@@ -844,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "据日经新闻：日本已要求石油储备机构准备释放石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309142343506800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
@@ -896,7 +975,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -907,7 +986,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -918,7 +997,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -929,9 +1008,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "日本2月经济观察家现况指数 48.9，预期 48，前值 47.6。",
+          "url": "https://wallstreetcn.com/livenews/3066237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
@@ -967,6 +1057,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "日本2月经济观察家前景指数 50，预期 50.6，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3066236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国内政部长伯格姆：周五有1亿美元的黄金从委内瑞拉运到了美国。委内瑞拉人民将为特朗普树立一座伟大解放者的雕像。",
           "url": "https://flash.jin10.com/detail/20260309030027467800",
           "source": "金十数据",
@@ -984,7 +1085,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1006,7 +1107,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1017,7 +1118,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1028,9 +1129,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "日本2月经济观察家前景指数 50，预期50.6，前值50.1。",
+          "url": "https://flash.jin10.com/detail/20260309140026210800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国三大股指期货全线下挫，道指期货跌2%，标普500、纳斯达克100指数期货现跌1.7%。",
@@ -1061,9 +1173,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "日本2月经济观察家现况指数 48.9，预期48，前值47.6。",
+          "url": "https://flash.jin10.com/detail/20260309140015200800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
@@ -1083,7 +1206,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1094,7 +1217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1127,7 +1250,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1149,7 +1272,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1160,7 +1283,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1171,9 +1294,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "日本首相高市早苗：将采取措施扩大原油采购来源。 政府正考虑动用预备资金，以确保汽油价格不至于涨到家庭无法承受的水平。 目前不考虑采取额外的预算措施，因为2025和2026财年预算中仍有预备资金可供调用。 日本尚未收到美国关于将国防预算占GDP比例进一步提高的任何提议。",
+          "url": "https://wallstreetcn.com/livenews/3066226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "日本首相高市早苗：日本未收到美国提出的提高国防预算占GDP比例的提议。",
+          "url": "https://flash.jin10.com/detail/20260309135106639800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "日本1月领先指标月率初值 2.1%，前值1.1%。",
@@ -1182,7 +1327,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1193,9 +1338,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的导弹和战斗机正从邻国攻击我们，这威胁到地区安全。",
+          "url": "https://flash.jin10.com/detail/20260309134731551800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
