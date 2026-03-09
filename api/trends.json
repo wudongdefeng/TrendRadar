@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T19:31:30.950120+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-03-09T20:41:45.218215+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 148,
+      "match_count": 158,
       "titles": [
         {
           "title": "真要压油价，美国“几乎只有一个办法”：霍尔木兹海峡",
@@ -103,11 +103,12 @@
             4,
             7,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时17分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[01时17分 ~ 20时41分]"
         },
         {
           "title": "王毅：台湾绝无可能成为“国家”",
@@ -141,8 +142,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 19时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 20时41分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
@@ -164,8 +165,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 20时41分]"
         },
         {
           "title": "王毅谈解决台湾问题",
@@ -208,6 +209,17 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
+          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
+          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时41分]"
+        },
+        {
           "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
           "url": "https://wallstreetcn.com/livenews/3065898",
           "source": "华尔街见闻-快讯",
@@ -220,6 +232,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "美以伊战争｜以色列空袭黎巴嫩炸毁俄罗斯文化中心",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时41分]"
         },
         {
           "title": "美国能源部长Wright：印度对美国、委内瑞拉、以及其他地方的石油进口增加。",
@@ -262,15 +285,17 @@
           "time_info": "[00时19分 ~ 05时17分]"
         },
         {
-          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
-          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
-          "source": "凤凰网",
+          "title": "全球第三大战略原油储备！日本即将“放油”？",
+          "url": "https://wallstreetcn.com/articles/3766995",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时41分]"
         },
         {
           "title": "马克龙分别与伊朗和美国总统通话，就国际局势交换意见",
@@ -284,17 +309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时16分]"
-        },
-        {
-          "title": "美以伊战争｜以色列空袭黎巴嫩炸毁俄罗斯文化中心",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "据路透：叙利亚库尔德人警告伊朗库尔德人不要与美国结盟对抗伊朗，理由是他们自己在多年合作后被美国抛弃。",
@@ -330,6 +344,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时17分]"
+        },
+        {
+          "title": "日本部署射程1000公里左右远程导弹",
+          "url": "https://www.toutiao.com/trending/7614379386679738431/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时41分]"
         },
         {
           "title": "台湾代表连报十几个大陆APP",
@@ -391,6 +418,29 @@
           "time_info": "14时53分"
         },
         {
+          "title": "日本外务大臣要求伊朗释放被扣押的日本公民",
+          "url": "https://wallstreetcn.com/livenews/3066525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2014341784478644036",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时41分]"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：将采取一切可能的措施，确保油价上涨不会对日本民众的生活造成负面影响。",
           "url": "https://flash.jin10.com/detail/20260309084334165800",
           "source": "金十数据",
@@ -413,29 +463,43 @@
           "time_info": "14时53分"
         },
         {
-          "title": "全球第三大战略原油储备！日本即将“放油”？",
-          "url": "https://wallstreetcn.com/articles/3766995",
-          "source": "华尔街见闻",
+          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            7
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时31分]"
+          "time_info": "[17时40分 ~ 20时41分]"
         },
         {
-          "title": "日本部署射程1000公里左右远程导弹",
-          "url": "https://www.toutiao.com/trending/7614379386679738431/",
-          "source": "今日头条",
+          "title": "美媒实锤是美国“战斧”炸了伊朗小学",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            20,
+            16,
+            14,
             13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时31分]"
+          "time_info": "[17时40分 ~ 20时41分]"
+        },
+        {
+          "title": "日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时41分]"
         },
         {
           "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
@@ -497,18 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时23分]"
-        },
-        {
-          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2014341784478644036",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "伊朗外交部：对于那些坚持忽视我们对美国在该地区军事基地和资产进行防御性打击背后理由的人，导弹是从邻国领土发射到伊朗的，特别是在居民区附近，同时美国战斗机也利用邻国的空域对伊朗进行攻击，这使得地区安全面临威胁。",
@@ -595,31 +647,6 @@
           "time_info": "[09时19分 ~ 12时10分]"
         },
         {
-          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
-          "title": "美媒实锤是美国“战斧”炸了伊朗小学",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E5%AE%9E%E9%94%A4%E6%98%AF%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E7%82%B8%E4%BA%86%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
           "title": "王毅谈台湾问题",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -631,19 +658,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 15时45分]"
-        },
-        {
-          "title": "日本部署远程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "王毅：台湾事务日本有什么资格插手",
@@ -658,6 +672,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 06时16分]"
+        },
+        {
+          "title": "日本首次部署远程导弹，可攻击邻国沿海区域",
+          "url": "https://news.ifeng.com/c/8rMCypUDBZ8",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时41分]"
         },
         {
           "title": "姚洋：美国人看中国的心态变了",
@@ -766,18 +792,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "日本首次部署远程导弹，可攻击邻国沿海区域",
-          "url": "https://news.ifeng.com/c/8rMCypUDBZ8",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时31分]"
         },
         {
           "title": "伊朗外交部长：不会考虑再次进行临时停火，认为之前的停火只让以色列和美国重新发动战争。",
@@ -917,7 +931,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -988,13 +1002,24 @@
           "time_info": "14时53分"
         },
         {
+          "title": "国台办评卓荣泰窜访日本",
+          "url": "https://www.douyin.com/hot/2424515",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "据日本时事通讯社：日本外相茂木敏充与伊朗外长通电话，对伊朗行动表示谴责。",
           "url": "https://flash.jin10.com/detail/20260309191008237800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1008,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "1亿美元委内瑞拉黄金运抵美国",
+          "url": "https://wallstreetcn.com/livenews/3066520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "日本股市恐慌指数飙升至六年新高",
@@ -1030,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733378",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "日本五年期国债收益率上涨3.0个基点至1.645%。",
@@ -1096,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "印度政府消息人士：印度企业将从美国和加拿大获得额外的液化石油气（LPG）供应。",
+          "url": "https://flash.jin10.com/detail/20260309202026307800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "据日经新闻：日本已要求石油储备机构准备释放石油储备。",
@@ -1203,7 +1261,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1228,6 +1286,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国1年期CPI互换利率自去年10月以来首次超过3%。",
+          "url": "https://wallstreetcn.com/livenews/3066505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "警惕！日本部署远程导弹",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "30年期日本国债收益率上升11.5个基点，至3.500%。",
@@ -1261,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "日本防卫省强行推进导弹部署计划引发地方官员抗议",
+          "url": "https://wallstreetcn.com/livenews/3066504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美国10年期国债期货下跌10个点，30年期国债期货下跌19个点。",
@@ -1412,7 +1503,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1527,6 +1618,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "美国流行天后蕾哈娜在家遭枪袭",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B5%81%E8%A1%8C%E5%A4%A9%E5%90%8E%E8%95%BE%E5%93%88%E5%A8%9C%E5%9C%A8%E5%AE%B6%E9%81%AD%E6%9E%AA%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国参议员林赛·格雷厄姆呼吁沙特和阿联酋参与打击伊朗。",
           "url": "https://flash.jin10.com/detail/20260308230039289800",
           "source": "金十数据",
@@ -1602,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "美国要求非必要政府人员撤离驻土耳其阿达纳总领馆",
+          "url": "https://wallstreetcn.com/livenews/3066495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "日本1月领先指标初值 112.4，预期113，前值111。",
@@ -1734,6 +1847,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度：不会释放战略石油储备。 暂无提高柴油和汽油价格的计划。 对化肥厂的天然气供应已减少。",
+          "url": "https://wallstreetcn.com/livenews/3066523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     }
