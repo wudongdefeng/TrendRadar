@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:41:57.730220+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-03-11T15:39:22.987525+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 159,
+      "match_count": 165,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -73,11 +73,12 @@
           "ranks": [
             10,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 14时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时39分]"
         },
         {
           "title": "黎巴嫩政府找美国想同以色列和谈，美大使“爆粗口”",
@@ -152,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 15时39分]"
         },
         {
           "title": "美以伊战争｜美国不想打了？可能酝酿一个更危险计划",
@@ -206,7 +207,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -254,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基表示，俄罗斯可能会向伊朗派遣部队，称莫斯科已经在用无人机支持德黑兰，并可能还会提供导弹和防空系统。",
+          "url": "https://flash.jin10.com/detail/20260311153759412800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
@@ -306,9 +318,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "“被中国封喉，日本比美国动作慢多了”",
+          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
         },
         {
           "title": "美国白宫：伊朗海军“不具备作战能力”",
@@ -331,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "夏令时已至，美国CPI今晚20:30公布",
+          "url": "https://flash.jin10.com/detail/20260311153407900800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "沙特外交大臣与俄罗斯外长通电话，就地区局势最新发展交换意见。",
@@ -417,18 +452,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时41分]"
-        },
-        {
-          "title": "“被中国封喉，日本比美国动作慢多了”",
-          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时41分]"
         },
         {
           "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
@@ -956,6 +979,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "美国至3月10日3年期国债竞拍-得标利率 3.579%，前值3.52%。",
           "url": "https://flash.jin10.com/detail/20260311010206801800",
           "source": "金十数据",
@@ -1061,7 +1095,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1193,9 +1227,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "避开美国法律监管与高成本债市 阿达尼集团转向私募融资",
+          "url": "https://flash.jin10.com/detail/20260311152037757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美国农业部（USDA）月报：预计美国期末小麦总库存9.31亿蒲式耳，分析师预期9.2583亿蒲式耳，USDA之前预计9.31亿蒲式耳。",
@@ -1402,7 +1447,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1506,6 +1551,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "消息人士：自战争开始以来，美国至少损失了7架MQ-9无人机。",
+          "url": "https://flash.jin10.com/detail/20260311151433108800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "美国3月EIA次年短期前景美国原油产量预期 1383万桶/日，前值1332万桶/日。",
           "url": "https://flash.jin10.com/detail/20260311001325263800",
           "source": "金十数据",
@@ -1556,7 +1612,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1699,7 +1755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1746,6 +1802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：通用汽车召回17,050辆美国车辆，丰田汽车召回550,007辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20260311151005333800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国已将乌克兰与俄罗斯的谈判推迟至下周。",
