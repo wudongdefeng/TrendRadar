@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:15:06.516035+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-03-11T12:03:56.774476+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 129,
+      "match_count": 142,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -75,8 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时03分]"
         },
         {
           "title": "黎巴嫩政府找美国想同以色列和谈，美大使“爆粗口”",
@@ -121,11 +121,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时03分]"
         },
         {
           "title": "伊朗外长：给美国人准备了许多惊喜",
@@ -181,7 +182,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -206,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国海军周二告知航运业：目前无法提供在霍尔木兹海峡护航服务",
+          "url": "https://flash.jin10.com/detail/20260311113320931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
@@ -272,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本东证指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3067763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "沙特外交大臣与俄罗斯外长通电话，就地区局势最新发展交换意见。",
@@ -372,6 +395,29 @@
           "time_info": "[02时38分 ~ 03时34分]"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时03分]"
+        },
+        {
+          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
+          "url": "https://www.cls.cn/detail/2309074",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时03分]"
+        },
+        {
           "title": "美国打伊朗 欧洲为啥“不跟”",
           "url": "https://www.toutiao.com/trending/7615276983672602667/",
           "source": "今日头条",
@@ -406,17 +452,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时34分]"
-        },
-        {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "美国至3月6日当周API成品油进口 33.8万桶/日，前值-17.3万桶/日。",
@@ -489,17 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时38分]"
-        },
-        {
-          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
-          "url": "https://www.cls.cn/detail/2309074",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
@@ -622,9 +646,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "台湾民众“我是中国人”认同度提升",
+          "url": "https://www.toutiao.com/trending/7615166266974421046/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "卡塔尔的美国基地发生爆炸。",
@@ -655,9 +690,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美国将启动下一代飞行器试点计划",
+          "url": "https://flash.jin10.com/detail/20260311112654503800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "“被中国封喉，日本比美国动作慢多了”",
+          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国驻加拿大多伦多领事馆遭枪击 无人伤亡",
@@ -688,7 +745,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -735,6 +792,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本政府不排除自行释放石油储备的可能性",
+          "url": "https://flash.jin10.com/detail/20260311112048734800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "金十图示：EIA短期能源展望报告提及中东冲突影响，大幅上调美、布两油今明两年的价格预期，以及上调美国原油产量预期。",
@@ -913,6 +992,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "台湾加权指数涨4%。",
+          "url": "https://flash.jin10.com/detail/20260311111624190800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "消息人士：美国海军尚未护送油轮通过霍尔木兹海峡。此前美国能源部长曾发布消息称，美国海军力量已护送一艘油轮通过了这条水道，随后又删除了该消息。",
           "url": "https://flash.jin10.com/detail/20260311015607537800",
           "source": "金十数据",
@@ -1007,7 +1097,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -1084,7 +1174,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -1109,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨4.1%至34106.76点。",
+          "url": "https://wallstreetcn.com/livenews/3067743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国3月EIA次年天然气产量预期 1123亿立方英尺/日，前值1112.4亿立方英尺/日。",
@@ -1153,6 +1254,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "市场消息：沙特外交大臣与美国国务卿通话，讨论伊朗的地区侵略行为。",
+          "url": "https://flash.jin10.com/detail/20260311111053915800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美国在伊拉克的外交设施遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3067742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国3月EIA当年天然气产量预期 1095亿立方英尺/日，前值1099.7亿立方英尺/日。",
@@ -1287,6 +1410,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "俄罗斯驻伊朗总领馆在袭击中受损",
+          "url": "https://www.toutiao.com/trending/7615543426117976118/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国3月EIA当年短期前景美国原油产量预期 1361万桶/日，前值1360万桶/日。",
           "url": "https://flash.jin10.com/detail/20260311001258535800",
           "source": "金十数据",
@@ -1320,6 +1454,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "美国CPI公布在即，华尔街却盯着中东油井丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260311110743732800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "朝鲜外务省谴责美国以色列",
           "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%A4%96%E5%8A%A1%E7%9C%81%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97",
           "source": "百度热搜",
@@ -1348,7 +1493,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -1381,7 +1526,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
