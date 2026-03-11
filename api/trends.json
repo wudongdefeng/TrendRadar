@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:02:36.455244+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2026-03-11T22:52:59.131662+08:00",
+  "total_titles_processed": 2055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 228,
+      "match_count": 262,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -36,11 +36,36 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 22时52分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时32分 ~ 22时02分]"
+          "time_info": "[17时35分 ~ 22时52分]"
+        },
+        {
+          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
+          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时52分]"
         },
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
@@ -91,32 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时14分 ~ 22时02分]"
-        },
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 22时02分]"
-        },
-        {
-          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
-          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[09时14分 ~ 22时52分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：摧毁近10部美国先进雷达",
@@ -222,6 +223,29 @@
           "time_info": "[12时03分 ~ 17时35分]"
         },
         {
+          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
+          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时52分]"
+        },
+        {
+          "title": "西班牙猛批德国：你表现得像是美国附庸",
+          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时52分]"
+        },
+        {
           "title": "美以伊战争｜美国不想打了？可能酝酿一个更危险计划",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -277,6 +301,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国能源信息署：上周美国中西部地区原油库存升至2025年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260311224220838800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨2%至33442.58点。",
           "url": "https://wallstreetcn.com/livenews/3067660",
           "source": "华尔街见闻-快讯",
@@ -316,7 +351,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -331,29 +366,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时14分 ~ 14时41分]"
-        },
-        {
-          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
-          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时02分]"
-        },
-        {
-          "title": "西班牙猛批德国：你表现得像是美国附庸",
-          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时02分]"
         },
         {
           "title": "美国称正在升级对伊朗的战争，削弱了双方谈判的可能性",
@@ -398,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "美国能源信息署报告汽油和精炼油库存降幅大于预期后，美国RBOB汽油和低硫柴油期货维持涨势。",
+          "url": "https://flash.jin10.com/detail/20260311224209874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
@@ -1041,7 +1064,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1063,7 +1086,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1123,6 +1146,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国汽油均价升至21个多月以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3068183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国驻加拿大多伦多领事馆遭枪击 无人伤亡",
           "url": "https://flash.jin10.com/detail/20260311003044215800",
           "source": "金十数据",
@@ -1165,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "美国汽油均价升至21个多月以来最高水平",
+          "url": "https://flash.jin10.com/detail/20260311223535274800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
@@ -1310,6 +1355,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "软银投资的PayPay据悉计划以每股16美元的价格在美国上市。",
+          "url": "https://flash.jin10.com/detail/20260311223418992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "日本5年期国债收益率下行1.5个基点至1.610%。",
           "url": "https://wallstreetcn.com/livenews/3067787",
           "source": "华尔街见闻-快讯",
@@ -1327,9 +1383,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "据知情人士透露，日本软银集团支持的PayPay计划将美国IPO股票的发行价定在每股16美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3068180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国至3月10日3年期国债竞拍-投标倍数 2.55，前值2.62。",
@@ -1371,7 +1438,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1385,6 +1452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美媒称至少17处美国设施在伊朗袭击中受损",
+          "url": "https://wallstreetcn.com/livenews/3068179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国至3月10日3年期国债竞拍-得标利率 3.579%，前值3.52%。",
@@ -1420,6 +1498,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "金十数据整理：美国当周EIA数据最值一览",
+          "url": "https://flash.jin10.com/detail/20260311223251059800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%（2月10日为3.518%），投标倍数2.55（前次为2.62）。",
           "url": "https://wallstreetcn.com/livenews/3067480",
           "source": "华尔街见闻-快讯",
@@ -1440,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加382万桶，彭博用户预计增加170万桶、分析师预期增加173.4万桶，之前一周增加347.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰军方袭击了位于布良斯克的俄罗斯导弹工厂。",
@@ -1508,6 +1608,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "美国3月6日当周EIA精炼油库存变动 -134.9万桶，预期 -94.7万桶，前值 42.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "据Politico：美国国防部长赫格塞思解散了原本用于调查伊朗女子学校袭击事件的办公室。",
           "url": "https://flash.jin10.com/detail/20260311062559825800",
           "source": "金十数据",
@@ -1536,9 +1647,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国至3月6日当周EIA蒸馏燃油产量引伸需求数据 531.57万桶/日，前值492.47万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223048125800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "币安称有关美国司法部调查的报道“不实”。",
@@ -1550,6 +1672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美国3月6日当周EIA精炼厂设备利用率变化 1.6%，预期 -0.5%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3068176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "消息人士：美国海军尚未护送油轮通过霍尔木兹海峡。此前美国能源部长曾发布消息称，美国海军力量已护送一艘油轮通过了这条水道，随后又删除了该消息。",
@@ -1572,6 +1705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "美国至3月6日当周EIA车用汽油总产量引伸需求数据 1012.04万桶/日，前值935.86万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223040350800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国政府再次上调今年油价预期",
@@ -1607,6 +1751,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国3月6日当周EIA汽油库存变动 -365.4万桶，预期 -200万桶，前值 -170.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "业内消息人士称，美国石油巨头雪佛龙(CVX.N)和英国壳牌(SHEL.N)正接近与委内瑞拉达成自美国抓取马杜罗以来的首批大型石油生产协议。",
           "url": "https://flash.jin10.com/detail/20260311043647449800",
           "source": "金十数据",
@@ -1616,6 +1771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
+          "url": "https://flash.jin10.com/detail/20260311223022227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国农业部（USDA）月报：预计美国期末棉花库存440万捆，分析师预期436万捆，USDA之前预计440万捆。",
@@ -1635,9 +1801,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国3月6日当周EIA原油库存变动 382.4万桶，预期 250万桶，前值 347.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国民主党议员将提出法案，明确禁止与战争、死亡相关的事件交易合约。",
@@ -1695,6 +1872,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "美国至3月6日当周EIA原油产量引伸需求数据 1955.4万桶/日，前值1952.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223021729800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末小麦总库存9.31亿蒲式耳，分析师预期9.2583亿蒲式耳，USDA之前预计9.31亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067442",
           "source": "华尔街见闻-快讯",
@@ -1715,6 +1903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美国3月6日当周EIA库欣地区原油库存变动 11.7万桶，前值 156.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗革命卫队发言人：美国舰队及其盟友的任何行动都将在我们的导弹和无人机射程内被阻止。在战争期间，没有一艘美国舰船敢于接近阿曼海、波斯湾和霍尔木兹海峡。",
@@ -1750,6 +1949,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国至3月6日当周EIA精炼厂设备利用率 90.8%，预期89.5%，前值89.2%。",
+          "url": "https://flash.jin10.com/detail/20260311223006889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末玉米库存21.27亿蒲式耳，分析师预期21.3080亿蒲式耳，USDA之前预计21.27亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067441",
           "source": "华尔街见闻-快讯",
@@ -1759,6 +1969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国参议院Moreno：必须立即确认凯文·沃什为美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3068172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "三架美国B-1轰炸机抵达英国皇家空军费尔福德基地。",
@@ -1814,6 +2035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美国至3月6日当周EIA战略石油储备库存 0.1万桶，前值0万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223006098800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国农业部（USDA）月报：预计美国期末大豆库存3.50亿蒲式耳，分析师预期3.46亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
@@ -1959,6 +2191,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国至3月6日当周EIA成品油进口 29.1万桶/日，前值-60.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223004077800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国在伊拉克的外交设施遭无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3067742",
           "source": "华尔街见闻-快讯",
@@ -1968,6 +2211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "3名美国富豪强奸性侵60名女性",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%BC%BA%E5%A5%B8%E6%80%A7%E4%BE%B560%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国3月EIA当年天然气产量预期 1095亿立方英尺/日，前值1099.7亿立方英尺/日。",
@@ -2014,6 +2268,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国至3月6日当周EIA原油进口 66.1万桶，前值-1.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003832800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国驻加拿大多伦多领事馆遭枪击，无人伤亡",
           "url": "https://wallstreetcn.com/livenews/3067471",
           "source": "华尔街见闻-快讯",
@@ -2045,6 +2310,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美国至3月6日当周EIA取暖油库存 22.8万桶，前值35.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003736800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月10日，美国CPI通胀数据发布前一天）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3068168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
@@ -2091,15 +2378,37 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国至3月6日当周EIA精炼油库存 -134.9万桶，预期-69.2万桶，前值42.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003709800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "“美国制造”清晰可见！伊朗公布袭击小学的导弹残片画面",
           "url": "https://wallstreetcn.com/livenews/3068117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3068167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "联合国16位专家呼吁日本道歉",
@@ -2179,6 +2488,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "美国至3月6日当周EIA俄克拉荷马州库欣原油库存 11.7万桶，前值156.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。 日本将在国际能源署正式作出决定之前就释放石油储备。",
           "url": "https://wallstreetcn.com/livenews/3068017",
           "source": "华尔街见闻-快讯",
@@ -2196,7 +2516,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2284,9 +2604,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国至3月6日当周EIA新配方汽油库存 -0.5万桶，前值-1.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003667800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "朝鲜外务省谴责美国以色列",
@@ -2331,6 +2662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美国至3月6日当周EIA精炼油产量 13.2万桶/日，前值6.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223003642800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "日本2月国内企业商品物价指数环比 -0.1%，预期 0.2%，前值 0.2%。",
@@ -2386,6 +2728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国至3月6日当周EIA汽油库存 -365.4万桶，预期-264.9万桶，前值-170.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003613800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "加拿大警方：多伦多美国领事馆枪击事件已被列为“国家安全事件”展开调查。 多伦多与渥太华已加强使领馆周边的安保力度。目前判断该事件是否与中东局势有关联还为时过早。",
@@ -2471,9 +2824,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国至3月6日当周EIA汽油产量 55.4万桶/日，前值11.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223003586800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国已将乌克兰与俄罗斯的谈判推迟至下周。",
@@ -2562,6 +2926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美国至3月6日当周EIA原油库存 382.4万桶，预期105.5万桶，前值347.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003561800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
