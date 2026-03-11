@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:28:11.282339+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-11T20:40:48.687087+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 193,
+      "match_count": 217,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -45,6 +45,33 @@
           "time_info": "[00时50分 ~ 07时21分]"
         },
         {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.toutiao.com/trending/7615891707490533402/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时40分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 20时40分]"
+        },
+        {
           "title": "担心伊朗报复，美国命令更多外交人员撤离中东",
           "url": "https://news.ifeng.com/c/8rNuPj1OZuO",
           "source": "凤凰网",
@@ -64,21 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时14分 ~ 19时28分]"
-        },
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时14分 ~ 20时40分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：摧毁近10部美国先进雷达",
@@ -159,16 +173,27 @@
         },
         {
           "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.toutiao.com/trending/7615891707490533402/",
-          "source": "今日头条",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1,
             2,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时28分]"
+          "time_info": "[17时35分 ~ 20时40分]"
+        },
+        {
+          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
+          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时40分]"
         },
         {
           "title": "伊朗外长：给美国人准备了许多惊喜",
@@ -183,30 +208,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时40分 ~ 07时21分]"
-        },
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时28分]"
-        },
-        {
-          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
-          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "“被中国封喉，日本比美国动作慢多了”",
@@ -265,6 +266,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "日本贸易部官员：将对超过170日元/升的汽油价格提供补贴。",
+          "url": "https://flash.jin10.com/detail/20260311201448943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨2%至33442.58点。",
           "url": "https://wallstreetcn.com/livenews/3067660",
           "source": "华尔街见闻-快讯",
@@ -285,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "美国2月CPI数据符合市场预期，美国国债保持稳定，美元指数波动不大，美国股指期货小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3068098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
@@ -354,6 +377,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国2月CPI环比 0.3%，预期 0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3068097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "不怕断油,日本开吹石油储备",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351703&amp;topic_name=%E4%B8%8D%E6%80%95%E6%96%AD%E6%B2%B9%2C%E6%97%A5%E6%9C%AC%E5%BC%80%E5%90%B9%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国能源部长：美国海军护送油轮通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260311011345307800",
           "source": "金十数据",
@@ -363,6 +408,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普周二与国际足联代表通话。",
+          "url": "https://flash.jin10.com/detail/20260311201219196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美国2月核心CPI同比 2.5%，预期 2.5%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3068096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "俄罗斯伊朗两国总统通话 讨论双边关系及地区局势",
@@ -409,6 +476,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "美国2月核心CPI环比 0.2%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3068095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国白宫：伊朗海军“不具备作战能力”",
           "url": "https://flash.jin10.com/detail/20260311025437452800",
           "source": "金十数据",
@@ -448,9 +526,54 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普告诉国际足联，欢迎伊朗在美国举行的世界杯上参赛。",
+          "url": "https://flash.jin10.com/detail/20260311201129117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美国2月CPI同比 2.4%，预期 2.4%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3068094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
+          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时40分]"
+        },
+        {
+          "title": "西班牙猛批德国：你表现得像是美国附庸",
+          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时40分]"
         },
         {
           "title": "沙特外交大臣与俄罗斯外长通电话，就地区局势最新发展交换意见。",
@@ -597,29 +720,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时44分]"
-        },
-        {
-          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
-          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
-        },
-        {
-          "title": "西班牙猛批德国：你表现得像是美国附庸",
-          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "美国驻多伦多领馆遭枪击",
@@ -869,6 +969,17 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
+          "title": "日本一地下管道冲出地面18米",
+          "url": "https://www.toutiao.com/trending/7615854342016876586/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -900,6 +1011,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "币安：就相关报道起诉《华尔街日报》。（此前该报称美国司法部正调查伊朗是否利用币安规避美国制裁。）",
+          "url": "https://flash.jin10.com/detail/20260311201030346800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美国驻伊拉克大使馆敦促美公民撤离",
+          "url": "https://wallstreetcn.com/livenews/3068091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "卡塔尔的美国基地发生爆炸。",
@@ -944,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府重启全球入境计划，该计划可加快低风险旅客的美国海关和移民通关手续。",
+          "url": "https://flash.jin10.com/detail/20260311200902602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国驻加拿大多伦多领事馆遭枪击 无人伤亡",
@@ -1007,7 +1151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1084,7 +1228,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1175,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国2月CPI数据；美联储理事鲍曼谈论监督与监管。",
+          "url": "https://wallstreetcn.com/livenews/3068086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国至3月10日3年期国债竞拍-得标利率 3.579%，前值3.52%。",
@@ -1320,6 +1475,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "币安称有关美国司法部调查的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3068082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "消息人士：美国海军尚未护送油轮通过霍尔木兹海峡。此前美国能源部长曾发布消息称，美国海军力量已护送一艘油轮通过了这条水道，随后又删除了该消息。",
           "url": "https://flash.jin10.com/detail/20260311015607537800",
           "source": "金十数据",
@@ -1362,6 +1528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "日本：将对超过170日元/升的汽油价格进行补贴。",
+          "url": "https://wallstreetcn.com/livenews/3068081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "业内消息人士称，美国石油巨头雪佛龙(CVX.N)和英国壳牌(SHEL.N)正接近与委内瑞拉达成自美国抓取马杜罗以来的首批大型石油生产协议。",
@@ -1485,6 +1662,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国中央司令部：太空部队正在帮助保护美军。",
+          "url": "https://flash.jin10.com/detail/20260311200003235800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末玉米库存21.27亿蒲式耳，分析师预期21.3080亿蒲式耳，USDA之前预计21.27亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067441",
           "source": "华尔街见闻-快讯",
@@ -1540,6 +1728,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "美国中央司令部：显然，我们在伊朗大部分地区都有空中优势。",
+          "url": "https://flash.jin10.com/detail/20260311195915892800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末大豆库存3.50亿蒲式耳，分析师预期3.46亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067440",
           "source": "华尔街见闻-快讯",
@@ -1590,7 +1789,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1667,9 +1866,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国中央司令部：昨晚袭击了一处大型弹道导弹工厂。",
+          "url": "https://flash.jin10.com/detail/20260311195659637800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国在伊拉克的外交设施遭无人机袭击",
@@ -1747,6 +1957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国中央司令部：在伊朗打击了超过5500个目标，包括60多艘船只。",
+          "url": "https://flash.jin10.com/detail/20260311195555901800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
@@ -1859,13 +2080,24 @@
           "time_info": "14时41分"
         },
         {
+          "title": "美国中央司令部：美军继续对伊朗施加毁灭性打击。",
+          "url": "https://flash.jin10.com/detail/20260311195518918800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。 日本将在国际能源署正式作出决定之前就释放石油储备。",
           "url": "https://wallstreetcn.com/livenews/3068017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1980,6 +2212,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.111美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260311195231191800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "日本2月国内企业商品物价指数环比 -0.1%，预期 0.2%，前值 0.2%。",
           "url": "https://wallstreetcn.com/livenews/3067626",
           "source": "华尔街见闻-快讯",
@@ -2030,7 +2273,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -2055,6 +2298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美媒爆料：美国称给予印度购买俄油临时豁免后，印度炼油商已购入约3000万桶俄油",
+          "url": "https://wallstreetcn.com/livenews/3068065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
@@ -2096,7 +2350,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -2173,9 +2427,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "市场消息：两名以色列官员称，以色列评估认为，美国总统特朗普尚未接近下令结束战争。",
+          "url": "https://flash.jin10.com/detail/20260311195046381800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
@@ -2201,7 +2466,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -2212,7 +2477,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
