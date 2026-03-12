@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-12T19:28:14.358915+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-12T20:40:16.081641+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 208,
+      "match_count": 238,
       "titles": [
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32752869",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 20时40分]"
         },
         {
           "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
@@ -61,11 +62,12 @@
           "ranks": [
             19,
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时07分 ~ 20时40分]"
         },
         {
           "title": "国防部回应日本部署射程约 1000 公里远程导弹，正告日方「敢侵犯必迎头痛击」，如何解读日方意图？",
@@ -95,8 +97,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时07分 ~ 20时40分]"
+        },
+        {
+          "title": "中方回应美国将对华启动贸易调查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8D%8E%E5%90%AF%E5%8A%A8%E8%B4%B8%E6%98%93%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            4,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 20时40分]"
         },
         {
           "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
@@ -109,8 +125,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时43分 ~ 19时28分]"
+          "appearance_count": 26,
+          "time_info": "[01时43分 ~ 20时40分]"
+        },
+        {
+          "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
+          "url": "https://news.ifeng.com/c/8rR8BDRz10z",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时40分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -176,6 +203,19 @@
           "time_info": "[00时42分 ~ 07时19分]"
         },
         {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时41分 ~ 20时40分]"
+        },
+        {
           "title": "袭击伊朗小学的导弹为美国制造",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
           "source": "bilibili 热搜",
@@ -233,19 +273,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时07分 ~ 17时36分]"
-        },
-        {
-          "title": "中方回应美国将对华启动贸易调查",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8D%8E%E5%90%AF%E5%8A%A8%E8%B4%B8%E6%98%93%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 19时28分]"
         },
         {
           "title": "国防部回应日本部署远程导弹",
@@ -306,27 +333,17 @@
           "time_info": "[12时07分 ~ 17时36分]"
         },
         {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
+          "title": "美国海军已逃离伊朗周边海域",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B7%B2%E9%80%83%E7%A6%BB%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%E6%B5%B7%E5%9F%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            18
+            16,
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 19时28分]"
-        },
-        {
-          "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
-          "url": "https://news.ifeng.com/c/8rR8BDRz10z",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 20时40分]"
         },
         {
           "title": "从卡车司机到中期选举“战场州”，被中东战火推高的油价正冲击美国",
@@ -359,16 +376,28 @@
           "time_info": "[01时43分 ~ 07时19分]"
         },
         {
-          "title": "美国海军已逃离伊朗周边海域",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B7%B2%E9%80%83%E7%A6%BB%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%E6%B5%B7%E5%9F%9F%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            6
+            7,
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "time_info": "[18时31分 ~ 20时40分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
+          "url": "https://news.ifeng.com/c/8rR9ZmxHx0n",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时40分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -399,9 +428,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国1月份汽车及零部件出口降至2021年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260312203403862800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "亚太盘初，美国三大股指期货跌超0.6%，罗素2000股指期货跌超1.2%。",
@@ -426,6 +466,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时13分 ~ 15时41分]"
+        },
+        {
+          "title": "140多人死亡！俄罗斯音乐厅恐袭案宣判",
+          "url": "https://news.ifeng.com/c/8rR9bR05C2y",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时40分]"
         },
         {
           "title": "美国渲染“伊朗威胁”",
@@ -458,7 +509,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -469,7 +520,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -513,9 +564,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国能源部长Wright：希望未来数周看到货轮通航霍尔木兹海峡。",
@@ -538,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国1月营建许可初值 137.6万户，预期 141万户，前值 145.5万户。",
+          "url": "https://wallstreetcn.com/livenews/3068926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特朗普：美国在伊朗没有采取可以采取的某些行动。",
@@ -595,6 +668,28 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国财经网站investinglive评美国1月贸易帐：在经历了2025年末贸易方面的巨大负面冲击之后，第一季度开局良好。",
+          "url": "https://flash.jin10.com/detail/20260312203328705800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美国1月营建许可环比初值 -5.4%，预期 -3.1%，前值 4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3068925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "“馆长”怒批民进党不顾台湾人死活",
           "url": "https://www.toutiao.com/trending/7615172281426280490/",
           "source": "今日头条",
@@ -615,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "据日本共同社：日本与美国将扩大机密信息共享。",
+          "url": "https://flash.jin10.com/detail/20260312203254943800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国将从战略石油储备（SPR）释放1.72亿桶石油。 美国将从下周开始释放SPR。 根据既定的释放速度，预计这个过程将持续大约120天。",
@@ -650,6 +756,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "美国3月7日当周首次申请失业救济人数 21.3万人，预期 21.5万人，前值 21.3万人。",
+          "url": "https://wallstreetcn.com/livenews/3068924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
           "url": "https://wallstreetcn.com/livenews/3068295",
           "source": "华尔街见闻-快讯",
@@ -661,18 +778,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时27分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "美国原油期货收报每桶87.25美元，上涨3.80美元，涨幅4.55%。",
@@ -832,17 +937,6 @@
           "time_info": "[00时42分 ~ 01时43分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
-          "url": "https://news.ifeng.com/c/8rR9ZmxHx0n",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
-        },
-        {
           "title": "美国总统特朗普兜售低通胀和低抵押贷款利率。",
           "url": "https://wallstreetcn.com/livenews/3068367",
           "source": "华尔街见闻-快讯",
@@ -853,17 +947,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "140多人死亡！俄罗斯音乐厅恐袭案宣判",
-          "url": "https://news.ifeng.com/c/8rR9bR05C2y",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
@@ -913,6 +996,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 16时34分]"
+        },
+        {
+          "title": "伊朗称袭击美国油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
+          "title": "伊朗袭击美国油轮 火光冲天",
+          "url": "https://www.toutiao.com/trending/7616332350032514586/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "特朗普称美国已击沉28艘伊朗布雷船",
@@ -1059,6 +1164,17 @@
           "time_info": "[02时44分 ~ 03时38分]"
         },
         {
+          "title": "美国将对 16 个贸易伙伴发起 301 调查，中国、欧盟、日本、印度、墨西哥等在内，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015379875393976162",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
           "title": "五角大楼称，（在美国和以色列发动）伊朗战争的首周耗资超过110亿美元。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3068337",
           "source": "华尔街见闻-快讯",
@@ -1069,6 +1185,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时21分]"
+        },
+        {
+          "title": "台湾地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
+        },
+        {
+          "title": "伊朗称袭击了美国油轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "曝美国国防部长5天花501亿美元",
@@ -1148,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美国2月28日当周续请失业救济人数 185万人，预期 184.9万人，前值 186.8万人。",
+          "url": "https://wallstreetcn.com/livenews/3068923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国内政部长：将会看到美国的石油公司宣布根据价格信号已提高产量。",
@@ -1315,6 +1464,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
+          "url": "https://flash.jin10.com/detail/20260312203103505800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
           "url": "https://wallstreetcn.com/livenews/3068314",
           "source": "华尔街见闻-快讯",
@@ -1335,6 +1495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "美国1月新屋开工 148.7万户，预期 134.1万户，前值 140.4万户。",
+          "url": "https://wallstreetcn.com/livenews/3068919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
@@ -1392,6 +1563,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "美国1月出口 3021亿美元，前值2873亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312203103404800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国内政部长谈战略石油储备：将由总统特朗普宣布。",
           "url": "https://wallstreetcn.com/livenews/3068227",
           "source": "华尔街见闻-快讯",
@@ -1412,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国1月贸易帐 -545亿美元，预期 -660亿美元，前值 -703亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：我不担心伊朗支持的美国国内恐怖袭击。",
@@ -1469,6 +1662,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国1月进口 3566亿美元，前值3576亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312203056607800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国共和党参议员称：鲍威尔调查案的首席检察官已更换",
           "url": "https://wallstreetcn.com/livenews/3068257",
           "source": "华尔街见闻-快讯",
@@ -1478,6 +1682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国1月新屋开工环比 7.2%，预期 -4.5%，前值 6.2%。",
+          "url": "https://wallstreetcn.com/livenews/3068918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国将调查数字服务税和货币操纵行为。",
@@ -1524,6 +1739,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国至2月28日当周续请失业金人数 185万人，预期185万人，前值由186.8万人修正为187.1万人。",
+          "url": "https://flash.jin10.com/detail/20260312203006237801",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "特朗普谈伊朗：美国几乎摧毁了伊朗所有的布雷船。",
           "url": "https://flash.jin10.com/detail/20260312001526553800",
           "source": "金十数据",
@@ -1568,6 +1794,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国至3月7日当周初请失业金人数四周均值 21.2万人，前值由21.575万人修正为21.6万人。",
+          "url": "https://flash.jin10.com/detail/20260312203006237800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "特朗普：美国正密切关注霍尔木兹海峡局势",
           "url": "https://wallstreetcn.com/livenews/3068430",
           "source": "华尔街见闻-快讯",
@@ -1588,6 +1825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "美国国防部首席技术官：与Anthropic的磋商不可能继续。",
+          "url": "https://wallstreetcn.com/livenews/3068914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特朗普谈伊朗：美国留在伊朗的某些东西，我们可以把它们带走。",
@@ -1632,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美国至3月7日当周初请失业金人数 21.3万人，预期21.5万人，前值由21.3万人修正为21.4万人。",
+          "url": "https://flash.jin10.com/detail/20260312203006236800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "特朗普谈伊朗：如果我们愿意，美国可以打击更多目标。",
@@ -1761,9 +2020,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国1月营建许可月率 -5.4%，预期-3.1%，前值4.8%。",
+          "url": "https://flash.jin10.com/detail/20260312203004589800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "韩国国会通过针对美国投资的特别法案。（彭博）",
@@ -1819,6 +2089,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美国1月营建许可总数 137.6万户，预期141万户，前值145.5万户。",
+          "url": "https://flash.jin10.com/detail/20260312203004588800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.6%，投标倍数3.19。",
@@ -1904,9 +2185,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "美国1月贸易帐 -545亿美元，预期-666亿美元，前值由-703亿美元修正为-729亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312203004334800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：西班牙一直表现糟糕，可能会切断美国与该国的贸易。",
@@ -2261,6 +2553,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国1月新屋开工年化月率 7.2%，预期-4.5%，前值由6.20%修正为4.8%。",
+          "url": "https://flash.jin10.com/detail/20260312203002944800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
           "url": "https://wallstreetcn.com/livenews/3068802",
           "source": "华尔街见闻-快讯",
@@ -2294,6 +2597,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "美国1月新屋开工总数年化 148.7万户，预期134.8万户，前值由140.4万户修正为138.7万户。",
+          "url": "https://flash.jin10.com/detail/20260312203002803800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国将对16个贸易伙伴发起301调查",
           "url": "https://wallstreetcn.com/livenews/3068521",
           "source": "华尔街见闻-快讯",
@@ -2303,6 +2617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "美能源部长称美国“尚未准备好”在霍尔木兹海峡护航",
+          "url": "https://wallstreetcn.com/livenews/3068898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国削减中东返美包机",
@@ -2333,7 +2658,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -2358,6 +2683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国国防部首席技术官埃米尔·迈克尔：我们不希望Anthropic参与国防供应链。其他任何公司都可以使用他们。",
+          "url": "https://flash.jin10.com/detail/20260312202707894800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "滞留土耳其5天台湾旅客怒批台当局",
