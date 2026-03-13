@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:32:11.865707+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-03-13T17:32:55.504366+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 164,
+      "match_count": 170,
       "titles": [
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
@@ -81,6 +81,18 @@
           "time_info": "[00时52分 ~ 06时19分]"
         },
         {
+          "title": "美国防部被曝「龙虾门」，花费 1500 万吃牛排、 690 万吃龙虾尾，反映出哪些问题？将带来多大影响？",
+          "url": "https://www.zhihu.com/question/2015559616147247488",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 17时32分]"
+        },
+        {
           "title": "美国防部被曝龙虾门",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -141,16 +153,18 @@
           "time_info": "[00时52分 ~ 09时18分]"
         },
         {
-          "title": "美国防部被曝「龙虾门」，花费 1500 万吃牛排、 690 万吃龙虾尾，反映出哪些问题？将带来多大影响？",
-          "url": "https://www.zhihu.com/question/2015559616147247488",
-          "source": "知乎",
+          "title": "Margin Call已经响起！美国私募信贷的“多米诺骨牌正连续倒下”",
+          "url": "https://wallstreetcn.com/articles/3767395",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            5
+            9,
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时32分]"
         },
         {
           "title": "美媒：全世界都看到美国无法拿下伊朗",
@@ -165,20 +179,6 @@
           "time_info": "[07时21分 ~ 14时42分]"
         },
         {
-          "title": "Margin Call已经响起！美国私募信贷的“多米诺骨牌正连续倒下”",
-          "url": "https://wallstreetcn.com/articles/3767395",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时32分]"
-        },
-        {
           "title": "美以伊战争｜伊朗向俄罗斯提出援助请求，俄方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -186,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 17时32分]"
         },
         {
           "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
@@ -199,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 17时32分]"
         },
         {
           "title": "商务部回应美国发起301调查",
@@ -211,8 +211,38 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 17时32分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 17时32分]"
+        },
+        {
+          "title": "伊朗称袭击美国油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            23,
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 17时32分]"
         },
         {
           "title": "COA9大陆预选赛Day5",
@@ -256,24 +286,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
         {
-          "title": "伊朗称袭击美国油轮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "油价撑不住了？美国为海上滞留的俄油发放30天豁免",
+          "url": "https://news.ifeng.com/c/8rSj17FXI2M",
+          "source": "凤凰网",
           "ranks": [
-            29,
-            30,
-            23,
-            24,
-            27
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 15时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "日经225指数收跌1.16%，报53819.61点。 日本东证指数收跌0.6%，报3,629.03点。 韩国首尔综指收跌1.7%，报5,487.24点。",
@@ -285,6 +311,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "中俄安理会硬刚美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%AE%89%E7%90%86%E4%BC%9A%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 17时32分]"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
+          "url": "https://flash.jin10.com/detail/20260313171234466800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "日本高官承认出轨高市让用工作弥补",
@@ -307,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "市场消息：知情人士称，印度与美国贸易协议的签署将推迟“数月”。",
+          "url": "https://flash.jin10.com/detail/20260313171210270800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
@@ -337,22 +397,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
+          "title": "美国中期选举开战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%BC%80%E6%88%98%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            8,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "日本女大臣开会迟到全程被拍",
@@ -368,15 +426,16 @@
           "time_info": "[13时43分 ~ 16时32分]"
         },
         {
-          "title": "中俄安理会硬刚美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%AE%89%E7%90%86%E4%BC%9A%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美国财政部宣布将暂时放宽对部分俄罗斯石油的制裁，会对国际油价有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2015713289095574944",
+          "source": "知乎",
           "ranks": [
-            6
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 17时32分]"
         },
         {
           "title": "美国参议院Hawley披露发送给化肥生产商CF Industries的信函，质询该公司的化肥产品涨价问题。",
@@ -562,16 +621,43 @@
           "time_info": "[14时42分 ~ 16时32分]"
         },
         {
-          "title": "美国财政部宣布将暂时放宽对部分俄罗斯石油的制裁，会对国际油价有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2015713289095574944",
-          "source": "知乎",
+          "title": "袭击伊朗小学的导弹为美国制造",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            18
+            20,
+            28,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时42分 ~ 16时32分]"
+          "time_info": "[09时18分 ~ 17时32分]"
+        },
+        {
+          "title": "美国为何拒绝对中国活性阳极材料加税",
+          "url": "https://www.toutiao.com/trending/7616626625132400164/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 17时32分]"
+        },
+        {
+          "title": "外交部：坚决反对美国对台军售",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时32分]"
         },
         {
           "title": "【伊斯兰革命卫队官员：已摧毁七成美在中东地区基地和指挥部】伊朗伊斯兰革命卫队司令顾问贾巴里当地时间12日表示，伊朗拥有开展长期战争的能力和持久作战的实力，并称在之前几天里“已摧毁美国在地区70％的军事基地和指挥部”。贾巴里还表示，伊朗掌握新一代先进导弹系统，目前还未被使用。（央视）",
@@ -585,42 +671,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时21分]"
-        },
-        {
-          "title": "袭击伊朗小学的导弹为美国制造",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 15时40分]"
-        },
-        {
-          "title": "美国为何拒绝对中国活性阳极材料加税",
-          "url": "https://www.toutiao.com/trending/7616626625132400164/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时32分]"
-        },
-        {
-          "title": "外交部：坚决反对美国对台军售",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -899,6 +949,17 @@
           "time_info": "[04时09分 ~ 04时26分]"
         },
         {
+          "title": "伊朗：袭击“林肯”号航母，已致其失去作战能力返回美国！美方：击中靠近航母的伊朗船只，“海军多次炮击不中，直升机射导弹命中”",
+          "url": "https://wallstreetcn.com/articles/3767425",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "五年期日本国债收益率上升3.0个基点，至1.655%。",
           "url": "https://flash.jin10.com/detail/20260313113051543800",
           "source": "金十数据",
@@ -927,7 +988,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -982,9 +1043,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "知情人士称，印度将推迟“数月”与美国签署贸易协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3069606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "伊朗革命卫队公共关系部：海军对位于米纳萨勒曼港的美国第五舰队恐怖分子总部发动毁灭性打击。",
@@ -1125,7 +1197,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1653,7 +1725,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1774,7 +1846,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
