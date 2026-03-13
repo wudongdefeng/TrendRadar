@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-13T07:21:34.038347+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-03-13T09:18:24.885479+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 92,
+      "match_count": 105,
       "titles": [
-        {
-          "title": "美国防部被曝龙虾门",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
-        },
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32752869",
@@ -28,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "专访｜达巍：中国不会也无意填补美国留下的“真空”",
@@ -52,8 +40,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
+        },
+        {
+          "title": "美国防部被曝龙虾门",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -84,11 +85,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%BE%99%E8%99%BE%E9%97%A8%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
@@ -98,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "美能源部长：美国暂未准备好在霍尔木兹海峡为油轮护航",
@@ -134,8 +136,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "美媒：全世界都看到美国无法拿下伊朗",
@@ -144,9 +146,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时18分]"
+        },
+        {
+          "title": "据美联社12日报道，美国官员称美军在伊拉克坠毁的加油机上有至少5名机组人员，目前伤亡情况尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260313085028525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "09时18分"
         },
         {
           "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
@@ -155,9 +168,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本20年期国债收益率上行2个基点，至3.080%。",
+          "url": "https://wallstreetcn.com/livenews/3069253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国参议院Hawley披露发送给化肥生产商CF Industries的信函，质询该公司的化肥产品涨价问题。",
@@ -318,6 +342,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗称袭击美国油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 09时18分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -584,16 +621,26 @@
           "time_info": "[04时09分 ~ 04时26分]"
         },
         {
-          "title": "伊朗称袭击美国油轮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015341795039475528",
+          "source": "知乎",
           "ranks": [
-            29,
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "市场消息：美国密歇根州犹太教堂枪击案嫌疑人已死亡。",
@@ -605,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开盘跌1.1%，报33215.78点。",
+          "url": "https://wallstreetcn.com/livenews/3069249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "伊朗革命卫队公共关系部：海军对位于米纳萨勒曼港的美国第五舰队恐怖分子总部发动毁灭性打击。",
@@ -668,7 +726,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -682,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "当地时间3月12日，美国总统特朗普表示，他认为伊朗最高领袖穆杰塔巴·哈梅内伊可能“受伤但仍然活着”。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3069245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "市场消息：美国参议员凯恩预计，有关伊朗女子学校遇袭事件的初步报告“很快”就会出炉，但不会是今天。",
@@ -701,9 +770,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本30年期国债收益率上行0.5个基点，至3.475%。",
+          "url": "https://wallstreetcn.com/livenews/3069242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -750,6 +830,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美国发放为期30日的海上俄油购买许可证",
+          "url": "https://flash.jin10.com/detail/20260313082704788800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国财政部自11月以来首次削减6周期国库券发行规模",
           "url": "https://wallstreetcn.com/livenews/3069044",
           "source": "华尔街见闻-快讯",
@@ -770,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国防部被曝“龙虾门”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E2%80%9C%E9%BE%99%E8%99%BE%E9%97%A8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "市场消息：美国参议院否决民主党提出的为运输安全管理局拨款的请求，僵局持续。",
@@ -794,6 +896,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美国土安全部“停摆”近一月 参议院拨款法案再受挫",
+          "url": "https://flash.jin10.com/detail/20260313081658016800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
           "url": "https://flash.jin10.com/detail/20260313010502775800",
           "source": "金十数据",
@@ -814,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "袭击伊朗小学的导弹为美国制造",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AF%BC%E5%BC%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国上诉法院驳回了阻止加州执行儿童在线隐私法的禁令，但表示该州无权执行该法的部分条款。",
@@ -981,6 +1105,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "中方强烈谴责始作俑者美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国参议院投票通过住房可负担性法案，将其送交众议院。",
           "url": "https://flash.jin10.com/detail/20260313001903375800",
           "source": "金十数据",
@@ -1023,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "日经225指数低开1.6%，日本东证指数低开1.4%；韩国首尔综指低开3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3069223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "根据“战争研究所”和“美国企业研究所”的数据，自伊朗战争开始以来，已有16艘民用船只（油轮、集装箱船和其他散货船）遭到袭击。",
