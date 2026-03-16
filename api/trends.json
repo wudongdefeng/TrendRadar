@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T22:17:31.102715+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-03-16T23:59:04.782396+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 125,
+      "match_count": 140,
       "titles": [
         {
           "title": "特朗普点名日本护航，高市早苗压力陡增",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 23时59分]"
         },
         {
           "title": "最快本周！美国被曝拟宣布组建霍尔木兹海峡“护航联盟” 各国态度如何？",
@@ -63,11 +63,12 @@
             11,
             12,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 23时59分]"
         },
         {
           "title": "以色列拦截导弹库存告急？美国几个月前就知晓",
@@ -229,6 +230,17 @@
           "time_info": "[02时28分 ~ 06时19分]"
         },
         {
+          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
+          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时41分 ~ 23时59分]"
+        },
+        {
           "title": "英媒：美以袭击伊朗，美国油企发“意外之财”",
           "url": "https://wallstreetcn.com/livenews/3070376",
           "source": "华尔街见闻-快讯",
@@ -241,6 +253,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
+          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时41分 ~ 23时59分]"
         },
         {
           "title": "消息人士称美国在伊拉克一外交设施遭火箭弹袭击",
@@ -300,15 +324,15 @@
           "time_info": "20时53分"
         },
         {
-          "title": "英国国债价格涨幅扩大，10年期英债收益率跌10个基点，至4.72%。 美国原油期货跌超5%，一度失守93美元，让投资者对通胀风险暂时性地如释重负。",
-          "url": "https://wallstreetcn.com/livenews/3070994",
+          "title": "美国财政部拍卖三个月期国债，得标利率3.610%，投标倍数2.94。 拍卖六个月期国债，得标利率3.570%，投标倍数2.64。",
+          "url": "https://wallstreetcn.com/livenews/3071027",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时59分"
         },
         {
           "title": "市场消息： 日本外相茂木敏充与美国国务卿鲁比奥定于周一通话。",
@@ -322,6 +346,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "黎巴嫩真主党：我们警告美国，必须撤离该地区所有美国工业。在接下来的几个小时内，这些工业将遭受直接攻击和打击。",
+          "url": "https://flash.jin10.com/detail/20260316234903500800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "日本10年期国债收益率上涨1.5个基点，至2.255%。",
           "url": "https://flash.jin10.com/detail/20260316115624526800",
           "source": "金十数据",
@@ -331,6 +366,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
+          "url": "https://wallstreetcn.com/articles/3767638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时59分]"
         },
         {
           "title": "日本30年期国债收益率上涨4.0个基点，至3.545%。",
@@ -372,7 +419,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -383,7 +430,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -410,29 +457,6 @@
           "time_info": "17时57分"
         },
         {
-          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
-          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时41分 ~ 22时17分]"
-        },
-        {
-          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
-          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时41分 ~ 22时17分]"
-        },
-        {
           "title": "警方消息人士称，巴格达国际机场附近美国外交设施遭火箭弹袭击。",
           "url": "https://flash.jin10.com/detail/20260316001230801800",
           "source": "金十数据",
@@ -457,6 +481,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时20分]"
+        },
+        {
+          "title": "英国国债价格涨幅扩大，10年期英债收益率跌10个基点，至4.72%。 美国原油期货跌超5%，一度失守93美元，让投资者对通胀风险暂时性地如释重负。",
+          "url": "https://wallstreetcn.com/livenews/3070994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时59分]"
         },
         {
           "title": "民调：特朗普正将美国盟友推向中国",
@@ -521,6 +557,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时19分]"
+        },
+        {
+          "title": "郑丽文喊出一定要去大陆，为什么民进党怕了",
+          "url": "https://news.ifeng.com/c/8rY1WK3zkHt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时59分]"
         },
         {
           "title": "为啥美剧《无耻之徒》里的一家人没有被美国斩杀线斩杀呢？",
@@ -595,6 +642,17 @@
           "time_info": "[00时23分 ~ 01时21分]"
         },
         {
+          "title": "日本一海域两船倾覆致2人死亡",
+          "url": "https://www.douyin.com/hot/2432532",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "美国中央司令部：伊朗部队已向其邻国发射了数千架无人机和导弹，无差别地攻击民用酒店、商业机场、居民社区和经济基础设施。",
           "url": "https://flash.jin10.com/detail/20260315223812895800",
           "source": "金十数据",
@@ -619,17 +677,6 @@
           "time_info": "[00时23分 ~ 01时21分]"
         },
         {
-          "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
-          "url": "https://wallstreetcn.com/articles/3767638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "日本首相高市早苗：正在研究日本如何在中东地区保护本国船只的相关事宜，但目前尚未做出决定。",
           "url": "https://flash.jin10.com/detail/20260316090735847800",
           "source": "金十数据",
@@ -647,7 +694,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -661,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "加拿大总理卡尼领导的政府宣布了一项为期10年、总额达2亿加元（约合1.46亿美元）的协议，该协议旨在利用加拿大东海岸的一处私人太空发射场，以建立独立于美国及其他国家的卫星发射能力。",
+          "url": "https://flash.jin10.com/detail/20260316234141239800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "日本防卫大臣小泉纯一郎：没有考虑向中东派遣自卫队。",
@@ -691,9 +749,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren就质询xAI和五角大楼披露声明：就马斯克旗下初创公司xAI大模型Grok获取机密信息的权限质询国防部。",
+          "url": "https://wallstreetcn.com/livenews/3071020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国驻伊拉克使馆遭袭",
@@ -790,7 +859,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -817,15 +886,15 @@
           "time_info": "17时57分"
         },
         {
-          "title": "郑丽文喊出一定要去大陆，为什么民进党怕了",
-          "url": "https://news.ifeng.com/c/8rY1WK3zkHt",
-          "source": "凤凰网",
+          "title": "美国银行：市场可能低估了伊朗风险。",
+          "url": "https://wallstreetcn.com/livenews/3071016",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时59分"
         },
         {
           "title": "穆迪分析：中东冲突与薪资疲软两头添堵 日本央行重陷僵局",
@@ -845,7 +914,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -878,7 +947,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -933,7 +1002,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -977,9 +1046,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国至3月16日3个月国债竞拍-得标利率配置百分比 39.81%，前值59.78%。",
+          "url": "https://flash.jin10.com/detail/20260316233206209801",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "石油行业警告称美国能源危机可能进一步恶化，康菲石油等公司就能源危机发出警告。（华尔街日报）",
@@ -1010,9 +1090,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国至3月16日3个月国债竞拍-投标倍数 2.94，前值2.92。",
+          "url": "https://flash.jin10.com/detail/20260316233206209800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "市场消息：美国总统特朗普称，伊朗“还没有准备好”达成协议。",
@@ -1021,9 +1112,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国至3月16日3个月国债竞拍-得标利率 3.61%，前值3.61%。",
+          "url": "https://flash.jin10.com/detail/20260316233206182800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国被曝拟宣布组建霍尔木兹海峡“护航联盟”",
@@ -1054,7 +1156,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1070,6 +1172,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "美国至3月16日6个月国债竞拍-投标倍数 2.64，前值3.09。",
+          "url": "https://flash.jin10.com/detail/20260316233206000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "BBC向美国地区法官Roy K. Altman请求驳回总统特朗普的100亿美元诽谤诉讼。 BBC认为，特朗普并没有因为“误导性”的编辑评论而受到伤害。",
+          "url": "https://wallstreetcn.com/livenews/3071009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "穆迪：日本央行本周将按兵不动，年中或加息至1%",
@@ -1112,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国至3月16日6个月国债竞拍-得标利率配置百分比 71.14%，前值32.35%。",
+          "url": "https://flash.jin10.com/detail/20260316233205989800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "日本10年期国债收益率上涨2.5个基点，至2.265%。",
@@ -1156,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国至3月16日6个月国债竞拍-得标利率 3.57%，前值3.54%。",
+          "url": "https://flash.jin10.com/detail/20260316233205963800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "伊朗外长称伊朗袭击只针对美国",
@@ -1219,7 +1365,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1274,7 +1420,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1307,7 +1453,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1321,6 +1467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国全国住宅建筑商协会（NAHB）首席经济学家Robert Dietz：尽管抵押贷款利率在2月回落，但“首付门槛以及与伊朗冲突和油价相关的不确定性，未来仍将构成阻力”。",
+          "url": "https://wallstreetcn.com/livenews/3071001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "市场消息：比利时首相称，我们必须与俄罗斯实现关系正常化，并重新获得廉价能源。这是常识。私下里，欧洲领导人都同意我的观点，但没人敢公开承认。为了欧洲的利益，我们必须结束这场冲突，但绝不能对普京抱有天真幻想。",
@@ -1376,6 +1533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "日本考虑引进乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20260316232726101800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国内政部长Burgum谈及那些向霍尔木兹海峡派遣轮船的国家，宣称：这样的讨论正在进行之中。 （谈及日本）多个国家有“动机”在霍尔木兹海峡问题上提供帮助。 美国牵头释放石油储备，日本紧随其后",
