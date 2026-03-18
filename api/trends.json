@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T13:58:47.650631+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-03-18T15:02:29.393595+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 135,
+      "match_count": 140,
       "titles": [
         {
           "title": "强风暴席卷美国大部分地区",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时50分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[03时50分 ~ 15时02分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -68,11 +68,12 @@
             6,
             11,
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时02分]"
         },
         {
           "title": "美国正处于“内战前夜”？",
@@ -96,8 +97,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时02分]"
         },
         {
           "title": "伊朗的新战法让美国很头疼",
@@ -146,6 +147,30 @@
           "time_info": "[03时50分 ~ 07时25分]"
         },
         {
+          "title": "WBC委内瑞拉击败美国夺冠",
+          "url": "https://search.bilibili.com/all?keyword=WBC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时02分]"
+        },
+        {
+          "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
+          "url": "https://www.cls.cn/detail/2316154",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 15时02分]"
+        },
+        {
           "title": "专家：警惕日本再度成亚洲战争策源地",
           "url": "https://www.toutiao.com/trending/7617163654705807423/",
           "source": "今日头条",
@@ -163,35 +188,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时58分]"
-        },
-        {
-          "title": "WBC委内瑞拉击败美国夺冠",
-          "url": "https://search.bilibili.com/all?keyword=WBC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时58分]"
-        },
-        {
-          "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
-          "url": "https://www.cls.cn/detail/2316154",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时25分 ~ 13时58分]"
+          "time_info": "[12时17分 ~ 15时02分]"
         },
         {
           "title": "消息人士：爆炸性无人机袭击巴格达美国大使馆，附近传来爆炸声。",
@@ -238,17 +240,6 @@
           "time_info": "06时25分"
         },
         {
-          "title": "日本10年期国债收益率下跌5个基点，至2.215%。",
-          "url": "https://wallstreetcn.com/livenews/3072157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "美国总统特朗普夸赞美国股市表现。",
           "url": "https://flash.jin10.com/detail/20260318014614651800",
           "source": "金十数据",
@@ -288,7 +279,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -403,6 +394,20 @@
           "time_info": "09时24分"
         },
         {
+          "title": "俄战机携高超音速导弹飞越日本海",
+          "url": "https://www.douyin.com/hot/2434014",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时02分]"
+        },
+        {
           "title": "美国务院：已要求全球所有驻外使馆“立即”开展安全评估",
           "url": "https://wallstreetcn.com/livenews/3071918",
           "source": "华尔街见闻-快讯",
@@ -414,6 +419,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时25分]"
+        },
+        {
+          "title": "日本10年期国债收益率下跌5个基点，至2.215%。",
+          "url": "https://wallstreetcn.com/livenews/3072157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时02分]"
         },
         {
           "title": "美国亚利桑那州起诉Kalshi涉嫌非法经营博彩业务。",
@@ -452,6 +469,31 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 15时02分]"
+        },
+        {
           "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
           "url": "https://www.zhihu.com/question/2016892509842793934",
           "source": "知乎",
@@ -465,17 +507,15 @@
           "time_info": "[02时02分 ~ 07时25分]"
         },
         {
-          "title": "俄战机携高超音速导弹飞越日本海",
-          "url": "https://www.douyin.com/hot/2434014",
-          "source": "抖音",
+          "title": "美国威慑力“去马赛克化”，震怖第一岛链",
+          "url": "https://news.ifeng.com/c/8rapSgw6TzK",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            22,
-            27
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时02分]"
         },
         {
           "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
@@ -561,18 +601,6 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时58分]"
-        },
-        {
           "title": "AeroVironment Inc.（AVAV）股价走高，据华尔街日报报道，美国国防部希望大规模生产自杀式无人机。",
           "url": "https://wallstreetcn.com/livenews/3071880",
           "source": "华尔街见闻-快讯",
@@ -621,16 +649,26 @@
           "time_info": "[05时31分 ~ 06时25分]"
         },
         {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
-          "source": "澎湃新闻",
+          "title": "林青霞罕见现身力挺台湾传奇艺术家",
+          "url": "https://www.toutiao.com/trending/7618257051890827270/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时58分]"
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "国台办回应台湾因中东局势或断油断气",
+          "url": "https://www.toutiao.com/trending/7617347938645999622/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "古巴国家主席公开回应美国威胁",
@@ -776,6 +814,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "机构：3月底日本央行的意见摘要或为4月加息提供线索",
+          "url": "https://flash.jin10.com/detail/20260318144856974800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
           "url": "https://flash.jin10.com/detail/20260318012733280800",
           "source": "金十数据",
@@ -804,7 +853,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -826,18 +875,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美国威慑力“去马赛克化”，震怖第一岛链",
-          "url": "https://news.ifeng.com/c/8rapSgw6TzK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -919,6 +957,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "日经225指数收涨2.9%，报55,239.40点。 日本东证指数收涨2.5%，报3,717.41点。 韩国首尔综指收涨5%，报5,925.03点。",
+          "url": "https://wallstreetcn.com/livenews/3072183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "消息人士：卡秋莎火箭弹袭击巴格达美国大使馆，C-RAM防空系统启动，警报声响起。",
           "url": "https://flash.jin10.com/detail/20260318003038654800",
           "source": "金十数据",
@@ -947,7 +996,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1233,7 +1282,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1387,7 +1436,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1464,7 +1513,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1497,7 +1546,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1519,9 +1568,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "当地官员表示，俄罗斯克拉斯诺达尔边疆区一油库火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260318142617686800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美国总统特朗普谈及与爱尔兰关系，声称：希望我们能达成一份关于美国出口液化天然气（LNG）的协议。",
@@ -1558,7 +1618,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
