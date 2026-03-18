@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:45:12.632951+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-03-18T18:43:44.905453+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 158,
+      "match_count": 164,
       "titles": [
         {
           "title": "强风暴席卷美国大部分地区",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时50分 ~ 17时45分]"
+          "appearance_count": 17,
+          "time_info": "[03时50分 ~ 18时43分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -73,6 +73,21 @@
           "time_info": "[01时01分 ~ 09时24分]"
         },
         {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 18时43分]"
+        },
+        {
           "title": "美国国家反恐中心主任辞职",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C",
           "source": "bilibili 热搜",
@@ -88,8 +103,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 17时45分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 18时43分]"
         },
         {
           "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
@@ -149,18 +164,17 @@
           "time_info": "[12时17分 ~ 17时45分]"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            6,
-            7,
-            9
+            11,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时17分 ~ 17时45分]"
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 18时43分]"
         },
         {
           "title": "俄战机携高超音速导弹飞越日本海",
@@ -222,17 +236,27 @@
           "time_info": "[03时51分 ~ 06时25分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            12,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时17分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时43分]"
+        },
+        {
+          "title": "委内瑞拉棒球队战胜美国夺冠",
+          "url": "https://www.douyin.com/hot/2434796",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时43分]"
         },
         {
           "title": "美国威慑力“去马赛克化”，震怖第一岛链",
@@ -245,28 +269,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时58分 ~ 17时45分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
-          "title": "委内瑞拉棒球队战胜美国夺冠",
-          "url": "https://www.douyin.com/hot/2434796",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "消息人士：爆炸性无人机袭击巴格达美国大使馆，附近传来爆炸声。",
@@ -325,6 +327,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时17分 ~ 16时39分]"
+        },
+        {
+          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
+          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -503,6 +516,28 @@
           "time_info": "09时24分"
         },
         {
+          "title": "伊朗逮捕4名为美国工作的间谍",
+          "url": "https://wallstreetcn.com/livenews/3072344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2017533900855984294",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 18时43分]"
+        },
+        {
           "title": "美国务院：已要求全球所有驻外使馆“立即”开展安全评估",
           "url": "https://wallstreetcn.com/livenews/3071918",
           "source": "华尔街见闻-快讯",
@@ -577,15 +612,27 @@
           "time_info": "[02时02分 ~ 07时25分]"
         },
         {
-          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2017533900855984294",
-          "source": "知乎",
+          "title": "日本炒作中国国防预算，国防部回应",
+          "url": "https://news.ifeng.com/c/8rb6767tnIb",
+          "source": "凤凰网",
           "ranks": [
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时43分]"
         },
         {
           "title": "国台办回应台湾因中东局势或断油断气",
@@ -600,6 +647,17 @@
           "time_info": "[15时01分 ~ 15时56分]"
         },
         {
+          "title": "释新闻｜“不是我们的战争”：欧洲多国为何拒绝与美国联合“护航”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783434",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时43分]"
+        },
+        {
           "title": "全球第一大产油国美国油价为何会飙升",
           "url": "https://www.toutiao.com/trending/7618401704211385894/",
           "source": "今日头条",
@@ -610,17 +668,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 17时45分]"
-        },
-        {
-          "title": "日本炒作中国国防预算，国防部回应",
-          "url": "https://news.ifeng.com/c/8rb6767tnIb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
@@ -680,17 +727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -786,17 +822,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "释新闻｜“不是我们的战争”：欧洲多国为何拒绝与美国联合“护航”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783434",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "古巴国家主席公开回应美国威胁",
@@ -975,6 +1000,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
           "url": "https://flash.jin10.com/detail/20260318012733280800",
           "source": "金十数据",
@@ -1127,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "日本经济财政大臣城内实将于周四出席日本央行货币政策会议。",
+          "url": "https://flash.jin10.com/detail/20260318181521565800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "日经225指数收涨2.9%，报55,239.40点。 日本东证指数收涨2.5%，报3,717.41点。 韩国首尔综指收涨5%，报5,925.03点。",
@@ -1333,7 +1380,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1410,7 +1457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1523,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "日本第二大石油公司出光兴产 (Idemitsu)削减石油产品供应。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3072320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "美国总统特朗普：欧洲发生了非常糟糕的事情，他们最好对移民和能源采取行动，否则欧洲将不复存在。",
@@ -1751,7 +1809,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1765,6 +1823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "内塔尼亚胡找美国大使自证活着",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%89%BE%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%87%AA%E8%AF%81%E6%B4%BB%E7%9D%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "三井住友信托：日本央行本周将维持利率不变",
