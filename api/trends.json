@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-19T16:34:14.941776+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-03-19T17:36:11.141898+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 189,
+      "match_count": 198,
       "titles": [
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时42分 ~ 17时36分]"
+        },
         {
           "title": "通胀全面超预期！美国2月PPI同比3.4%，核心PPI 3.9%创一年新高",
           "url": "https://wallstreetcn.com/articles/3767852",
@@ -17,21 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 16时34分]"
-        },
-        {
-          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
-          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时36分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -45,16 +44,18 @@
           "time_info": "[00时03分 ~ 09时24分]"
         },
         {
-          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
-          "url": "https://wallstreetcn.com/articles/3767807",
-          "source": "华尔街见闻",
+          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
+          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
+          "source": "凤凰网",
           "ranks": [
+            2,
             3,
-            1
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时36分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -138,29 +139,46 @@
         },
         {
           "title": "委内瑞拉击败美国夺冠 全国放假一天",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0+%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 16时34分]"
-        },
-        {
-          "title": "委内瑞拉击败美国夺冠 全国放假一天",
           "url": "https://s.weibo.com/weibo?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0%20%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
             2,
             8,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时36分]"
+        },
+        {
+          "title": "委内瑞拉击败美国夺冠 全国放假一天",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0+%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时36分]"
+        },
+        {
+          "title": "专家：美国已深陷中东战争泥潭",
+          "url": "https://www.toutiao.com/trending/7617691584815562790/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            13,
+            15,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 17时36分]"
         },
         {
           "title": "美国特教女老师1天5次性侵男童",
@@ -178,6 +196,29 @@
           "time_info": "[02时49分 ~ 07时42分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "中方回应美报告称日本涉台立场转变",
+          "url": "https://www.toutiao.com/trending/7618865180010250281/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时36分]"
+        },
+        {
           "title": "日本央行：油价飙升令政策判断趋难",
           "url": "https://www.toutiao.com/trending/7618862685425241663/",
           "source": "今日头条",
@@ -187,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "球场得意,委内瑞拉击败美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352090&amp;topic_name=%E7%90%83%E5%9C%BA%E5%BE%97%E6%84%8F%2C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "委内瑞拉击败美国队 全国放假一天",
@@ -357,6 +409,18 @@
           "time_info": "02时49分"
         },
         {
+          "title": "美反恐高官辞职后爆料：是以色列逼美国开战的 伊朗离拥核还早",
+          "url": "https://www.cls.cn/detail/2317857",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时36分]"
+        },
+        {
           "title": "俄罗斯外交部：北极已被西方国家的努力转变为地缘政治对抗区。作为最大的北极强国，俄罗斯对此情景毫无兴趣，将继续致力于维护该地区的和平与稳定。",
           "url": "https://flash.jin10.com/detail/20260319011543155800",
           "source": "金十数据",
@@ -412,6 +476,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "俄罗斯军队控制了乌克兰东部的费多里夫卡-德鲁哈和帕夫利夫卡。",
+          "url": "https://flash.jin10.com/detail/20260319171654527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "预计日本将在下一轮对美国投资中涉足核反应堆领域。 东芝考虑参与美国西屋Westinghouse的核反应堆建设。 三菱重工业考虑参与其中。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3072562",
           "source": "华尔街见闻-快讯",
@@ -456,6 +531,17 @@
           "time_info": "14时48分"
         },
         {
+          "title": "欧洲议会委员会投票通过推进美国贸易协议立法。",
+          "url": "https://wallstreetcn.com/livenews/3073148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "全球第一大产油国美国油价为何会飙升",
           "url": "https://www.toutiao.com/trending/7618401704211385894/",
           "source": "今日头条",
@@ -484,18 +570,15 @@
           "time_info": "[01时54分 ~ 04时28分]"
         },
         {
-          "title": "专家：美国已深陷中东战争泥潭",
-          "url": "https://www.toutiao.com/trending/7617691584815562790/",
-          "source": "今日头条",
+          "title": "日本防相谈日美首相会谈目标",
+          "url": "https://news.ifeng.com/c/8rcYiZNgb4c",
+          "source": "凤凰网",
           "ranks": [
-            24,
-            13,
-            15,
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时53分 ~ 16时34分]"
+          "time_info": "[15时42分 ~ 17时36分]"
         },
         {
           "title": "当地时间18日，伊朗南部法尔斯省拉雷斯坦县一处司法机构遭美国和以色列袭击，导致14人死亡、50人受伤。",
@@ -558,16 +641,26 @@
           "time_info": "[04时28分 ~ 05时28分]"
         },
         {
-          "title": "美反恐高官辞职后爆料：是以色列逼美国开战的 伊朗离拥核还早",
-          "url": "https://www.cls.cn/detail/2317857",
-          "source": "财联社热门",
+          "title": "美国称中方并无“2027攻台计划”，外交部回应",
+          "url": "https://news.ifeng.com/c/8rce9r8BO6B",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时36分]"
+        },
+        {
+          "title": "外交部：美方应在台湾问题上谨言慎行",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E8%B0%A8%E8%A8%80%E6%85%8E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时36分]"
         },
         {
           "title": "胡锡进：美国现在几乎具备了帝国衰落的所有特点",
@@ -590,17 +683,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 15时42分]"
-        },
-        {
-          "title": "日本防相谈日美首相会谈目标",
-          "url": "https://news.ifeng.com/c/8rcYiZNgb4c",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时34分]"
         },
         {
           "title": "美国防部被曝申请追加2000亿战争预算",
@@ -651,6 +733,18 @@
           "time_info": "[06时26分 ~ 07时42分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://wallstreetcn.com/livenews/3073117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时36分]"
+        },
+        {
           "title": "鲍威尔：美联储的独立性具有至关重要的意义。 美联储独立性在美国国会山拥有许许多多的支持者。",
           "url": "https://wallstreetcn.com/livenews/3072655",
           "source": "华尔街见闻-快讯",
@@ -687,17 +781,6 @@
           "time_info": "[04时28分 ~ 05时28分]"
         },
         {
-          "title": "中方回应美报告称日本涉台立场转变",
-          "url": "https://www.toutiao.com/trending/7618865180010250281/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "日本首相：暂无向霍尔木兹海峡派遣自卫队计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_32787346",
           "source": "澎湃新闻",
@@ -708,17 +791,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 09时24分]"
-        },
-        {
-          "title": "美国称中方并无“2027攻台计划”，外交部回应",
-          "url": "https://news.ifeng.com/c/8rce9r8BO6B",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "世界棒球经典赛，委内瑞拉 3-2 击败美国，首次夺得赛事冠军，如何评价这一结果？",
@@ -742,6 +814,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时53分]"
+        },
+        {
+          "title": "亚洲国家大举抢购俄罗斯石油 远东原油已较国际油价出现溢价",
+          "url": "https://www.cls.cn/detail/2317776",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "日本将向美国赠送250棵樱花树",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81250%E6%A3%B5%E6%A8%B1%E8%8A%B1%E6%A0%91%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "鲍威尔：当前，并不存在美国重演类似20世纪70年代滞胀的可能性。",
@@ -839,6 +933,17 @@
           "time_info": "[03时44分 ~ 04时28分]"
         },
         {
+          "title": "“中国上升9位 美国下降11位”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B8%8A%E5%8D%879%E4%BD%8D+%E7%BE%8E%E5%9B%BD%E4%B8%8B%E9%99%8D11%E4%BD%8D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "伊朗称赞美国辞职高官“有良知”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%B5%9E%E7%BE%8E%E5%9B%BD%E8%BE%9E%E8%81%8C%E9%AB%98%E5%AE%98%E2%80%9C%E6%9C%89%E8%89%AF%E7%9F%A5%E2%80%9D",
           "source": "百度热搜",
@@ -849,17 +954,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时48分]"
-        },
-        {
-          "title": "外交部：美方应在台湾问题上谨言慎行",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E8%B0%A8%E8%A8%80%E6%85%8E%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "日本电力企业集团负责人：中东液化天然气占日本进口总量的6%，因此电力供应的稳定性不会立即出现中断。",
@@ -882,17 +976,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://wallstreetcn.com/livenews/3073117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "俄罗斯警告日本",
@@ -1005,6 +1088,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "美国将签证保证金国家名单扩大至50国",
+          "url": "https://wallstreetcn.com/livenews/3073142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "据日经新闻：日本央行对日本国债的持有比例降至50%以下。",
           "url": "https://flash.jin10.com/detail/20260319011258134800",
           "source": "金十数据",
@@ -1044,7 +1138,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -1764,6 +1858,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "欧洲议会委员会投票赞成推进美国贸易协议立法。",
+          "url": "https://flash.jin10.com/detail/20260319171020316800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "燃油价格飙升之际白宫寻找应对之策，美国副总统万斯等政府要员将会见石油业高管",
           "url": "https://wallstreetcn.com/livenews/3072578",
           "source": "华尔街见闻-快讯",
@@ -2089,7 +2194,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
