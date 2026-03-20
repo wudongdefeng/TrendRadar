@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T01:31:53.924909+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:37:00.858404+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "炼油仙人登场,日本吃上地沟油",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美国国土安全部：周四，美国运输安全管理局机场工作人员的缺勤率仍稳定在约10%。",
@@ -25,20 +25,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
         {
-          "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
-          "url": "https://wallstreetcn.com/livenews/3074277",
-          "source": "华尔街见闻-快讯",
+          "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
+          "url": "https://flash.jin10.com/detail/20260321022539496800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
+          "url": "https://www.zhihu.com/question/2018323748374143404",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "伊朗已无官员愿意与美国谈判",
@@ -53,26 +75,143 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
-          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
-          "url": "https://www.zhihu.com/question/2018323748374143404",
-          "source": "知乎",
+          "title": "伊朗问美国为何不敢让航母靠近",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%97%AE%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%A2%E8%AE%A9%E8%88%AA%E6%AF%8D%E9%9D%A0%E8%BF%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            26,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
+          "url": "https://wallstreetcn.com/livenews/3074277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时37分]"
+        },
+        {
+          "title": "男子称网购保健品涉嫌虚假宣传，“美国进口”水蛭素生产商却是香港企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796338",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "美国亚裔混血市长演讲时倒地身亡",
+          "url": "https://news.ifeng.com/c/8reQOgA3tGF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "日本拉美国开采海底稀土，靠谱吗？",
+          "url": "https://news.ifeng.com/c/8rdeuwfkoWL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "麻药缺货,日本拔牙靠硬挺",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352101&amp;topic_name=%E9%BA%BB%E8%8D%AF%E7%BC%BA%E8%B4%A7%2C%E6%97%A5%E6%9C%AC%E6%8B%94%E7%89%99%E9%9D%A0%E7%A1%AC%E6%8C%BA",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "朝鲜痛批日本",
+          "url": "https://www.douyin.com/hot/2437280",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "中东局势引发日本人“抢手纸”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E4%BA%BA%E2%80%9C%E6%8A%A2%E6%89%8B%E7%BA%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "球场得意,委内瑞拉击败美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352090&amp;topic_name=%E7%90%83%E5%9C%BA%E5%BE%97%E6%84%8F%2C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "向特朗普提问的日本记者，遭疯狂网暴",
+          "url": "https://news.ifeng.com/c/8retvRzJFC1",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -87,129 +226,86 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
-          "title": "男子称网购保健品涉嫌虚假宣传，“美国进口”水蛭素生产商却是香港企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796338",
-          "source": "澎湃新闻",
+          "title": "美国3月20日当周石油钻井数 414，前值 412。",
+          "url": "https://wallstreetcn.com/livenews/3074274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "美国亚裔混血市长演讲时倒地身亡",
-          "url": "https://news.ifeng.com/c/8reQOgA3tGF",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "日本拉美国开采海底稀土，靠谱吗？",
-          "url": "https://news.ifeng.com/c/8rdeuwfkoWL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "麻药缺货,日本拔牙靠硬挺",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352101&amp;topic_name=%E9%BA%BB%E8%8D%AF%E7%BC%BA%E8%B4%A7%2C%E6%97%A5%E6%9C%AC%E6%8B%94%E7%89%99%E9%9D%A0%E7%A1%AC%E6%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "朝鲜痛批日本",
-          "url": "https://www.douyin.com/hot/2437280",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "中东局势引发日本人“抢手纸”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E4%BA%BA%E2%80%9C%E6%8A%A2%E6%89%8B%E7%BA%B8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "球场得意,委内瑞拉击败美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352090&amp;topic_name=%E7%90%83%E5%9C%BA%E5%BE%97%E6%84%8F%2C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
+            7,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
-          "source": "澎湃新闻",
+          "title": "美国3月20日当周天然气钻井数 131，前值 133。",
+          "url": "https://wallstreetcn.com/livenews/3074275",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "伊朗问美国为何不敢让航母靠近",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%97%AE%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%A2%E8%AE%A9%E8%88%AA%E6%AF%8D%E9%9D%A0%E8%BF%91%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "美国3月20日当周总钻井数 552，前值 553。",
+          "url": "https://wallstreetcn.com/livenews/3074272",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时37分]"
+        },
+        {
+          "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
+          "url": "https://wallstreetcn.com/livenews/3074270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时37分]"
+        },
+        {
+          "title": "美国官员：已有232名美军士兵在对伊朗军事行动中受伤",
+          "url": "https://wallstreetcn.com/livenews/3074268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "向特朗普提问的日本记者，遭疯狂网暴",
-          "url": "https://news.ifeng.com/c/8retvRzJFC1",
-          "source": "凤凰网",
+          "title": "伊朗攻击美国多个军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
+        },
+        {
+          "title": "美国或向中东增派数千名士兵",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%88%96%E5%90%91%E4%B8%AD%E4%B8%9C%E5%A2%9E%E6%B4%BE%E6%95%B0%E5%8D%83%E5%90%8D%E5%A3%AB%E5%85%B5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
           "title": "市场消息：瑞士已将七人从对俄罗斯的制裁名单中移除。",
@@ -229,18 +325,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国3月20日当周石油钻井数 414，前值 412。",
-          "url": "https://wallstreetcn.com/livenews/3074274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -251,31 +336,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
         {
-          "title": "美国3月20日当周天然气钻井数 131，前值 133。",
-          "url": "https://wallstreetcn.com/livenews/3074275",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：美国防部已为在伊部署地面部队做好详细准备",
+          "url": "https://flash.jin10.com/detail/20260321022305226800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时37分"
         },
         {
-          "title": "美国3月20日当周总钻井数 552，前值 553。",
-          "url": "https://wallstreetcn.com/livenews/3074272",
+          "title": "比尔·阿克曼向美国官员们提及两房（房利美+房地美）。（巴伦周刊）",
+          "url": "https://wallstreetcn.com/livenews/3074287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时37分"
         },
         {
           "title": "美国官员：自与伊朗开战以来，有232名美国士兵受伤。",
@@ -295,7 +380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -317,18 +402,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
-          "url": "https://wallstreetcn.com/livenews/3074270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -339,7 +413,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -353,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "美国官员：已有232名美军士兵在对伊朗军事行动中受伤",
-          "url": "https://wallstreetcn.com/livenews/3074268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
         },
         {
           "title": "美国财政部：对以黎巴嫩真主党出资人及前公共投资官员Alaa Hassan Hamieh为首的16名个人和实体网络实施制裁。",
@@ -383,7 +446,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -399,13 +462,24 @@
           "time_info": "00时34分"
         },
         {
+          "title": "俄罗斯特使德米特里耶夫：美媒Politico关于“俄罗斯预以断供伊朗情报诱使美国停止支持乌克兰”的报道是假新闻。",
+          "url": "https://flash.jin10.com/detail/20260321020207419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "美国至3月20日当周石油钻井总数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260321005000001800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
