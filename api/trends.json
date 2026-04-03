@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T09:28:37.517876+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-04-03T12:24:36.694664+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 128,
+      "match_count": 137,
       "titles": [
         {
           "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
@@ -36,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 12时24分]"
         },
         {
           "title": "这个猛料，让日本网络炸裂了",
@@ -159,8 +160,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 12时24分]"
         },
         {
           "title": "美国实施载人绕月飞行任务",
@@ -172,11 +173,12 @@
             24,
             25,
             27,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 12时24分]"
         },
         {
           "title": "美国为何突然重启登月",
@@ -187,11 +189,12 @@
             26,
             29,
             24,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 12时24分]"
         },
         {
           "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
@@ -234,6 +237,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时25分]"
+        },
+        {
+          "title": "美以伊战争丨美国E3预警机遭伊朗摧毁卫星照曝光",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国官员：大型制药企业有120天时间作出公告，以避免被征收100%的关税。",
@@ -293,6 +307,18 @@
           "time_info": "03时44分"
         },
         {
+          "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
+          "url": "https://www.cls.cn/detail/2334089",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时24分]"
+        },
+        {
           "title": "美国官员：美国已达成17项制药协议，其中签署13项，其余4项仍在谈判中。",
           "url": "https://flash.jin10.com/detail/20260403032853621800",
           "source": "金十数据",
@@ -310,7 +336,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -348,6 +374,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国为何突然重启登月",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%87%8D%E5%90%AF%E7%99%BB%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美国官员：美国政府正考虑对进口专利药品征收100%关税，除非药品生产商已签署药品定价协议或同意在美国境内生产该产品。",
           "url": "https://flash.jin10.com/detail/20260403032836858800",
           "source": "金十数据",
@@ -380,18 +417,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时44分 ~ 05时31分]"
-        },
-        {
-          "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
-          "url": "https://www.cls.cn/detail/2334089",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时28分]"
         },
         {
           "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
@@ -702,6 +727,18 @@
           "time_info": "[04时40分 ~ 05时31分]"
         },
         {
+          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
+          "url": "https://wallstreetcn.com/articles/3769140",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时24分]"
+        },
+        {
           "title": "消息人士：石油巨头对美国墨西哥湾深水油田权益表现出早期兴趣。",
           "url": "https://flash.jin10.com/detail/20260403055153945800",
           "source": "金十数据",
@@ -885,7 +922,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -951,9 +988,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "网友发现《小眼睛》台湾地区作曲登记为李荣浩公司，其「版权公司结业」说法站不住脚，李荣浩为何要这样回应？",
+          "url": "https://www.zhihu.com/question/2023068334963337209",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国官员：对钢铁、铝和铜关税的调整将避免进口商品价值被人为压低；关税调整不会产生重大经济影响，但将简化关税制度。",
@@ -1011,17 +1059,6 @@
           "time_info": "00时49分"
         },
         {
-          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
-          "url": "https://wallstreetcn.com/articles/3769140",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010625479800",
           "source": "金十数据",
@@ -1050,9 +1087,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "俄罗斯汽车市场分析机构Autostat：俄罗斯3月份汽车销量同比增长30.6%，达到104,278辆。",
+          "url": "https://flash.jin10.com/detail/20260403120054937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "日本5年期国债收益率上行0.5个基点至1.805%。 日本30年期国债收益率上行2.0个基点至3.700%。",
@@ -1061,7 +1109,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1083,7 +1131,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1105,9 +1153,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国至4月3日当周天然气钻井总数 130口，前值127口。",
@@ -1138,7 +1197,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1160,7 +1219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1171,7 +1230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1209,13 +1268,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
+          "url": "https://www.zhihu.com/question/2022704110575599872",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "人民日报钟声评日本部署进攻性导弹",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E8%AF%84%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9B%E6%94%BB%E6%80%A7%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1248,7 +1318,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1270,7 +1340,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1281,7 +1351,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1336,7 +1406,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1402,9 +1472,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：石油市场正在冲击日元汇率。 果断行动可能包括干预。 如有必要，将根据日美协议采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3081928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "日本内阁官房长官木原稔：关于政府要求商社加入俄罗斯访问团的媒体报导“不属实”。",
@@ -1413,7 +1494,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1440,6 +1521,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "日本两大电力巨头已暂时停止接受新的工业客户",
+          "url": "https://flash.jin10.com/detail/20260403113849055800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美国对钢、铝、铜衍生品征收25%的关税",
           "url": "https://wallstreetcn.com/livenews/3081763",
           "source": "华尔街见闻-快讯",
@@ -1457,7 +1549,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1468,7 +1560,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -1501,9 +1593,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "樱花互联网股价上涨近20%。日媒报道称，在截至2029年的四年内，微软将与软银和樱花互联网合作，在日本国内构建人工智能数据基础架构。",
+          "url": "https://flash.jin10.com/detail/20260403113301841800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
