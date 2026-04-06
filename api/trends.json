@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T01:39:18.113838+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-04-07T02:45:51.586041+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 58,
+      "match_count": 95,
       "titles": [
         {
           "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时45分]"
         },
         {
           "title": "伊朗拒绝临时停火，提10项条款回应美国停战提议，称只要领导层认为合适就继续战斗",
@@ -25,9 +25,42 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时45分]"
+        },
+        {
+          "title": "提醒：美国总统特朗普在白宫的讲话结束。",
+          "url": "https://wallstreetcn.com/livenews/3082936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时45分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在白宫的新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260407023407032800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普赞许北约秘书长吕特。",
+          "url": "https://wallstreetcn.com/livenews/3082935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国国防部长赫格塞思：伊朗人至今仍在问自己，“美国是怎么做到的？”",
@@ -36,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国想要格陵兰岛，但他们不愿把它交给我们。",
+          "url": "https://flash.jin10.com/detail/20260407023333995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国国防部长赫格塞思：这次任务深入伊朗境内。",
@@ -47,20 +91,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
         {
-          "title": "美国总统特朗普：将审查在报道中泄露（美军飞行员）拯救信息的那家媒体公司。 威胁将把相关记者扔入监狱。 泄露救援信息是一个国家安全顾虑。",
-          "url": "https://wallstreetcn.com/livenews/3082914",
+          "title": "美国总统特朗普：北约秘书长吕特周三将来见我。北约秘书长很棒。",
+          "url": "https://flash.jin10.com/detail/20260407023312286800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "泽连斯基：乌方通过美国向俄方提出能源休战提议",
+          "url": "https://wallstreetcn.com/livenews/3082933",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时45分"
         },
         {
           "title": "美国国防部长赫格塞思：今天，伊朗军方颜面尽失。",
@@ -69,9 +124,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：沙特阿拉伯、卡塔尔、阿联酋一直帮助美国。",
+          "url": "https://flash.jin10.com/detail/20260407023219089800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "特朗普：我们有一个设想，由美国收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3082932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "日本计划本月松绑杀伤性武器出口",
@@ -84,6 +161,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时39分]"
+        },
+        {
+          "title": "美国总统特朗普：将审查在报道中泄露（美军飞行员）拯救信息的那家媒体公司。 威胁将把相关记者扔入监狱。 泄露救援信息是一个国家安全顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3082914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时45分]"
+        },
+        {
+          "title": "石油问题冲击民调，高市急了：想和美国、伊朗分别对话",
+          "url": "https://news.ifeng.com/c/8s6aWG6g6uk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时45分]"
+        },
+        {
+          "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
+          "url": "https://news.ifeng.com/c/8s6xNxIYCzU",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时45分]"
+        },
+        {
+          "title": "伊朗警告美国或封锁曼德海峡反制",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E5%8F%8D%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时45分]"
         },
         {
           "title": "美国总统特朗普的和平委员会给哈马斯设定了解除武装的最后期限。（纽约时报）",
@@ -110,26 +234,16 @@
           "time_info": "[00时38分 ~ 01时39分]"
         },
         {
-          "title": "石油问题冲击民调，高市急了：想和美国、伊朗分别对话",
-          "url": "https://news.ifeng.com/c/8s6aWG6g6uk",
-          "source": "凤凰网",
+          "title": "标普、道指、纳指涨幅收窄至不足0.2%。 美国总统特朗普在新闻发布会上宣称，将讨论伊朗的搜救行动。 伊朗可在一夜之间被摧毁，可能就在周二晚上。",
+          "url": "https://wallstreetcn.com/livenews/3082910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时39分]"
-        },
-        {
-          "title": "俄外交部：日本与乌克兰无人机合作是公开敌对行为",
-          "url": "https://news.ifeng.com/c/8s6xNxIYCzU",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时39分]"
+          "time_info": "[01时39分 ~ 02时45分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.635%，投标倍数2.58。 拍卖六个月期国债，得标利率3.615%，投标倍数3.06。",
@@ -144,16 +258,16 @@
           "time_info": "[00时38分 ~ 01时39分]"
         },
         {
-          "title": "伊朗警告美国或封锁曼德海峡反制",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E5%8F%8D%E5%88%B6",
-          "source": "bilibili 热搜",
+          "title": "报道：美国军方正为潜在对伊朗能源设施的袭击做准备",
+          "url": "https://wallstreetcn.com/livenews/3082906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            17
+            12,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时39分]"
+          "time_info": "[01时39分 ~ 02时45分]"
         },
         {
           "title": "中国蓝莓产量超越美国跃居全球第一",
@@ -174,9 +288,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
+          "url": "https://flash.jin10.com/detail/20260407023151889800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
+          "url": "https://wallstreetcn.com/livenews/3082931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国国防部长赫格塞思：在这个周末，美军已经证明自己是最棒的。",
@@ -185,9 +321,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国可以协助伊朗重建。",
+          "url": "https://flash.jin10.com/detail/20260407023108804800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
+          "url": "https://wallstreetcn.com/livenews/3082930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国中央情报局（CIA）局长：我们执行了一场欺骗行动。",
@@ -196,20 +354,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
         {
-          "title": "标普、道指、纳指涨幅收窄至不足0.2%。 美国总统特朗普在新闻发布会上宣称，将讨论伊朗的搜救行动。 伊朗可在一夜之间被摧毁，可能就在周二晚上。",
-          "url": "https://wallstreetcn.com/livenews/3082910",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：北约极力不愿提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260407023104678800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时45分"
         },
         {
           "title": "日本计划本月松绑杀伤性武器出口",
@@ -229,9 +387,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：韩国、澳大利亚和日本没有帮助美国。",
+          "url": "https://flash.jin10.com/detail/20260407023039176800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国中央情报局（CIA）局长：我们必须让敌人陷入错误的判断之中。",
@@ -240,9 +409,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：北约是纸老虎，普京并不怕北约，他怕的是我们。",
+          "url": "https://flash.jin10.com/detail/20260407023024141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：我希望夺取伊朗的石油。",
@@ -262,9 +442,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗唯一能够重建基础设施的途径就是得到美国的帮助。",
+          "url": "https://flash.jin10.com/detail/20260407022959140800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：允许伊朗拥有核武器是一种战争罪行。",
@@ -284,20 +475,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
         {
-          "title": "报道：美国军方正为潜在对伊朗能源设施的袭击做准备",
-          "url": "https://wallstreetcn.com/livenews/3082906",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：在伊朗方面退缩之前，双方曾一度非常接近达成协议。",
+          "url": "https://flash.jin10.com/detail/20260407022848831800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：我不担心那些针对民用基础设施的担忧。",
@@ -317,9 +508,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：若到12点仍未能达成协议，所有桥梁、发电厂都将被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260407022811906800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的所有桥梁都将在周二午夜被摧毁；所有发电厂将在午夜前停运。如果与伊朗未能达成协议，所有发电厂将被拆除。我们不希望那件事发生。",
+          "url": "https://flash.jin10.com/detail/20260407022804639800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
+          "url": "https://wallstreetcn.com/livenews/3082923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们实现了政权更迭，他们变得更温和。",
@@ -339,9 +563,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议的一部分必须包括在霍尔木兹海峡的自由通行。",
+          "url": "https://flash.jin10.com/detail/20260407022648134800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3082921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：我们派了200人去营救那名空军人员。",
@@ -361,9 +607,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我宁愿由美国在霍尔木兹海峡收取过路费，也不愿让伊朗来收。",
+          "url": "https://flash.jin10.com/detail/20260407022554685800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：北约应该感到羞愧。",
@@ -383,7 +640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -394,9 +651,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须在周二的最后期限前达成一份我能接受的协议。",
+          "url": "https://flash.jin10.com/detail/20260407022526265800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：这次行动我们本可能损失100到200人。",
@@ -416,9 +684,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们赢了。他们已在军事上被击败",
+          "url": "https://flash.jin10.com/detail/20260407022450372800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：我没有丧失MAGA，MAGA喜欢我正在做的事。",
@@ -432,15 +711,37 @@
           "time_info": "00时38分"
         },
         {
+          "title": "现货黄金5分钟内上涨6.53美元/盎司，报4659.19美元/盎司。 WTI原油期货目前涨2.38%，报114.20美元，亚太盘初曾涨穿115美元。 伊朗媒体Mizan报道称，首都德黑兰听到爆炸声。 美国“战争部”部长海格塞斯宣称，“今天将对伊朗发动规模最大的袭击，明天的打击力度将比今天更大”。",
+          "url": "https://wallstreetcn.com/livenews/3082918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "美国总统特朗普：将要求媒体机构提供泄露伊朗救援行动信息者的姓名。",
           "url": "https://flash.jin10.com/detail/20260407012434283800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "伊朗就美国提议作出回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B0%B1%E7%BE%8E%E5%9B%BD%E6%8F%90%E8%AE%AE%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：我们要去找发布这条新闻的媒体公司。",
@@ -449,9 +750,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗石油）首先我是个商人，胜者将得到战利品。",
+          "url": "https://flash.jin10.com/detail/20260407022122071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：英国还有很长的路要走。",
@@ -482,9 +794,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：如果把对伊朗的战争计划告诉德国，德国就会把消息泄露出去。",
+          "url": "https://flash.jin10.com/detail/20260407022041846800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
@@ -509,6 +832,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国总统特朗普：关于委内瑞拉，我们现在是他们的合作伙伴，已经拿下了数亿桶石油。",
+          "url": "https://flash.jin10.com/detail/20260407022025434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "美国白宫经济顾问哈塞特：各州应该采取行动来解决汽油价格（上涨）问题。 美联储应该能够降低利率。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3082879",
           "source": "华尔街见闻-快讯",
@@ -529,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美国总统特朗普：曾在一天内有101枚导弹瞄准了“亚伯拉罕·林肯”号，他们全部被击落。",
+          "url": "https://flash.jin10.com/detail/20260407021910649800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国官员：伊朗对美方停战提议的回应“要求过高”",
@@ -553,6 +898,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国总统特朗普：伊朗正处于其有史以来最虚弱的时刻。",
+          "url": "https://flash.jin10.com/detail/20260407021821047800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "美国总统特朗普：（被问及为何打击伊朗基础设施不算战争罪）因为他们就是一群禽兽（Animals）。",
           "url": "https://flash.jin10.com/detail/20260406235456066800",
           "source": "金十数据",
@@ -562,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美国总统特朗普：我本以为英国会首先和我们一起（在伊朗）行动。",
+          "url": "https://flash.jin10.com/detail/20260407021804888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗最后期限）不会再改了。尚未签署任何停火协议。",
@@ -581,9 +948,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：对北约“非常失望”。",
+          "url": "https://flash.jin10.com/detail/20260407021740394800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "据美国纽约联储数据，上个交易日（4月2日，非农日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
@@ -597,15 +975,37 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国是如何失去“中国通”人才的",
+          "url": "https://www.toutiao.com/trending/7625586269633200182/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
           "title": "美国总统特朗普：那两架大型飞机都很老旧。",
           "url": "https://flash.jin10.com/detail/20260407011830769800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判的最大问题在于，由于轰炸，对方无法进行沟通。",
+          "url": "https://flash.jin10.com/detail/20260407021728329800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美媒称美国已收到伊朗关于结束战争的回应",
@@ -625,7 +1025,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -636,9 +1036,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经击沉了伊朗的158艘船。",
+          "url": "https://flash.jin10.com/detail/20260407021646690800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "美国总统特朗普：很多飞机都是用来佯攻的。",
@@ -647,7 +1058,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         }
