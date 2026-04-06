@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T14:27:04.196280+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-04-06T16:19:58.567890+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 95,
+      "match_count": 107,
       "titles": [
         {
           "title": "两架美国“黑鹰”被伊朗山民击中",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 16时19分]"
         },
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -197,18 +197,6 @@
           "time_info": "[00时28分 ~ 07时26分]"
         },
         {
-          "title": "美国女生崩溃哭诉油价贵要骑马上班了",
-          "url": "https://www.toutiao.com/trending/7625358991010889791/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
           "title": "伊朗媒体：一枚炮弹击中位于伊拉克的美国领事馆",
           "url": "https://news.ifeng.com/c/8s60ht8XnHO",
           "source": "凤凰网",
@@ -218,6 +206,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时39分 ~ 14时27分]"
+        },
+        {
+          "title": "美国女生崩溃哭诉油价贵要骑马上班了",
+          "url": "https://www.toutiao.com/trending/7625358991010889791/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时19分]"
         },
         {
           "title": "俄罗斯副总理Novak：OPEC+同意5月份增产石油20.6万桶/日。 全球原油市场失衡。 石油输出国组织（OPEC，欧佩克）秘书处将筹备关于若干潜在措施的报告。",
@@ -293,9 +294,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "交易商表示，俄罗斯计划于4月份从黑海图阿普谢港出口79.4万吨石油产品，高于3月份的75.5万吨。",
+          "url": "https://flash.jin10.com/detail/20260406161316258800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "NASA数据显示俄罗斯黑海重要石油码头起火。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "日本20年期国债收益率升至3.325%。",
@@ -315,9 +338,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "据知情人士透露，三井住友金融集团和日本生命保险公司正在洽谈设立一只私人信贷基金，初始资本至少为5000亿日元（约合31亿美元）。这些日本金融巨头希望借此抓住企业交易激增的机遇。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "日本福岛第二核电站1号机组燃料池冷却系统停止运行",
@@ -330,6 +364,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
+          "url": "https://v.ifeng.com/c/8s6Thj3S8bb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗逼美国做选择",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%BC%E7%BE%8E%E5%9B%BD%E5%81%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "部分美国官员认为对伊战争将进入第二阶段",
@@ -397,6 +453,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+          "url": "https://news.ifeng.com/c/8s65QJ9Vrbr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时19分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：与伊朗的外交窗口正在关闭，这算是保守的说法了。",
@@ -484,15 +551,16 @@
           "time_info": "[05时25分 ~ 06时22分]"
         },
         {
-          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
-          "url": "https://news.ifeng.com/c/8s65QJ9Vrbr",
+          "title": "美国为限制中国又盯上阿斯麦，荷兰政府：不便评论别国法案",
+          "url": "https://news.ifeng.com/c/8s62Tf7p7gC",
           "source": "凤凰网",
           "ranks": [
-            7
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时19分]"
         },
         {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
@@ -519,18 +587,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时23分]"
-        },
-        {
-          "title": "美国为限制中国又盯上阿斯麦，荷兰政府：不便评论别国法案",
-          "url": "https://news.ifeng.com/c/8s62Tf7p7gC",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时27分]"
         },
         {
           "title": "据ABC新闻：美国总统特朗普表示，北约就是纸老虎，纸老虎。他们没有船，什么都没有，普京对他们毫无畏惧。",
@@ -569,6 +625,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时39分 ~ 14时27分]"
+        },
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909994",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时19分]"
         },
         {
           "title": "伊朗警告美国或封锁曼德海峡反制",
@@ -762,17 +829,6 @@
           "time_info": "[12时39分 ~ 14时27分]"
         },
         {
-          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909994",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
           "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
           "url": "https://wallstreetcn.com/livenews/3082644",
           "source": "华尔街见闻-快讯",
@@ -803,9 +859,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "日本最大规模海上兵力改编",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B5%B7%E4%B8%8A%E5%85%B5%E5%8A%9B%E6%94%B9%E7%BC%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普：与伊朗的冲突应该在几天内结束，而不是几周内。",
@@ -836,7 +903,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -850,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "声明显示，伊朗武装力量统一司令部发言人表示，伊朗打击了美国位于科威特布比延岛的新营地。",
+          "url": "https://flash.jin10.com/detail/20260406160058792800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "据伊朗西亚新闻呢通讯社（WANA）：伊朗外交部发言人表示，伊朗将对针对其基础设施的袭击作出对等回应，并将以美国或与其有关联的类似基础设施作为目标。",
@@ -869,9 +947,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "日本央行释放微妙信号，避免在4月会议前承诺加息",
+          "url": "https://flash.jin10.com/detail/20260406155800774800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "日本20年期国债收益率上升4.0个基点，至3.305%。",
@@ -896,6 +985,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "沙特阿美将5月面向美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油升水14.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260406155311120800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国中央司令部：美国海军“林肯”号航母上的军人们在“史诗愤怒”行动中昼夜不停地工作，以确保海基战斗机保持战斗状态。",
           "url": "https://flash.jin10.com/detail/20260406045821987800",
           "source": "金十数据",
@@ -913,7 +1013,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -935,7 +1035,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -957,7 +1057,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1001,7 +1101,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -1116,6 +1216,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "日本央行名古屋分行行长：该地区部分企业担心，外汇市场波动及中东冲突带来的不确定性会通过恶化家庭和企业信心而损害经济。",
+          "url": "https://flash.jin10.com/detail/20260406151611439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "日本首相高市早苗：我们将灵活应对中东局势及其对需求造成的压力，不排除任何可能性。",
           "url": "https://flash.jin10.com/detail/20260406081858849800",
           "source": "金十数据",
@@ -1125,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "日经225指数收涨0.5%，报53413.68点。 日本东证指数收跌0.01%，报3644.80点。 韩国首尔综指收涨1.4%，报5450.33点。",
+          "url": "https://wallstreetcn.com/livenews/3082748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "10年期日本国债收益率达新高",
@@ -1147,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "日本40年期国债收益率上行9.5个基点至3.965%。",
+          "url": "https://wallstreetcn.com/livenews/3082746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "王毅同俄罗斯外长拉夫罗夫通电话",
