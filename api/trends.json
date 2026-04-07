@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:28:50.300257+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-04-07T14:15:42.547220+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 157,
+      "match_count": 172,
       "titles": [
         {
           "title": "伊朗拒绝临时停火，提10项条款回应美国停战提议，称只要领导层认为合适就继续战斗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时39分 ~ 12时28分]"
+          "appearance_count": 14,
+          "time_info": "[01时39分 ~ 14时15分]"
         },
         {
           "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时46分 ~ 12时28分]"
+          "appearance_count": 12,
+          "time_info": "[03时46分 ~ 14时15分]"
         },
         {
           "title": "石油问题冲击民调，高市急了：想和美国、伊朗分别对话",
@@ -98,13 +98,59 @@
           "time_info": "[02时45分 ~ 06时28分]"
         },
         {
+          "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
+          "url": "https://www.cls.cn/detail/2335995",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时15分]"
+        },
+        {
+          "title": "特朗普：该由美国收霍尔木兹通行费",
+          "url": "https://news.ifeng.com/c/8s7WhbxpGX0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时15分]"
+        },
+        {
+          "title": "郑丽文率团抵达大陆",
+          "url": "https://www.toutiao.com/trending/7625525700468637732/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "郑丽文率团抵达上海开启大陆参访行程",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E7%8E%87%E5%9B%A2%E6%8A%B5%E8%BE%BE%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%90%AF%E5%A4%A7%E9%99%86%E5%8F%82%E8%AE%BF%E8%A1%8C%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "美国载人飞船成功绕过月球背面",
           "url": "https://www.toutiao.com/trending/7625827495429836338/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -131,16 +177,26 @@
           "time_info": "01时39分"
         },
         {
-          "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
-          "url": "https://www.cls.cn/detail/2335995",
-          "source": "财联社热门",
+          "title": "美国「阿耳忒弥斯 2 号」载人绕月任务打破人类与地球最远距离，有何意义？",
+          "url": "https://www.zhihu.com/question/2024675619682747882",
+          "source": "知乎",
           "ranks": [
-            13,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "美国载人绕月任务刷新人类历史纪录",
+          "url": "https://www.toutiao.com/trending/7625827495429836338/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国国防部长赫格塞思：今天，伊朗军方颜面尽失。",
@@ -160,21 +216,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
-        {
-          "title": "特朗普：该由美国收霍尔木兹通行费",
-          "url": "https://news.ifeng.com/c/8s7WhbxpGX0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时28分]"
         },
         {
           "title": "提醒：美国总统特朗普在白宫的讲话结束。",
@@ -275,6 +319,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时39分]"
+        },
+        {
+          "title": "美国载人绕月任务打破人类历史纪录",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时15分]"
+        },
+        {
+          "title": "伊朗回应美国停战提议 包含10项条款",
+          "url": "https://www.toutiao.com/trending/7625659418251628074/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时15分]"
         },
         {
           "title": "特朗普：我们有一个设想，由美国收取霍尔木兹海峡通行费",
@@ -459,6 +528,18 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
+          "title": "国际观察丨日本历史教科书中了怎样的毒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时15分]"
+        },
+        {
           "title": "伊朗最高领袖顾问警告：若美国再犯错 或将封锁曼德海峡",
           "url": "https://www.cls.cn/detail/2335661",
           "source": "财联社热门",
@@ -481,18 +562,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 09时30分]"
-        },
-        {
-          "title": "伊朗回应美国停战提议 包含10项条款",
-          "url": "https://www.toutiao.com/trending/7625659418251628074/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时28分]"
         },
         {
           "title": "美国是如何失去“中国通”人才的",
@@ -536,18 +605,6 @@
           "title": "中国AI大模型调用量连续五周超美国",
           "url": "https://www.toutiao.com/trending/7625463207994179611/",
           "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时28分]"
-        },
-        {
-          "title": "国际观察丨日本历史教科书中了怎样的毒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
-          "source": "澎湃新闻",
           "ranks": [
             9,
             10
@@ -628,6 +685,18 @@
           "time_info": "[00时38分 ~ 01时39分]"
         },
         {
+          "title": "新加坡前外长：美国变得极度危险",
+          "url": "https://www.toutiao.com/trending/7625841755636072491/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时15分]"
+        },
+        {
           "title": "标普、道指、纳指涨幅收窄至不足0.2%。 美国总统特朗普在新闻发布会上宣称，将讨论伊朗的搜救行动。 伊朗可在一夜之间被摧毁，可能就在周二晚上。",
           "url": "https://wallstreetcn.com/livenews/3082910",
           "source": "华尔街见闻-快讯",
@@ -662,6 +731,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
+          "title": "通胀压力飙升！美国3月ISM服务业PMI回落至54，支付价格创近三年新高",
+          "url": "https://wallstreetcn.com/articles/3769325",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时15分]"
         },
         {
           "title": "从接近乌克兰情报部门的消息人士处获得的消息，俄罗斯向伊朗提供了“以色列境内55个关键能源基础设施目标”的名单。",
@@ -795,6 +875,18 @@
           "time_info": "[00时38分 ~ 01时39分]"
         },
         {
+          "title": "谁给日本历史教科书下了“毒”",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E6%95%99%E7%A7%91%E4%B9%A6%E4%B8%8B%E4%BA%86%E2%80%9C%E6%AF%92%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时15分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：一旦我们的战士出击，便势不可挡。",
           "url": "https://flash.jin10.com/detail/20260407013359748800",
           "source": "金十数据",
@@ -848,28 +940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "新加坡前外长：美国变得极度危险",
-          "url": "https://www.toutiao.com/trending/7625841755636072491/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国载人绕月任务打破人类历史纪录",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         },
         {
           "title": "美国中央情报局（CIA）局长：我们执行了一场欺骗行动。",
@@ -960,15 +1030,15 @@
           "time_info": "05时32分"
         },
         {
-          "title": "通胀压力飙升！美国3月ISM服务业PMI回落至54，支付价格创近三年新高",
-          "url": "https://wallstreetcn.com/articles/3769325",
-          "source": "华尔街见闻",
+          "title": "中国台湾证交所加权股价指数收高2%报33,229.82点。",
+          "url": "https://wallstreetcn.com/livenews/3083175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "14时15分"
         },
         {
           "title": "美国中央情报局（CIA）局长：我们必须让敌人陷入错误的判断之中。",
@@ -1068,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "日本央行前审议委员：由于物价压力加大 央行可能在7月前加息",
+          "url": "https://flash.jin10.com/detail/20260407133955137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "日本首相高市早苗寻求与伊朗总统通电话。（NHK）",
@@ -1186,9 +1267,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "台湾加权指数4月7日（周二）收盘上涨657.39点，涨幅2.02%，报33229.82点。",
+          "url": "https://flash.jin10.com/detail/20260407133510807800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "中国国民党主席郑丽文率团抵达大陆",
+          "url": "https://wallstreetcn.com/livenews/3083164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：我们派了200人去营救那名空军人员。",
@@ -1255,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "日本20年期国债收益率下行1.5个基点至3.315%。",
+          "url": "https://wallstreetcn.com/livenews/3083162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：我们在伊朗执行了超过1万次战斗飞行任务，打击了1.3万多个目标。F-15是首架被伊朗击中的有人驾驶战机。",
@@ -1378,6 +1492,28 @@
           "time_info": "09时30分"
         },
         {
+          "title": "日本2月同步指标初值 116.3，预期 116.4，前值 117.9。",
+          "url": "https://wallstreetcn.com/livenews/3083158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "美国众议院民主党议员推动弹劾防长",
+          "url": "https://www.toutiao.com/trending/7625842559818940422/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "美国总统特朗普：我们要去找发布这条新闻的媒体公司。",
           "url": "https://flash.jin10.com/detail/20260407012332318800",
           "source": "金十数据",
@@ -1409,6 +1545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "日本2月领先指标初值 112.4，预期 112.4，前值 112.1。",
+          "url": "https://wallstreetcn.com/livenews/3083157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：正在让威特科夫和库什纳进行沟通。",
@@ -1675,15 +1822,15 @@
           "time_info": "00时38分"
         },
         {
-          "title": "谁给日本历史教科书下了“毒”",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E6%95%99%E7%A7%91%E4%B9%A6%E4%B8%8B%E4%BA%86%E2%80%9C%E6%AF%92%E2%80%9D",
-          "source": "百度热搜",
+          "title": "新加坡贸易部长颜金勇：美国撤回关于新加坡贸易的“不实声明”；新加坡就贸易调查与美国进行“建设性”沟通。",
+          "url": "https://wallstreetcn.com/livenews/3083149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：那两架大型飞机都很老旧。",
@@ -1725,9 +1872,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "中国国民党主席郑丽文率团抵达大陆",
+          "url": "https://flash.jin10.com/detail/20260407131233629800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美媒称美国已收到伊朗关于结束战争的回应",
@@ -1769,7 +1927,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1805,6 +1963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "据英国金融时报：美国战略与国际研究中心的高级国防与安全顾问Mark Cancian表示，他估计这场行动每天给美国带来的成本约为五亿美元。",
+          "url": "https://flash.jin10.com/detail/20260407131059081800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     }
