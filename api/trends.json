@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T14:25:19.460186+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-04-08T16:08:42.760333+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 139,
+      "match_count": 146,
       "titles": [
         {
           "title": "郑丽文率团抵达上海开启大陆参访行程",
@@ -53,11 +53,12 @@
             13,
             12,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 16时08分]"
         },
         {
           "title": "伊朗已关闭与美国的所有外交和间接沟通渠道，冲突会进一步升级吗？美伊如果彻底断联，会带来哪些连锁反应？",
@@ -148,6 +149,29 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
+          "title": "伊朗表态，感谢中国、俄罗斯",
+          "url": "https://news.ifeng.com/c/8s8yvBMhUVU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
+          "url": "https://wallstreetcn.com/articles/3769438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时08分]"
+        },
+        {
           "title": "伊朗威胁切断美国及其盟友石油供应",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -195,28 +219,6 @@
           "time_info": "[00时31分 ~ 02时52分]"
         },
         {
-          "title": "伊朗表态，感谢中国、俄罗斯",
-          "url": "https://news.ifeng.com/c/8s8yvBMhUVU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时25分]"
-        },
-        {
-          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时25分]"
-        },
-        {
           "title": "国际观察丨日本历史教科书中了怎样的毒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32914128",
           "source": "澎湃新闻",
@@ -239,8 +241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时31分 ~ 16时08分]"
         },
         {
           "title": "特朗普宣布美国将协助霍尔木兹海峡航运，“会赚到大钱！”",
@@ -249,7 +251,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -290,6 +292,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 03时53分]"
+        },
+        {
+          "title": "美军大批F35将入驻日本三泽基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%A4%A7%E6%89%B9F35%E5%B0%86%E5%85%A5%E9%A9%BB%E6%97%A5%E6%9C%AC%E4%B8%89%E6%B3%BD%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美国10年期国债期货上涨12点，30年期国债期货跳涨24点。",
@@ -347,6 +360,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2025108629058052769",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时08分]"
+        },
+        {
           "title": "EIA短期能源展望报告：预计美国4月原油平均日产量为1364万桶，3月为1356万桶；预计5月平均日产量为1359万桶。",
           "url": "https://flash.jin10.com/detail/20260408001550364800",
           "source": "金十数据",
@@ -356,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗称美国已原则上承诺履行以下义务：不再进行军事行动、承认伊朗对霍尔木兹海峡持续控制权、支付损失赔偿等",
+          "url": "https://www.cls.cn/detail/2337744",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国4月天然气日均产量为1203亿立方英尺，3月为1205亿立方英尺；5月预计日均产量为1203亿立方英尺。",
@@ -391,6 +426,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "台湾同胞想吃酱板鸭？国台办指路",
+          "url": "https://www.toutiao.com/trending/7625820489425567763/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2026年美国石油需求为2060万桶/日，与此前预测持平；预计2027年需求为2070万桶/日，此前预测为2070万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408001429765800",
           "source": "金十数据",
@@ -422,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
-          "url": "https://www.zhihu.com/question/2025108629058052769",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时25分]"
         },
         {
           "title": "美国驻伊拉克巴格达外交设施遭袭击",
@@ -675,6 +710,17 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
+          "title": "伊朗议长将率团与美国谈判",
+          "url": "https://www.toutiao.com/trending/7626286982997642790/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "万斯：若伊朗未达成协议 美国或拿出“尚未动用的手段”",
           "url": "https://flash.jin10.com/detail/20260408001253796800",
           "source": "金十数据",
@@ -862,6 +908,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "中国台湾3月季调后CPI月率 0.19%，前值0.19%。",
+          "url": "https://flash.jin10.com/detail/20260408160020902800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2027年美国原油消费量为2072.00万桶/日，此前预期为2073.00万桶/日。",
           "url": "https://flash.jin10.com/detail/20260408000930624800",
           "source": "金十数据",
@@ -904,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "中国台湾3月未季调CPI年率 1.2%，预期1.65%，前值1.75%。",
+          "url": "https://flash.jin10.com/detail/20260408160007417800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美媒称伊朗已停止与美国的谈判努力",
@@ -1165,7 +1233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1176,7 +1244,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1201,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "荷兰外长：我欢迎美国和伊朗之间为期两周的停火协议。所有各方都必须遵守，并朝着冲突的可持续解决方案努力。霍尔木兹海峡的重新开放对所有航运至关重要。",
+          "url": "https://flash.jin10.com/detail/20260408155534953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美国副总统万斯称，美国必须设法让Orban连任匈牙利总理。 总统特朗普声称，美国一直都支持Orban。",
@@ -1484,7 +1563,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
