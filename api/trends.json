@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T18:06:17.570412+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-04-09T19:48:56.794257+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 168,
+      "match_count": 173,
       "titles": [
         {
           "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
@@ -58,11 +58,12 @@
             4,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 18时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时48分]"
         },
         {
           "title": "俄罗斯、欧盟、法国、德国、新西兰、印度等多方表态",
@@ -88,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 18时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时48分]"
         },
         {
           "title": "美国年轻人为何被锁死一生",
@@ -99,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 18时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时48分]"
         },
         {
           "title": "比尔·盖茨同意就爱泼斯坦案在美国国会作证",
@@ -144,18 +145,6 @@
           "time_info": "[06时40分 ~ 16时15分]"
         },
         {
-          "title": "日籍男留华安居,笑谈日本烂透",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
-        },
-        {
           "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
           "url": "https://wallstreetcn.com/articles/3769486",
           "source": "华尔街见闻",
@@ -168,6 +157,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时22分 ~ 18时06分]"
+        },
+        {
+          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
+          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时48分]"
+        },
+        {
+          "title": "日籍男留华安居,笑谈日本烂透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时48分]"
         },
         {
           "title": "据日本共同社：日本考虑释放约20天的石油储备。",
@@ -187,7 +200,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -242,7 +255,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -306,15 +319,16 @@
           "time_info": "[09时22分 ~ 16时15分]"
         },
         {
-          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
-          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
+          "title": "凤凰女记者：伊朗要求美国控制住以色列",
+          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
           "source": "凤凰网",
           "ranks": [
-            5
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时48分]"
         },
         {
           "title": "据一位北约消息人士透露，美国总统特朗普与北约秘书长吕特的会晤仍在进行中。吕特已经在白宫逗留90多分钟了。",
@@ -348,6 +362,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.douyin.com/hot/2460761",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "美国公布对伊行动巨额“帐单” 但美军强调将继续驻留中东地区",
+          "url": "https://www.cls.cn/detail/2338818",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时48分]"
+        },
+        {
+          "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
+          "url": "https://www.zhihu.com/question/2025480538157315795",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 19时48分]"
         },
         {
           "title": "反超美国 全球更认可中国领导力",
@@ -411,6 +462,19 @@
           "time_info": "[02时01分 ~ 03时22分]"
         },
         {
+          "title": "美国的停火谈判被以色列加了备注",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E4%BA%86%E5%A4%87%E6%B3%A8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时48分]"
+        },
+        {
           "title": "美国副总统万斯：特朗普曾提及过解除制裁事宜。他还谈到了经济合作之类的内容。但除非伊朗方面明确承诺停止任何接近制造核武器的活动，否则这种情况是不会发生的。",
           "url": "https://flash.jin10.com/detail/20260409040801394800",
           "source": "金十数据",
@@ -447,18 +511,6 @@
           "time_info": "[04时36分 ~ 05时36分]"
         },
         {
-          "title": "凤凰女记者：伊朗要求美国控制住以色列",
-          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
-        },
-        {
           "title": "因未获伊朗战争支持，美国总统特朗普考虑惩罚某些北约国家。",
           "url": "https://flash.jin10.com/detail/20260409040702671800",
           "source": "金十数据",
@@ -481,18 +533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时32分]"
-        },
-        {
-          "title": "美国公布对伊行动巨额“帐单” 但美军强调将继续驻留中东地区",
-          "url": "https://www.cls.cn/detail/2338818",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
         },
         {
           "title": "美国印第安纳州宣布将暂停该州对燃油征收的7%使用税，为期30天。",
@@ -529,31 +569,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时36分]"
-        },
-        {
-          "title": "美国的停火谈判被以色列加了备注",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E4%BA%86%E5%A4%87%E6%B3%A8%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
-        },
-        {
-          "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
-          "url": "https://www.zhihu.com/question/2025480538157315795",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时06分]"
         },
         {
           "title": "伊媒称美国已受无可否认且毁灭性失败",
@@ -618,6 +633,17 @@
           "time_info": "[09时22分 ~ 12时28分]"
         },
         {
+          "title": "国防部：日本军事扩张野心暴露无遗",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E9%87%8E%E5%BF%83%E6%9A%B4%E9%9C%B2%E6%97%A0%E9%81%97",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 19时48分]"
+        },
+        {
           "title": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
           "url": "https://wallstreetcn.com/livenews/3084600",
           "source": "华尔街见闻-快讯",
@@ -664,6 +690,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时32分]"
+        },
+        {
+          "title": "人民日报：日本必须放弃军事化道路",
+          "url": "https://www.toutiao.com/trending/7625838194420776979/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时48分]"
         },
         {
           "title": "美国副总统万斯：我想要知道，伊朗议长卡利巴夫的英语理解水平如何。",
@@ -714,15 +752,15 @@
           "time_info": "[05时36分 ~ 06时40分]"
         },
         {
-          "title": "国防部：日本军事扩张野心暴露无遗",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E9%87%8E%E5%BF%83%E6%9A%B4%E9%9C%B2%E6%97%A0%E9%81%97",
-          "source": "百度热搜",
+          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
+          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
+          "source": "凤凰网",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
+          "time_info": "[18时06分 ~ 19时48分]"
         },
         {
           "title": "美国副总统万斯：谈判应该在本周末开始。 今天，以色列与美国有过交流。 看到关于霍尔木兹海峡开始重新开放的迹象。 如果伊朗不遵守协议，将会有后果。 如果伊朗发展核武器，制裁就不会减免。 如果伊朗不给我们需要的东西，谈判将会很糟糕。",
@@ -842,9 +880,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "停火后如何确保霍尔木兹海峡通航？美国让欧洲盟友提方案",
+          "url": "https://news.ifeng.com/c/8sBhui56oZ0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "市场消息：法国总统马克龙表示希望停火能得到尊重，包括在黎巴嫩。马克龙与伊朗总统佩泽希齐扬和美国总统特朗普进行了交谈。",
@@ -908,7 +957,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1001,17 +1050,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "人民日报：日本必须放弃军事化道路",
-          "url": "https://www.toutiao.com/trending/7625838194420776979/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
           "title": "EIA年度能源展望报告：美国原油产量将保持相对稳定，到2050年将小幅下降。",
           "url": "https://flash.jin10.com/detail/20260409025941762800",
           "source": "金十数据",
@@ -1087,17 +1125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
-          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国希望通过外交手段获取伊朗的铀。",
@@ -1447,7 +1474,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1524,7 +1551,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1615,6 +1642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "何立峰会见美国桥水投资公司创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3085040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "伊朗媒体报道称，伊朗总统向巴基斯坦总理表示，黎巴嫩停火是与美国达成10点协议框架内的必要条件。",
@@ -1711,7 +1749,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1804,6 +1842,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "欧盟贸易专员Sefcovic将于四月下旬访问美国。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3085033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美国副总统万斯：伊朗人认为停火协议包括黎巴嫩，但事实并非如此。",
           "url": "https://flash.jin10.com/detail/20260409033511232800",
           "source": "金十数据",
@@ -1881,6 +1930,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "日本媒体夸孙颖莎是“绝对女王”",
+          "url": "https://www.toutiao.com/trending/7626612431775072299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美国白宫：匈牙利宣布计划采购价值7亿美元的美国海马斯系统。",
           "url": "https://flash.jin10.com/detail/20260409001748176800",
           "source": "金十数据",
@@ -1937,7 +1997,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         }
