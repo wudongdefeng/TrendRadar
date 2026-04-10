@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T20:51:50.539277+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-04-10T22:14:08.315202+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 185,
+      "match_count": 216,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -51,11 +51,23 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 22时14分]"
+        },
+        {
+          "title": "外交部回应日本“降级”日中关系",
+          "url": "https://www.toutiao.com/trending/7627027600157707827/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时41分 ~ 20时51分]"
+          "time_info": "[16时18分 ~ 22时14分]"
         },
         {
           "title": "美国年轻人为何被锁死一生",
@@ -77,11 +89,12 @@
             13,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时59分 ~ 22时14分]"
         },
         {
           "title": "日本老人在华求职,月薪要5w",
@@ -110,17 +123,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 07时32分]"
-        },
-        {
-          "title": "外交部回应日本“降级”日中关系",
-          "url": "https://www.toutiao.com/trending/7627027600157707827/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 20时51分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -215,6 +217,18 @@
           "time_info": "[16时18分 ~ 20时51分]"
         },
         {
+          "title": "中方回应“日本降级中日关系”",
+          "url": "https://www.douyin.com/hot/2461909",
+          "source": "抖音",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时03分 ~ 22时14分]"
+        },
+        {
           "title": "国防部：台湾是中国的台湾",
           "url": "https://www.toutiao.com/trending/7625575127464132646/",
           "source": "今日头条",
@@ -240,6 +254,45 @@
           "time_info": "[04时41分 ~ 04时42分]"
         },
         {
+          "title": "日本“降级”中日关系，中方表态",
+          "url": "https://www.cls.cn/detail/2340405",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时03分 ~ 22时14分]"
+        },
+        {
+          "title": "美国加州仓库纵火案疑似嫌犯视频曝光",
+          "url": "https://www.toutiao.com/trending/7626586402725904403/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "中方回应日本降级中日关系",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%99%8D%E7%BA%A7%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            12,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时03分 ~ 22时14分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗最好别向经过霍尔木兹海峡的油轮收取通行费；如果收，那就趁早停掉。",
           "url": "https://flash.jin10.com/detail/20260410050940840800",
           "source": "金十数据",
@@ -257,7 +310,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -301,9 +354,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月一年期通胀率预期初值升至4.8%，为2025年9月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260410220306166800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "韩国抗议日本《外交蓝皮书》有关独岛主张",
@@ -323,7 +387,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -356,21 +420,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
         {
-          "title": "中方回应“日本降级中日关系”",
-          "url": "https://www.douyin.com/hot/2461909",
-          "source": "抖音",
+          "title": "美国2月扣除国防的工厂订单月率 0.1%，前值0.4%。",
+          "url": "https://flash.jin10.com/detail/20260410220100636800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 20时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "俄副外长：俄罗斯不会抛弃古巴",
@@ -442,6 +505,18 @@
           "time_info": "[07时32分 ~ 16时18分]"
         },
         {
+          "title": "日本“新型军国主义”亮出吃人獠牙",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E6%96%B0%E5%9E%8B%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E2%80%9D%E4%BA%AE%E5%87%BA%E5%90%83%E4%BA%BA%E7%8D%A0%E7%89%99",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时14分]"
+        },
+        {
           "title": "钟声：必须警惕日本黩武冒险躁动",
           "url": "https://www.toutiao.com/trending/7626901761068466195/",
           "source": "今日头条",
@@ -475,26 +550,26 @@
           "time_info": "16时18分"
         },
         {
-          "title": "日本“新型军国主义”亮出吃人獠牙",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E6%96%B0%E5%9E%8B%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E2%80%9D%E4%BA%AE%E5%87%BA%E5%90%83%E4%BA%BA%E7%8D%A0%E7%89%99",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "美国CPI月率创2022年来新高 油价上涨贡献近3/4涨幅",
           "url": "https://flash.jin10.com/detail/20260410203638191800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者信心指数初值跌至纪录低点47.6，预期为51.5。",
+          "url": "https://flash.jin10.com/detail/20260410220037131800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡可通过相关指引实现安全通行。 美国应该叫停（以色列）在黎巴嫩、（中东）所有地区的战争。",
@@ -521,17 +596,17 @@
           "time_info": "[05时40分 ~ 07时32分]"
         },
         {
-          "title": "中方回应日本降级中日关系",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%99%8D%E7%BA%A7%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12,
-            8
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时14分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -644,6 +719,18 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时14分]"
+        },
+        {
           "title": "中方回应日本降级对中日关系描述",
           "url": "https://news.ifeng.com/c/8sD8qzLRMWx",
           "source": "凤凰网",
@@ -668,19 +755,6 @@
           "time_info": "[16时18分 ~ 19时41分]"
         },
         {
-          "title": "日本“降级”中日关系，中方表态",
-          "url": "https://www.cls.cn/detail/2340405",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 20时51分]"
-        },
-        {
           "title": "日本“新型军国主义”亮出吃人獠牙",
           "url": "https://www.toutiao.com/trending/7627041144630677001/",
           "source": "今日头条",
@@ -694,16 +768,15 @@
           "time_info": "[18时03分 ~ 20时51分]"
         },
         {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时41分 ~ 20时51分]"
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
@@ -728,6 +801,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时03分]"
+        },
+        {
+          "title": "外交部回应日本「降级」日中关系，表示日方应以实际行动维护中日关系政治基础，如何看待日本这一举动？",
+          "url": "https://www.zhihu.com/question/2025958255118103113",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚在卡塔尔与美国总统特朗普通了电话。",
@@ -838,15 +922,15 @@
           "time_info": "[19时41分 ~ 20时51分]"
         },
         {
-          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
-          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "title": "美国的宽带具体是如何收费？",
+          "url": "https://www.zhihu.com/question/28132291",
           "source": "知乎",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时41分 ~ 20时51分]"
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "美国拟从储备中提供3,000万桶原油进行置换",
@@ -859,6 +943,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗：美国不能放任以色列对黎杀戮",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E4%BB%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%B9%E9%BB%8E%E6%9D%80%E6%88%AE",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "梅赛德斯-奔驰美国公司报告2026年第一季度零售销量为78,500辆。",
@@ -885,15 +980,37 @@
           "time_info": "[01时58分 ~ 03时03分]"
         },
         {
+          "title": "美国2月耐用品订单月率终值 -1.3%，前值-1.4%。",
+          "url": "https://flash.jin10.com/detail/20260410220005531800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美国副总统万斯：期待与伊朗的谈判。 相信与伊朗的谈判将会是积极的。 如果伊朗想耍我们，我们绝不会接受。",
           "url": "https://wallstreetcn.com/livenews/3085898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国2月扣除飞机非国防资本耐用品订单环比终值 0.7%，初值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3085961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "外交部：美国所谓“特设委”打压遏制中国已到疯狂程度",
@@ -924,9 +1041,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国2月扣除运输的工厂订单月率 1.2%，预期0.4%，前值由0.40%修正为0.5%。",
+          "url": "https://flash.jin10.com/detail/20260410220005509800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国10年期国债收益率跌2.2个基点，报4.269%。 以色列称，将尽快启动与黎巴嫩的直接对话。",
@@ -957,9 +1085,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国2月耐用品订单环比终值 -1.3%，预期 -1.4%，初值 -1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3085960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国白宫警告其雇员，鉴于伊朗战争，不要在预测市场上进行相关下注。",
@@ -971,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "美国4月五至十年期通胀率预期初值 3.4%，预期3.5%，前值3.20%。",
+          "url": "https://flash.jin10.com/detail/20260410220003311800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗外交部发言人在一份声明中表示，开展旨在结束战争的谈判，取决于美国是否在包括黎巴嫩在内的所有战线上履行其停火承诺。",
@@ -993,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国2月扣除运输类耐用品订单环比终值 0.9%，初值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3085959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国参议院银行委员会不再计划于下周举行对美联储主席提名人凯文·沃什的确认听证会。",
@@ -1023,9 +1184,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月一年期通胀率预期初值 4.8%，预期4.3%，前值3.80%。",
+          "url": "https://flash.jin10.com/detail/20260410220003268800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在位于华盛顿的美国国务院启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
@@ -1078,9 +1250,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国2月扣除运输的工厂订单环比 1.2%，预期 0.4%，前值 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3085958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "日本财务大臣片山皋月：我一直表示，政府已准备好采取果断行动，但不会详述未来的应对措施。",
@@ -1094,6 +1277,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "美国2月工厂订单月率 0%，预期-0.2%，前值由0.10%修正为0%。",
+          "url": "https://flash.jin10.com/detail/20260410220002492800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "克里姆林宫发言人佩斯科夫证实了普京特使德米特里耶夫访问美国的消息，表示这并非是恢复乌克兰问题谈判。（国际文传电讯社）",
           "url": "https://wallstreetcn.com/livenews/3085836",
           "source": "华尔街见闻-快讯",
@@ -1103,6 +1297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "美国2月工厂订单环比 0%，预期 -0.2%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3085957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "黎巴嫩真主党：为了捍卫黎巴嫩及其人民，回应敌方对停火协议的违反以及对南部村庄的反复攻击，伊斯兰抵抗组织的圣战者对什洛米和纳哈里亚的定居点发动了一波袭击。这一回应将持续，直到以色列-美国对我们国家和人民的侵略停止。",
@@ -1122,9 +1327,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学预期指数初值 46.1，预期49.7，前值51.7。",
+          "url": "https://flash.jin10.com/detail/20260410220002447800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国3月核心CPI同比 2.6%，预期 2.7%，前值 2.5%。",
@@ -1133,9 +1349,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学1年通胀预期初值 4.8，预期 4.2，前值 3.8。",
+          "url": "https://wallstreetcn.com/livenews/3085956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国3月未季调住房通胀年率 3%，前值3%。",
@@ -1144,9 +1371,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学现况指数初值 50.1，预期53.4，前值55.8。",
+          "url": "https://flash.jin10.com/detail/20260410220002421800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "黎巴嫩高级官员：黎方提议临时停火，从而为与以色列对话创造条件。 任何谈判都将是“独立路径，但采用相同模式”，即效仿由巴基斯坦斡旋的美伊停火模式。 目前尚未设定停火谈判的具体日期或地点。 黎巴嫩需要美国作为与以色列达成任何协议的担保人。（路透）",
@@ -1166,9 +1404,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者预期指数初值 46.1，预期 50.2，前值 51.7。",
+          "url": "https://wallstreetcn.com/livenews/3085955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "据黎巴嫩广场电视台：黎巴嫩尚未从美国方面收到有关与以色列展开谈判的开始日期的最新消息，此次谈判预计将于下周启动，目前黎巴嫩正等待美方对此事的回应。",
@@ -1199,9 +1448,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者信心指数初值 47.6，预期52，前值53.3。",
+          "url": "https://flash.jin10.com/detail/20260410220002327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国光通信龙头Lumentum预计将在两个季度内售罄2028年的全部产能。（彭博）",
@@ -1221,9 +1481,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学5年通胀预期初值 3.4，预期 3.4，前值 3.2。",
+          "url": "https://wallstreetcn.com/livenews/3085954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗外长阿拉格齐：美国应该停止在黎巴嫩及所有地区的战争。",
@@ -1265,7 +1536,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1309,9 +1580,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者信心指数初值 47.6，预期 51.5，前值 53.3。",
+          "url": "https://wallstreetcn.com/livenews/3085953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "日本财务大臣片山皋月：对外汇水平不予置评。",
@@ -1342,7 +1624,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1369,6 +1651,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美国4月密歇根大学消费者现况指数初值 50.1，预期 53.4，前值 55.8。",
+          "url": "https://wallstreetcn.com/livenews/3085952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美国总统特朗普：我和内政部长伯古姆很荣幸能够修复华盛顿纪念碑和林肯纪念堂之间曾经美丽的倒影池。我们之前被告知这项工程需要数年时间，但现在只需很短的时间，花费也少得多——而且修复后的倒影池将比建成之时更加美丽。",
           "url": "https://flash.jin10.com/detail/20260410054701126800",
           "source": "金十数据",
@@ -1386,9 +1679,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "乌克兰军方称，其打击了里海上的俄罗斯钻井平台。",
+          "url": "https://flash.jin10.com/detail/20260410215542628800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国农业部（USDA）：预计美国期末棉花库存440万捆，分析师预期436万捆，USDA之前预计440万捆。",
@@ -1523,6 +1827,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "美国谈判代表将要求伊朗释放被拘留的美国公民。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3085949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "市场消息：白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
           "url": "https://flash.jin10.com/detail/20260410021546502800",
           "source": "金十数据",
@@ -1606,7 +1921,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1639,9 +1954,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "据华盛顿邮报：美国谈判代表将要求伊朗释放被扣押的美国公民。",
+          "url": "https://flash.jin10.com/detail/20260410215310488800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "北约秘书长：欧洲正在逐步摆脱对美国的不健康依赖",
@@ -1727,7 +2053,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1798,13 +2124,24 @@
           "time_info": "07时32分"
         },
         {
+          "title": "据国际文传电讯社：俄罗斯将斯坦福大学认定为不受欢迎的“组织”。",
+          "url": "https://flash.jin10.com/detail/20260410215056958800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "提醒：北京时间20:30，将公布美国3月CPI，加拿大3月就业报告（含就业人数、失业率等）。",
           "url": "https://wallstreetcn.com/livenews/3085879",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1826,7 +2163,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1870,9 +2207,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国2月工厂订单月率、4月密歇根大学消费者信心指数初值、一年期通胀率预期初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260410215000001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国陆军授予洛克希德马丁公司价值47.6亿美元的固定价格合同，用于生产“爱国者”PAC-3导弹段增强型导弹。",
@@ -1980,7 +2328,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -2024,7 +2372,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -2120,7 +2468,7 @@
     },
     {
       "keyword_group": "石油 大豆 猪肉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "霍尔木兹海峡开放后，石油价格还能降回去吗？",
@@ -2137,6 +2485,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 07时32分]"
+        },
+        {
+          "title": "猪肉价格下降背后藏着什么经济信号",
+          "url": "https://www.toutiao.com/trending/7627081362708631094/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         }
       ]
     }
