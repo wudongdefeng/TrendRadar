@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T09:47:59.699664+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-04-10T12:41:57.241910+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 106,
+      "match_count": 118,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -37,11 +37,49 @@
           "ranks": [
             2,
             1,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 09时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时41分]"
+        },
+        {
+          "title": "美国年轻人为何被锁死一生",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%94%81%E6%AD%BB%E4%B8%80%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时41分]"
+        },
+        {
+          "title": "日籍男留华安居,笑谈日本烂透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时41分]"
+        },
+        {
+          "title": "日本老人在华求职,月薪要5w",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352960&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%8D%8E%E6%B1%82%E8%81%8C%2C%E6%9C%88%E8%96%AA%E8%A6%815w",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时41分]"
         },
         {
           "title": "以色列总理对美国提要求",
@@ -64,41 +102,6 @@
             12,
             11,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 09时47分]"
-        },
-        {
-          "title": "美国年轻人为何被锁死一生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%94%81%E6%AD%BB%E4%B8%80%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 09时47分]"
-        },
-        {
-          "title": "日籍男留华安居,笑谈日本烂透",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 09时47分]"
-        },
-        {
-          "title": "日本老人在华求职,月薪要5w",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352960&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%8D%8E%E6%B1%82%E8%81%8C%2C%E6%9C%88%E8%96%AA%E8%A6%815w",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -201,6 +204,17 @@
           "time_info": "[00时59分 ~ 07时32分]"
         },
         {
+          "title": "美国员工不满薪资纵火烧仓库",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353028&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E4%B8%8D%E6%BB%A1%E8%96%AA%E8%B5%84%E7%BA%B5%E7%81%AB%E7%83%A7%E4%BB%93%E5%BA%93",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫表示，在特别军事行动中，获得了乌克兰境内生物实验室生产生物武器部件的证据。这些风险是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260410003928845800",
           "source": "金十数据",
@@ -262,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -273,9 +287,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国真有可能退出北约吗",
+          "url": "https://www.toutiao.com/trending/7626347671159980082/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡可通过相关指引实现安全通行。 美国应该叫停（以色列）在黎巴嫩、（中东）所有地区的战争。",
@@ -387,6 +412,18 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
+          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
+          "url": "https://wallstreetcn.com/articles/3769554",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 12时41分]"
+        },
+        {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
           "url": "https://flash.jin10.com/detail/20260410042652765800",
           "source": "金十数据",
@@ -421,17 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
-        },
-        {
-          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
-          "url": "https://wallstreetcn.com/articles/3769554",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 09时47分]"
         },
         {
           "title": "美国总统特朗普表示，他对梅拉尼娅的声明“一无所知”。",
@@ -530,6 +556,17 @@
           "time_info": "[01时58分 ~ 03时03分]"
         },
         {
+          "title": "俄副外长：俄罗斯不会抛弃古巴",
+          "url": "https://news.ifeng.com/c/8sCjOnKxoSg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：内塔尼亚胡的刑事审判将于本周日继续进行。若能达成全地区范围的停火协议（包括在黎巴嫩），则将加速其入狱的命运。如果美国真想通过让内塔尼亚胡破坏外交手段来破坏本国经济，那这将是美国自己的选择。我们认为这样做很愚蠢，但我们对此已做好了准备。",
           "url": "https://flash.jin10.com/detail/20260410003540769800",
           "source": "金十数据",
@@ -585,6 +622,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "用人民币感受日本物价",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%84%9F%E5%8F%97%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国参议院银行委员会不再计划于下周举行对美联储主席提名人凯文·沃什的确认听证会。",
           "url": "https://flash.jin10.com/detail/20260410055203202800",
           "source": "金十数据",
@@ -602,7 +650,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -629,13 +677,35 @@
           "time_info": "03时03分"
         },
         {
+          "title": "美伊停火谈判期间，美国启动以色列F-35重大升级计划",
+          "url": "https://wallstreetcn.com/livenews/3085571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "68艘空油轮正驶入！美国4月原油出口或创纪录，中东战事引发抢油潮",
+          "url": "https://wallstreetcn.com/articles/3769563",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "日本财务大臣片山皋月：我一直表示，政府已准备好采取果断行动，但不会详述未来的应对措施。",
           "url": "https://flash.jin10.com/detail/20260410093551913800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -671,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美国光通信龙头Lumentum预计将在两个季度内售罄2028年的全部产能。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3085566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗外长阿拉格齐：美国应该停止在黎巴嫩及所有地区的战争。",
@@ -723,9 +804,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "据英国金融时报：加拿大正寻求加入由英国、意大利和日本联合开展的“全球作战航空计划”。",
+          "url": "https://flash.jin10.com/detail/20260410120401330800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国股指刷新日高，标普500指数涨0.5%，道指涨0.5%，纳指涨0.6%。",
@@ -789,7 +881,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -822,9 +914,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国称其外交官8日在伊拉克遭“伏击”",
+          "url": "https://flash.jin10.com/detail/20260410120113271800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国农业部（USDA）：预计美国期末小麦总库存9.38亿蒲式耳，分析师预期9.2314亿蒲式耳，USDA之前预计9.31亿蒲式耳。",
@@ -847,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国称其外交官8日在伊拉克遭“伏击”",
+          "url": "https://wallstreetcn.com/livenews/3085560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "市场消息：白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
@@ -877,9 +991,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国第一夫人声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%A3%B0%E6%98%8E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国国债收益率在以色列表示将尽快启动与黎巴嫩的直接谈判后下跌；10年期美国国债收益率最新下跌2.2个基点，报4.269%。",
@@ -899,7 +1024,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -943,7 +1068,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -992,6 +1117,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "日本5年期国债收益率上行2.5个基点至1.850%。",
+          "url": "https://wallstreetcn.com/livenews/3085554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
           "url": "https://flash.jin10.com/detail/20260410052922603800",
           "source": "金十数据",
@@ -1009,7 +1145,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -1053,7 +1189,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -1097,7 +1233,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
