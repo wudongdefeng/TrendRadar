@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T13:55:57.776507+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-04-11T14:53:05.758145+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 95,
+      "match_count": 104,
       "titles": [
         {
           "title": "外交部回应日本“降级”日中关系",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时55分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时53分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时55分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时53分]"
         },
         {
           "title": "美国3月CPI同比上涨3.3%低于预期，环比0.9%为近四年最大涨幅，汽油创1967年以来最大涨幅",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时55分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时53分]"
         },
         {
           "title": "中方回应“日本降级中日关系”",
@@ -106,8 +106,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时55分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时53分]"
         },
         {
           "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
@@ -149,6 +149,18 @@
           "time_info": "[01时01分 ~ 09时26分]"
         },
         {
+          "title": "美国载人绕月飞船阿耳忒弥斯二号成功溅落在预定海域，有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2025971324976195413",
+          "source": "知乎",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 14时53分]"
+        },
+        {
           "title": "伊朗代表团：我们心怀善意，但不信任美国",
           "url": "https://news.ifeng.com/c/8sEAdJSdN7p",
           "source": "凤凰网",
@@ -186,26 +198,50 @@
           "time_info": "[05时31分 ~ 09时26分]"
         },
         {
-          "title": "两名巴基斯坦消息人士：搭载美国代表团赴伊谈判的美国飞机已在巴基斯坦伊斯兰堡着陆。",
-          "url": "https://flash.jin10.com/detail/20260411134412610800",
-          "source": "金十数据",
+          "title": "郑丽文访清华附中：想带机器人回台湾",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
           "ranks": [
-            1
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时53分]"
         },
         {
-          "title": "美国总统特使抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086168",
+          "title": "女子从日本背回244本淫秽漫画获刑",
+          "url": "https://www.toutiao.com/trending/7627328202872586286/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "日本漠视民众,控产死保粮价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时53分]"
+        },
+        {
+          "title": "美国前副总统哈里斯“考虑”参加2028年总统选举",
+          "url": "https://wallstreetcn.com/livenews/3086175",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "14时53分"
         },
         {
           "title": "约旦副首相与美国务卿通电话 讨论中东局势等议题",
@@ -219,6 +255,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "哈里斯称“考虑”参与2028年美国总统竞选",
+          "url": "https://flash.jin10.com/detail/20260411143322867800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。",
           "url": "https://wallstreetcn.com/livenews/3086067",
           "source": "华尔街见闻-快讯",
@@ -228,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3086174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "据《以色列今日报》：可能最早在明天就会有美国方面的声明，内容涉及以色列与黎巴嫩之间的会谈开启事宜，以及基于去年11月24日的协议的停火。",
@@ -241,18 +299,6 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美国载人绕月飞船阿耳忒弥斯二号成功溅落在预定海域，有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2025971324976195413",
-          "source": "知乎",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时55分]"
-        },
-        {
           "title": "黎巴嫩总统府：美国将斡旋黎巴嫩与以色列之间的争端。",
           "url": "https://flash.jin10.com/detail/20260411040844479800",
           "source": "金十数据",
@@ -264,6 +310,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时27分 ~ 09时26分]"
+        },
+        {
+          "title": "俄罗斯需发展自主大语言模型以保障国家发展进程",
+          "url": "https://flash.jin10.com/detail/20260411142317740800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "万斯率美国谈判代表团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "【伊朗警告：将有力回应对黎巴嫩的持续袭击】伊朗武装部队哈塔姆安比亚中央总部10日发表声明说，如果敌方持续对黎巴嫩发动袭击，伊朗将予以有力回应。声明说，伊朗将继续掌握对霍尔木兹海峡的控制权，如果敌方持续对黎巴嫩真主党及黎巴嫩人民发动袭击，伊朗将予以有力回应。声明指出，鉴于美国和以色列方面屡次违背承诺，伊朗武装力量始终将“指头放在扳机上”。（新华社）",
@@ -306,6 +374,18 @@
           "time_info": "[06时29分 ~ 12时14分]"
         },
         {
+          "title": "美国总统特使抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时53分]"
+        },
+        {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
           "url": "https://www.toutiao.com/trending/7626765575343669290/",
           "source": "今日头条",
@@ -342,16 +422,16 @@
           "time_info": "[12时14分 ~ 13时55分]"
         },
         {
-          "title": "郑丽文访清华附中：想带机器人回台湾",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
+          "title": "两名巴基斯坦消息人士：搭载美国代表团赴伊谈判的美国飞机已在巴基斯坦伊斯兰堡着陆。",
+          "url": "https://flash.jin10.com/detail/20260411134412610800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            9
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
+          "time_info": "[13时55分 ~ 14时53分]"
         },
         {
           "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
@@ -364,18 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时42分]"
-        },
-        {
-          "title": "日本漠视民众,控产死保粮价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
@@ -605,6 +673,18 @@
           "time_info": "[06时29分 ~ 09时26分]"
         },
         {
+          "title": "日本降级对华关系，外交部：中日当前局面根源是高市早苗涉台谬论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941547",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时53分]"
+        },
+        {
           "title": "古巴喊话美国",
           "url": "https://www.douyin.com/hot/2461658",
           "source": "抖音",
@@ -639,6 +719,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时31分]"
+        },
+        {
+          "title": "哈里斯称正考虑参加2028年美国大选",
+          "url": "https://www.toutiao.com/trending/7626449097516171327/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时52分]"
         },
         {
           "title": "美国游客在墨西哥坐完比亚迪懵了",
@@ -677,6 +769,30 @@
           "time_info": "[01时01分 ~ 01时42分]"
         },
         {
+          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
+          "url": "https://flash.jin10.com/detail/20260411122629984800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时53分]"
+        },
+        {
+          "title": "美国大客户订单今年能否完成交付？康斯特回应",
+          "url": "https://flash.jin10.com/detail/20260411121809909800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时53分]"
+        },
+        {
           "title": "华尔街打造新款工具，来对赌私人信用。 银行业正与标普全球合作，将推出信用违约掉期（CDS）指数。 CDS指数将有助于保护买家不至于受到违约的冲击。 美国银行、高盛等下周将销售相关衍生品。 阿波罗、Ares、黑石集团多只基金将在指数至多12%。 Saba Capital等投资者推广相关新产品。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3086032",
           "source": "华尔街见闻-快讯",
@@ -701,6 +817,18 @@
           "time_info": "[07时29分 ~ 09时26分]"
         },
         {
+          "title": "美国绕月飞船返回 载人登月有戏吗",
+          "url": "https://www.toutiao.com/trending/7627349427287494163/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时53分]"
+        },
+        {
           "title": "贝克休斯油服：美国钻井公司四周内第三次削减油气钻井平台。",
           "url": "https://flash.jin10.com/detail/20260411010432317800",
           "source": "金十数据",
@@ -721,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "哈里斯称正考虑参加2028年美国大选",
-          "url": "https://www.toutiao.com/trending/7626449097516171327/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "美国至4月10日当周石油钻井总数 411口，前值411口。",
@@ -756,6 +873,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
+          "url": "https://flash.jin10.com/detail/20260411141004111800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国至4月10日当周天然气钻井总数 127口，前值130口。",
           "url": "https://flash.jin10.com/detail/20260411010133017800",
           "source": "金十数据",
@@ -765,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "欧洲对石油冲击的敏感度约为美国的两倍",
+          "url": "https://flash.jin10.com/detail/20260411135821564800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "周五（4月10日）纽约尾盘，美国10年期基准国债收益率涨3.97个基点，报4.3150%，北京时间20:30发布美国CPI通胀数据时曾短暂地跌至4.2636刷新日低，本周累计下跌2.36个基点，整体交投于4.3784%-4.2281%区间。 两年期美债收益率涨3.48个基点，报3.8015%，美国CPI数据出炉时跌至3.7453%，本周累跌4.01个基点，整体交投于3.8746%-3.7090%区间。",
@@ -833,6 +972,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "美国总统特使抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411134525927800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗代表团今天抵达伊斯兰堡，将参与同美国的磋商。",
           "url": "https://wallstreetcn.com/livenews/3086094",
           "source": "华尔街见闻-快讯",
@@ -864,17 +1014,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
-          "url": "https://flash.jin10.com/detail/20260411122629984800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "俄罗斯联邦统计局：俄罗斯3月份CPI同比上涨5.86%，环比上涨0.60%。",
@@ -919,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "美国大客户订单今年能否完成交付？康斯特回应",
-          "url": "https://flash.jin10.com/detail/20260411121809909800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
@@ -987,17 +1115,6 @@
           "time_info": "03时39分"
         },
         {
-          "title": "日本降级对华关系，外交部：中日当前局面根源是高市早苗涉台谬论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941547",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "伊朗教育部公共关系处：美国和以色列对伊朗发动战争以来，已造成344名学生和教师死亡。",
           "url": "https://flash.jin10.com/detail/20260411093818366800",
           "source": "金十数据",
@@ -1053,17 +1170,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美国绕月飞船返回 载人登月有戏吗",
-          "url": "https://www.toutiao.com/trending/7627349427287494163/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "美国前军事官员：美军有能力打开海峡，但政治风险很大",
           "url": "https://flash.jin10.com/detail/20260410233305750800",
           "source": "金十数据",
@@ -1092,7 +1198,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
