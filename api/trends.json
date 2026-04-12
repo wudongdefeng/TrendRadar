@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T00:30:16.456900+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-13T01:28:59.815859+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "美国副总统万斯：美伊谈判未达成共识，将返回美国",
@@ -48,19 +48,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "埃尼集团Eni：应当废除（美西方）针对俄罗斯液化天然气（LNG）的（出口）禁令。（意大利安莎通讯社ANSA）",
+          "url": "https://wallstreetcn.com/livenews/3086473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "美国高级官员表示，伊朗拒绝了停止铀浓缩及拆除主要浓缩设施的要求。",
           "url": "https://flash.jin10.com/detail/20260413000652303800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "san值狂掉,日本活虫笔走红",
@@ -70,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "伊朗官员：美国人比我们更需要谈判达成的协议",
@@ -81,19 +93,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
           "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "美国加州州长热门人选涉嫌性侵遭调查",
@@ -103,8 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "郑丽文一行圆满结束大陆参访，离京返台",
@@ -114,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "超强台风或影响美国",
@@ -125,107 +138,185 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "日本漠视民众,控产死保粮价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "伊朗接连回怼美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%BF%9E%E5%9B%9E%E6%80%BC%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
           "url": "https://flash.jin10.com/detail/20260412234154471800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "据伊朗新闻电视台12日报道，伊朗第一副总统阿雷夫表示，伊朗将在管控霍尔木兹海峡和追究美国、以色列赔偿问题上坚定捍卫国家权利。",
           "url": "https://flash.jin10.com/detail/20260412233104959800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "伊朗总统办公室声明：总统与俄罗斯总统普京通电话。 （伊朗）全面准备好（与美国）达成“平衡且公平的”协议。",
           "url": "https://wallstreetcn.com/livenews/3086454",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "古巴国家主席：有可能与美国对话并达成协议但很困难",
           "url": "https://wallstreetcn.com/livenews/3086453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
           "url": "https://wallstreetcn.com/livenews/3086448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
           "url": "https://flash.jin10.com/detail/20260412231823385800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
         },
         {
           "title": "美国总统特朗普：最高法院在关税问题上对我“并不友好”。",
           "url": "https://wallstreetcn.com/livenews/3086447",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队警告称：（美国）在霍尔木兹海峡的任何“错误举动”都将遭到报复。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3086446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。 我预计伊朗将回来，满足“我们想要的”。 （谈及未来可能进行的会谈）我想要一切。 一个小时之内，我就能摧毁伊朗的全部能源。 （谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。",
+          "url": "https://wallstreetcn.com/livenews/3086444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡。 这将耗费一段时间，但将是行之有效的手段。 伊朗不会掌握核武器，他们没有底牌。 对海峡的封锁级别将比对委内瑞拉“更高”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3086441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时28分]"
+        },
+        {
+          "title": "美国官员：伊朗拒绝停止铀浓缩及开放海峡等多项要求",
+          "url": "https://wallstreetcn.com/livenews/3086468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "五角大楼：俄在高科技无人机生产方面已超越美国",
+          "url": "https://flash.jin10.com/detail/20260413005612576800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美国高级官员表示，伊朗还拒绝了停止资助哈马斯、真主党、胡塞武装，以及全面开放霍尔木兹海峡的呼吁。",
+          "url": "https://flash.jin10.com/detail/20260413000737035800",
+          "source": "金十数据",
+          "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "01时28分"
         },
         {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话时表示，德黑兰准备与邻国合作，实现无外部干涉的和平。",
@@ -234,18 +325,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队警告称：（美国）在霍尔木兹海峡的任何“错误举动”都将遭到报复。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3086446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -256,7 +336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -267,18 +347,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。 我预计伊朗将回来，满足“我们想要的”。 （谈及未来可能进行的会谈）我想要一切。 一个小时之内，我就能摧毁伊朗的全部能源。 （谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。",
-          "url": "https://wallstreetcn.com/livenews/3086444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -289,18 +358,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡。 这将耗费一段时间，但将是行之有效的手段。 伊朗不会掌握核武器，他们没有底牌。 对海峡的封锁级别将比对委内瑞拉“更高”。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3086441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -311,7 +369,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -322,9 +380,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "伊朗称美国找借口退出谈判",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%80%9F%E5%8F%A3%E9%80%80%E5%87%BA%E8%B0%88%E5%88%A4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
@@ -333,7 +402,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -344,9 +413,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "温瑞博4比2战胜日本选手 夺男单冠军",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E7%91%9E%E5%8D%9A4%E6%AF%942%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B+%E5%A4%BA%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "美国总统特朗普：石油和天然气的价格在中期选举前可能会更低，也可能稍微高一点。",
@@ -355,7 +435,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -366,7 +446,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
