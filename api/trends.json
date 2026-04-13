@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T12:53:59.079834+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-04-13T15:11:35.727199+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 87,
+      "match_count": 106,
       "titles": [
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
@@ -48,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 12时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时11分]"
         },
         {
           "title": "郑丽文一行圆满结束大陆参访，离京返台",
@@ -98,11 +99,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 12时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时11分]"
         },
         {
           "title": "超强台风或影响美国",
@@ -179,7 +181,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -210,15 +212,37 @@
           "time_info": "01时28分"
         },
         {
+          "title": "伊朗：如果自身港口受到威胁，波斯湾港口将没有安全保障。 敌对船只将不得通过霍尔木兹海峡。 美国对船只航行限制是非法的抢劫行为。",
+          "url": "https://wallstreetcn.com/livenews/3086739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "美国民主党参议员马克·凯利发帖谴责特朗普公开攻击罗马教皇，称特朗普的做法“令人憎恶”。",
           "url": "https://flash.jin10.com/detail/20260413122455806800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "从笃定到摇摆，日本央行4月加息概率骤降、悬念拉满！",
+          "url": "https://flash.jin10.com/detail/20260413144522670800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
@@ -233,6 +257,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 05时26分]"
+        },
+        {
+          "title": "媒体：民进党拒绝大陆善意自断后路",
+          "url": "https://www.toutiao.com/trending/7627882608231858219/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "伊朗最高领袖的军事顾问：伊朗不会容忍美国封锁霍尔木兹海峡。",
@@ -367,6 +402,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时11分]"
         },
         {
           "title": "据伊朗媒体消息，今日有两艘美国船只尝试穿越霍尔木兹海峡。",
@@ -514,6 +561,29 @@
           "time_info": "[00时30分 ~ 01时28分]"
         },
         {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时11分]"
+        },
+        {
+          "title": "美国弗吉尼亚州海滨地区发生枪击事件，至少8人中枪",
+          "url": "https://news.ifeng.com/c/8sHnZTV8Zko",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时11分]"
+        },
+        {
           "title": "俄罗斯特使德米特里耶夫：匈牙利的选举结果只会加速欧盟的崩溃。四个月后看看我是否正确。",
           "url": "https://flash.jin10.com/detail/20260413053705618800",
           "source": "金十数据",
@@ -572,6 +642,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 12时53分]"
+        },
+        {
+          "title": "当大男子主义色彩的美国防长成为战争推手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时11分]"
         },
         {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
@@ -634,6 +716,18 @@
           "time_info": "[00时30分 ~ 01时28分]"
         },
         {
+          "title": "郑丽文返抵台湾在机场发表讲话",
+          "url": "https://www.douyin.com/hot/2464182",
+          "source": "抖音",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时11分]"
+        },
+        {
           "title": "7月4日起宁波恢复直飞台湾高雄航线",
           "url": "https://www.baidu.com/s?wd=7%E6%9C%884%E6%97%A5%E8%B5%B7%E5%AE%81%E6%B3%A2%E6%81%A2%E5%A4%8D%E7%9B%B4%E9%A3%9E%E5%8F%B0%E6%B9%BE%E9%AB%98%E9%9B%84%E8%88%AA%E7%BA%BF",
           "source": "百度热搜",
@@ -645,15 +739,15 @@
           "time_info": "[04时26分 ~ 04时27分]"
         },
         {
-          "title": "美国弗吉尼亚州海滨地区发生枪击事件，至少8人中枪",
-          "url": "https://news.ifeng.com/c/8sHnZTV8Zko",
-          "source": "凤凰网",
+          "title": "软银成立新公司开发日本国产AI",
+          "url": "https://flash.jin10.com/detail/20260413144447936800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时11分"
         },
         {
           "title": "美国总统特朗普：我们的石油储量比俄罗斯和沙特加起来还多。",
@@ -667,15 +761,26 @@
           "time_info": "09时54分"
         },
         {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
+          "title": "马斯克转发美国将封锁进出伊朗港口的船只的消息。",
+          "url": "https://flash.jin10.com/detail/20260413144025550800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时11分"
         },
         {
           "title": "伊朗官员删除“美国三个过分要求”帖文",
@@ -684,7 +789,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -698,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，黄金重挫，铝价四年新高，美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "揭秘美国重返月球难点",
@@ -728,7 +844,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -739,20 +855,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
         {
-          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
-          "url": "https://www.cls.cn/detail/2341979",
+          "title": "日本央行行长植田和男：应注意物价上涨机制可能较以往有所加强。",
+          "url": "https://flash.jin10.com/detail/20260413143357711800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "4月13日投资避雷针：美国4月13日起封锁伊朗港口海上交通 国际油价一度涨超9%",
+          "url": "https://www.cls.cn/detail/2341760",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时11分"
         },
         {
           "title": "伊朗外交部长：在47年来最高级别的密集谈判中，伊朗以诚意与美国展开对话，旨在结束战争。",
@@ -777,6 +904,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "马斯克旗下 XChat 在大陆 AppStore 开启预约，用区块链技术了吗？是否会对微信造成冲击？",
+          "url": "https://www.zhihu.com/question/2026962469038420752",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话时表示，德黑兰准备与邻国合作，实现无外部干涉的和平。",
           "url": "https://flash.jin10.com/detail/20260412231554242800",
           "source": "金十数据",
@@ -794,18 +932,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "当大男子主义色彩的美国防长成为战争推手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -871,18 +998,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "郑丽文返抵台湾在机场发表讲话",
-          "url": "https://www.douyin.com/hot/2464182",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -893,9 +1009,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "日经225指数收跌0.7%，报56,502.77点。 日本东证指数收跌0.5%，报3,723.01点。 韩国首尔综指收跌0.9%，报5,808.46点。",
+          "url": "https://wallstreetcn.com/livenews/3086712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "卢秀燕喊话民进党以台湾苍生为念",
+          "url": "https://www.toutiao.com/trending/7627666228551204891/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "东盟各国外长：重申维护海上安全与安保的重要性，并坚持在霍尔木兹海峡及其上空的航行自由和飞越自由。敦促美国和伊朗继续谈判，以实现冲突的永久性结束。",
+          "url": "https://flash.jin10.com/detail/20260413142252390800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "波兰总理图斯克：韩国是波兰在美国之后最重要的盟友，尤其是在国防领域。",
@@ -904,7 +1053,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -929,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "日本央行行长植田和男呼吁警惕中东紧张局势的影响",
+          "url": "https://flash.jin10.com/detail/20260413142246687800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "中国台湾证交所加权股价指数开盘变动不大。 台湾观光餐饮类指数升逾3%。",
@@ -975,6 +1135,28 @@
           "time_info": "09时54分"
         },
         {
+          "title": "日本央行行长植田和男：鉴于围绕中东冲突的不确定性，我们将在引导货币政策时，密切审视其对经济、物价、实现基准预测可能性的影响，以及相关风险。",
+          "url": "https://flash.jin10.com/detail/20260413142211571800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "日本央行行长植田和男：将密切关注中东局势对经济及物价的影响。 中东局势仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3086706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
           "url": "https://flash.jin10.com/detail/20260412223442403800",
           "source": "金十数据",
@@ -997,15 +1179,37 @@
           "time_info": "00时30分"
         },
         {
+          "title": "东盟各国外长：对美国与伊朗之间的为期两周的停火表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260413142129804800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数跌1%，日本东证指数跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3086618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济正在温和复苏。 需要关注中东局势的影响。 通胀存在双向风险。 将评估前景实现的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3086704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美国被伊朗看穿了",
@@ -1014,7 +1218,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -1047,9 +1251,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "英国海事分析公司：全球原油运输正明显转向美国墨西哥湾沿岸",
+          "url": "https://wallstreetcn.com/livenews/3086700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         }
       ]
     },
@@ -1064,7 +1279,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
