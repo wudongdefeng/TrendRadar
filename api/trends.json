@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T04:45:52.014497+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-15T05:44:10.853269+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 60,
+      "match_count": 78,
       "titles": [
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
         },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 04时45分]"
+        },
+        {
+          "title": "日本警方再次逮捕强闯中国使馆自卫官",
+          "url": "https://www.toutiao.com/trending/7628432827289239588/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20,
+            27,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
         },
         {
           "title": "王毅同俄罗斯外长拉夫罗夫会谈",
@@ -45,6 +60,17 @@
           "time_info": "[00时57分 ~ 04时45分]"
         },
         {
+          "title": "委内瑞拉代总统罗德里格斯：美国颁发的许可并不能提供长期的法律保障，对委内瑞拉的制裁应当予以解除。将倾听石油公司关于能源行业的建议和意见。",
+          "url": "https://flash.jin10.com/detail/20260415051720953800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
           "url": "https://wallstreetcn.com/livenews/3087881",
           "source": "华尔街见闻-快讯",
@@ -54,6 +80,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "芝商所CME：批准Kodiak仓库在美国伊利诺伊州进行铜仓储业务",
+          "url": "https://wallstreetcn.com/livenews/3087991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
+          "url": "https://www.cls.cn/detail/2343935",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
+        },
+        {
+          "title": "日本饿熊袭人,开启猎杀新赛季",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
+        },
+        {
+          "title": "美国正在“阻击”中国车",
+          "url": "https://www.douyin.com/hot/2464769",
+          "source": "抖音",
+          "ranks": [
+            10,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
+        },
+        {
+          "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
+          "url": "https://news.ifeng.com/c/8sK3X86nqGp",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
+        },
+        {
+          "title": "你问我答!台湾吧友聊岛内生活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353146&amp;topic_name=%E4%BD%A0%E9%97%AE%E6%88%91%E7%AD%94%21%E5%8F%B0%E6%B9%BE%E5%90%A7%E5%8F%8B%E8%81%8A%E5%B2%9B%E5%86%85%E7%94%9F%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
         },
         {
           "title": "委内瑞拉央行获得美国的制裁宽限。",
@@ -67,17 +161,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3087962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
           "title": "市场消息：有报道称，以色列正与美国及欧洲国家保持接触，以确保胡塞武装不会策划干扰海上航运。",
           "url": "https://flash.jin10.com/detail/20260415014716454800",
           "source": "金十数据",
@@ -89,6 +172,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "据网络状况监测网站DownDetector：用户报告显示，美国境内X出现故障。",
+          "url": "https://flash.jin10.com/detail/20260415051545620800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲起草的战后计划不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3087934",
           "source": "华尔街见闻-快讯",
@@ -98,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
+          "url": "https://wallstreetcn.com/livenews/3087988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "美国汽油、柴油价格创同期历史新高",
@@ -133,29 +238,16 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
-          "url": "https://wallstreetcn.com/livenews/3087958",
-          "source": "华尔街见闻-快讯",
+          "title": "外交部回应韩国标注中国台湾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "日本警方再次逮捕强闯中国使馆自卫官",
-          "url": "https://www.toutiao.com/trending/7628432827289239588/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20,
-            27,
-            5
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "市场消息：两名美国官员表示，美国将允许针对海上伊朗石油的临时制裁豁免于本周到期失效。",
@@ -206,6 +298,18 @@
           "time_info": "[03时21分 ~ 04时45分]"
         },
         {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3087962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时44分]"
+        },
+        {
           "title": "美国汽油、柴油价格创同期历史新高",
           "url": "https://wallstreetcn.com/livenews/3087911",
           "source": "华尔街见闻-快讯",
@@ -218,72 +322,28 @@
           "time_info": "[02时01分 ~ 03时21分]"
         },
         {
-          "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
-          "url": "https://www.cls.cn/detail/2343935",
-          "source": "财联社热门",
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
+          "url": "https://wallstreetcn.com/livenews/3087958",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时44分]"
         },
         {
-          "title": "日本饿熊袭人,开启猎杀新赛季",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
-          "source": "贴吧",
+          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
-        },
-        {
-          "title": "美国正在“阻击”中国车",
-          "url": "https://www.douyin.com/hot/2464769",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
-        },
-        {
-          "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
-          "url": "https://news.ifeng.com/c/8sK3X86nqGp",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
-        },
-        {
-          "title": "你问我答!台湾吧友聊岛内生活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353146&amp;topic_name=%E4%BD%A0%E9%97%AE%E6%88%91%E7%AD%94%21%E5%8F%B0%E6%B9%BE%E5%90%A7%E5%8F%8B%E8%81%8A%E5%B2%9B%E5%86%85%E7%94%9F%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
-        },
-        {
-          "title": "外交部回应韩国标注中国台湾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            26
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时01分 ~ 04时45分]"
+          "time_info": "[04时45分 ~ 05时44分]"
         },
         {
           "title": "美国国务院在华盛顿举行的美、以、黎三方会议后发表声明：讨论了启动以色列与黎巴嫩之间直接谈判的步骤。 美方对进一步的会谈表示支持。 美方表达了希望会谈范围能够超越2024年协议规模的愿望。 美方表示希望谈判能最终促成和平协议。",
@@ -331,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez：与美国需要长期的能源合作关系。 美国的许可（许可证）并不能提供长期的法律保障，应当取消对委内瑞拉的制裁。 目前正在听取石油公司的建议，以及对能源行业的意见。",
+          "url": "https://wallstreetcn.com/livenews/3087984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "金十提示：美联储理事巴尔在准备的讲话中未就美国经济前景和货币政策发表评论。",
@@ -399,6 +470,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
+          "url": "https://flash.jin10.com/detail/20260415044500788800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "美国财政部：允许销售伊朗石油的短期许可在未来几天到期后将不再续期。",
           "url": "https://flash.jin10.com/detail/20260415024525113800",
           "source": "金十数据",
@@ -416,7 +498,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
@@ -438,7 +520,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
@@ -487,6 +569,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月10日当周API投产原油量 -14.5万桶/日，前值7.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415043835551800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "美国能源部长Wright：汽油价格可能会在未来数周更高。",
           "url": "https://wallstreetcn.com/livenews/3087866",
           "source": "华尔街见闻-快讯",
@@ -520,6 +613,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月10日当周API成品油进口 7万桶/日，前值7.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415043827350800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "报道：美国参议员蒂利斯仍计划阻止沃什的美联储主席提名获得通过",
           "url": "https://wallstreetcn.com/livenews/3087865",
           "source": "华尔街见闻-快讯",
@@ -542,6 +646,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国至4月10日当周API原油进口 -33.6万桶，前值-59.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043822948800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "据国际文传电讯社：俄罗斯喀山一座火药厂发生火灾。",
           "url": "https://flash.jin10.com/detail/20260415002828478800",
           "source": "金十数据",
@@ -551,6 +666,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国至4月10日当周API取暖油库存 -22.8万桶，前值-9.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043818592800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增超600万桶",
+          "url": "https://wallstreetcn.com/livenews/3087970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043811467800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国民众的实际收入增速非常高。 相信今年经济将保持强劲增速。 预计今年肯定能实现4%的增长。",
+          "url": "https://wallstreetcn.com/livenews/3087969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
@@ -581,9 +740,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "美国至4月10日当周API精炼油库存 -336.3万桶，预期-250万桶，前值-59.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043805045800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "美联储理事Barr并未置评FOMC货币政策或美国经济。",
@@ -608,6 +778,28 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美国至4月10日当周API汽油库存 62.6万桶，预期-221.2万桶，前值-396.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043758159800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国至4月10日当周API原油库存 610.1万桶，预期-126.6万桶，前值371.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043748055800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.630%，投标倍数3.04。 拍卖52周期国债，得标利率3.560%，投标倍数3.21。",
           "url": "https://wallstreetcn.com/livenews/3087858",
           "source": "华尔街见闻-快讯",
@@ -617,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
+          "url": "https://wallstreetcn.com/livenews/3087965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "报道：美国政府本周将终止伊朗海上石油制裁豁免",
@@ -636,9 +839,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "白宫表示，有103艘空船正驶向美国港口装载石油。（据美国哥伦比亚广播公司CBS）",
+          "url": "https://wallstreetcn.com/livenews/3087964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲计划向霍尔木兹海峡派遣扫雷船。 欧洲起草的战后计划可能包含德国，但不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
@@ -647,7 +861,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
@@ -661,17 +875,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
         },
         {
           "title": "美国官员表示，美国海军目前并未为任何船只提供通过霍尔木兹海峡的护航。 但已向商船（未进入或驶离伊朗港口的船只）传达该航道通行安全，并鼓励通行。 美国并未对海峡实施全面封锁，仅对沿伊朗整个海岸线进出伊朗港口的船只实施封锁。（CNN）",
@@ -697,7 +900,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         }
@@ -718,8 +921,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时44分]"
         }
       ]
     }
