@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:39:36.700550+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-15T07:37:31.614107+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 88,
+      "match_count": 101,
       "titles": [
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
-        },
-        {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -43,19 +31,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
+        },
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时45分]"
         },
         {
           "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
           "url": "https://www.cls.cn/detail/2343935",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "日本饿熊袭人,开启猎杀新赛季",
@@ -65,8 +66,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "美国正在“阻击”中国车",
@@ -79,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
@@ -90,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "你问我答!台湾吧友聊岛内生活",
@@ -101,8 +102,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         },
         {
           "title": "王毅同俄罗斯外长拉夫罗夫会谈",
@@ -165,6 +166,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "日本4月路透短观制造业景气判断指数 7，前值18。",
+          "url": "https://flash.jin10.com/detail/20260415070002253800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲起草的战后计划不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3087934",
           "source": "华尔街见闻-快讯",
@@ -174,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3088002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         },
         {
           "title": "美国汽油、柴油价格创同期历史新高",
@@ -209,15 +210,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "报道：美国财政部寻求获取Anthropic模型Mythos访问权限以查找漏洞",
-          "url": "https://wallstreetcn.com/livenews/3088001",
-          "source": "华尔街见闻-快讯",
+          "title": "日本4月路透短观非制造业景气判断指数 31，前值25。",
+          "url": "https://flash.jin10.com/detail/20260415070002187800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "据福克斯新闻：美国加州民主党众议员斯沃尔韦尔（Eric Swalwell）和得克萨斯州共和党众议员冈萨雷斯（Tony Gonzalez）已正式辞去国会议员职务。众议院书记官宣读了两人的辞职信。",
@@ -339,6 +340,30 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
+          "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3088002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "报道：美国财政部寻求获取Anthropic模型Mythos访问权限以查找漏洞",
+          "url": "https://wallstreetcn.com/livenews/3088001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
           "title": "美国汽油、柴油价格创同期历史新高",
           "url": "https://wallstreetcn.com/livenews/3087911",
           "source": "华尔街见闻-快讯",
@@ -375,6 +400,18 @@
           "time_info": "[04时45分 ~ 05时44分]"
         },
         {
+          "title": "美国财长贝森特：关税可能在7月初恢复到此前水平。",
+          "url": "https://flash.jin10.com/detail/20260415053154508800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
           "title": "美国国务院在华盛顿举行的美、以、黎三方会议后发表声明：讨论了启动以色列与黎巴嫩之间直接谈判的步骤。 美方对进一步的会谈表示支持。 美方表达了希望会谈范围能够超越2024年协议规模的愿望。 美方表示希望谈判能最终促成和平协议。",
           "url": "https://wallstreetcn.com/livenews/3087930",
           "source": "华尔街见闻-快讯",
@@ -397,6 +434,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时39分]"
+        },
+        {
+          "title": "美国财长贝森特：今年经济增长仍可轻松超过3%或3.5%。",
+          "url": "https://flash.jin10.com/detail/20260415053127977800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
+          "url": "https://wallstreetcn.com/livenews/3087996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "美国财长贝森特：经济基本面依然强劲。",
+          "url": "https://flash.jin10.com/detail/20260415052948682800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
         },
         {
           "title": "黎巴嫩国家新闻机构：与以色列在美国华盛顿的初步对话结束。",
@@ -482,15 +555,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国财长贝森特：关税可能在7月初恢复到此前水平。",
-          "url": "https://flash.jin10.com/detail/20260415053154508800",
+          "title": "欧洲筹划霍尔木兹海峡战后护航计划，美国或被排除在外",
+          "url": "https://flash.jin10.com/detail/20260415064037229800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "金十提示：美联储理事巴尔在准备的讲话中未就美国经济前景和货币政策发表评论。",
@@ -515,15 +588,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国财长贝森特：今年经济增长仍可轻松超过3%或3.5%。",
-          "url": "https://flash.jin10.com/detail/20260415053127977800",
+          "title": "美国副总统称对当前美伊局势进展“感到乐观”",
+          "url": "https://flash.jin10.com/detail/20260415063837668800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：大部分美国民众对美国于伊朗战争中“所取得的成就”感觉良好。",
@@ -537,15 +610,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
-          "url": "https://wallstreetcn.com/livenews/3087996",
+          "title": "交易员嗅到伊朗战争“基调变化”，为美国国债上涨布局",
+          "url": "https://wallstreetcn.com/livenews/3088020",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "美国国务院：以色列重申致力于与黎巴嫩合作，解除非国家“恐怖”组织及其基础设施的武装。以色列表示致力于通过直接谈判解决悬而未决的问题，实现和平。",
@@ -559,15 +632,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国财长贝森特：经济基本面依然强劲。",
-          "url": "https://flash.jin10.com/detail/20260415052948682800",
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "07时37分"
         },
         {
           "title": "美国国务院：美以黎三边会谈讨论了启动以色列与黎巴嫩直接谈判的步骤。美方表示支持进一步谈判。美方表示希望相关会谈能够超越2024年协议的范围。",
@@ -587,7 +660,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -598,9 +671,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "美国副总统万斯：我知道很多年轻选民并不喜欢我们目前的中东政策。",
+          "url": "https://flash.jin10.com/detail/20260415062915640800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "以色列官员：以色列-黎巴嫩在美国的谈判已结束。",
@@ -620,7 +704,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -631,9 +715,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "美国副总统：对当前美伊局势进展“感到乐观”",
+          "url": "https://wallstreetcn.com/livenews/3088014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国财政部：允许销售伊朗石油的短期许可在未来几天到期后将不再续期。",
@@ -645,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国副总统万斯：美伊之间存在大量不信任，不可能一夜之间解决。",
+          "url": "https://flash.jin10.com/detail/20260415062554575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国参议院多数党领袖：650亿-750亿美元法案拟为ICE和CBP提供资金",
@@ -678,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "美国副总统万斯：对我们目前的处境感到乐观。",
+          "url": "https://flash.jin10.com/detail/20260415062515394800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "IMF：日本央行等主要央行暂无迫切必要加息",
@@ -722,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗谈判代表想达成协议。",
+          "url": "https://flash.jin10.com/detail/20260415062512494800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国能源部长Wright：汽油价格可能会在未来数周更高。",
@@ -812,6 +940,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美国副总统万斯：我们正与伊朗进行谈判，停火协议正得到切实执行。",
+          "url": "https://flash.jin10.com/detail/20260415062243324800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
           "url": "https://flash.jin10.com/detail/20260415043811467800",
           "source": "金十数据",
@@ -887,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国副总统万斯：我们正与伊朗对话。 维持停火状态。 参与对话的伊朗人员们希望达成一份协议。 对我们的现状感觉良好。 美国与伊朗之间存在大量不信任，问题不可能一夜之间得到解决。",
+          "url": "https://wallstreetcn.com/livenews/3088006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "据俄新社：俄罗斯喀山一家火药厂发生火灾，两人受伤。",
@@ -1041,11 +1191,12 @@
             9,
             11,
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
         }
       ]
     }
