@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:29:53.168025+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-04-15T16:24:10.399987+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 141,
+      "match_count": 160,
       "titles": [
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -27,11 +27,12 @@
             10,
             12,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 14时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 16时24分]"
         },
         {
           "title": "你问我答!台湾吧友聊岛内生活",
@@ -41,11 +42,24 @@
             20,
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 14时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时24分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -64,6 +78,18 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时24分]"
+        },
+        {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
           "url": "https://wallstreetcn.com/articles/3769897",
           "source": "华尔街见闻",
@@ -74,6 +100,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 04时45分]"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时24分]"
         },
         {
           "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
@@ -113,38 +150,17 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
+          "title": "国台办：统一后台湾无需在防务上巨额支出",
+          "url": "https://www.cls.cn/detail/2344442",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时29分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
+            7,
             4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时29分]"
-        },
-        {
-          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
-          "url": "https://www.zhihu.com/question/2027356246810869800",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时24分]"
         },
         {
           "title": "新华社18秒视频，让美国前高官“焦虑”了",
@@ -200,7 +216,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -240,6 +256,30 @@
           "time_info": "03时21分"
         },
         {
+          "title": "希拉里：美国已失去战略优势和主动权",
+          "url": "https://wallstreetcn.com/livenews/3088327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "国台办批美方在台湾问题上颠倒黑白",
+          "url": "https://www.toutiao.com/trending/7628427275785060358/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时24分]"
+        },
+        {
           "title": "市场消息：有报道称，以色列正与美国及欧洲国家保持接触，以确保胡塞武装不会策划干扰海上航运。",
           "url": "https://flash.jin10.com/detail/20260415014716454800",
           "source": "金十数据",
@@ -268,9 +308,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本国家旅游局：3月中国赴日游客人数同比下降超五成",
+          "url": "https://flash.jin10.com/detail/20260415155249470800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲起草的战后计划不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
@@ -334,9 +385,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立",
+          "url": "https://wallstreetcn.com/livenews/3088323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时24分]"
         },
         {
           "title": "国民党发言人江怡臻晒访大陆收获",
@@ -345,7 +421,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -367,21 +443,35 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
         {
-          "title": "国台办批美方在台湾问题上颠倒黑白",
-          "url": "https://www.toutiao.com/trending/7628427275785060358/",
-          "source": "今日头条",
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            1
+            12,
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时24分]"
+        },
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970109",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时24分]"
         },
         {
           "title": "市场消息：两名美国官员表示，美国将允许针对海上伊朗石油的临时制裁豁免于本周到期失效。",
@@ -442,18 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时39分]"
-        },
-        {
-          "title": "国台办：统一后台湾无需在防务上巨额支出",
-          "url": "https://www.cls.cn/detail/2344442",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时29分]"
         },
         {
           "title": "美国财政部：已授权与委内瑞拉政府开展与商业相关的附条件合同（contingent contracts）谈判。授权涉及部分委内瑞拉银行及委内瑞拉政府官员的金融服务交易。",
@@ -564,42 +642,15 @@
           "time_info": "[04时45分 ~ 05时44分]"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
+          "title": "通胀全面低于预期！美国3月PPI同比上涨4%，创三年最高纪录，环比涨幅收窄至0.5%",
+          "url": "https://wallstreetcn.com/articles/3769945",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时29分]"
-        },
-        {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时29分]"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970109",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时24分]"
         },
         {
           "title": "王毅同俄罗斯外长拉夫罗夫会谈",
@@ -612,6 +663,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 05时44分]"
+        },
+        {
+          "title": "U20女足中国vs日本",
+          "url": "https://www.douyin.com/hot/2466817",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "美国财长贝森特：关税可能在7月初恢复到此前水平。",
@@ -674,6 +736,28 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
+          "title": "国台办：和统后台湾无需巨额防务支出",
+          "url": "https://www.toutiao.com/trending/7628757737240985619/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "俄罗斯海军舰艇编队来华访问(图)",
+          "url": "https://news.ifeng.com/c/8sLP56zGhqb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
           "title": "美国财长贝森特：经济基本面依然强劲。",
           "url": "https://flash.jin10.com/detail/20260415052948682800",
           "source": "金十数据",
@@ -710,17 +794,6 @@
           "time_info": "[02时01分 ~ 03时21分]"
         },
         {
-          "title": "通胀全面低于预期！美国3月PPI同比上涨4%，创三年最高纪录，环比涨幅收窄至0.5%",
-          "url": "https://wallstreetcn.com/articles/3769945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时29分]"
-        },
-        {
           "title": "美财长贝森特对IMF和世行的预测提出质疑，称美国将迅速度过物价上涨周期",
           "url": "https://wallstreetcn.com/livenews/3087905",
           "source": "华尔街见闻-快讯",
@@ -731,6 +804,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时21分]"
+        },
+        {
+          "title": "中方回应丹麦把台湾人“国籍”改中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%B9%E9%BA%A6%E6%8A%8A%E5%8F%B0%E6%B9%BE%E4%BA%BA%E2%80%9C%E5%9B%BD%E7%B1%8D%E2%80%9D%E6%94%B9%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
@@ -803,13 +887,24 @@
           "time_info": "07时37分"
         },
         {
+          "title": "日本官员：日本计划从5月初开始释放约3600万桶国家石油储备",
+          "url": "https://flash.jin10.com/detail/20260415154834699800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "Lululemon在美国被调查",
           "url": "https://search.bilibili.com/all?keyword=Lululemon%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -853,7 +948,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -913,6 +1008,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁",
+          "url": "https://flash.jin10.com/detail/20260415154610397800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国国务院：美以黎三边会谈讨论了启动以色列与黎巴嫩直接谈判的步骤。美方表示支持进一步谈判。美方表示希望相关会谈能够超越2024年协议的范围。",
           "url": "https://flash.jin10.com/detail/20260415030139349800",
           "source": "金十数据",
@@ -933,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "据路透：消息人士称，日本将释放3600万桶石油储备，具体细节将在四月底前确定。",
+          "url": "https://flash.jin10.com/detail/20260415154511676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国海关4月20日将启动关税退款",
@@ -957,6 +1074,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "美国财长贝森特计划于5月中旬访问日本。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3088313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "以色列官员：以色列-黎巴嫩在美国的谈判已结束。",
           "url": "https://flash.jin10.com/detail/20260415012136275800",
           "source": "金十数据",
@@ -977,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "商务部发布关于发放对美国阻碍绿色产品贸易相关做法和措施贸易壁垒调查问卷和接收公众评论意见的通知。",
+          "url": "https://flash.jin10.com/detail/20260415154251302800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国财长贝森特在华尔街日报一个活动上讲话：美国经济保持强劲状态，将在伊朗战争结束之后“追赶上来”。",
@@ -1210,6 +1349,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "日本警察厅长官：必须防止强闯中国使馆类似事件再次发生",
+          "url": "https://wallstreetcn.com/livenews/3088307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国参议院共和党领袖图恩：我们大多数人对美国在伊朗的成就感到满意。",
           "url": "https://flash.jin10.com/detail/20260415023322097800",
           "source": "金十数据",
@@ -1287,6 +1437,28 @@
           "time_info": "07时37分"
         },
         {
+          "title": "伊朗将使用除南部港口以外的其他港口，以绕过美国的封锁。",
+          "url": "https://flash.jin10.com/detail/20260415153646559800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美国将退还超1万亿元关税",
+          "url": "https://wallstreetcn.com/livenews/3088305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
           "url": "https://flash.jin10.com/detail/20260415043811467800",
           "source": "金十数据",
@@ -1315,7 +1487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1441,13 +1613,24 @@
           "time_info": "09时45分"
         },
         {
+          "title": "日本国家旅游局：3月中国赴日游客人数同比下降超五成",
+          "url": "https://wallstreetcn.com/livenews/3088300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "欢迎台优秀影视作品分享大陆市场机遇",
           "url": "https://www.toutiao.com/trending/7628585572667506694/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1491,7 +1674,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1502,7 +1685,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1540,6 +1723,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁",
+          "url": "https://wallstreetcn.com/livenews/3088293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲计划向霍尔木兹海峡派遣扫雷船。 欧洲起草的战后计划可能包含德国，但不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3087934",
           "source": "华尔街见闻-快讯",
@@ -1560,6 +1754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "日本将释放3600万桶石油储备，具体细节将在4月底前确定。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3088297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "新疆导游为台湾同胞介绍天山胜利隧道",
@@ -1595,6 +1800,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "希拉里说美国失去了战略优势",
+          "url": "https://flash.jin10.com/detail/20260415153014060800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "日经225指数涨幅扩大至1.1%，日本东证指数涨1%。",
           "url": "https://wallstreetcn.com/livenews/3088047",
           "source": "华尔街见闻-快讯",
@@ -1620,7 +1836,7 @@
     },
     {
       "keyword_group": "石油 大豆 猪肉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：如果战争在两周内结束，全球经济仍能实现快速复苏。 如果我们看到整个夏季持续动荡，我们将处于不利局面。 全球经济中仍有20%的石油和天然气供应处于缺失状态。 正与各国讨论其需求，以便我们能为他们筹集支持。 如果中央银行过早收紧政策，可能会窒息经济增长。 如果影响持续的时间足以让价格的二轮效应显现，那么许多央行就需要采取行动。",
@@ -1632,6 +1848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "高盛指出，其对2026年布伦特/WTI原油平均价格预测（每桶83/78美元）存在上行和下行双重风险，理由是中东局势发展以及霍尔木兹海峡的石油运输量存在日益增长的不确定性。",
+          "url": "https://flash.jin10.com/detail/20260415153308755800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
