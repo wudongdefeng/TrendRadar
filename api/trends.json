@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T03:01:41.919574+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-04-17T04:02:33.095277+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 45,
+      "match_count": 63,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -15,19 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
-          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
-          "url": "https://flash.jin10.com/detail/20260417024741416800",
-          "source": "金十数据",
+          "title": "美国卫生部长：疫苗可能已经实现阻止那些感染麻疹的儿童死亡。",
+          "url": "https://wallstreetcn.com/livenews/3089560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "04时02分"
         },
         {
           "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
@@ -35,39 +35,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
-          "url": "https://wallstreetcn.com/livenews/3089499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "美国白宫推进向联邦机构开放Mythos",
-          "url": "https://flash.jin10.com/detail/20260417024131483800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3089497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -82,8 +49,65 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
+        },
+        {
+          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
+          "url": "https://wallstreetcn.com/livenews/3089499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
+          "url": "https://flash.jin10.com/detail/20260417032747106800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3089497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "time_info": "[03时01分 ~ 04时02分]"
+        },
+        {
+          "title": "美国白宫推进向联邦机构开放Mythos",
+          "url": "https://flash.jin10.com/detail/20260417024131483800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时02分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -93,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "俄罗斯，发动大规模袭击",
@@ -104,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "环球时报社评：文物返还，法国的做法值得日本学习",
@@ -115,8 +139,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -127,19 +151,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
           "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "日本物价狂飙,买菜得贷款",
@@ -149,8 +174,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "美国国防部长遭弹劾",
@@ -158,11 +183,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "美国多位机密领域科学家失踪或死亡",
@@ -173,8 +199,44 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时02分]"
+        },
+        {
+          "title": "美国总统特朗普：（美联储）应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3089528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时01分]"
+          "time_info": "[03时01分 ~ 04时02分]"
+        },
+        {
+          "title": "强闯我使馆的日本人所持刀具曝光",
+          "url": "https://www.toutiao.com/trending/7629285508653285430/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 04时02分]"
+        },
+        {
+          "title": "20位中国学者被美国拒绝入境",
+          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 04时02分]"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -183,9 +245,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
+          "url": "https://flash.jin10.com/detail/20260417032540175800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "俄外交部：美国封锁霍尔木兹海峡“非法”",
@@ -199,6 +272,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
+          "url": "https://wallstreetcn.com/livenews/3089554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "消息人士：美国官员已通知欧洲国家，由于伊朗战争，武器交付将延迟。",
+          "url": "https://flash.jin10.com/detail/20260417032415627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3089494",
           "source": "华尔街见闻-快讯",
@@ -210,26 +305,26 @@
           "time_info": "01时05分"
         },
         {
-          "title": "美国总统特朗普：（美联储）应该降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3089528",
-          "source": "华尔街见闻-快讯",
+          "title": "美国政府与能源企业讨论潜在的油气增产问题",
+          "url": "https://flash.jin10.com/detail/20260417032410717800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "04时02分"
         },
         {
-          "title": "强闯我使馆的日本人所持刀具曝光",
-          "url": "https://www.toutiao.com/trending/7629285508653285430/",
-          "source": "今日头条",
+          "title": "美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3089552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "04时02分"
         },
         {
           "title": "海湾地区与欧洲官员们认为：美国需要六个月才能达成伊朗协议",
@@ -249,7 +344,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -265,6 +360,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国投资公司协会（ICI）：货币市场基金资产降至7.64万亿美元，单日减少1758.1亿美元，创下有记录以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260417031609303800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：对美国总统特朗普撮合的以色列与黎巴嫩停火10天表示欢迎。",
           "url": "https://wallstreetcn.com/livenews/3089489",
           "source": "华尔街见闻-快讯",
@@ -276,15 +382,37 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国休斯顿燃料交易商Ikon Midstream公司的律师表示，美国执法部门突袭了该公司，此次执法行动源于路透社此前关于涉嫌燃料走私的调查报道。律师表示Ikon Midstream未参与任何不当行为",
+          "url": "https://flash.jin10.com/detail/20260417030936706800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "白宫授予美国政府部门接入Anthropic模型Mythos的权限。",
           "url": "https://wallstreetcn.com/livenews/3089522",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3089547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国国务院：谈判旨在解决所有剩余问题，包括国际陆地边界的划定。",
@@ -293,9 +421,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
+          "url": "https://flash.jin10.com/detail/20260417030924363800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "海湾国家和欧洲官员认为美国需六个月才能达成伊朗协议",
@@ -309,15 +448,37 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
+          "url": "https://flash.jin10.com/detail/20260417030705110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "美国银行寻求发行100亿美元高评级债券。",
           "url": "https://wallstreetcn.com/livenews/3089520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国执法部门突击搜查休斯顿燃料贸易商Ikon Midstream办公室",
+          "url": "https://wallstreetcn.com/livenews/3089545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国国务院：各方一致承认黎巴嫩安全部队对维护国家主权与国防负有唯一责任。以色列与黎巴嫩已请求美国推动两国进一步开展直接谈判。",
@@ -326,9 +487,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国钢铁(X.N)：预计加里锡厂将在2027年初恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260417030316815800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国国务院：黎巴嫩将采取实质性措施，防止真主党及其他非国家武装组织在其领土内对以色列目标发动任何袭击。",
@@ -337,9 +509,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国钢铁(X.N)：宣布计划重启加里锡厂。",
+          "url": "https://flash.jin10.com/detail/20260417030241199800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国国务院：以色列应保留在任何时间采取一切必要自卫措施的权利，以应对已计划、即将发生或正在进行的袭击。",
@@ -348,7 +531,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -370,7 +553,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -381,9 +564,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
+          "url": "https://wallstreetcn.com/livenews/3089539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国法官叫停总统特朗普的白宫宴会厅的地上施工部分。",
@@ -403,9 +597,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国考虑针对伊朗快艇套用在委内瑞拉的战术。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3089538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国贸易代表格里尔：产业向墨西哥离岸外包的情况仍在持续，已就修改美国墨西哥加拿大贸易协议（USMCA）原产地规则进行磋商。 USMCA原产地规则将是下周在墨西哥会议上讨论的议题之一。",
@@ -425,9 +630,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国务院：以黎停火协议可通过双方同意予以延长",
+          "url": "https://flash.jin10.com/detail/20260417025422234800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.30%，前值6.37%。",
@@ -447,20 +663,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "20位中国学者被美国拒绝入境",
-          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时01分"
         },
         {
           "title": "美国总统特朗普：对澳大利亚不满。在霍尔木兹海峡问题上我们需要他们时，他们并未站在我们一边。",
@@ -469,7 +674,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -491,7 +696,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -502,7 +707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
