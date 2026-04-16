@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:11:32.103544+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-04-16T23:20:42.076516+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 203,
+      "match_count": 226,
       "titles": [
         {
           "title": "美国将退还超1万亿元关税",
@@ -146,6 +146,19 @@
           "time_info": "[02时01分 ~ 12时47分]"
         },
         {
+          "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
+          "url": "https://news.ifeng.com/c/8sMQrPZN74e",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 23时20分]"
+        },
+        {
           "title": "美国被曝将向中东增派数千名士兵",
           "url": "https://news.ifeng.com/c/8sLqRxtsfNo",
           "source": "凤凰网",
@@ -210,17 +223,16 @@
           "time_info": "[00时09分 ~ 09时53分]"
         },
         {
-          "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
-          "url": "https://news.ifeng.com/c/8sMQrPZN74e",
-          "source": "凤凰网",
+          "title": "外交部提醒：赴美国中国公民注意入境安全风险",
+          "url": "https://www.cls.cn/detail/2346043",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9,
-            3
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 21时11分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 23时20分]"
         },
         {
           "title": "美国将退还超1万亿元关税",
@@ -261,6 +273,20 @@
           "time_info": "[00时09分 ~ 07时36分]"
         },
         {
+          "title": "环球时报社评：文物返还，法国的做法值得日本学习",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 23时20分]"
+        },
+        {
           "title": "中国U20女足0-2日本无缘决赛",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B30-2%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -288,30 +314,20 @@
           "time_info": "[00时09分 ~ 07时35分]"
         },
         {
-          "title": "外交部提醒：赴美国中国公民注意入境安全风险",
-          "url": "https://www.cls.cn/detail/2346043",
-          "source": "财联社热门",
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
           "ranks": [
+            6,
             5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 21时11分]"
-        },
-        {
-          "title": "环球时报社评：文物返还，法国的做法值得日本学习",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
+            10,
             11,
             12,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时53分 ~ 21时11分]"
+          "time_info": "[12时46分 ~ 23时20分]"
         },
         {
           "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
@@ -338,20 +354,16 @@
           "time_info": "[00时09分 ~ 02时01分]"
         },
         {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
+          "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028144905344623639",
+          "source": "知乎",
           "ranks": [
-            6,
-            5,
-            10,
-            11,
-            12,
-            14
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 23时20分]"
         },
         {
           "title": "媒体：日本拒不返还文物是反面典型",
@@ -380,16 +392,15 @@
           "time_info": "[09时53分 ~ 18时09分]"
         },
         {
-          "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028144905344623639",
-          "source": "知乎",
+          "title": "强闯我使馆的日本人所持刀具曝光",
+          "url": "https://www.toutiao.com/trending/7629285508653285430/",
+          "source": "今日头条",
           "ranks": [
-            4,
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国中央司令部：美国海军舰艇正在阿曼湾执行巡逻任务，与此同时，中央司令部继续执行美国对进出伊朗港口的船只的封锁行动。美军已部署到位，保持警惕，并做好准备以确保相关船只遵守规定。",
@@ -553,6 +564,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "20位中国学者被美国拒绝入境",
+          "url": "https://news.ifeng.com/c/8sN4vJfV3wx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 23时20分]"
+        },
+        {
           "title": "英海事分析公司：有船舶突破美国对伊朗港口封锁",
           "url": "https://flash.jin10.com/detail/20260416014927778800",
           "source": "金十数据",
@@ -658,7 +680,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -669,7 +691,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -725,17 +747,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时36分]"
-        },
-        {
-          "title": "20位中国学者被美国拒绝入境",
-          "url": "https://news.ifeng.com/c/8sN4vJfV3wx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 21时11分]"
         },
         {
           "title": "挪威主权财富基金无意减持美国资产",
@@ -837,6 +848,20 @@
           "time_info": "[05时44分 ~ 07时36分]"
         },
         {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 23时20分]"
+        },
+        {
           "title": "据AXIOS网站：美国尚未正式要求以色列在黎巴嫩停火，这不在与伊朗的谈判中。",
           "url": "https://flash.jin10.com/detail/20260416030934587800",
           "source": "金十数据",
@@ -901,19 +926,6 @@
           "time_info": "[16时24分 ~ 19时55分]"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 21时11分]"
-        },
-        {
           "title": "强闯中使馆日本人携带的刀具曝光",
           "url": "https://www.baidu.com/s?wd=%E5%BC%BA%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%90%BA%E5%B8%A6%E7%9A%84%E5%88%80%E5%85%B7%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -950,6 +962,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时09分 ~ 21时11分]"
+        },
+        {
+          "title": "俄罗斯，发动大规模袭击",
+          "url": "https://news.ifeng.com/c/8sNKhgUy9QN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 23时20分]"
+        },
+        {
+          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 23时20分]"
         },
         {
           "title": "美国加征关税被最高法院裁定为非法",
@@ -1097,17 +1133,6 @@
           "time_info": "[05时44分 ~ 06时36分]"
         },
         {
-          "title": "俄罗斯，发动大规模袭击",
-          "url": "https://news.ifeng.com/c/8sNKhgUy9QN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时11分]"
-        },
-        {
           "title": "日本超市大抢购",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%B6%85%E5%B8%82%E5%A4%A7%E6%8A%A2%E8%B4%AD&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1143,6 +1168,18 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "美国国防部长遭弹劾",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时20分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
           "url": "https://flash.jin10.com/detail/20260416043053830800",
           "source": "金十数据",
@@ -1165,18 +1202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时36分]"
-        },
-        {
-          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时11分]"
         },
         {
           "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
@@ -1214,6 +1239,18 @@
           "time_info": "[16时24分 ~ 18时09分]"
         },
         {
+          "title": "20位中国学者被美国拒绝入境",
+          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时20分]"
+        },
+        {
           "title": "美国财长贝森特：船只可以向美国国际开发金融公司（DFC）申请保险。",
           "url": "https://flash.jin10.com/detail/20260416014643352800",
           "source": "金十数据",
@@ -1245,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "美联储理事米兰：AI开始影响美国的劳动力市场。",
+          "url": "https://wallstreetcn.com/livenews/3089449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "白宫新闻秘书莱维特：有关“美国曾请求延长停火”的说法不属实。",
@@ -1357,6 +1405,28 @@
           "time_info": "12时47分"
         },
         {
+          "title": "美国能源部长Wright：美国将寻求更多措施，来降低汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3089444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "市场消息：捷克外交部就针对捷克企业的威胁召见俄罗斯大使。",
+          "url": "https://flash.jin10.com/detail/20260416225723684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国财政部：美国财政部长贝森特昨天与沙特财政大臣会面。",
           "url": "https://flash.jin10.com/detail/20260416025939765800",
           "source": "金十数据",
@@ -1379,6 +1449,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "黎巴嫩总统府：美国总统特朗普向黎巴嫩总统强调，他致力于满足黎巴嫩提出的停火请求。",
+          "url": "https://flash.jin10.com/detail/20260416225620285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国银行一季度大宗商品交易收入激增60%。",
           "url": "https://wallstreetcn.com/livenews/3088730",
           "source": "华尔街见闻-快讯",
@@ -1399,6 +1480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "古巴国家主席称“美国有可能发动军事侵略” 敦促民众做好准备",
+          "url": "https://wallstreetcn.com/livenews/3089442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "文物返还 法国的做法值得日本学习",
@@ -1434,6 +1526,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美联储理事米兰：人工智能开始影响美国劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20260416225524101800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "【报道：伊朗将评估是否与美国举行下一轮谈判】伊朗塔斯尼姆通讯社15日援引知情人士消息报道，伊朗方面与巴基斯坦陆军参谋长穆尼尔率领的代表团举行会晤后，将进行必要评估再决定是否与美国开展下一轮谈判。 该知情人士说，在黎巴嫩实现停火对伊朗参与下一轮谈判会是一个积极信号。与此同时，美方必须坚持合理的谈判框架，不能提出过分要求或违反停火前所作承诺。 15日早些时候，巴基斯坦军方发布声明说，穆尼尔和巴基斯坦内政部长穆赫辛·纳克维当天率领巴代表团抵达伊朗首都德黑兰，继续推进斡旋美国和伊朗谈判。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3088687",
           "source": "华尔街见闻-快讯",
@@ -1465,17 +1568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "美国国防部长遭弹劾",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
         },
         {
           "title": "美国财长贝森特：我们很快就会看到汽油价格达到每加仑3美元。",
@@ -1511,6 +1603,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "美联储理事米兰：尽管美国是能源出口国，由于能源价格的变化，消费者支出出现转变，这对增长造成了拖累。",
+          "url": "https://flash.jin10.com/detail/20260416225516624800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：更高的石油价格意味着，美国通胀预期可能会上升。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3088633",
           "source": "华尔街见闻-快讯",
@@ -1528,7 +1631,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1542,6 +1645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "据华尔街日报：一名官员周四表示，美国一项为穿越霍尔木兹海峡的油轮提供保障的计划，在正式启动前仍在与海军商讨安全事宜，但已“基本准备就绪”。",
+          "url": "https://flash.jin10.com/detail/20260416225445796800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国战略金属（US Strategic Metals）与Virtus Minerals签署备忘录。",
@@ -1627,7 +1741,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1676,6 +1790,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "美国总统特朗普与黎巴嫩总统Aoun通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3089438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国参议院以52票对47票的投票阻止了一项决议，该决议旨在阻止美国在未经国会批准的情况下对伊朗发动进一步打击。",
           "url": "https://flash.jin10.com/detail/20260416025527318800",
           "source": "金十数据",
@@ -1704,9 +1829,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "黎巴嫩总统与美国总统特朗普在通话中讨论了停火的努力。",
+          "url": "https://flash.jin10.com/detail/20260416225249401800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国：9艘船只遵守美方要求，驶向伊朗。",
@@ -1748,9 +1884,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加590亿立方英尺（彭博用户预计增加610亿立方英尺、分析师预计增加555.6亿立方英尺），周环比增长3.09%（之前一周增加2.69%），至1.97万亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3089436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "在美国留学一个月要花多少钱",
@@ -1762,6 +1909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
+          "url": "https://www.zhihu.com/question/2028145295125430592",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
@@ -1781,9 +1939,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美国4月10日当周EIA天然气库存变动 590亿立方英尺，预期 590亿立方英尺，前值 500亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3089435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "俄罗斯人有多少蒙古人的基因？",
@@ -1830,6 +1999,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美国能源部长赖特：美国将采取更多措施降低汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260416225115649800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
           "url": "https://wallstreetcn.com/livenews/3088681",
           "source": "华尔街见闻-快讯",
@@ -1850,6 +2030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3089434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国财长贝森特：昨天与法国财长会面，就关键矿产和即将举行的G7和G20讨论中的多边经济优先事项等领域的合作交换了意见。敦促法国在推动欧盟施压伊朗以结束其破坏性威胁方面发挥领导作用。",
@@ -1924,7 +2115,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1949,6 +2140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "古巴国家主席称“美国有可能发动军事侵略” 敦促民众做好准备",
+          "url": "https://flash.jin10.com/detail/20260416224739598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "中国台湾证交所加权股价指数收高1.1%报37,132.02点。",
@@ -2001,9 +2203,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美国参议院银行委员会的民主党成员们表示：应当推迟针对美联储主席提名人凯文·沃什的听证会。",
+          "url": "https://wallstreetcn.com/livenews/3089430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国至4月15日4个月国债竞拍-得标利率配置百分比 11.83%，前值46.98%。",
@@ -2034,9 +2247,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "两名黎巴嫩官员表示，黎巴嫩总统通过电话与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260416224556019800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "报道：受制裁的俄罗斯LNG或首次运抵印度",
@@ -2067,9 +2291,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（4月15日）担保隔夜融资利率（SOFR）报3.72%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3089429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国至4月15日4个月国债竞拍-投标倍数 2.93，前值3.34。",
@@ -2122,9 +2357,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3089428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "俄罗斯经济数据为何出现萎缩",
@@ -2133,7 +2379,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2177,9 +2423,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（评论俄罗斯对乌克兰盟友的威胁时）呼吁欧洲“要坚强”。",
+          "url": "https://flash.jin10.com/detail/20260416224445389800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国能源部长Wright将出席国会山听证会。",
@@ -2199,7 +2456,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2226,6 +2483,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "美国多位机密领域科学家失踪或死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BD%8D%E6%9C%BA%E5%AF%86%E9%A2%86%E5%9F%9F%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A4%B1%E8%B8%AA%E6%88%96%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "路透调查：72%的经济学家认为，日本出现滞胀的风险“低”或“极低”。",
           "url": "https://flash.jin10.com/detail/20260416120623487800",
           "source": "金十数据",
@@ -2243,7 +2511,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2257,17 +2525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "20位中国学者被美国拒绝入境",
-          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
         },
         {
           "title": "路透调查：预测中值显示，日本央行将在2026年第四季将利率上调至1.25%，3月调查预计为2027年第一季。",
@@ -2298,7 +2555,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
