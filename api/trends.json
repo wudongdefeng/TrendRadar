@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:34:18.035660+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-17T09:49:51.701043+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 91,
+      "match_count": 99,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时49分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -45,15 +56,41 @@
           "time_info": "[01时05分 ~ 07时34分]"
         },
         {
-          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            16,
+            15,
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
+        },
+        {
+          "title": "俄罗斯，发动大规模袭击",
+          "url": "https://news.ifeng.com/c/8sNKhgUy9QN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
+        },
+        {
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时49分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -65,6 +102,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时34分]"
+        },
+        {
+          "title": "全球产区天气4.17：美国霜冻阿根廷大雨，大豆播种收获两难？",
+          "url": "https://flash.jin10.com/detail/20260417093804004800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国卫生部长：疫苗可能已经实现阻止那些感染麻疹的儿童死亡。",
@@ -94,47 +142,12 @@
           "time_info": "[01时05分 ~ 07时34分]"
         },
         {
-          "title": "俄罗斯，发动大规模袭击",
-          "url": "https://news.ifeng.com/c/8sNKhgUy9QN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时34分]"
-        },
-        {
           "title": "环球时报社评：文物返还，法国的做法值得日本学习",
           "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
           "source": "澎湃新闻",
           "ranks": [
             13,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时34分]"
-        },
-        {
-          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时34分]"
-        },
-        {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -152,13 +165,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普政府敦促美国石油公司增加钻探。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3089690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "日本财务大臣片山皋月：日本国际协力银行（JBIC）将设立一个规模高达6000亿日元的新投资窗口，以帮助亚洲国家确保能源供应。",
           "url": "https://flash.jin10.com/detail/20260417071814745800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -518,7 +542,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -642,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国休斯顿燃料交易商Ikon Midstream公司的律师表示，美国执法部门突袭了该公司，此次执法行动源于路透社此前关于涉嫌燃料走私的调查报道。律师表示Ikon Midstream未参与任何不当行为",
@@ -782,7 +817,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -831,6 +866,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3089668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "美国国务院：以色列应保留在任何时间采取一切必要自卫措施的权利，以应对已计划、即将发生或正在进行的袭击。",
           "url": "https://flash.jin10.com/detail/20260417022910671800",
           "source": "金十数据",
@@ -875,6 +921,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国国务院：欢迎菲律宾加入（与稳定供应链有关的）Pax Silica倡议。",
+          "url": "https://flash.jin10.com/detail/20260417092611913800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "也门胡塞武装：谴责美国以强加条件方式推进谈判",
           "url": "https://wallstreetcn.com/livenews/3089515",
           "source": "华尔街见闻-快讯",
@@ -895,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开盘变动不大。台积电盘初跌逾1%，上日调高年度营收预期。",
+          "url": "https://wallstreetcn.com/livenews/3089662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
@@ -974,6 +1042,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "驻日本大使馆提醒在日中国公民注意人身安全",
+          "url": "https://flash.jin10.com/detail/20260417092434525800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.30%，前值6.37%。",
           "url": "https://wallstreetcn.com/livenews/3089477",
           "source": "华尔街见闻-快讯",
@@ -994,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "当被问及日本央行推迟加息是否会引发日元大幅下跌时，日本财务省官员不予置评。其表示，从数据来看，显然不仅是日元，许多货币对美元都在贬值。",
+          "url": "https://wallstreetcn.com/livenews/3089654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国总统特朗普：对澳大利亚不满。在霍尔木兹海峡问题上我们需要他们时，他们并未站在我们一边。",
