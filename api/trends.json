@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T09:49:51.701043+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-04-17T12:44:48.379230+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 99,
+      "match_count": 113,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -28,6 +28,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 09时49分]"
+        },
+        {
+          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 12时44分]"
+        },
+        {
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 12时44分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -56,37 +84,11 @@
           "time_info": "[01时05分 ~ 07时34分]"
         },
         {
-          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 09时49分]"
-        },
-        {
           "title": "俄罗斯，发动大规模袭击",
           "url": "https://news.ifeng.com/c/8sNKhgUy9QN",
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 09时49分]"
-        },
-        {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -110,9 +112,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "罗马尼亚国防部表示，雷达捕捉到俄罗斯无人机侵犯国家空域。",
+          "url": "https://flash.jin10.com/detail/20260417122220882800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国卫生部长：疫苗可能已经实现阻止那些感染麻疹的儿童死亡。",
@@ -165,13 +178,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "由于中东战争导致医疗物资短缺，日本首相高市早苗计划从储备中释放5000万副医用手套。日本医生警告说，如果海湾石油和石脑油的供应中断，可能会在两个月内导致医疗用品严重短缺，甚至可能迫使资金紧张、无力承担飙升价格的医疗机构关闭。",
+          "url": "https://flash.jin10.com/detail/20260417121252808800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "特朗普政府敦促美国石油公司增加钻探。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3089690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -196,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美国核动力航母又起火，这次是“艾森豪威尔”号",
+          "url": "https://news.ifeng.com/c/8sOWMZF2Xf3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
@@ -466,6 +501,18 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时44分]"
+        },
+        {
           "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
           "url": "https://flash.jin10.com/detail/20260417043100409800",
           "source": "金十数据",
@@ -512,6 +559,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时33分]"
+        },
+        {
+          "title": "伊朗战争丨美国部署到中东的军舰物资短缺，士气低落",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -613,6 +671,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "日本药耗紧缺,医院彻底顶不住",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353357&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%8D%AF%E8%80%97%E7%B4%A7%E7%BC%BA%2C%E5%8C%BB%E9%99%A2%E5%BD%BB%E5%BA%95%E9%A1%B6%E4%B8%8D%E4%BD%8F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "海湾地区与欧洲官员们认为：美国需要六个月才能达成伊朗协议",
           "url": "https://wallstreetcn.com/livenews/3089492",
           "source": "华尔街见闻-快讯",
@@ -668,15 +737,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "伊总统：伊朗人民对美国完全失去信任",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
-          "source": "百度热搜",
+          "title": "受伊朗战事影响 美国将推迟向部分欧洲国家交付武器",
+          "url": "https://wallstreetcn.com/livenews/3089769",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "12时44分"
         },
         {
           "title": "美国休斯顿燃料交易商Ikon Midstream公司的律师表示，美国执法部门突袭了该公司，此次执法行动源于路透社此前关于涉嫌燃料走私的调查报道。律师表示Ikon Midstream未参与任何不当行为",
@@ -699,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "分析师：日本股市目前仍处于看涨态势",
+          "url": "https://flash.jin10.com/detail/20260417120032698800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "白宫授予美国政府部门接入Anthropic模型Mythos的权限。",
@@ -789,6 +869,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国中央司令部：4月16日，海军“亚伯拉罕·林肯”号航空母舰（CVN72）在阿拉伯海执行美国封锁行动。该舰搭载的舰载航空联队包括8架F-35C隐形战斗机、F/A-18战斗机、EA-18G电子攻击机、E-2D指挥控制飞机、MH-60直升机和CMV-22B鱼鹰倾转旋翼机，用于后勤支援。",
+          "url": "https://flash.jin10.com/detail/20260417114936494800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "美国银行寻求发行100亿美元高评级债券。",
           "url": "https://wallstreetcn.com/livenews/3089520",
           "source": "华尔街见闻-快讯",
@@ -844,6 +935,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美国众议院共和党领导层正接近通过小幅改革来延长《涉外情报监视法》（FISA）的有效期。",
+          "url": "https://flash.jin10.com/detail/20260417114818945800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "美国国务院：黎巴嫩将采取实质性措施，防止真主党及其他非国家武装组织在其领土内对以色列目标发动任何袭击。",
           "url": "https://flash.jin10.com/detail/20260417023007584800",
           "source": "金十数据",
@@ -866,13 +968,24 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美国众议院计划在夜间对《涉外情报监视法》进行投票。",
+          "url": "https://flash.jin10.com/detail/20260417114659303800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "日本东证指数日内跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3089668",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -886,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
+          "url": "https://flash.jin10.com/detail/20260417114248677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "市场消息：海湾国家和欧洲官员认为，美国需要六个月才能达成与伊朗的协议。",
@@ -927,7 +1051,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -960,7 +1084,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -1048,7 +1172,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -1062,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "郑丽文说去了一趟大陆心都定了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E8%AF%B4%E5%8E%BB%E4%BA%86%E4%B8%80%E8%B6%9F%E5%A4%A7%E9%99%86%E5%BF%83%E9%83%BD%E5%AE%9A%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普：北约没有支持我们。",
@@ -1081,7 +1216,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -1119,6 +1254,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "台青：希望更多大陆青年到台湾交流",
+          "url": "https://www.toutiao.com/trending/7628267595770249257/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：很高兴与日本央行行长植田和男会面。得益于稳健的政策，日本经济展现出韧性，能够很好地应对全球经济不确定性。IMF非常重视与日本的长期合作关系。",
+          "url": "https://flash.jin10.com/detail/20260417113202485800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "美国卫生部长：疫苗本可能阻止一名儿童因麻疹死亡",
           "url": "https://wallstreetcn.com/livenews/3089560",
           "source": "华尔街见闻-快讯",
@@ -1139,6 +1296,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗战争引发的石油危机导致亚洲各国争相寻找替代品。由于生物燃料的价格首次低于化石燃料，亚洲的燃料供应商正竞相抢购生物燃料。据Argus Media报道，欧洲基准生物柴油价格在3月下旬开始低于传统柴油价格，而亚洲棕榈油期货价格在4月初也跌至低于柴油价格。",
+          "url": "https://flash.jin10.com/detail/20260417121134129800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     }
