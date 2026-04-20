@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T00:57:32.076082+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-21T01:53:35.787526+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 38,
+      "match_count": 48,
       "titles": [
         {
           "title": "日本地震震级修正为7.7级",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本发生7.7级地震",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本7.7级地震",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -59,19 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
-          "url": "https://wallstreetcn.com/livenews/3091263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
@@ -81,8 +70,52 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "日本地震震级修正为7.7级",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
+          "url": "https://flash.jin10.com/detail/20260421014051934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
+          "url": "https://flash.jin10.com/detail/20260421013653333800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
+          "url": "https://wallstreetcn.com/livenews/3091276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国路易斯安那州发生枪击，8名儿童死亡",
@@ -96,15 +129,38 @@
           "time_info": "00时57分"
         },
         {
-          "title": "日本地震震级修正为7.7级",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
+          "title": "据伦敦证券交易所集团（LSEG）船舶追踪数据显示，一艘液化天然气（LNG）运输船已抵达位于美国得克萨斯州的“金通道”（Golden Pass）设施，准备装载并出口首批超低温液化天然气。",
+          "url": "https://wallstreetcn.com/livenews/3091275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "惠誉：伊朗战争与软件干扰“陡然成为美国信用的双重风险”。",
+          "url": "https://wallstreetcn.com/livenews/3091274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3091263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
@@ -114,8 +170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "中方回应美国拦截中国油轮",
@@ -125,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本火锅肉薄如纸,1盘不够塞牙",
@@ -136,8 +192,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
@@ -147,41 +203,241 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "各国网民线上嘲讽日本人",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "据巴基斯坦知情人士称，预计伊朗代表团将于周二上午抵达，时间接近美国代表团的抵达时间。（半岛电视台）",
           "url": "https://wallstreetcn.com/livenews/3091258",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "伊朗：承诺将确保俄罗斯船只无障碍通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3091257",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
         },
         {
           "title": "日本东北海域7.7级地震",
           "url": "https://www.douyin.com/hot/2472798",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
+          "url": "https://www.cls.cn/detail/2349778",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "日本可能出现3米浪高海啸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "海啸预警,日本7.4级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "日本地震引发海啸不会影响我国",
+          "url": "https://www.douyin.com/hot/2472917",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "2名中国台湾游客在日本坠机身亡",
+          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "德国总理谈美国干预：只会制造更多问题",
+          "url": "https://wallstreetcn.com/livenews/3091251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "美国男子枪杀8名儿童",
+          "url": "https://www.douyin.com/hot/2472116",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3091248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "媒体评日本军舰穿越台湾海峡",
+          "url": "https://www.douyin.com/hot/2473187",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "伊朗已决定继续与美国谈判",
+          "url": "https://www.douyin.com/hot/2472753",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "年薪3万,日本动画师为爱发电",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "据华尔街日报：美国参议院民主党人重点关注沃什可能持有银行股等投资资产。",
+          "url": "https://flash.jin10.com/detail/20260421013220548800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "据华尔街日报：备忘录显示，美国参议院民主党人计划就沃什的财务信息披露不透明问题向其施压。",
+          "url": "https://flash.jin10.com/detail/20260421013139596800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国能源部：截至2025年底全球战略石油库存总量达25亿桶",
+          "url": "https://wallstreetcn.com/livenews/3091270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "中方回应日本民众抗议高市修宪企图",
@@ -195,125 +451,26 @@
           "time_info": "00时57分"
         },
         {
-          "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
-          "url": "https://www.cls.cn/detail/2349778",
-          "source": "财联社热门",
+          "title": "惠誉：（关于美国信用风险）面向消费的行业、房地产、航空业将面临最为严峻的次生冲击压力。",
+          "url": "https://flash.jin10.com/detail/20260421012231288800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时53分"
         },
         {
-          "title": "各国网民线上嘲讽日本人",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "惠誉：伊朗战争和软件中断成为美国信用的双重风险。",
+          "url": "https://flash.jin10.com/detail/20260421012003513800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "日本可能出现3米浪高海啸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "海啸预警,日本7.4级地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "日本地震引发海啸不会影响我国",
-          "url": "https://www.douyin.com/hot/2472917",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "2名中国台湾游客在日本坠机身亡",
-          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "德国总理谈美国干预：只会制造更多问题",
-          "url": "https://wallstreetcn.com/livenews/3091251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美国男子枪杀8名儿童",
-          "url": "https://www.douyin.com/hot/2472116",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3091249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/livenews/3091248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "媒体评日本军舰穿越台湾海峡",
-          "url": "https://www.douyin.com/hot/2473187",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时53分"
         },
         {
           "title": "据半岛电视台援引巴基斯坦知情人士称，预计伊朗代表团将于周二上午抵达，时间接近美国代表团的抵达时间。",
@@ -332,28 +489,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "伊朗已决定继续与美国谈判",
-          "url": "https://www.douyin.com/hot/2472753",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -409,17 +544,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "年薪3万,日本动画师为爱发电",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
-          "source": "贴吧",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
