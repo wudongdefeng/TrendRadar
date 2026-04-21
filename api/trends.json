@@ -1,45 +1,24 @@
 {
-  "generated_at": "2026-04-21T07:36:37.787069+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-04-21T09:50:54.629243+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 106,
+      "match_count": 123,
       "titles": [
-        {
-          "title": "日本发生7.7级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "日本7.7级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
         {
           "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
           "url": "https://m.thepaper.cn/newsDetail_forward_33010799",
           "source": "澎湃新闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
@@ -58,11 +37,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -89,6 +69,45 @@
           "time_info": "[00时57分 ~ 05时40分]"
         },
         {
+          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
+        },
+        {
+          "title": "日本7.7级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
+        },
+        {
+          "title": "日本发生7.7级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
+        },
+        {
           "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
           "url": "https://wallstreetcn.com/articles/3770418",
           "source": "华尔街见闻",
@@ -97,22 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本强震等级调至 7.7 级，当局呼吁民众尽快逃离，震中附近有多个核电站，可能对当地造成哪些影响？",
@@ -123,11 +128,23 @@
             6,
             5,
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时54分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[02时54分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗：将确保俄罗斯船只无障碍通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sUM1xW13KV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时57分 ~ 09时50分]"
         },
         {
           "title": "日本东北海域7.7级地震",
@@ -152,19 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "伊朗：将确保俄罗斯船只无障碍通过霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8sUM1xW13KV",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
@@ -173,11 +179,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
@@ -190,8 +197,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本可能出现3米浪高海啸",
@@ -202,8 +209,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "海啸预警,日本7.4级地震",
@@ -213,8 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "日本地震引发海啸不会影响我国",
@@ -275,8 +282,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "伊朗已决定继续与美国谈判",
@@ -286,8 +293,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "年薪3万,日本动画师为爱发电",
@@ -297,8 +304,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时50分]"
         },
         {
           "title": "各国网民线上嘲讽日本人",
@@ -317,6 +324,22 @@
           "time_info": "[00时57分 ~ 06时36分]"
         },
         {
+          "title": "卫星被前世界首富送入错误轨道 美国商业航天公司股价巨震",
+          "url": "https://www.cls.cn/detail/2349949",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时54分 ~ 09时50分]"
+        },
+        {
           "title": "中方回应美国拦截中国油轮",
           "url": "https://news.ifeng.com/c/8sTlAj8Ozim",
           "source": "凤凰网",
@@ -328,19 +351,15 @@
           "time_info": "[00时57分 ~ 05时40分]"
         },
         {
-          "title": "卫星被前世界首富送入错误轨道 美国商业航天公司股价巨震",
-          "url": "https://www.cls.cn/detail/2349949",
-          "source": "财联社热门",
+          "title": "日本正式允许出口杀伤性武器",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E5%85%81%E8%AE%B8%E5%87%BA%E5%8F%A3%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            12,
-            11,
-            9,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时54分 ~ 07时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国路易斯安那州发生枪击，8名儿童死亡",
@@ -352,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国国务院发言人：特朗普总统明确表示，我们不会允许敌对势力威胁我们在美洲的利益。我们正与地区伙伴采取切实措施，打击如贩毒集团等恐怖组织，并撤销那些可能危害我们公民安全的人的签证。",
+          "url": "https://flash.jin10.com/detail/20260421092612093800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "据伦敦证券交易所集团（LSEG）船舶追踪数据显示，一艘液化天然气（LNG）运输船已抵达位于美国得克萨斯州的“金通道”（Golden Pass）设施，准备装载并出口首批超低温液化天然气。",
@@ -382,9 +412,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "日本正式允许出口杀伤性武器",
+          "url": "https://www.toutiao.com/trending/7631012975779778111/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "伊朗外交部声明：伊朗外长告知巴基斯坦外长，美国“持续违反停火协议”是外交进程继续推进的主要障碍。 德黑兰在综合考虑各方面因素后，将就如何推进此事做出决定。",
@@ -660,6 +701,18 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
+          "title": "古巴证实与美国代表团会晤",
+          "url": "https://news.ifeng.com/c/8sUQVkfQWmt",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 09时50分]"
+        },
+        {
           "title": "美国枪杀8名儿童枪手系退役军人",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9E%AA%E6%9D%808%E5%90%8D%E5%84%BF%E7%AB%A5%E6%9E%AA%E6%89%8B%E7%B3%BB%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA",
           "source": "百度热搜",
@@ -670,6 +723,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "美国“敲定”谈判日 伊朗仍未点头",
+          "url": "https://www.toutiao.com/trending/7630980651969154606/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时50分]"
         },
         {
           "title": "古巴证实与美国代表团会晤",
@@ -826,17 +890,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时55分]"
-        },
-        {
-          "title": "古巴证实与美国代表团会晤",
-          "url": "https://news.ifeng.com/c/8sUQVkfQWmt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时36分]"
         },
         {
           "title": "巴基斯坦政府高层消息人士表示，巴基斯坦有信心能够促使伊朗参加与美国的谈判。",
@@ -1055,15 +1108,26 @@
           "time_info": "[02时55分 ~ 03时57分]"
         },
         {
-          "title": "美国“敲定”谈判日 伊朗仍未点头",
-          "url": "https://www.toutiao.com/trending/7630980651969154606/",
-          "source": "今日头条",
+          "title": "日本正式允许出口杀伤性武器",
+          "url": "https://news.ifeng.com/c/8sUyRIoBVgh",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "日本曾给灾民送千纸鹤",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%9B%BE%E7%BB%99%E7%81%BE%E6%B0%91%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "惠誉：（关于美国信用风险）面向消费的行业、房地产、航空业将面临最为严峻的次生冲击压力。",
@@ -1099,6 +1163,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国从未如此接近与伊朗达成一项好的协议。 如果与伊朗没有达成协议，特朗普仍然有其他选择。",
+          "url": "https://wallstreetcn.com/livenews/3091434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国国务院：华盛顿本周四将不会主办黎巴嫩和以色列大使之间的第二轮谈判。",
           "url": "https://flash.jin10.com/detail/20260421020030931800",
           "source": "金十数据",
@@ -1116,9 +1191,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "质疑美国诚意 伊朗拒绝谈判表态背后另有考量",
+          "url": "https://flash.jin10.com/detail/20260421091925464800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
@@ -1160,7 +1246,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -1198,6 +1284,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
+          "url": "https://wallstreetcn.com/livenews/3091420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "伊方称尚未决定是否参加伊美第二轮谈判，万斯及美国代表团将抵达巴基斯坦，谈判会重启吗？涉及哪些影响因素？",
+          "url": "https://www.zhihu.com/question/2029822070435963142",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.610%，投标倍数2.94。 拍卖六个月期国债，得标利率3.590%，投标倍数2.89。",
           "url": "https://wallstreetcn.com/livenews/3091245",
           "source": "华尔街见闻-快讯",
@@ -1207,6 +1315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2%至37,698.37点。",
+          "url": "https://wallstreetcn.com/livenews/3091419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "日本通过内阁决议正式允许出口杀伤性武器",
+          "url": "https://wallstreetcn.com/livenews/3091418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "日本未来一周可能发生同等规模地震",
@@ -1220,6 +1350,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "台湾证交所加权股价指数盘初上涨1.1%至37,350.94点。",
+          "url": "https://wallstreetcn.com/livenews/3091416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "伊朗承诺将确保俄罗斯船只无障碍通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260421001656675800",
           "source": "金十数据",
@@ -1229,6 +1370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国中央司令部：“林肯号”航母在阿拉伯海与“卡尔·布拉希尔号”补给舰进行了垂直补给，接收了相关物资。目前，“林肯号”正在中东地区执行任务，对进出伊朗港口的船只实施美国海军封锁。",
+          "url": "https://flash.jin10.com/detail/20260421091052670800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "报道：美国副总统万斯尚未启程前往巴基斯坦参加伊朗核问题谈判",
@@ -1264,6 +1416,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "印度与美国重启贸易谈判",
+          "url": "https://www.toutiao.com/trending/7630978811416281107/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
           "url": "https://flash.jin10.com/detail/20260421042232218800",
           "source": "金十数据",
@@ -1275,6 +1438,28 @@
           "time_info": "05时40分"
         },
         {
+          "title": "美媒：美国副总统万斯21日前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3091410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "台湾加权指数涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260421090538442800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
           "url": "https://flash.jin10.com/detail/20260421042130383800",
           "source": "金十数据",
@@ -1284,6 +1469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "日本通过内阁决议正式允许出口杀伤性武器",
+          "url": "https://flash.jin10.com/detail/20260421090423159800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
