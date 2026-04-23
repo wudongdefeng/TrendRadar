@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T02:58:20.243800+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-24T04:05:04.475780+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 41,
+      "match_count": 55,
       "titles": [
         {
           "title": "曹德旺称「如果遇到不讲道理的情况，大不了把美国工厂关掉」，如何看待他的这一表态？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "特鲁多炮轰美国“经济胁迫”：把加拿大推向中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
@@ -42,37 +42,82 @@
           "time_info": "01时12分"
         },
         {
-          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
-          "url": "https://flash.jin10.com/detail/20260424022651079800",
+          "title": "美国投资公司协会（ICI）：截至4月22日当周，货币市场基金总持有量下降55.6亿美元，至7.64万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260424033137108800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时05分"
         },
         {
-          "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
-          "url": "https://wallstreetcn.com/livenews/3093471",
+          "title": "标普500指数初步收跌0.4%，科技板块跌1.6%，可选消费板块跌1%，金融板块跌0.9%，日用品板块涨1.7%，公用事业板块涨2.8%。 纳斯达克100指数初步收跌0.5%，成分股中，Workday初步收跌9.5%，Palantir跌7.5%，Zscaler、Adobe、CTSH、AppLovin、财捷Intuit、Shopify至多跌6.8%，铿腾电子跌5.2%，恩智浦涨6.6%，微芯科技涨9.5%，德州仪器狂飙19%。 Salesforce初步收跌8.8%，与IBM、美国运通、微软、霍尼韦尔领跌道指成分股，卡特彼勒则涨3.2%。 半导体指数连续第十七个交易日收涨。",
+          "url": "https://wallstreetcn.com/livenews/3093506",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "消息人士称，美国总统特朗普打算提名戴维·卡明斯（David Cummins）担任运输安全管理局局长。",
+          "url": "https://flash.jin10.com/detail/20260424032829482800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国路易斯安那州一购物中心发生枪击事件 多人送医",
+          "url": "https://flash.jin10.com/detail/20260424032446000800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国要拉清单了：这些是好盟友，那些是坏盟友",
+          "url": "https://news.ifeng.com/c/8sYjih8P6pj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
+        },
+        {
+          "title": "tplink神发言:我们是美国企业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：再生元公司同意降低降胆固醇药物Pralient的成本。",
+          "url": "https://flash.jin10.com/detail/20260424032350802800",
+          "source": "金十数据",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国总统特朗普：只有在时机合适且有利于美国、盟友以及事实上世界其他国家利益的时候，才会达成协议。",
-          "url": "https://flash.jin10.com/detail/20260424022513512800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时05分"
         },
         {
           "title": "途中遭到猴子袭击，一名原本前往霍尔木兹海峡的美国海军士兵因伤送医治疗",
@@ -86,39 +131,17 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国要拉清单了：这些是好盟友，那些是坏盟友",
-          "url": "https://news.ifeng.com/c/8sYjih8P6pj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
-        },
-        {
-          "title": "tplink神发言:我们是美国企业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
-        },
-        {
           "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
           "url": "https://www.zhihu.com/question/2030255513384870069",
           "source": "知乎",
           "ranks": [
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "美国海军部长突然被解职，有内幕曝光称其惹怒了防长，究竟是什么原因导致了此次人事变动？",
@@ -128,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "美国海军部长“没搞清谁才是老大”被解职，五角大楼裂痕加深",
@@ -140,8 +163,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -151,8 +174,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "伊朗拒谈判,美国延长停火",
@@ -162,8 +185,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时05分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -173,19 +196,116 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 04时05分]"
+        },
+        {
+          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
+          "url": "https://flash.jin10.com/detail/20260424022651079800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时57分 ~ 02时58分]"
+          "time_info": "[02时58分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
+          "url": "https://wallstreetcn.com/livenews/3093471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：只有在时机合适且有利于美国、盟友以及事实上世界其他国家利益的时候，才会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260424022513512800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时05分]"
         },
         {
           "title": "何立峰会见美国黑石集团董事长",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 04时05分]"
+        },
+        {
+          "title": "美国一女子28年不剪指甲",
+          "url": "https://www.toutiao.com/trending/7631620269232898058/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的海军沉没在海底，其空军已被摧毁，其防空和雷达武器装备也已丧失，他们的领导人也已不在人世，封锁措施严密而坚固，而且情况只会变得更糟——时间对他们不利！",
+          "url": "https://flash.jin10.com/detail/20260424022432524800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时57分 ~ 02时58分]"
+          "time_info": "[02时58分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：部分媒体在吸引订阅者和观众方面表现不佳，是因为它们已经失去了公信力。",
+          "url": "https://flash.jin10.com/detail/20260424022356437800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：我有足够的时间，但伊朗却没有——时间正在流逝！",
+          "url": "https://flash.jin10.com/detail/20260424022327296800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时05分]"
+        },
+        {
+          "title": "美国总统特朗普：对于那些读者比以往任何时候都少、仍在阅读即将倒闭的《纽约时报》或观看假新闻CNN、认为我“急于”结束（如果这能称为“战争”的话）对伊朗战争的人，请知悉，我可能是历任处于这个位置上压力最小的人。",
+          "url": "https://flash.jin10.com/detail/20260424022259449800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时05分]"
         },
         {
           "title": "一美国海军士兵在前往霍尔木兹海峡途中因遭猴子袭击送医治疗",
@@ -199,26 +319,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国总统特朗普：伊朗的海军沉没在海底，其空军已被摧毁，其防空和雷达武器装备也已丧失，他们的领导人也已不在人世，封锁措施严密而坚固，而且情况只会变得更糟——时间对他们不利！",
-          "url": "https://flash.jin10.com/detail/20260424022432524800",
-          "source": "金十数据",
+          "title": "特朗普：韩国芯片公司进入美国。",
+          "url": "https://wallstreetcn.com/livenews/3093497",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国总统特朗普：部分媒体在吸引订阅者和观众方面表现不佳，是因为它们已经失去了公信力。",
-          "url": "https://flash.jin10.com/detail/20260424022356437800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时05分"
         },
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
@@ -232,15 +341,26 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国总统特朗普：我有足够的时间，但伊朗却没有——时间正在流逝！",
-          "url": "https://flash.jin10.com/detail/20260424022327296800",
+          "title": "周四（4月23日）纽约尾盘，美国10年期国债收益率涨1.99个基点，报4.3200%，北京时间00:58出现一波短线拉升行情——从4.29%附近涨向4.35%。 两年期美债收益率涨2.52个基点，报3.8231%，也一度从3.8%下方拉升至3.8443%；30年期美债收益率涨1.53个基点，报4.9193%。",
+          "url": "https://wallstreetcn.com/livenews/3093496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：再生元公司同意以最惠国价格提供处方药。",
+          "url": "https://flash.jin10.com/detail/20260424031401550800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时05分"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%。 美国中央司令部称，“布什”号航母正在中央司令部辖区执行任务。",
@@ -249,7 +369,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -265,15 +385,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国总统特朗普：对于那些读者比以往任何时候都少、仍在阅读即将倒闭的《纽约时报》或观看假新闻CNN、认为我“急于”结束（如果这能称为“战争”的话）对伊朗战争的人，请知悉，我可能是历任处于这个位置上压力最小的人。",
-          "url": "https://flash.jin10.com/detail/20260424022259449800",
-          "source": "金十数据",
+          "title": "美国新任驻委内瑞拉代办到任",
+          "url": "https://wallstreetcn.com/livenews/3093492",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时05分"
         },
         {
           "title": "美国司法部声明：内部监督机构将审查部门公开爱泼斯坦文件的相关情况。",
@@ -287,15 +407,48 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国国家运输安全委员会表示，数据证实，在纽约机场加拿大航空快运飞机与消防车相撞前，跑道安全系统未能激活。",
+          "url": "https://flash.jin10.com/detail/20260424025956001800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.637万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3093489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "美国中央司令部：“布什”号航母正在中央司令部辖区执行任务。",
           "url": "https://flash.jin10.com/detail/20260424020936092800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：Regeneron（再生元）将在美国制药领域投资270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3093487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "美国商务部长：特朗普金卡签证项目迄今只有一人获批",
@@ -320,6 +473,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "一名美国国防官员表示，美国与伊朗的停火状态没有改变。",
+          "url": "https://flash.jin10.com/detail/20260424024104472800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "赫伯罗特首席执行官：近几个月美国关税的影响较为有限。",
           "url": "https://flash.jin10.com/detail/20260423235858912800",
           "source": "金十数据",
@@ -342,6 +506,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国司法部将医用大麻重新归类为低危险性毒品",
+          "url": "https://wallstreetcn.com/livenews/3093481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "美国商务部长卢特尼克：已有一人获批“金卡”，另有数百人在排队等候。",
           "url": "https://flash.jin10.com/detail/20260423235525104800",
           "source": "金十数据",
@@ -359,7 +534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -370,7 +545,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -403,20 +578,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国一女子28年不剪指甲",
-          "url": "https://www.toutiao.com/trending/7631620269232898058/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时58分"
         },
         {
           "title": "报道：微软向约7%的美国员工提供自愿退休方案",
@@ -436,7 +600,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -447,7 +611,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -458,7 +622,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
