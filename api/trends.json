@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-04-25T00:47:44.882069+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T01:45:11.045264+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 16,
+      "match_count": 32,
       "titles": [
         {
           "title": "微软向 7% 的美国员工提供自愿退休方案，工龄与年龄之和需达 70，如何看待这个设计？是变相「裁员」吗？",
           "url": "https://www.zhihu.com/question/2030799140410619849",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "惠誉评级：美国银行业展现出稳健的盈利势头和适度的资本偏移。",
+          "url": "https://flash.jin10.com/detail/20260425011812381800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
+          "url": "https://wallstreetcn.com/livenews/3094229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "消息人士称，因在Polymarket平台上对马杜罗相关事件下注而被起诉的美国士兵，此前曾被阻止开设Kalshi平台账户。",
@@ -30,26 +53,27 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国延长“船禁”豁免90天以应对供应短缺",
-          "url": "https://wallstreetcn.com/livenews/3094212",
+          "title": "美国4月24日当周天然气钻井数 129，前值 125。",
+          "url": "https://wallstreetcn.com/livenews/3094226",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时45分"
         },
         {
-          "title": "俄罗斯外长：与西方共存与合作的前景“已成过往”",
-          "url": "https://wallstreetcn.com/livenews/3094211",
+          "title": "美国延长“船禁”豁免90天以应对供应短缺",
+          "url": "https://wallstreetcn.com/livenews/3094212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时45分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -59,41 +83,201 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国得州“僵尸油井”激增50%，催生新防漏规定",
-          "url": "https://wallstreetcn.com/livenews/3094209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
         },
         {
           "title": "臭名昭著的日本“特高课”或要重现",
           "url": "https://www.toutiao.com/trending/7631915491263561754/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
           "url": "https://wallstreetcn.com/articles/3770741",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "美国女子在印度遭民宿员工下药强奸",
+          "url": "https://www.toutiao.com/trending/7631267724748324890/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "中方三个“绝不”回应日本涉军动向",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "tplink神发言:我们是美国企业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "俄罗斯外长：与西方共存与合作的前景“已成过往”",
+          "url": "https://wallstreetcn.com/livenews/3094211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "美国得州“僵尸油井”激增50%，催生新防漏规定",
+          "url": "https://wallstreetcn.com/livenews/3094209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时45分]"
+        },
+        {
+          "title": "美国至4月24日当周天然气钻井总数 129口，前值125口。",
+          "url": "https://flash.jin10.com/detail/20260425010130789800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国4月24日当周总钻井数 544，前值 543。",
+          "url": "https://wallstreetcn.com/livenews/3094227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国至4月24日当周总钻井总数 544口，前值543口。",
+          "url": "https://flash.jin10.com/detail/20260425010126183800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国4月24日当周石油钻井数 407，前值 410。",
+          "url": "https://wallstreetcn.com/livenews/3094225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国至4月24日当周石油钻井总数 407口，前值410口。",
+          "url": "https://flash.jin10.com/detail/20260425010119007800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国共和党参议员蒂姆·斯科特邀请美联储监察长就大楼翻新调查向参议院委员会作简要说明。",
+          "url": "https://flash.jin10.com/detail/20260425010015043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "SpaceX、洛克希德-马丁公司、General Dynamics、Anduril等公司成为美国“金穹”的承包商，合同金额至多32亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3094221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "欧盟委员会副主席塞夫科维奇：从美国官员处了解到，制裁被放宽是因为一些低收入国家面临极其困难的局面。",
+          "url": "https://flash.jin10.com/detail/20260425005931027800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "核反应堆科技公司X-Energy Inc.（XE）美国IPO首日开盘报30.11美元，此前给出的IPO发行价为每股23美元。 该公司预计，2026年将为第一家核电站发放NRC许可证。",
+          "url": "https://wallstreetcn.com/livenews/3094220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "欧盟委员会副主席塞夫科维奇：在与贝森特讨论期间提出了美国放松对俄罗斯石油制裁的问题，并了解到未来不会再出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260425005845206800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "美国司法部：指控科罗拉多州法律违反第十四修正案。",
@@ -107,6 +291,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "欧盟官员Sefcovic：会见了美国财长贝森特，讨论了能源安全合作问题。",
+          "url": "https://wallstreetcn.com/livenews/3094217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
           "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
           "url": "https://flash.jin10.com/detail/20260424235828766800",
           "source": "金十数据",
@@ -118,26 +313,26 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国女子在印度遭民宿员工下药强奸",
-          "url": "https://www.toutiao.com/trending/7631267724748324890/",
-          "source": "今日头条",
+          "title": "美国至4月24日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260425005000002800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时45分"
         },
         {
-          "title": "中方三个“绝不”回应日本涉军动向",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%89%E4%B8%AA%E2%80%9C%E7%BB%9D%E4%B8%8D%E2%80%9D%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B6%89%E5%86%9B%E5%8A%A8%E5%90%91",
-          "source": "百度热搜",
+          "title": "欧盟委员会副主席塞夫科维奇：与美国财长贝森特讨论了肥料供应中断问题及非洲的严峻形势。",
+          "url": "https://flash.jin10.com/detail/20260425004959299800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时45分"
         },
         {
           "title": "市场消息：美国司法部介入xAI就科罗拉多州法律提起的诉讼。",
@@ -156,17 +351,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "tplink神发言:我们是美国企业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -197,8 +381,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
         }
       ]
     }
