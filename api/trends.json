@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-26T09:56:26.075380+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-04-26T12:54:56.991723+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 71,
+      "match_count": 93,
       "titles": [
-        {
-          "title": "赛博抗日升级,日本人破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353730&amp;topic_name=%E8%B5%9B%E5%8D%9A%E6%8A%97%E6%97%A5%E5%8D%87%E7%BA%A7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时56分]"
-        },
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
           "url": "https://news.ifeng.com/c/8sbUcjlB3YO",
@@ -53,6 +42,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时56分]"
+        },
+        {
+          "title": "赛博抗日升级,日本人破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353730&amp;topic_name=%E8%B5%9B%E5%8D%9A%E6%8A%97%E6%97%A5%E5%8D%87%E7%BA%A7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 12时54分]"
         },
         {
           "title": "美国富豪巨资非洲打猎被5头大象踩死",
@@ -94,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 12时54分]"
         },
         {
           "title": "美国防长称美军每年都应获和平奖遭网友批评",
@@ -106,8 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 12时54分]"
         },
         {
           "title": "美国为何害怕中国大蒜",
@@ -171,6 +172,30 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "美国白宫晚宴发生枪击事件",
+          "url": "https://www.douyin.com/hot/2479312",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 12时54分]"
+        },
+        {
+          "title": "美国白宫记者晚宴发生枪击事件",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 12时54分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗将通过巴基斯坦作为调解方与美国进行间接磋商。伊朗方面表示，希望达成一项旨在“彻底终结战争”的框架协议。",
           "url": "https://flash.jin10.com/detail/20260426055139108800",
           "source": "金十数据",
@@ -205,20 +230,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
         {
-          "title": "美国白宫晚宴发生枪击事件",
-          "url": "https://www.douyin.com/hot/2479312",
-          "source": "抖音",
+          "title": "美国白宫记者晚宴发生枪击事件，特朗普被紧急撤离，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2031656383213302686",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国白宫记者晚宴发生枪击事件，据称枪手已身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056715",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "12时54分"
         },
         {
           "title": "美国总统特朗普：他们（晚宴工作人员）会很快做出决定。无论那个决定是什么，今晚的活动都会与计划大相径庭，我们只好再来一次。",
@@ -227,29 +263,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "美国白宫记者晚宴发生枪击事件",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "美国白宫记者晚宴大厅发生枪击事件，枪手已身亡。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3094425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -260,7 +274,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -379,6 +393,18 @@
           "time_info": "[01时33分 ~ 02时39分]"
         },
         {
+          "title": "美国白宫记者晚宴大厅发生枪击事件，枪手已身亡。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3094425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 12时54分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
           "url": "https://flash.jin10.com/detail/20260426033155583800",
           "source": "金十数据",
@@ -428,6 +454,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时31分]"
+        },
+        {
+          "title": "日本政府拟修改自卫队“官阶”名称引质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 12时54分]"
         },
         {
           "title": "美国总统谈及鲍威尔：我想要弄明白的是，一栋我花2500万美元就能够建造的大楼，为何造价竟高达40亿美元？这可是个非常重大的问题，当时他负责此事——我们肯定会彻查到底。",
@@ -542,16 +581,16 @@
           "time_info": "[01时33分 ~ 02时39分]"
         },
         {
-          "title": "日本政府拟修改自卫队“官阶”名称引质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
-          "source": "澎湃新闻",
+          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3094421",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            10
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时56分]"
+          "time_info": "[09时56分 ~ 12时54分]"
         },
         {
           "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
@@ -680,7 +719,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -691,20 +730,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
         {
-          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
-          "url": "https://wallstreetcn.com/livenews/3094421",
+          "title": "美国华盛顿特区市长：（就白宫记者晚宴安全事件表示）一名持枪男子在大厅冲向特勤局人员，被一名特勤局特工制止。没有理由相信还有其他涉案人员。",
+          "url": "https://flash.jin10.com/detail/20260426114655843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
+          "url": "https://wallstreetcn.com/livenews/3094436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "12时54分"
         },
         {
           "title": "美国白宫记者晚宴传出枪声",
@@ -713,7 +763,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -740,6 +790,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "据美联社：美国联邦检察官表示，白宫记者晚宴枪击案嫌疑人已被控以持枪和袭击罪名。",
+          "url": "https://flash.jin10.com/detail/20260426112848257800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "俄罗斯国防部：在过去六小时内，我们在俄罗斯多个地区上空击落了22架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20260426014834137800",
           "source": "金十数据",
@@ -757,9 +818,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "西班牙人士：必须高度警惕日本政府放宽武器出口限制等举动",
+          "url": "https://flash.jin10.com/detail/20260426112749025800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在白宫召开的记者会结束。",
+          "url": "https://flash.jin10.com/detail/20260426110502097800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：这起事件不会阻止我在伊朗战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260426110401312800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
@@ -779,9 +873,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "台胞打卡青岛：大陆厉害得像科幻片",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E8%83%9E%E6%89%93%E5%8D%A1%E9%9D%92%E5%B2%9B%EF%BC%9A%E5%A4%A7%E9%99%86%E5%8E%89%E5%AE%B3%E5%BE%97%E5%83%8F%E7%A7%91%E5%B9%BB%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "报道：伊巴会谈未获任何突破 美国访巴日期未定",
@@ -806,6 +911,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美国总统特朗普：今晚他们布防周全，一切都在掌控之中。",
+          "url": "https://flash.jin10.com/detail/20260426105652859800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "伊朗外交部长：尚未看到美国是否真正重视外交。",
           "url": "https://flash.jin10.com/detail/20260426003813761800",
           "source": "金十数据",
@@ -823,9 +939,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国总统特朗普：他们认为他是独狼式袭击者，我也这么认为。",
+          "url": "https://flash.jin10.com/detail/20260426105648444800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：（在被问及自己是否是袭击目标时表示）我猜是吧。",
+          "url": "https://flash.jin10.com/detail/20260426105642028800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：现场安保非常严密。",
+          "url": "https://flash.jin10.com/detail/20260426105629953800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：（在被问及枪击事件是否与伊朗冲突有关时表示）我不这么认为。",
+          "url": "https://flash.jin10.com/detail/20260426105452412800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "据新德里电视台：消息人士称，伊朗-美国第二轮谈判定于4月27日举行。",
@@ -845,9 +1005,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "加拿大总理卡尼：很欣慰得知美国总统特朗普、第一夫人和所有嘉宾在今晚白宫记者晚宴的枪击事件中都安然无恙。",
+          "url": "https://flash.jin10.com/detail/20260426105156360800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：执法部门正在申请搜查令。调查仍在进行中，将尽快对枪击事件提起指控。",
+          "url": "https://flash.jin10.com/detail/20260426104534751800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "俄罗斯任命的地区负责人表示，乌克兰卢甘斯克地区发生夜间袭击，造成三人遇难，两人受伤 - 塔斯社引述。",
@@ -859,6 +1041,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台表示，如果不能通过《拯救美国法案》，将会导致美国参议院历史上某个政党面临最糟糕的结果——那将是一种无法挽回的亡命之愿！！！同样，对于“冗长辩论阻挠议事程序”——现在就终止它！！！",
+          "url": "https://flash.jin10.com/detail/20260426104413765800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：（嫌疑人）很可能是单独行动的，但我们会查清楚。",
+          "url": "https://flash.jin10.com/detail/20260426104257159800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普感谢第一夫人梅拉尼娅·特朗普，并表示这是一次创伤性的事件。",
+          "url": "https://flash.jin10.com/detail/20260426104113753800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：嫌疑人来自加利福尼亚州。",
+          "url": "https://flash.jin10.com/detail/20260426104032088800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：我和第一夫人被迅速带离舞台。",
+          "url": "https://flash.jin10.com/detail/20260426104028056800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国总统特朗普：嫌疑人已被完全制服；呼吁美国人民以和平方式解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260426104021846800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -873,7 +1121,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
