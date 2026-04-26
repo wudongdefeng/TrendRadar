@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:34:48.707016+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-04-26T20:46:01.321981+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 123,
+      "match_count": 145,
       "titles": [
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -48,11 +48,12 @@
           "url": "https://www.zhihu.com/question/2031656383213302686",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时54分 ~ 20时46分]"
         },
         {
           "title": "美国白宫记者晚宴发生枪击事件",
@@ -61,11 +62,12 @@
           "ranks": [
             4,
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 20时46分]"
         },
         {
           "title": "美国富豪巨资非洲打猎被5头大象踩死",
@@ -109,22 +111,12 @@
             7,
             8,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 19时34分]"
-        },
-        {
-          "title": "国际人士：日本对中国仍有一笔欠债",
-          "url": "https://www.toutiao.com/trending/7632477841964548123/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 20时46分]"
         },
         {
           "title": "美国富豪非洲打猎被5头大象踩死",
@@ -194,6 +186,18 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "国际人士：日本对中国仍有一笔欠债",
+          "url": "https://www.toutiao.com/trending/7632477841964548123/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 20时46分]"
+        },
+        {
           "title": "美国白宫晚宴发生枪击事件",
           "url": "https://www.douyin.com/hot/2479312",
           "source": "抖音",
@@ -215,6 +219,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "美国迎接英国国王，却挂错了国旗",
+          "url": "https://news.ifeng.com/c/8sdQ2k3hg7i",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 20时46分]"
         },
         {
           "title": "日本大槌町山火逼近住宅区",
@@ -250,17 +265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时38分 ~ 19时34分]"
-        },
-        {
-          "title": "美国迎接英国国王，却挂错了国旗",
-          "url": "https://news.ifeng.com/c/8sdQ2k3hg7i",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 19时34分]"
         },
         {
           "title": "美国白宫记者晚宴发生枪击事件，据称有一名嫌疑人被捕",
@@ -313,6 +317,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "科威特外交部：科威特谴责此次企图武装闯入美国总统出席活动所在会场的行为。",
+          "url": "https://flash.jin10.com/detail/20260426201056394800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "俄总统新闻秘书：俄罗斯不可能成为欧洲的威胁",
           "url": "https://wallstreetcn.com/livenews/3094488",
           "source": "华尔街见闻-快讯",
@@ -351,15 +366,15 @@
           "time_info": "12时54分"
         },
         {
-          "title": "伊朗外交部：伊朗外长阿拉格齐强调，地区国家需要建立不受“美国干预”的集体安全机制。",
-          "url": "https://flash.jin10.com/detail/20260426191702240800",
-          "source": "金十数据",
+          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3094509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时46分"
         },
         {
           "title": "美国白宫记者晚宴大厅发生枪击事件，枪手已身亡。（央视新闻）",
@@ -388,15 +403,37 @@
           "time_info": "09时56分"
         },
         {
-          "title": "伊朗：已成功摧毁三枚美国巨型钻地弹",
-          "url": "https://wallstreetcn.com/livenews/3094494",
+          "title": "美国代理司法部长布兰奇：对英国查尔斯国王在访问期间的安全充满信心。",
+          "url": "https://flash.jin10.com/detail/20260426200248706800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗外长：呼吁建立“不受美国干预”的集体安全机制",
+          "url": "https://wallstreetcn.com/livenews/3094508",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗外长呼吁建立“不受美国干预”的集体安全机制",
+          "url": "https://flash.jin10.com/detail/20260426200021680800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时46分"
         },
         {
           "title": "市场消息：据悉美国特勤局不希望特朗普回到晚宴现场，但特朗普坚持要回去。",
@@ -410,15 +447,15 @@
           "time_info": "09时56分"
         },
         {
-          "title": "恒力石化：从未与伊朗发生任何贸易往来，美国财政部此次将恒力炼化列入SDN清单的决定缺乏事实与法律依据",
-          "url": "https://wallstreetcn.com/livenews/3094491",
-          "source": "华尔街见闻-快讯",
+          "title": "美国代理司法部长布兰奇：不确定（枪击案）是否与伊朗有关。",
+          "url": "https://flash.jin10.com/detail/20260426195852525800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
@@ -446,6 +483,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时31分]"
+        },
+        {
+          "title": "俄罗斯沃洛格达州一化肥厂在乌克兰无人机袭击中受损",
+          "url": "https://wallstreetcn.com/livenews/3094485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时46分]"
         },
         {
           "title": "美国中央司令部：在阿拉伯海拦截了一艘与伊朗有关的船只。",
@@ -484,18 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时33分]"
-        },
-        {
-          "title": "俄罗斯沃洛格达州一化肥厂在乌克兰无人机袭击中受损",
-          "url": "https://wallstreetcn.com/livenews/3094485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时34分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长与美国谈判代表进行了电话沟通，讨论了伊朗与美国谈判的最新进展。",
@@ -546,6 +584,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 16时14分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐强调，地区国家需要建立不受“美国干预”的集体安全机制。",
+          "url": "https://flash.jin10.com/detail/20260426191702240800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时46分]"
         },
         {
           "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
@@ -622,6 +672,18 @@
           "time_info": "[18时39分 ~ 19时34分]"
         },
         {
+          "title": "伊朗：已成功摧毁三枚美国巨型钻地弹",
+          "url": "https://wallstreetcn.com/livenews/3094494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时46分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
           "url": "https://flash.jin10.com/detail/20260426033155583800",
           "source": "金十数据",
@@ -672,6 +734,18 @@
           "time_info": "[14时56分 ~ 16时14分]"
         },
         {
+          "title": "恒力石化：从未与伊朗发生任何贸易往来，美国财政部此次将恒力炼化列入SDN清单的决定缺乏事实与法律依据",
+          "url": "https://wallstreetcn.com/livenews/3094491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时46分]"
+        },
+        {
           "title": "以军总参谋长建议告知美国应重启对伊朗打击",
           "url": "https://wallstreetcn.com/livenews/3094421",
           "source": "华尔街见闻-快讯",
@@ -684,6 +758,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 16时14分]"
+        },
+        {
+          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时46分]"
         },
         {
           "title": "美国网友质疑为什么先救万斯",
@@ -788,6 +874,17 @@
           "time_info": "[18时38分 ~ 19时34分]"
         },
         {
+          "title": "伊朗：已成功摧毁3枚美国巨型钻地弹",
+          "url": "https://news.ifeng.com/c/8sdwwvxNzJq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
           "url": "https://flash.jin10.com/detail/20260426001239377800",
           "source": "金十数据",
@@ -872,6 +969,18 @@
           "time_info": "[18时39分 ~ 19时34分]"
         },
         {
+          "title": "佩斯科夫：俄罗斯是欧洲不可分割的一部分，不可能成其主要威胁",
+          "url": "https://wallstreetcn.com/livenews/3094488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时46分]"
+        },
+        {
           "title": "据美联社：美国联邦检察官表示，白宫记者晚宴枪击案嫌疑人已被控以持枪和袭击罪名。",
           "url": "https://flash.jin10.com/detail/20260426112848257800",
           "source": "金十数据",
@@ -906,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 14时56分]"
+        },
+        {
+          "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
+          "url": "https://www.toutiao.com/trending/7632586297932238355/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫召开的记者会结束。",
@@ -1123,6 +1243,28 @@
           "time_info": "[03时39分 ~ 04时31分]"
         },
         {
+          "title": "美前高官：美国软实力正被推下悬崖",
+          "url": "https://www.toutiao.com/trending/7632992840431271978/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
+          "title": "日本2025年“孤独死”人数超2.2万人",
+          "url": "https://www.toutiao.com/trending/7632657005996359699/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "美国对伊朗实施最大程度经济封锁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%B0%81%E9%94%81%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1135,15 +1277,15 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
-          "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E6%88%90%E5%8A%9F%E6%91%A7%E6%AF%813%E6%9E%9A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%9C%B0%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "美国代理司法部长布兰奇：嫌疑人将面临多项指控，包括袭击联邦执法人员、开枪以及企图杀害联邦执法人员。",
+          "url": "https://flash.jin10.com/detail/20260426195821642800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
@@ -1152,9 +1294,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：他将于周一上午在联邦法院接受起诉。",
+          "url": "https://flash.jin10.com/detail/20260426195750085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "牵涉黑石、阿波罗等巨头数十亿美元贷款！两笔违约加剧美国私募信贷困境",
@@ -1179,15 +1332,15 @@
           "time_info": "09时56分"
         },
         {
-          "title": "佩斯科夫：俄罗斯是欧洲不可分割的一部分，不可能成其主要威胁",
-          "url": "https://wallstreetcn.com/livenews/3094488",
-          "source": "华尔街见闻-快讯",
+          "title": "美国代理司法部长布兰奇：目前看来嫌疑人并未配合调查。",
+          "url": "https://flash.jin10.com/detail/20260426195737272800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时46分"
         },
         {
           "title": "美国白宫记者晚宴传出枪声",
@@ -1207,9 +1360,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：相信嫌疑人当时（住）在酒店内。",
+          "url": "https://flash.jin10.com/detail/20260426195523202800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗外交部：外交部长阿拉格齐与阿曼苏丹讨论安全问题、霍尔木兹海峡的安全、以及地区安全。 伊朗外长强调，地区国家有必要构建摆脱“美国干预”的集体安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3094498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：特朗普称，不派美国代表团去巴基斯坦“并不意味着要与伊朗开战。",
@@ -1240,9 +1415,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：他可能是瞄准了总统。",
+          "url": "https://flash.jin10.com/detail/20260426195347722800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "俄罗斯国防部：在过去六小时内，我们在俄罗斯多个地区上空击落了22架乌克兰无人机。",
@@ -1273,9 +1459,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：我们知晓曾存在相关文书记录。",
+          "url": "https://flash.jin10.com/detail/20260426195331209800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：认为嫌疑人瞄准了政府官员。",
+          "url": "https://flash.jin10.com/detail/20260426195259486800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：相信嫌疑人在过去几年购买了两支枪支。",
+          "url": "https://flash.jin10.com/detail/20260426195242512800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
@@ -1300,6 +1519,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "美国代理司法部长布兰奇：相信嫌疑人是通过火车从洛杉矶前往芝加哥，再到华盛顿特区。",
+          "url": "https://flash.jin10.com/detail/20260426195137779800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：在白宫记者晚宴的枪击事件中，嫌疑人至少开了五到八枪。",
           "url": "https://flash.jin10.com/detail/20260426142502762800",
           "source": "金十数据",
@@ -1309,6 +1539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "据NBC新闻：美国代理司法部长布兰奇表示，已对涉嫌在白宫记者晚宴上开枪的嫌疑人执行了搜查令。",
+          "url": "https://flash.jin10.com/detail/20260426195110723800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "报道：伊巴会谈未获任何突破 美国访巴日期未定",
@@ -1353,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：与美国总统特朗普进行了通话，以表达我对其遭遇袭击后的声援。",
+          "url": "https://flash.jin10.com/detail/20260426193425378800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "据新德里电视台：消息人士称，伊朗-美国第二轮谈判定于4月27日举行。",
