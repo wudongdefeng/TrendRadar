@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-04-28T00:28:25.743329+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-28T02:02:18.126101+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 29,
+      "match_count": 53,
       "titles": [
-        {
-          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
-          "url": "https://flash.jin10.com/detail/20260428000212502800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
         {
           "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
           "url": "https://v.ifeng.com/c/8sfUke8wwXP",
@@ -37,15 +15,15 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
         },
         {
-          "title": "日本就“安保三文件”修订召开首次专家会议",
-          "url": "https://wallstreetcn.com/livenews/3095138",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +41,28 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
+          "url": "https://flash.jin10.com/detail/20260428014452640800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国最高法院在拜耳试图限制州法院诉讼的请求上似乎存在分歧，这些诉讼指控其除草剂“农达”会引发癌症。",
+          "url": "https://wallstreetcn.com/livenews/3095164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
@@ -72,6 +72,88 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
+          "url": "https://wallstreetcn.com/livenews/3095163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
+        },
+        {
+          "title": "日本就“安保三文件”修订召开首次专家会议",
+          "url": "https://wallstreetcn.com/livenews/3095138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
+        },
+        {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
+        },
+        {
+          "title": "张雪：中国摩托未来必将取代日本品牌",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E6%9C%AA%E6%9D%A5%E5%BF%85%E5%B0%86%E5%8F%96%E4%BB%A3%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
+        },
+        {
+          "title": "千亿民营炼化巨头子公司突遭美国制裁，公司澄清：无端指控、坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062293",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
+        },
+        {
+          "title": "日本人不愿相信中国座椅给手机充电",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时02分]"
         },
         {
           "title": "伊斯兰革命卫队政治副司令贾瓦尼：美国人永远无法通过军事手段打开霍尔木兹海峡，而伊朗通过关闭该海峡并作出对等回应，已使华盛顿陷入困境。",
@@ -85,6 +167,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
+          "url": "https://wallstreetcn.com/livenews/3095162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "伊斯兰革命卫队政治副司令贾瓦尼警告称，紧张局势持续升级可能导致更大范围的危机。当前局势已暴露出美国影响力和实力的真实边界。",
           "url": "https://flash.jin10.com/detail/20260427234933108800",
           "source": "金十数据",
@@ -94,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
+          "url": "https://flash.jin10.com/detail/20260428012929234800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们感谢俄罗斯朋友在这场战争中给予的支持，并宣布伊朗愿在新的条件下继续与俄罗斯保持战略关系以及战略伙伴关系。",
@@ -118,6 +222,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国总统特朗普：吉米·基梅尔应立即被迪士尼和美国广播公司解雇。",
+          "url": "https://flash.jin10.com/detail/20260428012819698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：会谈涵盖了双边关系、地区问题以及有关美国政权和以色列的战争与侵略行为等诸多议题，并且对所有这些内容都进行了详细的讨论和回顾。",
           "url": "https://flash.jin10.com/detail/20260427234714326800",
           "source": "金十数据",
@@ -127,6 +242,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.590%，投标倍数3.09。",
+          "url": "https://wallstreetcn.com/livenews/3095156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.955%（3月25日为3.980%），投标倍数2.33（前次为2.29）。",
+          "url": "https://wallstreetcn.com/livenews/3095155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
+          "url": "https://flash.jin10.com/detail/20260428012607940800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国财政部拍卖六个月期国债，得标利率3.590%，投标倍数2.95。",
@@ -140,6 +288,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "委内瑞拉中央银行表示，该行与美国均已聘请机构对境外资产进行审计，以确保公正性。",
+          "url": "https://flash.jin10.com/detail/20260428012423922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
           "url": "https://wallstreetcn.com/livenews/3095125",
           "source": "华尔街见闻-快讯",
@@ -151,15 +310,26 @@
           "time_info": "00时28分"
         },
         {
-          "title": "千亿民营炼化巨头子公司突遭美国制裁，公司澄清：无端指控、坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062293",
-          "source": "澎湃新闻",
+          "title": "美国白宫：特朗普的红线已经明确。",
+          "url": "https://flash.jin10.com/detail/20260428012403221800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国白宫：正在讨论伊朗的提议。",
+          "url": "https://flash.jin10.com/detail/20260428012342837800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "伊朗外交部：伊朗外长告诉俄罗斯总统普京，美国的“破坏性习惯”、“不合理要求”以及频繁的立场变化正在拖慢外交进展。",
@@ -173,6 +343,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",
+          "url": "https://flash.jin10.com/detail/20260428012324673800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国至4月27日2年期国债竞拍-得标利率配置百分比 4.28%，前值20.78%。",
           "url": "https://flash.jin10.com/detail/20260427233711027800",
           "source": "金十数据",
@@ -184,15 +365,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "张雪：中国摩托未来必将取代日本品牌",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E6%9C%AA%E6%9D%A5%E5%BF%85%E5%B0%86%E5%8F%96%E4%BB%A3%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C",
-          "source": "百度热搜",
+          "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
+          "url": "https://wallstreetcn.com/livenews/3095149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "02时02分"
         },
         {
           "title": "美国至4月27日2年期国债竞拍-投标倍数 2.65，前值2.44。",
@@ -204,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将参加重新安排的晚宴。",
+          "url": "https://flash.jin10.com/detail/20260428012255093800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国战争部长赫格塞思将于周四参加参议院一个委员会的听证会，届时将被问及五角大楼的预算请求。（PunchBowl）",
@@ -228,31 +420,53 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
+          "title": "美国白宫：我们必须尽快完成建设。",
+          "url": "https://flash.jin10.com/detail/20260428012244912800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
+          "url": "https://wallstreetcn.com/livenews/3095147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国白宫：白宫新宴会厅对国家安全至关重要。",
+          "url": "https://flash.jin10.com/detail/20260428012229226800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国最高法院在拜耳寻求限制州法院诉讼一案上似乎存在分歧；相关诉讼指控其除草剂“农达”（Roundup）致癌。",
+          "url": "https://flash.jin10.com/detail/20260428012201216800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
           "url": "https://wallstreetcn.com/livenews/3095117",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "日本人不愿相信中国座椅给手机充电",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=22&Refer=top",
-          "source": "微博",
           "ranks": [
             22
           ],
@@ -283,6 +497,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "俄罗斯财政部长警告地区预算压力与债务上升",
+          "url": "https://wallstreetcn.com/livenews/3095144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国至4月27日6个月国债竞拍-投标倍数 2.95，前值2.89。",
           "url": "https://flash.jin10.com/detail/20260427233206538801",
           "source": "金十数据",
@@ -292,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普认为新闻晚宴的安全措施有效。",
+          "url": "https://flash.jin10.com/detail/20260428011948774800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国至4月27日6个月国债竞拍-得标利率配置百分比 75.92%，前值91.11%。",
@@ -305,6 +541,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
+          "url": "https://wallstreetcn.com/livenews/3095142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国至4月27日6个月国债竞拍-得标利率 3.59%，前值3.59%。",
           "url": "https://flash.jin10.com/detail/20260427233206526800",
           "source": "金十数据",
@@ -316,6 +563,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "在联合国，美国呼吁组建“海洋自由联盟”以维护霍尔木兹海峡的安全。",
+          "url": "https://flash.jin10.com/detail/20260428011709889800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国国务卿卢比奥：美国无法容忍伊朗将控制霍尔木兹海峡的做法常态化。",
           "url": "https://wallstreetcn.com/livenews/3095110",
           "source": "华尔街见闻-快讯",
@@ -325,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国白宫：将召开由幕僚长主持的会议，参与者包括特勤局和国土安全部的工作人员，讨论安全问题。会议将在本周早些时候举行。",
+          "url": "https://flash.jin10.com/detail/20260428011500322800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
