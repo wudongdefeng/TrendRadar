@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:44:59.013942+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-28T10:06:18.701096+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 98,
+      "match_count": 112,
       "titles": [
         {
           "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
@@ -41,11 +41,12 @@
           "ranks": [
             15,
             16,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 10时06分]"
         },
         {
           "title": "日本人不愿相信中国座椅给手机充电",
@@ -78,7 +79,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普政府解散美国国家科学委员会 全体成员被撤职",
+          "url": "https://wallstreetcn.com/livenews/3095354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国务卿鲁比奥：美国不会允许伊朗控制霍尔木兹海峡",
@@ -124,7 +136,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -138,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
@@ -168,7 +202,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -294,6 +328,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
+          "url": "https://www.cls.cn/detail/2357269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 10时06分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
@@ -449,6 +495,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "日本央行明日开会：加息预期归零，但这才是危险的开始",
+          "url": "https://wallstreetcn.com/articles/3770991",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "伊斯兰革命卫队政治副司令贾瓦尼警告称，紧张局势持续升级可能导致更大范围的危机。当前局势已暴露出美国影响力和实力的真实边界。",
           "url": "https://flash.jin10.com/detail/20260427234933108800",
           "source": "金十数据",
@@ -537,15 +605,15 @@
           "time_info": "04时05分"
         },
         {
-          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
-          "url": "https://www.cls.cn/detail/2357269",
-          "source": "财联社热门",
+          "title": "伊朗向美国提3个条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%903%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时44分"
+          "time_info": "10时06分"
         },
         {
           "title": "加总理卡尼：部分国家匆忙与美国达成的关税协议实际上毫无价值",
@@ -554,9 +622,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "金十整理：日本央行利率决议前瞻——加息时点料延至6月，季度展望或透露线索",
+          "url": "https://flash.jin10.com/detail/20260428093020289800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国内政部：Bluepoint Wind和Golden State Wind已同意终止海上风电租赁。 作为取消海上风电租赁协议的一部分，贝莱德旗下子公司将向美国液化天然气（LNG）设施投资7.65亿美元。 Golden State Wind将在向美国化石燃料项目投入等额资金后，收回1.2亿美元的海上风电租赁费。",
@@ -576,9 +655,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "伊朗外长阿拉格齐：会谈涵盖了双边关系、地区问题以及有关美国政权和以色列的战争与侵略行为等诸多议题，并且对所有这些内容都进行了详细的讨论和回顾。",
@@ -598,7 +688,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -612,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至40,029.84点。",
+          "url": "https://wallstreetcn.com/livenews/3095337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国华盛顿特区检察官皮罗：“白宫新闻晚宴枪击事件”将会出现更多指控。",
@@ -741,9 +842,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "日本代表妄议东海南海局势 中方驳斥",
+          "url": "https://www.toutiao.com/trending/7633190122363732022/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国白宫：正在讨论伊朗的提议。",
@@ -834,6 +946,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "日本央行决议前，日本财相称随时准备干预汇市",
+          "url": "https://flash.jin10.com/detail/20260428092357581800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国战争部长赫格塞思将于周四参加参议院一个委员会的听证会，届时将被问及五角大楼的预算请求。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3095120",
           "source": "华尔街见闻-快讯",
@@ -920,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开低0.2%，报39,531.93点。",
+          "url": "https://wallstreetcn.com/livenews/3095320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国最高法院在拜耳寻求限制州法院诉讼一案上似乎存在分歧；相关诉讼指控其除草剂“农达”（Roundup）致癌。",
@@ -1054,6 +1188,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "交易员重回伊战前策略 更青睐亚洲股票而非美国",
+          "url": "https://wallstreetcn.com/livenews/3095315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国至4月27日6个月国债竞拍-得标利率 3.59%，前值3.59%。",
           "url": "https://flash.jin10.com/detail/20260427233206526800",
           "source": "金十数据",
@@ -1107,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据国会山报记者：消息人士透露，美国副总统万斯原定于周四前往爱荷华州的行程已推迟至下周二。",
+          "url": "https://flash.jin10.com/detail/20260428090920725800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "普京：俄罗斯将全力推动中东尽快实现和平",
