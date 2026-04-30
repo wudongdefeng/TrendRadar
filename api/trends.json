@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T16:07:10.920633+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-04-30T18:49:22.040875+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 104,
+      "match_count": 124,
       "titles": [
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -44,11 +44,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 16时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 18时49分]"
         },
         {
           "title": "英王嘲讽美国：没英国你们在说法语",
@@ -225,6 +226,17 @@
           "time_info": "[03时11分 ~ 06时50分]"
         },
         {
+          "title": "日本民众流泪向中国道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%B5%81%E6%B3%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "据Politico：美国白宫官员将于周四前往委内瑞拉，宣布可能为石油和矿业公司运营奠定基础的协议。",
           "url": "https://flash.jin10.com/detail/20260430052943632800",
           "source": "金十数据",
@@ -280,6 +292,17 @@
           "time_info": "13时51分"
         },
         {
+          "title": "中方关于日本拥核问题的工作文件发布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "鲍威尔：石油冲击对美国的影响不如欧洲和亚洲面临的那么大。",
           "url": "https://wallstreetcn.com/livenews/3096895",
           "source": "华尔街见闻-快讯",
@@ -320,9 +343,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "世卫组织：美国还欠着会费，也看不出来想补缴",
+          "url": "https://news.ifeng.com/c/8sk3fWMxCT9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时49分]"
         },
         {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
@@ -385,15 +419,26 @@
           "time_info": "[05时54分 ~ 06时50分]"
         },
         {
-          "title": "世卫组织：美国还欠着会费，也看不出来想补缴",
-          "url": "https://news.ifeng.com/c/8sk3fWMxCT9",
+          "title": "日本纪念昭和百年，高市声称要学习先人挑战未来",
+          "url": "https://news.ifeng.com/c/8sk3JJHReBj",
           "source": "凤凰网",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时49分]"
+        },
+        {
+          "title": "日本拟向菲律宾出口护卫舰",
+          "url": "https://news.ifeng.com/c/8sk5cTawAIc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时49分]"
         },
         {
           "title": "日本东京发生持械伤人事件",
@@ -420,26 +465,16 @@
           "time_info": "[06时50分 ~ 10时07分]"
         },
         {
-          "title": "日本纪念昭和百年，高市声称要学习先人挑战未来",
-          "url": "https://news.ifeng.com/c/8sk3JJHReBj",
-          "source": "凤凰网",
+          "title": "中方评日本计划恢复“大佐”等称谓",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%AF%84%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E6%81%A2%E5%A4%8D%E2%80%9C%E5%A4%A7%E4%BD%90%E2%80%9D%E7%AD%89%E7%A7%B0%E8%B0%93",
+          "source": "百度热搜",
           "ranks": [
-            10
+            19,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时07分]"
-        },
-        {
-          "title": "日本拟向菲律宾出口护卫舰",
-          "url": "https://news.ifeng.com/c/8sk5cTawAIc",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时07分]"
+          "time_info": "[16时06分 ~ 18时49分]"
         },
         {
           "title": "美国白宫：美国国家能源主导委员会主任贾罗德·阿根周四将前往委内瑞拉，与石油、天然气和矿业高管举行会议，并会见委内瑞拉官员。",
@@ -480,17 +515,6 @@
           "title": "中方：日本拥核问题已是现实威胁",
           "url": "https://www.toutiao.com/trending/7633479152903192618/",
           "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "中方评日本计划恢复“大佐”等称谓",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%AF%84%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E6%81%A2%E5%A4%8D%E2%80%9C%E5%A4%A7%E4%BD%90%E2%80%9D%E7%AD%89%E7%A7%B0%E8%B0%93",
-          "source": "百度热搜",
           "ranks": [
             19
           ],
@@ -554,6 +578,28 @@
           "time_info": "01时20分"
         },
         {
+          "title": "中方关于日本拥核问题的工作文件",
+          "url": "https://www.douyin.com/hot/2484482",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "美国海军陆战队于周二在阿拉伯海登上了一艘名为“蓝星三号”的商船，以确认该船不会停靠伊朗港口。美国中央司令部发布的画面显示，一架直升机飞向该船，海军陆战队员随即登船。",
+          "url": "https://flash.jin10.com/detail/20260430183605035800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3096956",
           "source": "华尔街见闻-快讯",
@@ -593,7 +639,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -626,9 +672,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "外交部发布中方关于日本拥核问题的工作文件",
+          "url": "https://www.cls.cn/detail/2360837",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：没有美国存在的海湾地区将拥有光明的未来。",
+          "url": "https://flash.jin10.com/detail/20260430183454372800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国财长贝森特：鲍威尔留在美联储理事会将是非常不寻常的。",
@@ -648,9 +727,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：今天，距离世界暴君在该地区进行最大规模军事动员和侵略已经过去两个月，美国在其自身策划中遭遇了丢脸的失败，波斯湾和霍尔木兹海峡正翻开新的篇章。",
+          "url": "https://flash.jin10.com/detail/20260430183250713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "华尔街见闻消息，据接近投资方人士透露，追觅旗下AURORA智能手机正在按照640亿（约100亿美金）估值，推进新一轮融资。 据了解，追觅AURORA手机今日在美国硅谷举行发布会，苹果创始人沃兹尼亚克也作为嘉宾现身活动现场，对产品表示高度认可。",
@@ -670,7 +760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -703,9 +793,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "日本财务省：日本在四月份未干预外汇市场。",
+          "url": "https://wallstreetcn.com/livenews/3097401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国财长贝森特：我相信伊朗冲突后油价会下降。",
@@ -730,6 +831,28 @@
           "time_info": "04时55分"
         },
         {
+          "title": "乌克兰称其袭击了俄罗斯彼尔姆炼油厂。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "日本“大将”“大佐”等称谓死灰复燃，外交部质问：沉迷于重温军国主义旧梦？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083366",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美国财长贝森特：阿联酋及其他几个国家已请求货币互换额度，互换额度并非救助。",
           "url": "https://flash.jin10.com/detail/20260430044823179800",
           "source": "金十数据",
@@ -747,9 +870,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "日本首相高市早苗：将继续所有外交努力，确保所有船只通行。",
+          "url": "https://flash.jin10.com/detail/20260430183038903800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美元兑日元涨至160.47，创2024年4月份以来新高。美国30年期国债收益率达到5%，为2025年7月份以来首次。",
@@ -761,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "日本首相高市早苗与伊朗总统通电话。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3097396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "以色列总理内塔尼亚胡与美国总统特朗普进行对话。",
@@ -813,7 +958,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -838,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国财长贝森特：我们正全力以赴与伊朗达成协议。",
@@ -895,6 +1051,17 @@
           "time_info": "13时51分"
         },
         {
+          "title": "国防部回应辽宁舰过航台湾海峡",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "市场消息：美国最高法院似乎对特朗普政府撤销对叙利亚人和海地人的人道主义驱逐保护措施表示理解。",
           "url": "https://flash.jin10.com/detail/20260430002032969800",
           "source": "金十数据",
@@ -937,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "日本首相高市早苗：我已努力确保与日本相关的船只通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260430182642757800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（4月29日），美国科技股七巨头（Magnificent 7）指数收跌0.55%，报213.57点，美股早盘冲高回落——北京时间22:37前后短暂地微幅上涨，后半段交易时间低位持稳。 “超大”市值科技股指数涨0.34%，报417.57点，呈现出两波V形反转行情。",
@@ -994,6 +1172,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美国防部长被追着骂了一路",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%A2%AB%E8%BF%BD%E7%9D%80%E9%AA%82%E4%BA%86%E4%B8%80%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "法国小伙将携日本侵华军事档案回国",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%B0%86%E6%90%BA%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E5%86%9B%E4%BA%8B%E6%A1%A3%E6%A1%88%E5%9B%9E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -1049,6 +1238,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "日本首相高市早苗：与伊朗总统佩泽希齐扬进行了电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260430182224413800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美国参议院民主党成员Warren：呼吁美联储撤销压力测试建议。",
           "url": "https://wallstreetcn.com/livenews/3096807",
           "source": "华尔街见闻-快讯",
@@ -1093,6 +1293,17 @@
           "time_info": "13时51分"
         },
         {
+          "title": "国防部回应日本作战力量登陆菲律宾",
+          "url": "https://www.toutiao.com/trending/7634074244712009279/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "日本民众为南京大屠杀流泪致歉",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1124,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "国防部回应日本作战力量登陆菲律宾",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E4%BD%9C%E6%88%98%E5%8A%9B%E9%87%8F%E7%99%BB%E9%99%86%E8%8F%B2%E5%BE%8B%E5%AE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国佛州批准新国会选区划分方案",
