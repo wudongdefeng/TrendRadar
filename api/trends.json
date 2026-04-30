@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:52:55.783269+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-01T05:51:18.593137+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 83,
+      "match_count": 89,
       "titles": [
         {
           "title": "俄罗斯强硬表态：追查日本罪行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "何立峰与美国财政部长视频通话",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "众议院议长称美国“并未处于战争状态”，国会没必要介入",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时51分]"
         },
         {
           "title": "中方关于日本拥核问题的工作文件发布",
@@ -69,11 +69,48 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "梅德韦杰夫：美国无法扮演有效调解人角色",
+          "url": "https://news.ifeng.com/c/8sknY6MWiHM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "日本大米真的很好吃吗？有人说光吃日本白米饭都能吃的很香?",
+          "url": "https://www.zhihu.com/question/2030292281123681263",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -88,6 +125,20 @@
           "time_info": "[01时10分 ~ 03时08分]"
         },
         {
+          "title": "日本民众流泪向中国道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%B5%81%E6%B3%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
           "title": "美国总统特朗普签署联邦合同相关命令。",
           "url": "https://flash.jin10.com/detail/20260501025944555800",
           "source": "金十数据",
@@ -99,15 +150,138 @@
           "time_info": "03时08分"
         },
         {
-          "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
-          "url": "https://wallstreetcn.com/livenews/3097712",
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
+          "url": "https://wallstreetcn.com/livenews/3097732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时51分"
+        },
+        {
+          "title": "美国为支付联合国会费开涉华条件",
+          "url": "https://www.toutiao.com/trending/7633803986403164210/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "中方代表：美国重新定义了“诚意”",
+          "url": "https://www.toutiao.com/trending/7634428067154722826/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "歼15喊话日本军机：你在我射程之内",
+          "url": "https://www.toutiao.com/trending/7633289620521009198/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "日本“大将”“大佐”等称谓死灰复燃，外交部质问：沉迷于重温军国主义旧梦？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083366",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "国防部回应台湾退役舰长想看福建舰",
+          "url": "https://www.toutiao.com/trending/7633708368184016950/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "日本民众为侵略历史流泪向中国道歉",
+          "url": "https://www.toutiao.com/trending/7634485585935257139/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
+        },
+        {
+          "title": "偷国再现,宇树机器狗成日本货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
@@ -119,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
-          "url": "https://flash.jin10.com/detail/20260501042353967800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         },
         {
           "title": "市场消息：美国总统特朗普今天将签署一项行政命令，以扩大没有雇主提供退休计划的美国人对退休储蓄账户的使用。",
@@ -160,20 +323,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "梅德韦杰夫：美国无法扮演有效调解人角色",
-          "url": "https://news.ifeng.com/c/8sknY6MWiHM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -198,6 +350,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
+          "url": "https://flash.jin10.com/detail/20260501052231391800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
           "title": "Pershing Square USA（PSUS）美国IPO第二个交易日盘中涨超7.2%，对冲基金经理比尔·阿克曼买入了50万股PSUS股票和80万股潘兴广场（Pershing Square Inc.）股票。",
           "url": "https://wallstreetcn.com/livenews/3097670",
           "source": "华尔街见闻-快讯",
@@ -207,18 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "王毅同美国国务卿鲁比奥通电话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
         },
         {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
@@ -254,138 +405,28 @@
           "time_info": "03时08分"
         },
         {
-          "title": "日本大米真的很好吃吗？有人说光吃日本白米饭都能吃的很香?",
-          "url": "https://www.zhihu.com/question/2030292281123681263",
-          "source": "知乎",
+          "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
+          "url": "https://wallstreetcn.com/livenews/3097712",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "日本民众流泪向中国道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%B5%81%E6%B3%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "中方代表：美国重新定义了“诚意”",
-          "url": "https://www.toutiao.com/trending/7634428067154722826/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "歼15喊话日本军机：你在我射程之内",
-          "url": "https://www.toutiao.com/trending/7633289620521009198/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "日本“大将”“大佐”等称谓死灰复燃，外交部质问：沉迷于重温军国主义旧梦？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083366",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033187099386590088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "美国为支付联合国会费开涉华条件",
-          "url": "https://www.toutiao.com/trending/7633803986403164210/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "国防部回应台湾退役舰长想看福建舰",
-          "url": "https://www.toutiao.com/trending/7633708368184016950/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
-        },
-        {
-          "title": "日本民众为侵略历史流泪向中国道歉",
-          "url": "https://www.toutiao.com/trending/7634485585935257139/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
+            1,
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
-          "title": "偷国再现,宇树机器狗成日本货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
-          "source": "贴吧",
+          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
+          "url": "https://flash.jin10.com/detail/20260501042353967800",
+          "source": "金十数据",
           "ranks": [
-            23
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时52分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "康菲石油：预计2026年下半年将于美国二叠纪盆地（Permian Basin）增加一座钻井平台。 预计全球石油需求将与去年持平；如果中东冲突持续，需求将面临更大的下行风险。 依赖进口的国家最终将在进入6月和7月时面临严重的供应短缺。",
@@ -400,6 +441,19 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
+          "title": "国防部：绝不能让日本为祸世界",
+          "url": "https://www.toutiao.com/trending/7634466596613980203/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时51分]"
+        },
+        {
           "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
           "url": "https://wallstreetcn.com/livenews/3097640",
           "source": "华尔街见闻-快讯",
@@ -412,16 +466,17 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
-          "title": "国防部：绝不能让日本为祸世界",
-          "url": "https://www.toutiao.com/trending/7634466596613980203/",
-          "source": "今日头条",
+          "title": "美国中期选举前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            29
+            27,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时51分]"
         },
         {
           "title": "德外长：已准备好应对美国削减驻军的威胁",
@@ -431,20 +486,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时51分]"
         },
         {
-          "title": "美国中期选举前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
+          "title": "中方：日本拥核问题已是现实威胁",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
           "ranks": [
-            27,
-            13
+            19,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时52分]"
+          "time_info": "[01时10分 ~ 05时51分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
@@ -459,6 +514,18 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
+          "title": "美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。",
+          "url": "https://wallstreetcn.com/livenews/3097705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
+        },
+        {
           "title": "世卫组织：美国还欠着会费，也看不出来想补缴",
           "url": "https://news.ifeng.com/c/8sk3fWMxCT9",
           "source": "凤凰网",
@@ -468,6 +535,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
+          "url": "https://wallstreetcn.com/livenews/3097704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "后继乏力，美国对伊朗已使出最后手段？",
@@ -503,15 +582,16 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "中方：日本拥核问题已是现实威胁",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
+          "title": "日本自卫队参与美菲军演实战训练",
+          "url": "https://www.douyin.com/hot/2484860",
+          "source": "抖音",
           "ranks": [
-            19
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
+          "time_info": "[04时52分 ~ 05时51分]"
         },
         {
           "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
@@ -525,17 +605,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。",
-          "url": "https://wallstreetcn.com/livenews/3097705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
           "url": "https://flash.jin10.com/detail/20260501005408136800",
           "source": "金十数据",
@@ -545,17 +614,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
-          "url": "https://wallstreetcn.com/livenews/3097704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         },
         {
           "title": "美国海军驱逐舰“希金斯”号发生火灾",
@@ -602,17 +660,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "日本自卫队参与美菲军演实战训练",
-          "url": "https://www.douyin.com/hot/2484860",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
           "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
           "url": "https://flash.jin10.com/detail/20260501023140297800",
           "source": "金十数据",
@@ -635,6 +682,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国至4月24日当周外国央行持有美国国债 66.79亿美元，前值230.57亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501043844409800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
           "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
           "url": "https://wallstreetcn.com/livenews/3097660",
           "source": "华尔街见闻-快讯",
@@ -652,7 +710,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -674,7 +732,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -699,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国贸易代表：美国和英国已决定，美国将允许英国生产的威士忌享受优惠关税待遇。",
+          "url": "https://flash.jin10.com/detail/20260501043243224800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "欧盟拒绝美国结束金属关税争端的计划 并考虑应对措施",
@@ -773,9 +842,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求极其强劲”。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3097708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "本周，一艘名为“希金斯”号（USS Higgins）的美国导弹驱逐舰上爆发了一场重大火灾，这场大火导致这艘驱逐舰的电力和推进系统瘫痪。",
@@ -861,7 +941,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -905,7 +985,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -927,7 +1007,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
