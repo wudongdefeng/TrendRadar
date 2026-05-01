@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T10:11:54.153532+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-05-01T14:09:17.906965+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 121,
+      "match_count": 139,
       "titles": [
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -143,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时09分]"
         },
         {
           "title": "中方代表：美国重新定义了“诚意”",
@@ -153,11 +153,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时09分]"
         },
         {
           "title": "日本民众为侵略历史流泪向中国道歉",
@@ -167,11 +168,12 @@
             18,
             20,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时09分]"
         },
         {
           "title": "偷国再现,宇树机器狗成日本货",
@@ -179,11 +181,28 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时09分]"
+        },
+        {
+          "title": "中方：日本拥核问题已是现实威胁",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            8,
+            1,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 14时09分]"
         },
         {
           "title": "日本民众流泪向中国道歉",
@@ -213,21 +232,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 06时44分]"
-        },
-        {
-          "title": "中方：日本拥核问题已是现实威胁",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            8,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时11分]"
         },
         {
           "title": "歼15喊话日本军机：你在我射程之内",
@@ -382,9 +386,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "日本开始追加释放国家石油储备。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3097801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "市场消息：美国总统特朗普今天将签署一项行政命令，以扩大没有雇主提供退休计划的美国人对退休储蓄账户的使用。",
@@ -418,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -484,6 +510,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "外交部发布中方关于日本拥核问题的工作文件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083386",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 14时09分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -632,19 +672,6 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
-          "title": "外交部发布中方关于日本拥核问题的工作文件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083386",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 10时11分]"
-        },
-        {
           "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
           "url": "https://wallstreetcn.com/articles/3771416",
           "source": "华尔街见闻",
@@ -653,8 +680,31 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 14时09分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时11分]"
+          "time_info": "[10时11分 ~ 14时09分]"
+        },
+        {
+          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
+          "url": "https://wallstreetcn.com/articles/3771412",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时09分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
@@ -704,6 +754,18 @@
           "time_info": "[04时52分 ~ 05时51分]"
         },
         {
+          "title": "日本4月制造业PMI终值 55.1，初值 54.9。",
+          "url": "https://wallstreetcn.com/livenews/3097773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时09分]"
+        },
+        {
           "title": "亚太盘初，美国三大股指期货至多涨超0.2%，苹果盘后涨幅扩大至超过3.9%——苹果公司正在举行分析师电话会。",
           "url": "https://wallstreetcn.com/livenews/3097740",
           "source": "华尔街见闻-快讯",
@@ -737,6 +799,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "美国人“人肉”带车入境 抢中国制造",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E2%80%9C%E4%BA%BA%E8%82%89%E2%80%9D%E5%B8%A6%E8%BD%A6%E5%85%A5%E5%A2%83+%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时09分]"
+        },
+        {
+          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
+          "url": "https://wallstreetcn.com/articles/3771380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时09分]"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳：拒绝就外汇市场干预传闻发表评论。 一直与美国保持密切联系。 就外汇问题与美国达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3097771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时09分]"
         },
         {
           "title": "苹果公司CEO库克：任何关税退款都将被投资到美国。",
@@ -797,15 +895,15 @@
           "time_info": "03时08分"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "日本首相高市早苗：将在此次亚洲之行中寻求合作，以加强我们的供应链，确保能源和关键矿产的安全。",
+          "url": "https://flash.jin10.com/detail/20260501131733149800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "14时09分"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -819,28 +917,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "日本4月制造业PMI终值 55.1，初值 54.9。",
-          "url": "https://wallstreetcn.com/livenews/3097773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
-          "url": "https://wallstreetcn.com/articles/3771412",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "美国海军驱逐舰“希金斯”号发生火灾",
           "url": "https://flash.jin10.com/detail/20260501005303059800",
           "source": "金十数据",
@@ -850,6 +926,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "伊朗对美国航空设备造成28亿美元损失",
+          "url": "https://flash.jin10.com/detail/20260501131245062800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "如何看待美国海军陆战队在波特兰运输舰上进行 LAV-25 步战车实弹射击演练？",
+          "url": "https://www.zhihu.com/question/2032883612681548560",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国烈酒公司百富门（Brown-Forman）股价上涨2%，特朗普表示将取消部分与威士忌相关的关税。",
@@ -863,26 +961,26 @@
           "time_info": "03时08分"
         },
         {
-          "title": "日本外汇事务负责人三村淳：拒绝就外汇市场干预传闻发表评论。 一直与美国保持密切联系。 就外汇问题与美国达成共识。",
-          "url": "https://wallstreetcn.com/livenews/3097771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
-          "url": "https://wallstreetcn.com/articles/3771380",
-          "source": "华尔街见闻",
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085948",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "14时09分"
+        },
+        {
+          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
+          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国众议院共和党定于当地时间周四对参议院通过的国土安全部拨款法案进行投票。",
@@ -894,6 +992,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "日本4月国内汽车销量较上年同期上升17.6%。",
+          "url": "https://flash.jin10.com/detail/20260501130304979800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "商务部新闻发言人就美国联邦通信委员会审议通过检测认证和电信领域相关限制措施事答记者问",
+          "url": "https://wallstreetcn.com/livenews/3097789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "死守160红线？日本高官警告：随时准备进行干预，包括入场原油期货！",
+          "url": "https://flash.jin10.com/detail/20260501130111045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.3%。",
@@ -946,7 +1077,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -968,9 +1099,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "日本押注一次性纸质无人机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353927&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%BC%E6%B3%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BA%B8%E8%B4%A8%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国总统特朗普：AI将创造大量就业机会。",
@@ -990,7 +1132,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1023,7 +1165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1034,7 +1176,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1045,7 +1187,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1067,7 +1209,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1081,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "当地州长表示，俄罗斯袭击造成乌克兰敖德萨地区港口基础设施受损，敖德萨两人受伤。",
+          "url": "https://flash.jin10.com/detail/20260501124110363800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -1103,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "无人机持续打击 俄罗斯黑海港口两周时间四度遇袭",
+          "url": "https://flash.jin10.com/detail/20260501123757857800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "欧盟拒绝美国结束金属关税争端的计划 并考虑应对措施",
@@ -1133,7 +1297,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1177,7 +1341,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1215,6 +1379,28 @@
           "time_info": "05时51分"
         },
         {
+          "title": "日产汽车北美子公司周四表示，日产将取消在美国南部密西西比州工厂生产电动汽车的计划。",
+          "url": "https://flash.jin10.com/detail/20260501121120742800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "本周，一艘名为“希金斯”号（USS Higgins）的美国导弹驱逐舰上爆发了一场重大火灾，这场大火导致这艘驱逐舰的电力和推进系统瘫痪。",
           "url": "https://flash.jin10.com/detail/20260501003027168800",
           "source": "金十数据",
@@ -1235,6 +1421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "唐驳虎：中国不买大豆急坏美国人",
+          "url": "https://www.toutiao.com/trending/7634699702935490091/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国敦促外国政府加入霍尔木兹海峡新联盟 此前曾称不需要他国帮助",
@@ -1268,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国人跨国去墨西哥买中国车",
+          "url": "https://www.toutiao.com/trending/7634586070700834854/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普称参选美国总统的人应接受认知能力测试",
@@ -1353,18 +1561,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美国人“人肉”带车入境 抢中国制造",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E2%80%9C%E4%BA%BA%E8%82%89%E2%80%9D%E5%B8%A6%E8%BD%A6%E5%85%A5%E5%A2%83+%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1386,7 +1583,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1400,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美国海军又一艘主力战舰烧了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8F%88%E4%B8%80%E8%89%98%E4%B8%BB%E5%8A%9B%E6%88%98%E8%88%B0%E7%83%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国消费者金融保护局敲定小企业普查新规",
@@ -1419,7 +1627,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
