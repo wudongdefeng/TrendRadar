@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-02T09:59:19.555163+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-05-02T12:58:52.097619+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 139,
+      "match_count": 154,
       "titles": [
-        {
-          "title": "日本动画大厂盘点,马趴飞碟崛起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时59分]"
-        },
         {
           "title": "美国人流行“从中国进口房屋”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%88%BF%E5%B1%8B%E2%80%9D",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 06时42分]"
+        },
+        {
+          "title": "日本动画大厂盘点,马趴飞碟崛起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353939&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%8E%82%E7%9B%98%E7%82%B9%2C%E9%A9%AC%E8%B6%B4%E9%A3%9E%E7%A2%9F%E5%B4%9B%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 12时58分]"
         },
         {
           "title": "东北早市被俄罗斯游客“包场”",
@@ -93,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 12时58分]"
         },
         {
           "title": "美国拟禁止被列入所谓“覆盖清单”实体在美开展电信业务，商务部回应",
@@ -160,16 +162,42 @@
           "time_info": "[02时59分 ~ 07时44分]"
         },
         {
+          "title": "一觉醒来，美国对欧洲下狠手了",
+          "url": "https://news.ifeng.com/c/8sn8cY2lmMl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
           "title": "王毅 4 月 30 日同美国国务卿鲁比奥通电话，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2033461390137095922",
           "source": "知乎",
           "ranks": [
             3,
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时45分 ~ 12时58分]"
+        },
+        {
+          "title": "美国防长下令：从德国撤出5000名驻军",
+          "url": "https://wallstreetcn.com/livenews/3098076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            19,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时45分 ~ 09时59分]"
+          "time_info": "[06时42分 ~ 12时58分]"
         },
         {
           "title": "美国4月对亚洲液化天然气出口激增",
@@ -196,28 +224,26 @@
           "time_info": "[04时06分 ~ 07时44分]"
         },
         {
-          "title": "美国防长下令：从德国撤出5000名驻军",
-          "url": "https://wallstreetcn.com/livenews/3098076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 09时59分]"
-        },
-        {
-          "title": "一觉醒来，美国对欧洲下狠手了",
-          "url": "https://news.ifeng.com/c/8sn8cY2lmMl",
-          "source": "凤凰网",
+          "title": "日本战犯竟称侵华是为了“管教兄弟”",
+          "url": "https://www.toutiao.com/trending/7634952296379990054/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时58分"
+        },
+        {
+          "title": "美国人正在逃离美国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%AD%A3%E5%9C%A8%E9%80%83%E7%A6%BB%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "【美防长下令：从德国撤出5000名驻军】美国国防部表示，美国国防部长赫格塞思已下令从德国撤出5000名驻军，撤军工作将在未来6至12个月内完成。（央视）",
@@ -229,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
-        },
-        {
-          "title": "美国商务部长卢特尼克与精神航空（Spirit）CEO Dave Davis达成共识，一致认为这家廉价航空公司已无路走。卢特尼克建议其寻求交通部的帮助，以进行该航空公司的关停清算工作。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
@@ -286,26 +301,15 @@
           "time_info": "01时52分"
         },
         {
-          "title": "据华尔街日报：消息人士称，美国民主党人正在私下寻求华尔街资金，以备2028年总统竞选。",
-          "url": "https://flash.jin10.com/detail/20260502090041694800",
-          "source": "金十数据",
+          "title": "UP主揭秘日本阴阳菜单",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "民调：超六成美国人认为对伊朗动武是错误",
-          "url": "https://wallstreetcn.com/livenews/3098099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：我们正在考虑对精神航空进行救助。",
@@ -317,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
+          "url": "https://flash.jin10.com/detail/20260502105413404800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普签署行政命令，加大制裁古巴政府的力度。",
@@ -339,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "墨西哥总统：愿与美国合作 但不会在基本原则上让步",
+          "url": "https://wallstreetcn.com/livenews/3098106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
@@ -376,6 +402,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "日本采购的俄罗斯原油将于2日抵达",
+          "url": "https://flash.jin10.com/detail/20260502102810027800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美国总统特朗普对古巴官员、企业、政府的支持者实施广泛制裁。",
           "url": "https://wallstreetcn.com/livenews/3097999",
           "source": "华尔街见闻-快讯",
@@ -387,6 +424,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 04时06分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克与精神航空（Spirit）CEO Dave Davis达成共识，一致认为这家廉价航空公司已无路走。卢特尼克建议其寻求交通部的帮助，以进行该航空公司的关停清算工作。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 12时58分]"
         },
         {
           "title": "美国原油期货结算价为每桶101.94美元，下跌3.13美元，跌幅2.98%。",
@@ -401,6 +463,19 @@
           "time_info": "[03时00分 ~ 04时06分]"
         },
         {
+          "title": "美国务院批准向以色列等中东四国出售武器",
+          "url": "https://wallstreetcn.com/livenews/3098080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 12时58分]"
+        },
+        {
           "title": "欧洲委员会：已在整个过程中保持与美国政府的充分沟通。",
           "url": "https://flash.jin10.com/detail/20260502023128965800",
           "source": "金十数据",
@@ -411,6 +486,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 04时06分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国民主党人正在私下寻求华尔街资金，以备2028年总统竞选。",
+          "url": "https://flash.jin10.com/detail/20260502090041694800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
@@ -437,16 +524,16 @@
           "time_info": "[03时00分 ~ 04时06分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
+          "title": "民调：超六成美国人认为对伊朗动武是错误",
+          "url": "https://wallstreetcn.com/livenews/3098099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 09时59分]"
+          "time_info": "[09时59分 ~ 12时58分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，NYMEX、ICE市场的天然气期货净空头持仓减少11617手至11117手。",
@@ -459,18 +546,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时06分 ~ 07时44分]"
-        },
-        {
-          "title": "美国务院批准向以色列等中东四国出售武器",
-          "url": "https://wallstreetcn.com/livenews/3098080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 09时59分]"
         },
         {
           "title": "古巴外长：坚决反对美国加大对古制裁",
@@ -595,6 +670,17 @@
           "time_info": "[04时05分 ~ 06时42分]"
         },
         {
+          "title": "林毅夫：中国人均GDP达到美国一半时，美国就会接受中国崛起",
+          "url": "https://news.ifeng.com/c/8sn5FwWdXRA",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 12时58分]"
+        },
+        {
           "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3098060",
           "source": "华尔街见闻-快讯",
@@ -678,6 +764,18 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
+          "title": "特朗普称美国“几乎能立即接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260502084948231800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
           "title": "伊朗放宽与美国恢复和谈的条件。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3098010",
           "source": "华尔街见闻-快讯",
@@ -700,6 +798,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时00分]"
+        },
+        {
+          "title": "特朗普声称美国“几乎能立即”接管古巴",
+          "url": "https://wallstreetcn.com/livenews/3098094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
         },
         {
           "title": "美国5月1日当周石油钻井数 408，前值 407。",
@@ -738,15 +848,16 @@
           "time_info": "[01时52分 ~ 03时00分]"
         },
         {
-          "title": "林毅夫：中国人均GDP达到美国一半时，美国就会接受中国崛起",
-          "url": "https://news.ifeng.com/c/8sn5FwWdXRA",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
+          "url": "https://flash.jin10.com/detail/20260502080736827800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 09时59分]"
+          "time_info": "[09时59分 ~ 12时58分]"
         },
         {
           "title": "欧洲汽车游说组织Acea拒绝置评美国总统特朗普最新汽车关税论调。 但呼吁欧盟议员们尽快批准相关立法。",
@@ -761,6 +872,54 @@
           "time_info": "[03时00分 ~ 04时06分]"
         },
         {
+          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502080556644800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
+          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3098090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
+          "title": "美国国防部表示，美国国防部长赫格塞思下令从德国撤回5000名军人，预计将在接下来的六到十二个月内完成。",
+          "url": "https://flash.jin10.com/detail/20260502080532610800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
+          "title": "美国务院批准向以色列等中东四国出售武器",
+          "url": "https://flash.jin10.com/detail/20260502080453258800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
+        },
+        {
           "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3098062",
           "source": "华尔街见闻-快讯",
@@ -771,6 +930,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3098088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时58分]"
         },
         {
           "title": "美国总统特朗普：美国现在生产和卖出的石油更多了。",
@@ -841,17 +1012,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "特朗普称美国“几乎能立即接管”古巴",
-          "url": "https://flash.jin10.com/detail/20260502084948231800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "伊朗外长：美国是霍尔木兹海峡不安全局势的主要根源。",
           "url": "https://wallstreetcn.com/livenews/3097965",
           "source": "华尔街见闻-快讯",
@@ -872,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "日本采购的俄罗斯原油将于2日抵达",
+          "url": "https://wallstreetcn.com/livenews/3098104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）将迫使公司将生产转移至美国。",
@@ -896,15 +1067,15 @@
           "time_info": "04时06分"
         },
         {
-          "title": "特朗普声称美国“几乎能立即”接管古巴",
-          "url": "https://wallstreetcn.com/livenews/3098094",
-          "source": "华尔街见闻-快讯",
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）欧盟未遵守协议。",
@@ -916,6 +1087,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
+          "url": "https://flash.jin10.com/detail/20260502095753000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "塞拉利昂总统：台湾问题是中国内政",
+          "url": "https://www.toutiao.com/trending/7635039304003797011/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：伊朗已经没有军队了。",
@@ -951,6 +1144,28 @@
           "time_info": "05时45分"
         },
         {
+          "title": "日本战犯竟称侵华是为了管教兄弟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E7%AB%9F%E7%A7%B0%E4%BE%B5%E5%8D%8E%E6%98%AF%E4%B8%BA%E4%BA%86%E7%AE%A1%E6%95%99%E5%85%84%E5%BC%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "5.4万亿日元干预前，日本财长曾警告交易员“手机不离身”，干预将成新常态？",
+          "url": "https://wallstreetcn.com/articles/3771460",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美国总统特朗普：对意大利和西班牙感到不满。",
           "url": "https://flash.jin10.com/detail/20260502002716494800",
           "source": "金十数据",
@@ -984,17 +1199,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
-          "url": "https://flash.jin10.com/detail/20260502080736827800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "美国总统特朗普：周四与伊拉克候任总理进行了交谈。强烈支持他。",
           "url": "https://flash.jin10.com/detail/20260502002645867800",
           "source": "金十数据",
@@ -1004,17 +1208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502080556644800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "报道：WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
@@ -1028,15 +1221,15 @@
           "time_info": "04时06分"
         },
         {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
+          "title": "日本战犯竟称侵华是为了管教兄弟",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E7%8A%AF%E7%AB%9F%E7%A7%B0%E4%BE%B5%E5%8D%8E%E6%98%AF%E4%B8%BA%E4%BA%86%E7%AE%A1%E6%95%99%E5%85%84%E5%BC%9F",
+          "source": "百度热搜",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：我们在与伊朗的谈判中取得了进展，但我并不确定我们最终能否达成协议。",
@@ -1059,17 +1252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "美国国防部表示，美国国防部长赫格塞思下令从德国撤回5000名军人，预计将在接下来的六到十二个月内完成。",
-          "url": "https://flash.jin10.com/detail/20260502080532610800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：不确定我们是否能达成协议。",
@@ -1105,17 +1287,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "美国务院批准向以色列等中东四国出售武器",
-          "url": "https://flash.jin10.com/detail/20260502080453258800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。",
           "url": "https://wallstreetcn.com/livenews/3098062",
           "source": "华尔街见闻-快讯",
@@ -1125,17 +1296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
-        },
-        {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：我们正在通过电话进行谈判。",
@@ -1191,6 +1351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国汽油均价创近4年来新高，加州突破6美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33089658",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "市场消息：因担忧人工智能加剧黑客攻击，美国网络安全官员正考虑缩短漏洞修复期限，提议将修复网络安全漏洞的截止时间从两周缩短至三天。",
@@ -1281,13 +1452,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美国务院批准向中东四国出售武器",
           "url": "https://www.toutiao.com/trending/7635051728190521363/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
