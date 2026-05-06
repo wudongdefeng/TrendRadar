@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T03:25:21.429958+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-07T05:05:03.945596+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 53,
+      "match_count": 69,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "“台独”刘世芳亲属被在大陆台企解职",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "以色列议员窜访台湾，中方回应",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -48,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
+          "url": "https://flash.jin10.com/detail/20260507044241056800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
@@ -70,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -92,9 +103,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
+          "url": "https://flash.jin10.com/detail/20260507042354436800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。” 特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。（新华社）",
@@ -132,28 +154,30 @@
           "time_info": "[01时24分 ~ 03时25分]"
         },
         {
-          "title": "中使馆回应以色列有关议员窜访台湾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E6%9C%89%E5%85%B3%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
-        },
-        {
           "title": "三星宣布在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
           "url": "https://m.thepaper.cn/newsDetail_forward_33102792",
           "source": "澎湃新闻",
           "ranks": [
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "中使馆回应以色列有关议员窜访台湾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E6%9C%89%E5%85%B3%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "“台独”顽固分子亲属被在大陆台企解职，国台办回应",
@@ -163,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
@@ -172,11 +196,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -186,8 +211,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
         },
         {
           "title": "日本网红店翻车,食客集体中毒",
@@ -197,8 +222,19 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时05分]"
+        },
+        {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "time_info": "[05时04分 ~ 05时05分]"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -207,9 +243,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美国财政部权衡在回购市场中发挥作用，以进行现金和流动性管理",
+          "url": "https://wallstreetcn.com/livenews/3099569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国总统特朗普：伊朗已同意不拥有核武器。",
@@ -218,7 +265,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -229,7 +276,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -243,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国最大的电网运营商PJM Interconnection首席运营官Stu Bresler：通常在电力公用事业行业，你会期待一定程度的稳定性……而不是这种自工业革命以来可能从未经历过的迅猛增长。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3099567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国军方：周三，美军在阿曼湾使一艘悬挂伊朗国旗、试图驶向伊朗港口的空载油轮丧失能力。",
@@ -262,9 +320,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
+          "url": "https://flash.jin10.com/detail/20260507041205252800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美国电网运营商PJM正考虑市场改革",
+          "url": "https://wallstreetcn.com/livenews/3099566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -284,7 +364,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -295,9 +375,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美联储古尔斯比：受人口老龄化与移民限制的双重影响，美国可能正步入劳动力短缺时代。",
+          "url": "https://flash.jin10.com/detail/20260507040746583800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "【伊朗国防部发言人：美国必须和以色列保持距离】伊朗国防部发言人雷扎·塔莱尼克表示，美国必须和以色列保持距离，这样才能为结束冲突铺平道路。雷扎·塔莱尼克说，如果不承认伊朗的权利，不与以色列保持距离，美国就无法摆脱其陷入的泥潭。（央视）",
@@ -322,6 +413,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "Western Midstream签署16亿美元协议，来扩张美国二叠纪盆地业务",
+          "url": "https://wallstreetcn.com/livenews/3099563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗国防部发言人：美国必须和以色列保持距离",
           "url": "https://flash.jin10.com/detail/20260507010103699800",
           "source": "金十数据",
@@ -339,9 +441,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
+          "url": "https://flash.jin10.com/detail/20260507040712574800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
@@ -361,7 +474,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -394,7 +507,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -421,13 +534,24 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3099558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "俄罗斯外交部呼吁外国从基辅撤离其外交代表机构及其他代表机构的人员",
           "url": "https://flash.jin10.com/detail/20260507025025857800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -460,7 +584,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -493,7 +617,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -504,7 +628,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -526,7 +650,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -548,9 +672,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美国教师联合会呼吁严查SpaceX IPO，称估值“违背财务逻辑”",
+          "url": "https://wallstreetcn.com/livenews/3099549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "以色列议员窜访台湾 中使馆回应",
@@ -564,15 +699,48 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美联储古尔斯比：美国生产率的增长已证明有一定的持续性，但对利率的影响则更为微妙。",
+          "url": "https://flash.jin10.com/detail/20260507040323683800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3099548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
           "url": "https://wallstreetcn.com/livenews/3099511",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美联储古尔斯比：任何表明美国通胀问题正持续走向错误方向的迹象，都将要求我们重新审视正确的货币政策路径。",
+          "url": "https://flash.jin10.com/detail/20260507040153015800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：很快将宣布与住房营建行业相关的消息。（CNBC）",
@@ -584,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国最高法院拒绝暂缓苹果藐视法庭令，苹果与Epic纠纷再升级",
+          "url": "https://wallstreetcn.com/livenews/3099546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "伊朗外交部发言人：德黑兰方面尚未向巴基斯坦传达其针对美国就伊朗“14点提议”所持观点的回复。（伊朗国家广播IRIB）",
@@ -600,8 +779,19 @@
     },
     {
       "keyword_group": "石油 大豆 猪肉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Federated Hermes新兴市场基金高级组合经理Jason DeVito：风险情绪现在就像一个压缩的弹簧，任何关于霍尔木兹海峡或战争局势的正面催化剂都会将其释放。 油价维持高位并拖累全球增长的时间越长，任何新兴市场国家都会受到负面影响。 即使是那些能从经常账户获益的石油出口国，也会看到高能源价格带来的通胀蔓延。",
+          "url": "https://wallstreetcn.com/livenews/3099575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
         {
           "title": "特朗普：即使石油价格涨到200美元，也值得",
           "url": "https://wallstreetcn.com/livenews/3099535",
@@ -609,7 +799,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
