@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T10:02:27.711446+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-05-06T13:50:40.715776+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 81,
+      "match_count": 95,
       "titles": [
         {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
@@ -19,17 +19,6 @@
           "time_info": "[01时21分 ~ 07时43分]"
         },
         {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 10时02分]"
-        },
-        {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33098897",
           "source": "澎湃新闻",
@@ -40,8 +29,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 13时50分]"
+        },
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 13时50分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "高盛：预计美国数据中心容量将在2025年底至2027年底期间增长超过一倍，2027年底将达到95吉瓦。 预计美国数据中心的电力需求将从2025年的31吉瓦增加到2026年的41吉瓦、2027年的66吉瓦。",
+          "url": "https://wallstreetcn.com/livenews/3099147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫与美国国务卿鲁比奥的通话是建设性、务实的。（俄新社）",
@@ -170,6 +182,28 @@
           "time_info": "03时17分"
         },
         {
+          "title": "诺和诺德：预计2026年自由现金流为360亿至460亿丹麦克朗，此前预期为350亿至450亿丹麦克朗。 预计国际业务销售增长，美国业务销售下降。 预计2026年金融项目净亏损约6亿丹麦克朗，此前预期净收益约23亿丹麦克朗。 预计全球GLP-1市场将继续扩张。",
+          "url": "https://wallstreetcn.com/livenews/3099144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本战后首次在境外发射进攻型导弹",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "美国至5月1日当周API原油进口 -14.4万桶，前值13.4万桶。",
           "url": "https://flash.jin10.com/detail/20260506043938328800",
           "source": "金十数据",
@@ -179,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "高盛：预计美国数据中心电力需求将从2025年的31吉瓦增加至2026/2027年的41/66吉瓦，前提是容量利用率为70%。",
+          "url": "https://flash.jin10.com/detail/20260506134329373800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美国达拉斯附近购物中心发生枪击，两死三伤",
@@ -385,7 +430,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -410,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "高盛：美国数据中心容量将在2025年底至2027年底之间增长超过一倍，到2027年底将达到95吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260506134258115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "日本参议员：对俄制裁损害日本国家利益",
@@ -467,6 +523,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "日本被曝几乎有造核武器的所有条件",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "日本参议员：对俄制裁损害日本国家利益",
           "url": "https://flash.jin10.com/detail/20260506022228306800",
           "source": "金十数据",
@@ -509,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
+          "url": "https://news.ifeng.com/c/8sty62eKGy1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "市场消息：美国国务院批准向乌克兰潜在销售联合直接攻击弹药增程型及相关设备，金额为3.736亿美元。",
@@ -586,6 +664,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "台湾加权指数5月6日（周三）收盘上涨369.56点，涨幅0.91%，报41138.85点，连续三日创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260506133649101800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
@@ -770,9 +870,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "日本在菲律宾军演发射88式导弹",
+          "url": "https://www.toutiao.com/trending/7636119989522677766/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -792,7 +903,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -830,13 +941,24 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美国得州一购物中心发生枪击致2死3伤",
+          "url": "https://wallstreetcn.com/livenews/3099118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "俄罗斯外长与美国国务卿通话",
           "url": "https://www.toutiao.com/trending/7636461551624568895/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -869,7 +991,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -891,9 +1013,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "古巴外长驳斥美国务卿“古巴未受石油封锁”言论",
+          "url": "https://wallstreetcn.com/livenews/3099109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "挪威证实收到美国推迟武器交付通知",
@@ -902,7 +1035,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -913,9 +1046,31 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "美国关闭驻巴基斯坦白沙瓦领事馆",
+          "url": "https://wallstreetcn.com/livenews/3099107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本在美菲军演中发射88式导弹，系战后首次境外发射进攻型导弹",
+          "url": "https://wallstreetcn.com/livenews/3099106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
