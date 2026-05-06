@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:50:40.715776+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-06T16:11:06.881585+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
@@ -38,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 13时50分]"
+          "appearance_count": 14,
+          "time_info": "[01时21分 ~ 16时11分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -94,6 +95,17 @@
           "time_info": "[03时17分 ~ 07时43分]"
         },
         {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
           "title": "据美国全国广播公司（NBC)：美国周一船只通过霍尔木兹海峡期间有军事安保人员在船上。",
           "url": "https://flash.jin10.com/detail/20260506045022468800",
           "source": "金十数据",
@@ -111,7 +123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -188,7 +200,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -197,11 +209,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 16时11分]"
         },
         {
           "title": "美国至5月1日当周API原油进口 -14.4万桶，前值13.4万桶。",
@@ -221,7 +234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -273,6 +286,52 @@
           "time_info": "[05时56分 ~ 06时50分]"
         },
         {
+          "title": "日本被曝几乎有造核武器的所有条件",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 16时11分]"
+        },
+        {
+          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
+          "url": "https://news.ifeng.com/c/8sty62eKGy1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 16时11分]"
+        },
+        {
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 16时11分]"
+        },
+        {
+          "title": "新华社批日本慰灵甲级战犯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E6%97%A5%E6%9C%AC%E6%85%B0%E7%81%B5%E7%94%B2%E7%BA%A7%E6%88%98%E7%8A%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
           "title": "美国证券交易委员会（SEC）文件显示，Alphabet提交了总额85亿加元的四批次票据发行申请。",
           "url": "https://flash.jin10.com/detail/20260506052656012800",
           "source": "金十数据",
@@ -309,6 +368,17 @@
           "time_info": "[06时50分 ~ 07时43分]"
         },
         {
+          "title": "突破4.5美元！霍尔木兹复航遥遥无期 美国汽油涨势难抑",
+          "url": "https://www.cls.cn/detail/2363445",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
           "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260506052300378800",
           "source": "金十数据",
@@ -331,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时50分]"
+        },
+        {
+          "title": "美国8岁男童钓鱼时遇海狸袭击",
+          "url": "https://www.toutiao.com/trending/7636596180037681193/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "据知情人士称，第二艘驶离霍尔木兹海峡的美国籍商船是“CS Anthem”号化学品船。（路透）",
@@ -389,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "名嘴：日本玩火挑衅终将自食恶果",
+          "url": "https://www.toutiao.com/trending/7635716191781175302/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫与美国国务卿鲁比奥进行了电话交谈。（俄新社）",
@@ -463,7 +555,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -523,17 +615,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "日本被曝几乎有造核武器的所有条件",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "日本参议员：对俄制裁损害日本国家利益",
           "url": "https://flash.jin10.com/detail/20260506022228306800",
           "source": "金十数据",
@@ -576,17 +657,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
-          "url": "https://news.ifeng.com/c/8sty62eKGy1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "市场消息：美国国务院批准向乌克兰潜在销售联合直接攻击弹药增程型及相关设备，金额为3.736亿美元。",
@@ -655,6 +725,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国汽油价格触及4.50美元，接近历史新高",
+          "url": "https://flash.jin10.com/detail/20260506155941000800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "美国总统特朗普：“自由计划”将暂停一段时间。",
           "url": "https://flash.jin10.com/detail/20260506065304024800",
           "source": "金十数据",
@@ -672,18 +753,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "Anthropic为何成了美国安全威胁",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -809,6 +879,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美媒：通过霍尔木兹海峡的美国商船上有美军",
+          "url": "https://wallstreetcn.com/livenews/3099196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "美国证交会提议取消季度财报要求，上市公司可改为半年报告",
           "url": "https://flash.jin10.com/detail/20260506002654299800",
           "source": "金十数据",
@@ -881,7 +962,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -947,7 +1028,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1024,7 +1105,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1057,7 +1138,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1068,7 +1149,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
