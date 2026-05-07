@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-08T00:02:38.066919+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-08T02:02:02.331782+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 31,
+      "match_count": 48,
       "titles": [
         {
           "title": "台湾问题是中国核心利益中的核心",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "雪佛龙公司声明： 中东地区近期的地缘政治局势已经对公司的业务造成了影响，并且预计这种影响将持续下去。 预计将继续从委内瑞拉资产向美国和国际市场交付石油。",
@@ -41,15 +64,27 @@
           "time_info": "00时02分"
         },
         {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
+          "title": "据华尔街日报：美国总统特朗普政府目前正计划最早在本周重启“自由行动”项目，该项目旨在引导商船通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260508013005867800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "报道：美伊已就缓解美国海上封锁达成共识，以换取霍尔木兹“逐步开放”",
+          "url": "https://wallstreetcn.com/articles/3771733",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "俄罗斯国防部：如果乌克兰试图扰乱莫斯科的胜利日庆祝活动，俄方将对基辅市中心发动大规模导弹袭击。",
@@ -63,15 +98,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
-          "source": "澎湃新闻",
+          "title": "据华尔街日报：沙特阿拉伯和科威特解除对美国军方进入基地和空域的限制。",
+          "url": "https://flash.jin10.com/detail/20260508012729940800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
         },
         {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
@@ -92,19 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "报道：美伊已就缓解美国海上封锁达成共识，以换取霍尔木兹“逐步开放”",
-          "url": "https://wallstreetcn.com/articles/3771733",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -114,8 +138,111 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "日本街头疑现芬太尼丧尸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "麻辣烫席卷日本,被樱花妹当药膳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "中方回应日本多地爆发示威活动",
+          "url": "https://www.toutiao.com/trending/7637029173445381651/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105604",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "日本的信息茧房有多严重",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
+          "url": "https://www.zhihu.com/question/2035679898308704139",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://www.toutiao.com/trending/7636412979739181098/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "华人夫妇在美国豪宅离奇失踪一年",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%BA%BA%E5%A4%AB%E5%A6%87%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%B1%AA%E5%AE%85%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%E4%B8%80%E5%B9%B4&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
+          "url": "https://flash.jin10.com/detail/20260508012443286800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
         },
         {
           "title": "美国能源部长：目前未与伊朗就能源问题进行直接对话",
@@ -127,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
+          "url": "https://wallstreetcn.com/livenews/3100138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "雪佛龙公司：预计将继续向美国及国际市场交付其委内瑞拉资产生产的原油。",
@@ -151,26 +289,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "日本街头疑现芬太尼丧尸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：将在压低美国通胀至2%方面恪守承诺。 货币政策“略微具有限制性”，解决美伊战争将有助于压低通胀。 还没有迹象表明能源价格飙涨推高中期、或长期通胀预期。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3100137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "麻辣烫席卷日本,被樱花妹当药膳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
         },
         {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
@@ -195,15 +322,26 @@
           "time_info": "00时02分"
         },
         {
-          "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105604",
-          "source": "澎湃新闻",
+          "title": "日媒：软银拟携手英伟达、富士康，打造日本国产AI服务器",
+          "url": "https://flash.jin10.com/detail/20260508011130277800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100130",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
         },
         {
           "title": "报道：美国芝商所寻求通过推出实物期货重振铀交易",
@@ -226,6 +364,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
+          "url": "https://wallstreetcn.com/livenews/3100128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美联储数据显示，5月6日当周，美国经季节性调整的商业票据未偿还余额增加73亿美元；美国未经季节性调整的外国金融商业票据未偿还余额减少111亿美元；美国未经季节性调整的商业票据未偿还余额减少210亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508010702305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国至5月7日8周国债竞拍-得标利率配置百分比 90.77%，前值23.67%。",
@@ -261,6 +421,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "据日经新闻：软银正与英伟达(NVDA.O)商谈开发“日本制造”的人工智能服务器。",
+          "url": "https://flash.jin10.com/detail/20260508010539654800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "美国至5月7日8周国债竞拍-得标利率 3.595%，前值3.62%。",
           "url": "https://flash.jin10.com/detail/20260507233343778800",
           "source": "金十数据",
@@ -270,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "据华尔街日报：巴林和美国支持要求伊朗开放霍尔木兹海峡的新决议。",
+          "url": "https://flash.jin10.com/detail/20260508010527764800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国至5月7日8周国债竞拍-投标倍数 2.91，前值2.79。",
@@ -294,26 +476,26 @@
           "time_info": "00时02分"
         },
         {
-          "title": "日本的信息茧房有多严重",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
+          "title": "一名官员称：欧盟为“潜在的”与俄罗斯总统普京对话做准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3100121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "高盛：波斯湾以外地区强劲的原油出口以及中国需求的疲软，正在帮助部分抵消由于海湾出口极低所导致的市场紧缩。 波斯湾原油及凝析油出口遭受的冲击中有45%正被抵消，这主要得益于美洲出口的增加。然而，精炼产品出口的下滑目前还没有看到净抵消效应。 出口量的增加并不等同于产量的提高，因为出口量可能来自库存消耗。这一点在美国市场已有所体现。",
+          "url": "https://wallstreetcn.com/livenews/3100120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "中方回应日本多地爆发示威活动",
-          "url": "https://www.toutiao.com/trending/7637029173445381651/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时02分"
         },
         {
           "title": "美国能源部长Wright：看起来伊朗已经减少了40万桶/天的产量。",
@@ -336,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国主要股指悉数下跌，标普跌0.3%，道指跌0.4%，纳指跌0.2%，生物科技指数跌2.4%，半导体指数跌超2.6%，银行指数跌1.2%，罗素2000指数跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3100115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加630亿立方英尺，周环比增加3.5%（之前一周增长3.83%），至2.2050万亿立方英尺。",
