@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T16:19:59.514631+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-05-07T19:03:31.370477+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 121,
+      "match_count": 138,
       "titles": [
         {
           "title": "以色列议员窜访台湾，中方回应",
@@ -113,6 +113,20 @@
           "time_info": "[07时42分 ~ 10时05分]"
         },
         {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 19时03分]"
+        },
+        {
           "title": "俄罗斯：呼吁各国及时从基辅撤离人员",
           "url": "https://www.toutiao.com/trending/7636607770091520050/",
           "source": "今日头条",
@@ -152,7 +166,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -225,6 +239,17 @@
           "time_info": "[10时04分 ~ 16时19分]"
         },
         {
+          "title": "台湾问题是中国核心利益中的核心",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
           "url": "https://flash.jin10.com/detail/20260507011601378800",
           "source": "金十数据",
@@ -289,19 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 16时19分]"
         },
         {
           "title": "乌克兰首席谈判代表鲁斯特姆·乌梅罗夫预计将前往迈阿密，与美国总统特使威特科夫会面。",
@@ -376,6 +388,19 @@
           "time_info": "[05时04分 ~ 13时54分]"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 19时03分]"
+        },
+        {
           "title": "俄罗斯发出正式照会：呼吁各国从基辅撤人",
           "url": "https://news.ifeng.com/c/8sv7WPDB9sB",
           "source": "凤凰网",
@@ -446,6 +471,19 @@
           "time_info": "[07时42分 ~ 10时05分]"
         },
         {
+          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 19时03分]"
+        },
+        {
           "title": "高市早苗下跪让人看清日本丑恶嘴脸",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
           "source": "百度热搜",
@@ -458,16 +496,28 @@
           "time_info": "[10时04分 ~ 13时54分]"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
+          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
+          "url": "https://www.zhihu.com/question/2035387121423364410",
+          "source": "知乎",
           "ranks": [
-            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 19时03分]"
+        },
+        {
+          "title": "中方回应日本多地爆发示威活动",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            17,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时19分]"
+          "time_info": "[16时19分 ~ 19时03分]"
         },
         {
           "title": "美国财政部权衡在回购市场中发挥作用，以进行现金和流动性管理",
@@ -516,29 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时42分]"
-        },
-        {
-          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
-          "url": "https://www.zhihu.com/question/2035387121423364410",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时19分]"
-        },
-        {
-          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时19分]"
         },
         {
           "title": "美国商务部长就爱泼斯坦案闭门作证",
@@ -598,6 +625,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时42分]"
+        },
+        {
+          "title": "日本的信息茧房有多严重",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 19时03分]"
         },
         {
           "title": "美国汽油价格突破每加仑4.54美元",
@@ -663,7 +702,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -677,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "麻辣烫席卷日本,被樱花妹当药膳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：我们希望所有伊朗人都能活着。",
@@ -696,7 +746,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -784,7 +834,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -864,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "俄罗斯外交部：对5月9日阅兵的威胁不会被轻视。",
+          "url": "https://flash.jin10.com/detail/20260507181825858800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "伊朗：尚未回应美国对伊方14点提议的看法",
@@ -954,6 +1015,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "赵乐际会见美国国会参议员代表团",
+          "url": "https://wallstreetcn.com/livenews/3099928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "赵乐际会见美国国会参议员代表团",
+          "url": "https://flash.jin10.com/detail/20260507181435184800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "UBS Global Wealth Management多资产策略师基兰·加内什：（潜在的美国与伊朗）协议取得进展的迹象在某种程度上对欧洲比对美国更为利多，仅仅是因为这是一个敏感地区。 一旦伊朗问题解决，企业盈利的基本面将显得非常强劲。",
           "url": "https://wallstreetcn.com/livenews/3099497",
           "source": "华尔街见闻-快讯",
@@ -998,15 +1081,15 @@
           "time_info": "13时54分"
         },
         {
-          "title": "日本的信息茧房有多严重",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
+          "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105604",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）正在与真心想达成协议的人打交道。",
@@ -1020,17 +1103,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "中方回应日本多地爆发示威活动",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：将在周三晚些时候与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260507005926962800",
           "source": "金十数据",
@@ -1040,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "乌克兰军方：袭击了位于彼尔姆的俄罗斯石油精炼厂。",
+          "url": "https://flash.jin10.com/detail/20260507180753917800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
@@ -1103,9 +1186,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "阿迪达斯首席执行官：根据（美国）最高法院裁决，公司有权获得3亿欧元的关税退款；这一结果极有可能实现。",
+          "url": "https://flash.jin10.com/detail/20260507180720065800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
@@ -1119,6 +1213,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "日本街头疑现芬太尼丧尸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "伊朗：尚未回应美国对伊方14点提议的看法",
           "url": "https://flash.jin10.com/detail/20260507005756762800",
           "source": "金十数据",
@@ -1128,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国4月挑战者企业裁员人数同比 -20.9%，前值-78.00%。",
+          "url": "https://wallstreetcn.com/livenews/3099914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们想达成协议。",
@@ -1152,6 +1268,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "欧盟考虑限制使用美国云平台来处理敏感政府数据。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3099906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "俄罗斯外交部：警告驻基辅的外交使团和代表机构，若发生大规模俄罗斯打击，应及时撤离工作人员。",
           "url": "https://flash.jin10.com/detail/20260507024526927800",
           "source": "金十数据",
@@ -1172,6 +1299,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在明尼阿波利斯的移民突击行动，严重拖慢了美国其他刑事起诉案件的进程。",
+          "url": "https://flash.jin10.com/detail/20260507180038509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团",
+          "url": "https://wallstreetcn.com/livenews/3099902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "麻辣烫日本爆火 被年轻女性当药膳",
+          "url": "https://www.baidu.com/s?wd=%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%88%86%E7%81%AB+%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E8%8D%AF%E8%86%B3",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "Anthropic为何成了美国安全威胁",
@@ -1257,7 +1417,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1271,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "法国ENGIE负责人表示，停止使用俄罗斯天然气促使中东欧其他国家就液化天然气采购展开更多讨论。",
+          "url": "https://flash.jin10.com/detail/20260507175350210800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
@@ -1350,6 +1521,28 @@
           "time_info": "10时05分"
         },
         {
+          "title": "日本可能花费320亿美元进行日元买入干预",
+          "url": "https://wallstreetcn.com/livenews/3099891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "美国企业4月招聘人数同比下降38% 娱乐/休闲行业降幅居首",
+          "url": "https://flash.jin10.com/detail/20260507174906194800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "伊朗外交部发言人：德黑兰方面尚未向巴基斯坦传达其针对美国就伊朗“14点提议”所持观点的回复。（伊朗国家广播IRIB）",
           "url": "https://wallstreetcn.com/livenews/3099481",
           "source": "华尔街见闻-快讯",
@@ -1378,7 +1571,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
