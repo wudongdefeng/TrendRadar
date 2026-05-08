@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:08:51.584122+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-05-08T19:05:22.757171+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 134,
+      "match_count": 142,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -91,11 +91,12 @@
             12,
             20,
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 17时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 19时05分]"
         },
         {
           "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
@@ -160,6 +161,19 @@
           "time_info": "[02时01分 ~ 10时33分]"
         },
         {
+          "title": "沙特态度逆转，美国或重启“自由计划”，霍尔木兹海峡局势再度升温？",
+          "url": "https://wallstreetcn.com/articles/3771795",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时05分]"
+        },
+        {
           "title": "日本街头疑现芬太尼丧尸",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -187,18 +201,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 07时57分]"
-        },
-        {
-          "title": "沙特态度逆转，美国或重启“自由计划”，霍尔木兹海峡局势再度升温？",
-          "url": "https://wallstreetcn.com/articles/3771795",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时08分]"
         },
         {
           "title": "伊朗战争丨伊朗发布打击美国军舰视频",
@@ -410,6 +412,20 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 19时05分]"
+        },
+        {
           "title": "日本一核电站蒸汽泄漏，工作人员约15分钟后停止反应堆",
           "url": "https://news.ifeng.com/c/8sx4CwvoZHC",
           "source": "凤凰网",
@@ -419,6 +435,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时57分 ~ 17时08分]"
+        },
+        {
+          "title": "台湾出现汉坦病毒致死病例",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 19时05分]"
+        },
+        {
+          "title": "中国大陆球迷还能看到世界杯直播吗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%90%83%E8%BF%B7%E8%BF%98%E8%83%BD%E7%9C%8B%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 19时05分]"
         },
         {
           "title": "美国军方：美国中央司令部已消除来袭威胁，并瞄准了袭击美军的伊朗军事设施。",
@@ -493,16 +535,29 @@
           "time_info": "[05时59分 ~ 07时01分]"
         },
         {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "美国会两党参议员代表团来华：感谢中方",
+          "url": "https://news.ifeng.com/c/8sx8ouocQOr",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            2
+            11,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时05分]"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时05分]"
         },
         {
           "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
@@ -529,18 +584,6 @@
           "time_info": "[07时01分 ~ 07时57分]"
         },
         {
-          "title": "中国大陆球迷还能看到世界杯直播吗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%90%83%E8%BF%B7%E8%BF%98%E8%83%BD%E7%9C%8B%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时08分]"
-        },
-        {
           "title": "两艘正在通过霍尔木兹海峡的美国海军驱逐舰于周四再次遭到袭击。（哥伦比亚广播公司CBS News）",
           "url": "https://wallstreetcn.com/livenews/3100223",
           "source": "华尔街见闻-快讯",
@@ -553,55 +596,18 @@
           "time_info": "[05时59分 ~ 07时01分]"
         },
         {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 17时08分]"
-        },
-        {
-          "title": "美国会两党参议员代表团来华：感谢中方",
-          "url": "https://news.ifeng.com/c/8sx8ouocQOr",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时08分]"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时08分]"
-        },
-        {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035771230985380677",
           "source": "知乎",
           "ranks": [
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时05分]"
         },
         {
           "title": "美国3艘军舰穿越霍尔木兹遭袭",
@@ -738,6 +744,18 @@
           "time_info": "[02时02分 ~ 03时28分]"
         },
         {
+          "title": "台湾出现汉坦病毒致死病例",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 19时05分]"
+        },
+        {
           "title": "美国小鸟疑似用废弃针头筑巢",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E9%B8%9F%E7%96%91%E4%BC%BC%E7%94%A8%E5%BA%9F%E5%BC%83%E9%92%88%E5%A4%B4%E7%AD%91%E5%B7%A2&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -759,6 +777,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "观察机构表示，美国和以色列的空袭使伊朗的核计划落后了最多两年。",
+          "url": "https://flash.jin10.com/detail/20260508184554438800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
@@ -959,6 +988,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "泽连斯基：美国总统特使预计将于春夏之交访问基辅。 在美国举行的和平谈判具有实质性内容。",
+          "url": "https://wallstreetcn.com/livenews/3100634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3100092",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1043,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "台湾出现汉坦病毒致死病例",
+          "url": "https://www.cls.cn/detail/2366020",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "日媒：软银拟携手英伟达、富士康，打造日本国产AI服务器",
           "url": "https://flash.jin10.com/detail/20260508011130277800",
           "source": "金十数据",
@@ -1036,13 +1087,24 @@
           "time_info": "10时33分"
         },
         {
+          "title": "央行放鹰、拉美国站台，日本这波外汇干预能撑多久？",
+          "url": "https://flash.jin10.com/detail/20260508183717134800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "不指望美国 欧盟或就乌克兰危机与普京直接开谈",
           "url": "https://wallstreetcn.com/livenews/3100566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1097,9 +1159,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "台湾出现汉坦病毒致死病例",
+          "url": "https://www.toutiao.com/trending/7636684535199043115/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "中国地震台网自动测定：05月08日04时57分在台湾花莲县海域附近发生4.2级左右地震，最终结果以正式速报为准。",
@@ -1179,6 +1252,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国银行策略师称 美股近年涨势之强为历史罕见",
+          "url": "https://wallstreetcn.com/livenews/3100625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "美国至5月7日8周国债竞拍-得标利率配置百分比 90.77%，前值23.67%。",
           "url": "https://flash.jin10.com/detail/20260507233459334800",
           "source": "金十数据",
@@ -1188,6 +1272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰与美国正协调美方特使在春夏之交访乌的行程安排。",
+          "url": "https://flash.jin10.com/detail/20260508182602770800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "美联储：美国长期通胀预期保持稳定",
@@ -1267,17 +1362,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "美国至5月7日8周国债竞拍-投标倍数 2.91，前值2.79。",
           "url": "https://flash.jin10.com/detail/20260507233305142800",
           "source": "金十数据",
@@ -1309,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰和平谈判代表在美国进行了实质性会谈。",
+          "url": "https://flash.jin10.com/detail/20260508182405151800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "报道：美国司法部正调查与伊朗战争相关的26亿美元石油交易",
@@ -1449,7 +1544,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
