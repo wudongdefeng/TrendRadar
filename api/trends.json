@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:24:53.243540+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-05-08T15:28:40.923588+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 122,
+      "match_count": 130,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时28分]"
         },
         {
           "title": "台湾问题是中国核心利益中的核心",
@@ -89,11 +89,12 @@
             9,
             10,
             12,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时28分]"
         },
         {
           "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
@@ -119,11 +120,12 @@
             20,
             18,
             16,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时28分]"
         },
         {
           "title": "中方回应日本多地爆发示威活动",
@@ -186,13 +188,24 @@
           "time_info": "[02时01分 ~ 07时57分]"
         },
         {
+          "title": "沙特态度逆转，美国或重启“自由计划”，霍尔木兹海峡局势再度升温？",
+          "url": "https://wallstreetcn.com/articles/3771795",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时28分]"
+        },
+        {
           "title": "伊朗战争丨伊朗发布打击美国军舰视频",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -340,15 +353,26 @@
           "time_info": "07时57分"
         },
         {
-          "title": "沙特态度逆转，美国或重启“自由计划”，霍尔木兹海峡局势再度升温？",
-          "url": "https://wallstreetcn.com/articles/3771795",
-          "source": "华尔街见闻",
+          "title": "索尼与台积电将在日本熊本成立芯片合资公司，共同推进下一代图像传感器。",
+          "url": "https://wallstreetcn.com/livenews/3100479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "中国大陆球迷还能看到世界杯直播吗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%90%83%E8%BF%B7%E8%BF%98%E8%83%BD%E7%9C%8B%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "15时28分"
         },
         {
           "title": "据华尔街日报：沙特阿拉伯和科威特解除对美国军方进入基地和空域的限制。",
@@ -510,8 +534,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时28分]"
+        },
+        {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时57分 ~ 13时24分]"
+          "time_info": "[10时33分 ~ 15时28分]"
         },
         {
           "title": "美国3艘军舰穿越霍尔木兹遭袭",
@@ -540,17 +576,6 @@
           "time_info": "[00时02分 ~ 05时59分]"
         },
         {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时24分]"
-        },
-        {
           "title": "据福克斯新闻记者：从一位美国高级官员处获悉，美军刚刚袭击了伊朗米纳布的卡尔甘港海军检查站。",
           "url": "https://flash.jin10.com/detail/20260508052530857800",
           "source": "金十数据",
@@ -573,6 +598,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时57分]"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时28分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时28分]"
+        },
+        {
+          "title": "美国会两党参议员代表团来华：感谢中方",
+          "url": "https://news.ifeng.com/c/8sx8ouocQOr",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时28分]"
         },
         {
           "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
@@ -725,17 +786,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "雪佛龙公司：预计将继续向美国及国际市场交付其委内瑞拉资产生产的原油。",
           "url": "https://flash.jin10.com/detail/20260507234514975800",
           "source": "金十数据",
@@ -775,7 +825,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -808,7 +858,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -852,7 +902,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -877,17 +927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
-        },
-        {
-          "title": "美国会两党参议员代表团来华：感谢中方",
-          "url": "https://news.ifeng.com/c/8sx8ouocQOr",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
@@ -967,17 +1006,6 @@
           "time_info": "10时33分"
         },
         {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "A股软件开发板块盘中震荡走强，荣联科技、中国软件封板涨停，博睿数据、卫宁健康、榕基软件、新大陆跟涨。",
           "url": "https://flash.jin10.com/detail/20260508100318957800",
           "source": "金十数据",
@@ -1050,7 +1078,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1160,9 +1188,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "美国小鸟疑似用废弃针头筑巢",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E9%B8%9F%E7%96%91%E4%BC%BC%E7%94%A8%E5%BA%9F%E5%BC%83%E9%92%88%E5%A4%B4%E7%AD%91%E5%B7%A2&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国至5月7日8周国债竞拍-得标利率 3.595%，前值3.62%。",
@@ -1185,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "台湾出现汉坦病毒致死病例",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国至5月7日8周国债竞拍-投标倍数 2.91，前值2.79。",
@@ -1229,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "俄罗斯国防部说自8日起全线停火",
+          "url": "https://wallstreetcn.com/livenews/3100454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "一名官员称：欧盟为“潜在的”与俄罗斯总统普京对话做准备。（英国金融时报）",
@@ -1292,9 +1353,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "泽连斯基称乌方打击俄罗斯雅罗斯拉夫尔州一处石油设施",
+          "url": "https://wallstreetcn.com/livenews/3100451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "俄罗斯南部13个机场暂停运营",
+          "url": "https://wallstreetcn.com/livenews/3100450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "萨摩亚女足球员被控性侵14岁美国男孩",
@@ -1303,7 +1386,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1314,7 +1397,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1383,6 +1466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "经济学家：美国非农就业数据波动，但态势依然良好",
+          "url": "https://flash.jin10.com/detail/20260508144529234800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加630亿立方英尺，周环比增加3.5%（之前一周增长3.83%），至2.2050万亿立方英尺。",
