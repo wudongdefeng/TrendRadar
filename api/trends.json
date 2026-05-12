@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T02:56:15.262000+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-13T04:44:35.041996+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 64,
+      "match_count": 86,
       "titles": [
         {
           "title": "外交部就中美关系和台湾问题答问",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国4月CPI超预期升温 通胀近3年来首次完全吞噬工资增长",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "专家谈美财长访日：目的是压榨日本油水，且一定不会空手而归",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "日本实施汇率干预后，日美财长首次面对面会谈",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国参议院已获得足够票数，确认沃什担任美联储理事会成员，任期十四年，自2026年2月1日起算。投票仍在进行中。",
@@ -87,6 +87,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国至5月8日当周API成品油进口 -31.7万桶/日，前值26.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260513043411726800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "美国参议院投票，多数人支持确认凯文·沃什的美联储主席提名资格，投票仍在继续。",
           "url": "https://wallstreetcn.com/livenews/3102423",
           "source": "华尔街见闻-快讯",
@@ -98,6 +109,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "行业周报：美国上周API原油库存减少约220万桶",
+          "url": "https://wallstreetcn.com/livenews/3102510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美国至5月8日当周API原油进口 33.7万桶，前值-14.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043404274800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "EIA短期能源展望报告：目前预计伊朗将不得不减少石油产量，部分原因是美国的封锁。",
           "url": "https://flash.jin10.com/detail/20260513001402653800",
           "source": "金十数据",
@@ -107,6 +140,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国至5月8日当周API取暖油库存 -11.6万桶，前值-47.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043358904800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美国至5月8日当周API库欣原油库存 -175.5万桶，前值-104.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043349599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普批评媒体有关伊朗“形势良好”的报道。",
+          "url": "https://wallstreetcn.com/livenews/3102507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "台湾学者：台军队应该对付“台独”",
+          "url": "https://www.toutiao.com/trending/7638482331096514566/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "【金十期货整理：USDA 5月报告重点数据一览】金十期货5月13日讯，美国农业部公布5月供需报告，主要数据如下： <span class=\"section-news\">1. 美国2026/27年度大豆期末库存预期为3.10亿蒲式耳，低于路透预期的3.61亿蒲式耳；</span> <span class=\"section-news\">2. 美国2026/27年度玉米期末库存预期为19.57亿蒲式耳，高于路透预期的19.22亿蒲式耳；</span> <span class=\"section-news\">3. 美国2026/27年度小麦期末库存预期为7.62亿蒲式耳，低于路透预期的8.20亿蒲式耳；</span> <span class=\"section-news\">4. 全球2026/27年度大豆期末库存预期为1.2478亿吨，低于路透预期的1.2608亿吨；</span> <span class=\"section-news\">5. 全球2026/27年度玉米期末库存预期为2.7754亿吨，低于路透预期的2.8848亿吨；</span> <span class=\"section-news\">6. 全球2026/27年度小麦期末库存预期为2.7504亿吨，低于路透预期的2.8055亿吨；</span> <span class=\"section-news\">7. 美国2026/27年度大豆产量预期为44.35亿蒲式耳，略低于路透预期的44.44亿蒲式耳；</span> <span class=\"section-news\">8. 美国2026/27年度玉米产量预期为159.95亿蒲式耳，高于路透预期的159.26亿蒲式耳。</span> <span class=\"section-news\">9. 美国农业部在报告中称，2026/27年度美国大豆供应、压榨和出口预计高于上一年度，但期末库存下降；美国玉米供应、总使用量和期末库存预计下降，价格预期上升；全球玉米期末库存预计降至2.775亿吨，若兑现将为2013/14年度以来最低。</span>",
@@ -126,9 +205,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国至5月8日当周API精炼油库存 -31.9万桶，预期-299.5万桶，前值-464.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043338377800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "CBOT小麦期货上涨，美国农业部（USDA）预计美国冬小麦产量将锐减25%。",
@@ -142,16 +232,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "台湾学者：台军队应该对付“台独”",
-          "url": "https://www.toutiao.com/trending/7638482331096514566/",
-          "source": "今日头条",
+          "title": "拉美资产回撤，伊朗和平希望转淡且美国通胀数据构成压力",
+          "url": "https://wallstreetcn.com/livenews/3102504",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
@@ -161,8 +250,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国4月CPI同比升3.8% 三大期指集体走低 | 今夜看点",
@@ -173,8 +262,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -184,19 +273,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
           "url": "https://wallstreetcn.com/articles/3772081",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "中企有意收购墨西哥日产工厂，日本慌了",
@@ -206,8 +296,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国街头突发无差别枪击！男子当街开火砸车",
@@ -218,8 +308,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
@@ -230,8 +320,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "美国富豪遇仙人跳,被讹12亿",
@@ -242,19 +332,43 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时44分]"
         },
         {
           "title": "俄罗斯称成功试射“萨尔马特”导弹",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E6%88%90%E5%8A%9F%E8%AF%95%E5%B0%84%E2%80%9C%E8%90%A8%E5%B0%94%E9%A9%AC%E7%89%B9%E2%80%9D%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时44分]"
+        },
+        {
+          "title": "美国4月CPI调整意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4%E6%9C%88CPI%E8%B0%83%E6%95%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时55分 ~ 02时56分]"
+          "time_info": "[00时36分 ~ 04时44分]"
+        },
+        {
+          "title": "美国至5月8日当周API汽油库存 50.2万桶，预期-254.9万桶，前值-610.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043325520800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "【伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡】伊朗外交部发言人巴加埃表示，结束战事和解除对霍尔木兹海峡的封锁是同美国进行任何谈判的先决条件。巴加埃还表示，美国要求的是伊朗“彻底投降”，而不是真正的对话。他还指出，封锁霍尔木兹海峡的责任在于美国，根据国际法，海上封锁构成战争行为。（央视）",
@@ -263,9 +377,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3102503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "克里姆林宫发言人佩斯科夫：俄罗斯已通知美国及其他国家我们将进行“萨尔马特”导弹的测试。",
@@ -277,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国至5月8日当周API原油库存 -218.8万桶，预期-165.4万桶，前值-814.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260513043316573800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国能源部下调布油价格预期，预计明年石油产量将突破1400万桶/日，下调明年LNG出口预期",
@@ -301,13 +437,35 @@
           "time_info": "00时36分"
         },
         {
+          "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3102501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "日本爆发数十年来最大规模反战抗议",
+          "url": "https://www.toutiao.com/trending/7638409176152490022/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "美国总统特朗普：与伊朗谈判时，我并不考虑美国民众的财务状况，我不考虑任何人。",
           "url": "https://flash.jin10.com/detail/20260513022020411800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -329,7 +487,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -343,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国总统特朗普：当假新闻媒体称伊朗在军事上对美国表现良好时，这几乎等同于叛国，因为这种说法完全错误，甚至荒谬。伊朗海军原本拥有159艘舰船，现在每一艘都已经沉入海底。他们已经没有海军，空军也已不存在，所有技术能力都被摧毁，他们的“领导人”也不复存在，这个国家如今已陷入经济灾难。",
+          "url": "https://flash.jin10.com/detail/20260513042642770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期3.6605亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
@@ -362,7 +531,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -376,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（关于战略石油储备）我们正在尽快释放。",
+          "url": "https://flash.jin10.com/detail/20260513042501113800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年美国原油需求增速为10.00万桶/日，此前为-4.00万桶/日。",
@@ -395,9 +575,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "马斯克：SpaceX正在评估美国国内和国际上多个地点，以建设全球最先进的航天发射场。",
+          "url": "https://flash.jin10.com/detail/20260513042500037800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
@@ -406,7 +597,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -428,7 +619,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -450,7 +641,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -472,9 +663,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普对霍尔木兹海峡很快会开放充满信心。",
+          "url": "https://flash.jin10.com/detail/20260513042116284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "EIA上调美国汽油价格预期，预计霍尔木兹5月下旬前受阻",
@@ -483,7 +685,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -505,7 +707,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -527,9 +729,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国至5月8日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260513042000001800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国总统特朗普谈及伊朗，宣称：只会达成一份好的协议。 封锁已经取得成效。",
@@ -538,9 +751,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "如果拜占庭帝国一直活到了近代，会和俄罗斯成为盟友还是敌人？",
+          "url": "https://www.zhihu.com/question/8077143289",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国5月石油产量平均为1373万桶/日，4月为1375万桶/日，6月平均产量预计为1375万桶/日。",
@@ -565,15 +789,37 @@
           "time_info": "00时36分"
         },
         {
+          "title": "日本尼得科公司被曝大规模造假",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%BC%E5%BE%97%E7%A7%91%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%A0%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "美国总统特朗普：与俄罗斯总统普京没有达成共识，俄罗斯不应获得顿巴斯地区。",
           "url": "https://flash.jin10.com/detail/20260513020502120800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国就马里兰州基桥坍塌事件提起刑事诉讼，印度公司等被推上被告席",
+          "url": "https://wallstreetcn.com/livenews/3102480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国5月EIA次年天然气产量预期 1150亿立方英尺/日，前值1126亿立方英尺/日。",
@@ -593,7 +839,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -615,9 +861,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "美国5月EIA次年短期前景美国原油产量预期 1410万桶/日，前值1395万桶/日。",
@@ -648,7 +905,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -659,7 +916,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -670,20 +927,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "美国4月CPI调整意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4%E6%9C%88CPI%E8%B0%83%E6%95%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "02时56分"
         },
         {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.468%（4月8日为4.282%），投标倍数2.40（前次为2.43）。",
@@ -692,7 +938,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
