@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T02:31:44.954699+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-15T04:41:07.870483+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "李强会见美国工商界代表",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "美国国务卿鲁比奥：中美关系非常有建设性",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "日本版星链军事侦察网启用",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "美国中央司令部：我们在38天内成功消除了40年来伊朗的军事投资。",
@@ -85,15 +85,39 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美国疾控中心（CDC）：美国目前还没有汉坦病毒感染者。",
-          "url": "https://wallstreetcn.com/livenews/3103858",
+          "title": "Cerebras Systems美国IPO首日收涨68.15%，报311.07美元。 半导体概念股中，思科也涨13.41%，Wolfspeed涨11.76%，Nova涨10.42%，联电涨7.6%，博通、纳微半导体、台积电、英伟达涨5.52%-4.39%，安费诺涨3.65%。 凌云半导体则跌2.17%，慧荣科技跌2.23%，美光跌3.44%，英特尔跌3.62%，虎虎科技跌3.72%，闪迪跌4.46%，高通跌6.14%。",
+          "url": "https://wallstreetcn.com/livenews/3103883",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "04时41分"
+        },
+        {
+          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
+          "url": "https://wallstreetcn.com/articles/3772253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至5月13日当周，货币市场基金总资产增加4.36亿美元，至7.75万亿美元。在应税货币市场基金中，政府基金增加32.5亿美元，优质基金减少40.8亿美元；免税货币市场基金增加12.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260515041510937800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "伊朗外长阿拉格齐：地区国家如今意识到，不能依赖美国和以色列来保障安全。",
@@ -102,21 +126,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
-          "url": "https://wallstreetcn.com/articles/3772253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
@@ -127,19 +139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
-        },
-        {
-          "title": "一座天坛，横跨51年：美国总统再次踏上中美交往的历史现场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174699",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "中方：美方务必慎之又慎处理台湾问题",
@@ -147,11 +148,24 @@
           "source": "今日头条",
           "ranks": [
             16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
+        },
+        {
+          "title": "一座天坛，横跨51年：美国总统再次踏上中美交往的历史现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174699",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -161,19 +175,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "日本薯片包装“黑白化”引不安背后：政府宣称石脑油充足，生产一线却告急",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173117",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "日本石油将到货,本月硬熬",
@@ -183,8 +198,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "日本男教师对女学生水瓶做不雅动作",
@@ -192,11 +207,47 @@
           "source": "微博",
           "ranks": [
             19,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时41分]"
+        },
+        {
+          "title": "美国疾控中心（CDC）：美国目前还没有汉坦病毒感染者。",
+          "url": "https://wallstreetcn.com/livenews/3103858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时41分]"
+        },
+        {
+          "title": "台湾问题处理好了中美关系就能稳定",
+          "url": "https://www.toutiao.com/trending/7638971080904474687/",
+          "source": "今日头条",
+          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时31分]"
+          "time_info": "[02时31分 ~ 04时41分]"
+        },
+        {
+          "title": "加密行业取得胜利，《透明法案》监管草案通过美国参议院关键关卡",
+          "url": "https://wallstreetcn.com/livenews/3103853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时41分]"
         },
         {
           "title": "美国疾病控制与预防中心：目前美国没有汉坦病毒病例。",
@@ -205,7 +256,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -221,24 +272,13 @@
           "time_info": "00时08分"
         },
         {
-          "title": "加密行业取得胜利，《透明法案》监管草案通过美国参议院关键关卡",
-          "url": "https://wallstreetcn.com/livenews/3103853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
           "title": "美国疾病控制与预防中心：目前有41人正在接受汉坦病毒监测。",
           "url": "https://flash.jin10.com/detail/20260515020532996800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -260,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -271,7 +311,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -282,7 +322,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -293,9 +333,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.749万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3103867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "据路透社：当地目击者表示，一架美国政府飞机停在古巴哈瓦那国际机场的停机坪上。",
+          "url": "https://flash.jin10.com/detail/20260515034137836800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "日本广岛县一船舶拆解厂发生火灾",
@@ -353,6 +415,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：金砖国家将有效地就中东战争进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260515025430265800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "美国参议院民主党成员Warren要求证券交易委员会（SEC）调查总统特朗普家族的加密货币公司World Liberty Financial。",
           "url": "https://wallstreetcn.com/livenews/3103789",
           "source": "华尔街见闻-快讯",
@@ -370,18 +443,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "台湾问题处理好了中美关系就能稳定",
-          "url": "https://www.toutiao.com/trending/7638971080904474687/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -414,7 +476,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
