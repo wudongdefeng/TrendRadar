@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:40:53.013209+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-05-15T19:49:51.185715+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 108,
+      "match_count": 123,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -102,6 +102,17 @@
           "time_info": "[00时07分 ~ 10时26分]"
         },
         {
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时49分]"
+        },
+        {
           "title": "一座天坛，横跨51年：美国总统再次踏上中美交往的历史现场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33174699",
           "source": "澎湃新闻",
@@ -116,15 +127,15 @@
           "time_info": "[00时07分 ~ 14时27分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
+          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时49分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
@@ -165,29 +176,6 @@
           "time_info": "[00时07分 ~ 07时48分]"
         },
         {
-          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
-        },
-        {
-          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038367718697431356",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
-        },
-        {
           "title": "直播：美国总统特朗普结束访华，将乘专机离开北京",
           "url": "https://www.zhihu.com/theater/74689",
           "source": "知乎",
@@ -221,6 +209,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "日本气象厅：日本宫城县附近发生地震。",
+          "url": "https://flash.jin10.com/detail/20260515192245865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "美国总统特朗普：将继续摧毁伊朗的军事。",
           "url": "https://wallstreetcn.com/livenews/3103916",
           "source": "华尔街见闻-快讯",
@@ -241,6 +240,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038367718697431356",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时49分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -301,6 +313,29 @@
           "time_info": "07时48分"
         },
         {
+          "title": "日本宫城县附近海域发生5.2级地震",
+          "url": "https://wallstreetcn.com/livenews/3104408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时49分]"
+        },
+        {
           "title": "古巴政府：古内务部官员会见美国CIA局长",
           "url": "https://wallstreetcn.com/livenews/3103914",
           "source": "华尔街见闻-快讯",
@@ -323,6 +358,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时48分 ~ 17时40分]"
+        },
+        {
+          "title": "波兰总理图斯克：我已得到保证，美国有关驻军的决定是后勤性质的，不会影响威慑威胁的能力。",
+          "url": "https://flash.jin10.com/detail/20260515192054342800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "美国国务院：以色列与黎巴嫩的会谈富有成效。",
@@ -370,15 +416,16 @@
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://wallstreetcn.com/articles/3772334",
-          "source": "华尔街见闻",
+          "url": "https://www.cls.cn/detail/2372297",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            2
+            13,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时49分]"
         },
         {
           "title": "美国疾控中心（CDC）：美国目前还没有汉坦病毒感染者。",
@@ -405,6 +452,20 @@
           "time_info": "[04时41分 ~ 06时03分]"
         },
         {
+          "title": "习近平为美国总统举行欢迎宴会",
+          "url": "https://wallstreetcn.com/articles/3772288",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 19时49分]"
+        },
+        {
           "title": "美国投资公司协会（ICI）：截至5月13日当周，货币市场基金总资产增加4.36亿美元，至7.75万亿美元。在应税货币市场基金中，政府基金增加32.5亿美元，优质基金减少40.8亿美元；免税货币市场基金增加12.7亿美元。",
           "url": "https://flash.jin10.com/detail/20260515041510937800",
           "source": "金十数据",
@@ -417,29 +478,16 @@
           "time_info": "[04时41分 ~ 06时03分]"
         },
         {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://www.cls.cn/detail/2372297",
-          "source": "财联社热门",
+          "title": "俄外交部对日本发声",
+          "url": "https://news.ifeng.com/c/8t8xHv1aLUO",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
-        },
-        {
-          "title": "习近平为美国总统举行欢迎宴会",
-          "url": "https://wallstreetcn.com/articles/3772288",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
+            6,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时48分 ~ 17时40分]"
+          "time_info": "[14时27分 ~ 19时49分]"
         },
         {
           "title": "特朗普：美国中餐馆比五大快餐店还多",
@@ -466,15 +514,16 @@
           "time_info": "[02时31分 ~ 04时41分]"
         },
         {
-          "title": "俄外交部对日本发声",
-          "url": "https://news.ifeng.com/c/8t8xHv1aLUO",
+          "title": "日本供应链企业慌了：丰田、日产加大采购中国零部件",
+          "url": "https://news.ifeng.com/c/8t9I9uzAaxl",
           "source": "凤凰网",
           "ranks": [
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时27分 ~ 17时40分]"
+          "time_info": "[17时40分 ~ 19时49分]"
         },
         {
           "title": "加密行业取得胜利，《透明法案》监管草案通过美国参议院关键关卡",
@@ -487,6 +536,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 04时41分]"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时49分]"
         },
         {
           "title": "印尼也出现这种恶劣事件，日本使馆警告本国公民",
@@ -521,6 +582,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 17时40分]"
+        },
+        {
+          "title": "中方回应是否同意未来购买美国石油",
+          "url": "https://www.toutiao.com/trending/7638963075865100329/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时49分]"
+        },
+        {
+          "title": "以色列和黎巴嫩在美国举行新一轮谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179041",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时49分]"
         },
         {
           "title": "美国主播在北京公园和市民打乒乓球",
@@ -568,24 +653,13 @@
           "time_info": "14时27分"
         },
         {
-          "title": "日本供应链企业慌了：丰田、日产加大采购中国零部件",
-          "url": "https://news.ifeng.com/c/8t9I9uzAaxl",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "三笘薫落选日本世界杯大名单",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%AC%98%E8%96%AB%E8%90%BD%E9%80%89%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -656,15 +730,15 @@
           "time_info": "07时48分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "19时49分"
         },
         {
           "title": "据福克斯新闻：美国边境巡逻局局长班克斯辞职。",
@@ -706,7 +780,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -744,15 +818,15 @@
           "time_info": "10时26分"
         },
         {
-          "title": "中方回应是否同意未来购买美国石油",
-          "url": "https://www.toutiao.com/trending/7638963075865100329/",
-          "source": "今日头条",
+          "title": "日本首相高市早苗：与美国总统特朗普重申了日美同盟坚如磐石，并将于下月在G7峰会上与其会晤。",
+          "url": "https://flash.jin10.com/detail/20260515191148175800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "19时49分"
         },
         {
           "title": "伊朗外交部：外长阿拉格奇与俄罗斯外长拉夫罗夫会晤，双方讨论并回顾了德黑兰与莫斯科在政治、能源、交通及地区合作领域的合作情况。双方还就西亚地区的最新发展及与伊朗核问题相关的谈判交换了意见。",
@@ -799,6 +873,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "美国 4 月 PPI 上涨 6%，创近年来记录，同时 30 年期国债得标利率超 5%，创近 20 年来记录，你怎么看？",
+          "url": "https://www.zhihu.com/question/2038182916086297866",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "日本10年期国债收益率上升7个基点，达到2.7%。",
           "url": "https://flash.jin10.com/detail/20260515095956072800",
           "source": "金十数据",
@@ -830,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "据路透社：当地目击者表示，一架美国政府飞机停在古巴哈瓦那国际机场的停机坪上。",
@@ -865,17 +961,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "以色列和黎巴嫩在美国举行新一轮谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179041",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "日本央行执行董事Kamiyama：随着日本金融机构增加对外部投资基金的投资和贷款，外部冲击瞬间传导至国内市场的潜在风险正在上升。",
           "url": "https://flash.jin10.com/detail/20260515140707528800",
           "source": "金十数据",
@@ -904,7 +989,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -940,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "日本本州东部附近海域6.8级左右地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.8%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "日本央行执行董事Kamiyama：全球对冲基金资本流动的突然变化可能加剧债券和股票市场的价格波动。",
@@ -981,9 +1077,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "日本首相高市早苗：重申与美国总统特朗普保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260515190425636800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "日本首相高市早苗：刚刚与美国总统特朗普进行电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260515190417889800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "伊朗：伊朗称美国的袭击旨在破坏亚洲一体化",
@@ -1028,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗浓缩铀材料）可能在合适的时机获得。如果我们得不到伊朗的核尘埃，我们就会采取行动。",
+          "url": "https://flash.jin10.com/detail/20260515190350101800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "美国进出口价格创逾四年最大涨幅，受油价飙升推动",
@@ -1083,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及美国国务卿鲁比奥）我认为他非常出色。",
+          "url": "https://flash.jin10.com/detail/20260515190150237800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "美国参议院民主党成员Warren要求证券交易委员会（SEC）调查总统特朗普家族的加密货币公司World Liberty Financial。",
@@ -1151,6 +1291,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美国总统特朗普：（谈及英国）如果不处理移民和能源政策，英国首相斯塔默的政治生存将会非常艰难。",
+          "url": "https://flash.jin10.com/detail/20260515190004910800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "美国5月8日当周EIA天然气库存变动 850亿立方英尺，预期 870亿立方英尺，前值 630亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3103787",
           "source": "华尔街见闻-快讯",
@@ -1173,6 +1324,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "美国总统特朗普：可能会对得州共和党初选参议院竞选做出决定。",
+          "url": "https://flash.jin10.com/detail/20260515185947646800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "日本硫磺岛附近海域当地时间15日凌晨发生6.0级地震。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3103824",
           "source": "华尔街见闻-快讯",
@@ -1193,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "美国总统特朗普对《纽约时报》记者表示，其关于伊朗的报道是“叛国行为”。",
+          "url": "https://flash.jin10.com/detail/20260515185905831800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：开始看到供应链压力问题。 我们应该看到稳定性，看到商品价格下跌。",
