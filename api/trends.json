@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T15:52:24.324986+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-05-16T17:24:04.422510+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 113,
+      "match_count": 119,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -76,11 +76,12 @@
             12,
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 15时52分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普结束访华离京",
@@ -183,6 +184,17 @@
           "time_info": "[04时56分 ~ 15时52分]"
         },
         {
+          "title": "俄罗斯总统普京将于 5 月 19 日至 20 日对中国进行国事访问，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038998651368894618",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "美国证交会文件显示：英伟达将所持CoreWeave股份增加94.5%，升至4720万股。",
           "url": "https://flash.jin10.com/detail/20260516042012263800",
           "source": "金十数据",
@@ -239,15 +251,17 @@
           "time_info": "03时20分"
         },
         {
-          "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
-          "url": "https://wallstreetcn.com/livenews/3104765",
-          "source": "华尔街见闻-快讯",
+          "title": "台湾教师谈大陆人民为什么渴望统一",
+          "url": "https://www.toutiao.com/trending/7639336404238483502/",
+          "source": "今日头条",
           "ranks": [
-            3
+            4,
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 17时24分]"
         },
         {
           "title": "美国记者喝北京豆汁的表情",
@@ -305,6 +319,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "德总理说不建议孩子去美国学习工作",
+          "url": "https://wallstreetcn.com/livenews/3104771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国证交会文件显示：伯克希尔哈撒韦将所持雪佛龙(CVX.N)股份减持35.2%，降至8440万股。",
           "url": "https://flash.jin10.com/detail/20260516041813488800",
           "source": "金十数据",
@@ -353,18 +378,6 @@
           "time_info": "[01时26分 ~ 03时20分]"
         },
         {
-          "title": "台湾教师谈大陆人民为什么渴望统一",
-          "url": "https://www.toutiao.com/trending/7639336404238483502/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时52分]"
-        },
-        {
           "title": "美国5月15日当周石油钻井数 415，前值 410。",
           "url": "https://wallstreetcn.com/livenews/3104569",
           "source": "华尔街见闻-快讯",
@@ -387,6 +400,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时47分]"
+        },
+        {
+          "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
+          "url": "https://wallstreetcn.com/livenews/3104765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
         },
         {
           "title": "美国证交会文件显示：伯克希尔哈撒韦清仓亚马逊(AMZN.O)股份。",
@@ -435,6 +460,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 17时24分]"
         },
         {
           "title": "日本知名品牌番茄酱包装变透明",
@@ -547,6 +585,18 @@
           "time_info": "[06时46分 ~ 07时47分]"
         },
         {
+          "title": "俄罗斯总统普京将对华进行国事访问",
+          "url": "https://flash.jin10.com/detail/20260516150050218800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
+        },
+        {
           "title": "Cerebras：通过美国IPO总体融资大约63.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3104618",
           "source": "华尔街见闻-快讯",
@@ -571,6 +621,29 @@
           "time_info": "[06时46分 ~ 07时47分]"
         },
         {
+          "title": "俄罗斯总统普京将对华进行国事访问",
+          "url": "https://wallstreetcn.com/livenews/3104756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
+        },
+        {
+          "title": "俄罗斯总统普京将于5月19日至20日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33187390",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -581,18 +654,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "美国财长贝森特将于6月到参议院出席听证会。（PunchBowl）",
@@ -629,6 +690,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时46分]"
+        },
+        {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
         },
         {
           "title": "台湾密室女员工扮“吊死鬼”窒息离世",
@@ -675,6 +748,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 15时52分]"
+        },
+        {
+          "title": "乌克兰内政部长顾问：俄罗斯斯塔夫罗波尔边疆区的涅温诺梅斯克氮肥厂遭到袭击。该工厂是俄罗斯军工体系中的关键设施，每年生产多达140万吨硝酸铵以及超过100万吨氨。这些材料被用于炸药和弹药生产。",
+          "url": "https://flash.jin10.com/detail/20260516144109723800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
+        },
+        {
+          "title": "中国机电商会率团访问美国洛杉矶",
+          "url": "https://wallstreetcn.com/livenews/3104745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时24分]"
+        },
+        {
+          "title": "徐璐陪小5岁男友日本度假",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E9%99%AA%E5%B0%8F5%E5%B2%81%E7%94%B7%E5%8F%8B%E6%97%A5%E6%9C%AC%E5%BA%A6%E5%81%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国至5月15日当周石油钻井总数将于十分钟后公布。",
@@ -765,17 +873,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "俄罗斯总统普京将对华进行国事访问",
-          "url": "https://flash.jin10.com/detail/20260516150050218800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
           "url": "https://wallstreetcn.com/livenews/3104586",
           "source": "华尔街见闻-快讯",
@@ -796,17 +893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "俄罗斯总统普京将对华进行国事访问",
-          "url": "https://wallstreetcn.com/livenews/3104756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
@@ -853,6 +939,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
+          "url": "https://flash.jin10.com/detail/20260516160258809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "据俄新社：俄罗斯副外长里亚布科夫就萨尔马特导弹试验表态称，俄罗斯不打算采取任何可能破坏战略稳定的行动。",
+          "url": "https://flash.jin10.com/detail/20260516154706531800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "据国际文传电讯社IFX报道，EuroClear律师称，俄罗斯法院支持俄央行的诉求，命令EuroClear支付2000亿欧元。 塔斯社称，2025年12月15日，俄罗斯在莫斯科就2290亿美元（资产问题）起诉EuroClear。",
           "url": "https://wallstreetcn.com/livenews/3104558",
           "source": "华尔街见闻-快讯",
@@ -862,17 +970,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
-          "url": "https://wallstreetcn.com/livenews/3104753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "美国证交会文件显示：老虎环球将所持博通(AVGO.O)股份增加24.7%，升至360万股。",
@@ -1007,17 +1104,6 @@
           "time_info": "13时47分"
         },
         {
-          "title": "乌克兰内政部长顾问：俄罗斯斯塔夫罗波尔边疆区的涅温诺梅斯克氮肥厂遭到袭击。该工厂是俄罗斯军工体系中的关键设施，每年生产多达140万吨硝酸铵以及超过100万吨氨。这些材料被用于炸药和弹药生产。",
-          "url": "https://flash.jin10.com/detail/20260516144109723800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "美国国务院官员：第二天的黎巴嫩与以色列谈判气氛非常积极，超出了预期。",
           "url": "https://flash.jin10.com/detail/20260516001147988800",
           "source": "金十数据",
@@ -1106,24 +1192,13 @@
           "time_info": "04时56分"
         },
         {
-          "title": "中国机电商会率团访问美国洛杉矶",
-          "url": "https://wallstreetcn.com/livenews/3104745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "日本广岛船舶拆解厂火势仍未受控 约650人紧急避难",
           "url": "https://flash.jin10.com/detail/20260516143043059800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1167,7 +1242,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
