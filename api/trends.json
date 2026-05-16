@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T13:47:38.876889+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-16T15:52:24.324986+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 105,
+      "match_count": 113,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -67,6 +67,22 @@
           "time_info": "[01时25分 ~ 13时47分]"
         },
         {
+          "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183288",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 15时52分]"
+        },
+        {
           "title": "美国总统特朗普结束访华离京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
           "source": "澎湃新闻",
@@ -93,21 +109,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时25分 ~ 07时47分]"
-        },
-        {
-          "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183288",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 13时47分]"
         },
         {
           "title": "日本自卫队，该去捕熊了",
@@ -170,6 +171,18 @@
           "time_info": "[01时25分 ~ 07时47分]"
         },
         {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://wallstreetcn.com/articles/3772355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时56分 ~ 15时52分]"
+        },
+        {
           "title": "美国证交会文件显示：英伟达将所持CoreWeave股份增加94.5%，升至4720万股。",
           "url": "https://flash.jin10.com/detail/20260516042012263800",
           "source": "金十数据",
@@ -191,28 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "朱鹤新会见美国高盛集团董事长兼首席执行官苏德巍",
-          "url": "https://wallstreetcn.com/livenews/3104741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://wallstreetcn.com/articles/3772355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 10时08分]"
         },
         {
           "title": "美国至5月15日当周天然气钻井总数 128口，前值129口。",
@@ -248,15 +239,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "台湾教师谈大陆人民为什么渴望统一",
-          "url": "https://www.toutiao.com/trending/7639336404238483502/",
-          "source": "今日头条",
+          "title": "日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质",
+          "url": "https://wallstreetcn.com/livenews/3104765",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "15时52分"
         },
         {
           "title": "美国记者喝北京豆汁的表情",
@@ -338,6 +329,18 @@
           "time_info": "[06时46分 ~ 07时47分]"
         },
         {
+          "title": "朱鹤新会见美国高盛集团董事长兼首席执行官苏德巍",
+          "url": "https://wallstreetcn.com/livenews/3104741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
+        },
+        {
           "title": "美国5月15日当周天然气钻井数 128，前值 129。",
           "url": "https://wallstreetcn.com/livenews/3104570",
           "source": "华尔街见闻-快讯",
@@ -348,6 +351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 03时20分]"
+        },
+        {
+          "title": "台湾教师谈大陆人民为什么渴望统一",
+          "url": "https://www.toutiao.com/trending/7639336404238483502/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "美国5月15日当周石油钻井数 415，前值 410。",
@@ -483,6 +498,19 @@
           "time_info": "[04时56分 ~ 07时47分]"
         },
         {
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 15时52分]"
+        },
+        {
           "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
           "url": "https://wallstreetcn.com/livenews/3104621",
           "source": "华尔街见闻-快讯",
@@ -555,16 +583,16 @@
           "time_info": "[06时46分 ~ 07时47分]"
         },
         {
-          "title": "特朗普抵达美国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            11
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时08分 ~ 13时47分]"
+          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "美国财长贝森特将于6月到参议院出席听证会。（PunchBowl）",
@@ -603,6 +631,28 @@
           "time_info": "[05时53分 ~ 06时46分]"
         },
         {
+          "title": "台湾密室女员工扮“吊死鬼”窒息离世",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%86%E5%AE%A4%E5%A5%B3%E5%91%98%E5%B7%A5%E6%89%AE%E2%80%9C%E5%90%8A%E6%AD%BB%E9%AC%BC%E2%80%9D%E7%AA%92%E6%81%AF%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
+        },
+        {
+          "title": "中方是否同意未来购买美国石油？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182153",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
+        },
+        {
           "title": "美银全球研究的分析师：如果全球经济增长强劲导致美联储无法降息，新兴市场可能表现良好. 但在非对称增长（有利于美国）或全球滞胀冲击的情景下，新兴市场将更为脆弱。 在汇率方面，即便距离选举触发点还有几个月，大宗商品前景和货币政策应会继续对巴西雷亚尔提供支撑。",
           "url": "https://wallstreetcn.com/livenews/3104645",
           "source": "华尔街见闻-快讯",
@@ -613,6 +663,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普称随访美国商人是自己想来的",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "美国至5月15日当周石油钻井总数将于十分钟后公布。",
@@ -632,7 +694,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -654,7 +716,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -687,7 +749,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -701,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "俄罗斯总统普京将对华进行国事访问",
+          "url": "https://flash.jin10.com/detail/20260516150050218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
@@ -723,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "俄罗斯总统普京将对华进行国事访问",
+          "url": "https://wallstreetcn.com/livenews/3104756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
@@ -753,18 +837,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -789,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国证交会文件显示：老虎环球将所持博通(AVGO.O)股份增加24.7%，升至360万股。",
@@ -830,29 +914,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "台湾密室女员工扮“吊死鬼”窒息离世",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%86%E5%AE%A4%E5%A5%B3%E5%91%98%E5%B7%A5%E6%89%AE%E2%80%9C%E5%90%8A%E6%AD%BB%E9%AC%BC%E2%80%9D%E7%AA%92%E6%81%AF%E7%A6%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "中方是否同意未来购买美国石油？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182153",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -907,7 +969,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -940,20 +1002,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
         {
-          "title": "特朗普称随访美国商人是自己想来的",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
-          "source": "百度热搜",
+          "title": "乌克兰内政部长顾问：俄罗斯斯塔夫罗波尔边疆区的涅温诺梅斯克氮肥厂遭到袭击。该工厂是俄罗斯军工体系中的关键设施，每年生产多达140万吨硝酸铵以及超过100万吨氨。这些材料被用于炸药和弹药生产。",
+          "url": "https://flash.jin10.com/detail/20260516144109723800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "15时52分"
         },
         {
           "title": "美国国务院官员：第二天的黎巴嫩与以色列谈判气氛非常积极，超出了预期。",
@@ -1044,6 +1106,28 @@
           "time_info": "04时56分"
         },
         {
+          "title": "中国机电商会率团访问美国洛杉矶",
+          "url": "https://wallstreetcn.com/livenews/3104745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "日本广岛船舶拆解厂火势仍未受控 约650人紧急避难",
+          "url": "https://flash.jin10.com/detail/20260516143043059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美银策略师Hartnett：美国CPI恐将在中期选举之前就突破5%这个“马奇诺防线”",
           "url": "https://wallstreetcn.com/livenews/3104549",
           "source": "华尔街见闻-快讯",
@@ -1077,6 +1161,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "消息人士：国际足联将就伊朗参加在美国举行的世界杯一事提供“保证”。国际足联秘书长将于周六在伊斯坦布尔与伊朗足协举行会谈，讨论世界杯筹备事宜。",
+          "url": "https://flash.jin10.com/detail/20260516142819545800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：5月12日当周，投机者所持NYMEX WTI原油净多头头寸减少2,373手合约，至129,583手合约。 所持ICE与布伦特原油净多头头寸降低至10周新低。 所持NYMEX汽油净多头头寸有所减少，所持NYMEX柴油净多头头寸创16周新低。 所持NYMEX天然气净多头头寸创18个月新低。",
           "url": "https://wallstreetcn.com/livenews/3104602",
           "source": "华尔街见闻-快讯",
@@ -1094,7 +1189,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -1138,7 +1233,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -1171,7 +1266,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
