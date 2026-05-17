@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T10:12:38.750495+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-05-17T14:15:28.817079+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "俄罗斯总统普京将于5月19日至20日访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "海风：台湾当局该醒了",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "俄罗斯总统普京将于 5 月 19 日至 20 日对中国进行国事访问，哪些信息值得关注？",
@@ -100,11 +100,12 @@
             1,
             6,
             9,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -114,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "美国记者挑战豆汁后表情亮了",
@@ -151,22 +152,24 @@
           "source": "今日头条",
           "ranks": [
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
           "url": "https://www.zhihu.com/question/2039077052658049213",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 14时15分]"
         },
         {
           "title": "日本央行副行长冰见野良三呼吁对全球货币体系采取“整体性方法”",
@@ -196,13 +199,25 @@
           "time_info": "[00时49分 ~ 07时43分]"
         },
         {
+          "title": "【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果",
+          "url": "https://www.cls.cn/detail/2373253",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时15分]"
+        },
+        {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
           "url": "https://flash.jin10.com/detail/20260517093403715800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -256,31 +271,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
         {
-          "title": "5月17日，国家主席习近平同俄罗斯总统普京分别向第十届中俄博览会致贺信。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3104826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果",
-          "url": "https://www.cls.cn/detail/2373253",
-          "source": "财联社热门",
+          "title": "为什么美国防长在台湾问题上一言不发？",
+          "url": "https://news.ifeng.com/c/8tCCLtKAMKP",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "14时15分"
         },
         {
           "title": "美国“福特”号航母返回美国母港",
@@ -336,6 +340,18 @@
           "time_info": "[00时49分 ~ 02时53分]"
         },
         {
+          "title": "5月17日，国家主席习近平同俄罗斯总统普京分别向第十届中俄博览会致贺信。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3104826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时15分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：致“福特”号航母打击群的勇士们，欢迎回家。",
           "url": "https://flash.jin10.com/detail/20260517010711735800",
           "source": "金十数据",
@@ -383,9 +399,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "驻日美军一士兵涉嫌盗窃被日本警方逮捕",
+          "url": "https://flash.jin10.com/detail/20260517133559813800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "美福特号航母返回美国 结束为期11个月部署",
+          "url": "https://wallstreetcn.com/livenews/3104834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "伊朗战争推高油价，加剧美国贫富分化",
@@ -394,7 +432,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
