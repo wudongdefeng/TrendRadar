@@ -1,35 +1,23 @@
 {
-  "generated_at": "2026-05-19T06:52:01.721495+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-05-19T07:58:19.377911+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 87,
+      "match_count": 90,
       "titles": [
         {
           "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
           "url": "https://wallstreetcn.com/articles/3772467",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时52分]"
-        },
-        {
-          "title": "特朗普敲打“台独” 日本被美撤梯子",
-          "url": "https://www.toutiao.com/trending/7640786941127196678/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
         },
         {
           "title": "普京即将启程访华，俄罗斯远东地区要真正融入「大远东」经济圈，最紧迫的突破口在哪里？",
@@ -39,11 +27,50 @@
             19,
             11,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
+        },
+        {
+          "title": "日本又要被阻击了？",
+          "url": "https://wallstreetcn.com/articles/3772468",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普敲打“台独” 日本被美撤梯子",
+          "url": "https://www.toutiao.com/trending/7640786941127196678/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
+        },
+        {
+          "title": "探秘美国1美元房子长什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E7%BE%8E%E5%9B%BD1%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -54,29 +81,6 @@
             4,
             8,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时52分]"
-        },
-        {
-          "title": "日本又要被阻击了？",
-          "url": "https://wallstreetcn.com/articles/3772468",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时52分]"
-        },
-        {
-          "title": "探秘美国1美元房子长什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E7%BE%8E%E5%9B%BD1%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -132,6 +136,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "莫斯科市长表示，俄罗斯击落了一架飞往莫斯科的乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260519073202833800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美国洛杉矶西北部突发山火快速蔓延，当局紧急疏散居民",
           "url": "https://wallstreetcn.com/livenews/3105601",
           "source": "华尔街见闻-快讯",
@@ -149,7 +164,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -220,17 +235,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国SEC废除数十年历史的“禁言令”，和解后被告可公开喊冤",
-          "url": "https://wallstreetcn.com/livenews/3105645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "日本财务大臣片山皋月：向七国集团（G7）表示，需要密切关注市场。 需要采取行动来纠正全球失衡问题。 我们需要解决与Mythos相关的风险。",
           "url": "https://wallstreetcn.com/livenews/3105542",
           "source": "华尔街见闻-快讯",
@@ -255,6 +259,18 @@
           "time_info": "[01时27分 ~ 03时27分]"
         },
         {
+          "title": "美国SEC废除数十年历史的“禁言令”，和解后被告可公开喊冤",
+          "url": "https://wallstreetcn.com/livenews/3105645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
           "title": "何立峰会见美国超威半导体CEO苏姿丰",
           "url": "https://www.toutiao.com/trending/7641214334303141924/",
           "source": "今日头条",
@@ -276,6 +292,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时27分]"
+        },
+        {
+          "title": "美国10年期国债期货上涨10个点，30年期国债期货上涨13个点。",
+          "url": "https://flash.jin10.com/detail/20260519060658049800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
+          "title": "报道：美国SEC将推股票“代币化”交易方案，开辟加密交易新战场",
+          "url": "https://wallstreetcn.com/livenews/3105644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
+          "title": "日本、韩国将在两国首脑峰会期间围绕联合石油（储备）框架达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3105640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
+          "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
+          "url": "https://wallstreetcn.com/livenews/3105635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
+        },
+        {
+          "title": "美国总统特朗普：没有一艘船只突破我们（在霍尔木兹海峡）的封锁线。",
+          "url": "https://wallstreetcn.com/livenews/3105630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时58分]"
         },
         {
           "title": "日本车企为何在中国走向大溃败",
@@ -333,26 +409,15 @@
           "time_info": "05时04分"
         },
         {
-          "title": "美国10年期国债期货上涨10个点，30年期国债期货上涨13个点。",
-          "url": "https://flash.jin10.com/detail/20260519060658049800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "报道：美国SEC将推股票“代币化”交易方案，开辟加密交易新战场",
-          "url": "https://wallstreetcn.com/livenews/3105644",
+          "title": "据Accuweather气象公司的预测，美国华盛顿特区的气温在周二将达到100华氏度（38摄氏度），比历史同期平均水平高出近25华氏度。 美国天气预测中心表示，从大西洋中部到东北部地区（即电网运营商PJM覆盖的核心区域），预计到周三将有至少90项单日高温纪录被追平、打破或面临挑战。",
+          "url": "https://wallstreetcn.com/livenews/3105658",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时58分"
         },
         {
           "title": "美国中央司令部：继续严格执行对伊朗港口的封锁。美国军队现已令85艘商业船只更改航向，以确保完全遵守封锁。",
@@ -366,24 +431,13 @@
           "time_info": "01时27分"
         },
         {
-          "title": "日本、韩国将在两国首脑峰会期间围绕联合石油（储备）框架达成共识。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3105640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
           "url": "https://flash.jin10.com/detail/20260519055948313800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -427,7 +481,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -482,7 +536,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -526,7 +580,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -542,15 +596,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
-          "url": "https://wallstreetcn.com/livenews/3105635",
+          "title": "高温触发电网紧急警报，美国东海岸电价暴涨",
+          "url": "https://wallstreetcn.com/livenews/3105647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时58分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
@@ -581,7 +635,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -636,7 +690,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -680,7 +734,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -696,24 +750,13 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国总统特朗普：没有一艘船只突破我们（在霍尔木兹海峡）的封锁线。",
-          "url": "https://wallstreetcn.com/livenews/3105630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "美国总统特朗普：我们当时正准备在明天发动一场大规模攻击。我已将其推迟一段时间。希望可能是永远，但或许只是一小段时间，因为我们与伊朗进行了非常重要的讨论，我们将拭目以待其结果。",
           "url": "https://flash.jin10.com/detail/20260519054259918800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -735,7 +778,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -768,7 +811,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -790,7 +833,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -801,7 +844,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -823,7 +866,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -856,7 +899,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -867,7 +910,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -933,7 +976,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -944,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -955,7 +998,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -966,7 +1009,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
