@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-19T10:54:22.548196+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-05-19T14:42:52.829229+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 98,
+      "match_count": 122,
       "titles": [
-        {
-          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
-          "url": "https://wallstreetcn.com/articles/3772467",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时58分]"
-        },
         {
           "title": "普京即将启程访华，俄罗斯远东地区要真正融入「大远东」经济圈，最紧迫的突破口在哪里？",
           "url": "https://www.zhihu.com/question/2039719852647113704",
@@ -32,8 +20,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 10时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 14时42分]"
+        },
+        {
+          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
+          "url": "https://wallstreetcn.com/articles/3772467",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 07时58分]"
         },
         {
           "title": "日本又要被阻击了？",
@@ -68,11 +68,12 @@
           "ranks": [
             9,
             6,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 10时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 14时42分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -125,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "日经225指数收跌0.4%，报60550.59点。日本东证指数收涨0.6%，报3850.67点。",
+          "url": "https://wallstreetcn.com/livenews/3105857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -221,7 +233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -343,6 +355,17 @@
           "time_info": "[06时52分 ~ 07时58分]"
         },
         {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时42分]"
+        },
+        {
           "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
           "url": "https://wallstreetcn.com/livenews/3105635",
           "source": "华尔街见闻-快讯",
@@ -376,6 +399,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 06时52分]"
+        },
+        {
+          "title": "美国两架战机相撞坠毁 损失有多大",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81+%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时42分]"
         },
         {
           "title": "连尊雕像都容不下 日本何等做贼心虚",
@@ -444,15 +479,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
+          "title": "大和证券：霍尔木兹关闭叠加旅游业放缓，日本出口面临双重压力",
+          "url": "https://flash.jin10.com/detail/20260519142254926800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "14时42分"
         },
         {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
@@ -472,9 +507,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "俄罗斯将于5月19日至21日举行核力量演习。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3105842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "市场消息：美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易。",
@@ -516,9 +562,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "【日本国债收益率再度上涨 反映债券市场进一步走弱】10年期和30年期日本国债收益率延续升势，反映在全球债市大跌导致一些收益率升至历史高位后，债券市场进一步走弱。日本10年期收益率和30年期收益率分别上涨5.5个基点，至2.795%和4.155%；日本20年期国债收益率上升6.5个基点，至3.78%。",
+          "url": "https://wallstreetcn.com/livenews/3105841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据华尔街日报：美国得州有关部门称，上周五，位于得州的SpaceX火箭综合体发生一起工作场所事故，导致一人死亡。",
@@ -530,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "日本20年期国债收益率上升6.5个基点，达到3.78%，为1996年8月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260519141645994800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国财政部长贝森特：对某些俄罗斯石油发放为期30天的通用许可证。",
@@ -563,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "俄罗斯当前面临着怎样的国内外局势？普京此次访华有哪些问题亟待解决？",
+          "url": "https://www.zhihu.com/question/2039731478888539513",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国3月外资净买入美国公债 135亿美元，前值由20亿美元修正为26亿美元。",
@@ -609,6 +699,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "88年前的今天中国空军无弹出征日本",
+          "url": "https://www.toutiao.com/trending/7641370637290160182/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国3月长期资本净流入 813亿美元，前值由586亿美元修正为570亿美元。",
           "url": "https://flash.jin10.com/detail/20260519040002583800",
           "source": "金十数据",
@@ -651,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
@@ -719,6 +831,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "人民日报专访美国友人赛考斯",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E4%B8%93%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%8F%8B%E4%BA%BA%E8%B5%9B%E8%80%83%E6%96%AF",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
           "url": "https://flash.jin10.com/detail/20260519035307747800",
           "source": "金十数据",
@@ -739,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，结束包括黎巴嫩在内的各方战争、美国军队撤离靠近伊朗的地区也包含在提议中。",
+          "url": "https://flash.jin10.com/detail/20260519141101651800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
@@ -785,6 +919,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，解除制裁、释放冻结资金、结束封锁包含在伊朗最近对美国的提议中。",
+          "url": "https://flash.jin10.com/detail/20260519141041743800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国司法部寻求撤销针对Gautam Adani（阿达尼）的刑事指控。",
           "url": "https://wallstreetcn.com/livenews/3105524",
           "source": "华尔街见闻-快讯",
@@ -818,6 +963,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "27年前捐款植树的美国人找到了",
+          "url": "https://www.douyin.com/hot/2503244",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国总统特朗普：（关于埃博拉病毒）我感到担忧。",
           "url": "https://flash.jin10.com/detail/20260519054127078800",
           "source": "金十数据",
@@ -827,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美国银行调查：（5月份受访者的）现金水平从4.3%降至3.9%，为2024年2月以来最大月度降幅。",
+          "url": "https://flash.jin10.com/detail/20260519141024916800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "日本财务大臣片山皋月：七国集团（G7）并没有考虑针对债券抛售采取协调行动，每个国家将针对自身市场形势做出回应。 需要针对汇率进行适当的应对。 投机交易是市场波动的一个因素。",
@@ -884,6 +1051,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "美国银行调查：40%的受访者认为第二波通胀是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20260519140949099800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国总统特朗普谈及推迟对伊朗发动袭击的决定，称：希望也许永远如此。 各国问我们是否可以短暂地推迟对伊朗的袭击。 （谈及暂停对伊朗发动袭击）这是一个积极的进展。",
           "url": "https://wallstreetcn.com/livenews/3105627",
           "source": "华尔街见闻-快讯",
@@ -915,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美国银行调查：仅有4%的基金经理认为会出现“硬着陆”。",
+          "url": "https://flash.jin10.com/detail/20260519140939592800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "消息人士称，美国财政部将已到期的俄罗斯海运石油制裁豁免再延长30天。（央视）",
@@ -950,6 +1139,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "美国银行调查：66%的受访者预计霍尔木兹海峡瓶颈将在未来几个月内结束。",
+          "url": "https://flash.jin10.com/detail/20260519140924310800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国纽约市长Mamdani会见摩根大通CEO戴蒙。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3105625",
           "source": "华尔街见闻-快讯",
@@ -972,6 +1172,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国银行调查：62%的受访者预计30年期美国国债收益率将达到6%，20%的受访者则预计为4%。",
+          "url": "https://flash.jin10.com/detail/20260519140907283800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
           "url": "https://wallstreetcn.com/livenews/3105577",
           "source": "华尔街见闻-快讯",
@@ -981,6 +1192,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国银行调查：全球基金经理在五月份的股票配置创下新高。",
+          "url": "https://flash.jin10.com/detail/20260519140849708800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "日本30年期国债收益率上升5.5个基点至4.155%。",
+          "url": "https://wallstreetcn.com/livenews/3105823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国财长贝森特：此次延期将提供额外的灵活性，将与一些国家合作，根据需要提供具体许可证。该一般许可证将有助于稳定原油市场，确保石油能够到达最需要能源的国家。",
@@ -994,15 +1227,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国两架战机相撞坠毁 损失有多大",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81+%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "百度热搜",
+          "title": "美国夏威夷一港口发生燃油泄漏事故",
+          "url": "https://wallstreetcn.com/livenews/3105822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "14时42分"
         },
         {
           "title": "美国财长贝森特：美国将发布一项为期30天的临时通用许可证，以允许暂时获取俄罗斯石油。",
@@ -1044,7 +1277,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -1058,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "据俄新社：俄罗斯国防部表示，将从俄罗斯境内的试验场发射弹道导弹和巡航导弹。",
+          "url": "https://flash.jin10.com/detail/20260519140229272800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
@@ -1077,9 +1321,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "日本10年期国债收益率上升5个基点，至2.79%。",
+          "url": "https://wallstreetcn.com/livenews/3105818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "消息称伊朗提出将浓缩铀转移至俄罗斯",
@@ -1088,7 +1343,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -1113,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.8%报40,175.56点。",
+          "url": "https://wallstreetcn.com/livenews/3105813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     }
