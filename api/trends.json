@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-05-21T07:07:14.152708+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-05-21T10:33:14.664772+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 47,
+      "match_count": 64,
       "titles": [
-        {
-          "title": "习近平同俄罗斯总统普京会谈",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%B0%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时07分]"
-        },
         {
           "title": "俄罗斯总统普京结束访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 10时33分]"
         },
         {
           "title": "国台办发言人就台湾地区领导人“5·20”讲话表态：充斥谎言与欺骗、敌意与对抗",
@@ -36,6 +26,17 @@
           "ranks": [
             5,
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 10时33分]"
+        },
+        {
+          "title": "习近平同俄罗斯总统普京会谈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%B0%88",
+          "source": "bilibili 热搜",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -65,6 +66,39 @@
           "time_info": "[00时50分 ~ 07时07分]"
         },
         {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 10时33分]"
+        },
+        {
+          "title": "美国起诉劳尔·卡斯特罗，古巴外长斥“非法闹剧”",
+          "url": "https://news.ifeng.com/c/8tIYvnaN0gz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "美国起诉94岁古巴前领导人卡斯特罗，意在重演委内瑞拉剧本？",
+          "url": "https://news.ifeng.com/c/8tIfRlPOaZk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
           "title": "视频丨俄罗斯总统普京抵达北京开启访华行程",
           "url": "https://m.thepaper.cn/newsDetail_forward_33200995",
           "source": "澎湃新闻",
@@ -82,7 +116,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -96,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "日本政府拟追加预算约3万亿日元。（TBS）",
+          "url": "https://wallstreetcn.com/livenews/3107090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "乌克兰总统泽连斯基：已经在着手加强这一方向的防御，同时也在对白俄罗斯以及俄罗斯境内部分构成威胁的地区采取预防性措施。",
@@ -126,20 +171,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 07时07分]"
         },
         {
           "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
@@ -179,6 +213,17 @@
           "time_info": "[05时44分 ~ 07时07分]"
         },
         {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
           "url": "https://wallstreetcn.com/livenews/3106945",
           "source": "华尔街见闻-快讯",
@@ -189,6 +234,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 07时07分]"
+        },
+        {
+          "title": "美国起诉古巴革命领袖劳尔·卡斯特罗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204333",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "俄罗斯总统普京访华期间两国元首会晤成果文件清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204291",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
         },
         {
           "title": "台湾人疯狂批发霸王茶姬回家",
@@ -263,7 +341,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -285,9 +363,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：关键是要评估中东局势引发的通胀对消费的影响。 日本央行还应监测技术需求和供应链。",
+          "url": "https://wallstreetcn.com/livenews/3107070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "特朗普对美国的封锁措施表示称赞。",
@@ -323,6 +412,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "日本央行审议委员小枝淳子：部分市场参与者认为，市场对财政政策的看法影响了日本国债收益率的形成。",
+          "url": "https://flash.jin10.com/detail/20260521094406756800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "亚马逊创始人贝佐斯：美国税法是裙带资本主义，需要修正",
           "url": "https://wallstreetcn.com/livenews/3106838",
           "source": "华尔街见闻-快讯",
@@ -334,6 +434,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "日本央行审议委员小枝淳子：核心通胀率已经达到了2%左右。 认为核心通胀率有可能超过2%。 需要根据经济活动情况来提高利率。 长期实际利率保持为正值是可取的。 日本央行加息后金融环境依然宽松。 以适当的速度提高利率是合理的。 日本央行需要考察潜在通胀锚定程度。",
+          "url": "https://wallstreetcn.com/livenews/3107060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美联储称美国金融体系脆弱性仍“值得关注”",
           "url": "https://flash.jin10.com/detail/20260521024248944800",
           "source": "金十数据",
@@ -343,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：长期内实际长期利率保持正值对维持市场健康是必要的。",
+          "url": "https://flash.jin10.com/detail/20260521094308436800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国总统特朗普：在伊朗问题上，美国受到广泛尊重。 关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -373,9 +495,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：长期负实际利率的持续可能使投资者将日本经济视为预期回报不具吸引力的投资目的地。",
+          "url": "https://flash.jin10.com/detail/20260521094256798800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国上周原油总库存创纪录暴跌1780万桶，出口创历史新高引发供应紧缺隐忧",
@@ -400,6 +533,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "日本央行审议委员小枝淳子：短期​​实际利率一直处于负值，且相对于其他经济体处于较低水平。",
+          "url": "https://flash.jin10.com/detail/20260521094227760800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美国30年期国债收益率跌至5.1085%。",
           "url": "https://wallstreetcn.com/livenews/3106835",
           "source": "华尔街见闻-快讯",
@@ -409,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：服务价格在数年前曾呈下行趋势，但近期受持续稳健的工资增长推动，正稳定地推升消费者物价指数（CPI）。",
+          "url": "https://flash.jin10.com/detail/20260521094140358800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "俄罗斯央行申请立即执行针对欧洲清算银行的法院判决",
@@ -444,6 +599,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "前白宫高级能源顾问：工具箱耗尽，美国正迎来更危险的石油冲击",
+          "url": "https://flash.jin10.com/detail/20260521094131500800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美国财政部拍卖160亿美元20年期国债，得标利率5.122%（4月22日为4.883%），投标倍数2.55（前次为2.68）。",
           "url": "https://wallstreetcn.com/livenews/3106864",
           "source": "华尔街见闻-快讯",
@@ -477,6 +643,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "日本央行审议委员小枝淳子：日本央行必须评估当前中东局势将持续多久，其对全球经济及外部需求的影响，并结合当前的汇率水平，研判日本净出口将如何变化。",
+          "url": "https://flash.jin10.com/detail/20260521093935970800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
           "url": "https://wallstreetcn.com/livenews/3106829",
           "source": "华尔街见闻-快讯",
@@ -508,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：在考量赎回与购入之间的长期平衡时，必须综合评估日本国债市场的状况、流动性问题（包括准备金余额）等各类因素。",
+          "url": "https://flash.jin10.com/detail/20260521093816357800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "布伦特原油日内跌幅达7.0%，报103.44美元/桶；WTI原油日内跌幅达6.5%，报97.31美元/桶。 美国10年期国债收益率跌10个基点，至4.56%。 上期所原油期货夜盘跌幅扩大至6.11%，现报641元人民币/桶。 据Pool Report报道，美国总统特朗普声称，与伊朗的对话处于“最终阶段”。",
