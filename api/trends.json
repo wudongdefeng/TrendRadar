@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T04:47:41.763332+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-22T06:14:14.948262+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 53,
+      "match_count": 62,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
         },
         {
           "title": "美特使又撺掇：格陵兰需要美国，机会来了",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -63,15 +63,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "美国至5月15日当周外国央行持有美国国债 -202.38亿美元，前值-392.39亿美元。",
-          "url": "https://flash.jin10.com/detail/20260522043120630800",
+          "title": "SpaceX：目前瞄准美国中部时间18:30（北京时间07:30）进行星舰发射。",
+          "url": "https://flash.jin10.com/detail/20260522055822913800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "06时14分"
         },
         {
           "title": "美国总统特朗普：将向波兰增派5000名士兵。",
@@ -80,9 +80,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "“日本民航将不能过境中国”？谁在给日本民粹右翼递弹药",
+          "url": "https://news.ifeng.com/c/8tJHzByt8vj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
         },
         {
           "title": "美国总统特朗普：不会通过派遣航母威胁古巴，我们会帮助古巴。",
@@ -107,17 +118,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
-          "url": "https://flash.jin10.com/detail/20260522042656396800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "智能环生产商Oura Health Oy秘密递交美国IPO申请。",
           "url": "https://wallstreetcn.com/livenews/3107541",
           "source": "华尔街见闻-快讯",
@@ -140,6 +140,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "对于美国起诉劳尔·卡斯特罗，外交部说了3个“反对”2个“停止”",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYnG",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
+        },
+        {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
           "url": "https://flash.jin10.com/detail/20260522000533262800",
           "source": "金十数据",
@@ -149,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "CBS新闻民调显示，三分之二的美国受访者感受到经济压力，大多数受访者表示汽油价格飙升正在造成困扰。",
-          "url": "https://flash.jin10.com/detail/20260522042142242800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.51%，创2025年8月份以来新高，前值6.36%。",
@@ -173,28 +173,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "“日本民航将不能过境中国”？谁在给日本民粹右翼递弹药",
-          "url": "https://news.ifeng.com/c/8tJHzByt8vj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
-        },
-        {
-          "title": "对于美国起诉劳尔·卡斯特罗，外交部说了3个“反对”2个“停止”",
-          "url": "https://news.ifeng.com/c/8tJCrQkCYnG",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
-        },
-        {
           "title": "古巴外长谴责美国起诉劳尔·卡斯特罗是“非法闹剧”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204456",
           "source": "澎湃新闻",
@@ -202,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
         },
         {
           "title": "纯智商税?日本米饭放硅胶",
@@ -213,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
         },
         {
           "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
@@ -224,8 +202,56 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时14分]"
+        },
+        {
+          "title": "美国至5月15日当周外国央行持有美国国债 -202.38亿美元，前值-392.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522043120630800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时14分]"
+        },
+        {
+          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
+          "url": "https://flash.jin10.com/detail/20260522042656396800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时14分]"
+        },
+        {
+          "title": "CBS新闻民调显示，三分之二的美国受访者感受到经济压力，大多数受访者表示汽油价格飙升正在造成困扰。",
+          "url": "https://flash.jin10.com/detail/20260522042142242800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时14分]"
+        },
+        {
+          "title": "创纪录高温逼迫美国新英格兰地区烧油发电来维持电网运行",
+          "url": "https://wallstreetcn.com/livenews/3107605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时14分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -250,6 +276,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
+          "url": "https://flash.jin10.com/detail/20260522053700213800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "战损惨重！伊朗已击毁价值近10亿美元的美国“死神”无人机",
           "url": "https://wallstreetcn.com/livenews/3107586",
           "source": "华尔街见闻-快讯",
@@ -261,6 +298,28 @@
           "time_info": "02时55分"
         },
         {
+          "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
+          "url": "https://flash.jin10.com/detail/20260522053538980800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "保尔森力挺的爱达荷州矿业项目斩获美国政府29亿美元巨额贷款",
+          "url": "https://wallstreetcn.com/livenews/3107631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
           "url": "https://wallstreetcn.com/livenews/3107583",
           "source": "华尔街见闻-快讯",
@@ -270,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国疾控中心：已暂时限制近期曾在刚果（金）、乌干达或南苏丹停留的部分旅客入境。",
+          "url": "https://flash.jin10.com/detail/20260522052012008800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "日本广岛知名景点灵火堂突发火灾",
@@ -292,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国疾控中心：目前美国没有疑似、可能或确诊的埃博拉病例，公众面临的风险仍然较低。",
+          "url": "https://flash.jin10.com/detail/20260522051921010800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：重大的通胀问题正在发展之中。 就业市场一直都大致稳定。",
@@ -349,6 +430,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国北卡罗来纳州总检察长杰夫·杰克逊起诉越南电动车制造商VinFast，指控其未能履行关键义务和业绩要求。",
+          "url": "https://flash.jin10.com/detail/20260522051009091800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
+          "url": "https://flash.jin10.com/detail/20260522050949939800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.610%，投标倍数2.60。 拍卖八周期国债，得标利率3.6%，投标倍数2.77。",
           "url": "https://wallstreetcn.com/livenews/3107529",
           "source": "华尔街见闻-快讯",
@@ -369,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国制裁九名真主党个人 真主党回击：上榜是荣誉徽章",
+          "url": "https://flash.jin10.com/detail/20260522044744694800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
@@ -415,17 +529,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "创纪录高温逼迫美国新英格兰地区烧油发电来维持电网运行",
-          "url": "https://wallstreetcn.com/livenews/3107605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "美国至5月21日8周国债竞拍-得标利率配置百分比 45.18%，前值43.09%。",
           "url": "https://flash.jin10.com/detail/20260521233259575800",
           "source": "金十数据",
@@ -454,7 +557,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -487,7 +590,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -542,7 +645,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -553,7 +656,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -564,7 +667,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -575,7 +678,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
