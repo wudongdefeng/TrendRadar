@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-23T07:03:09.644749+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-23T10:11:58.793206+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 64,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "美国还要至少10年，中国又挖到新的了",
+          "url": "https://news.ifeng.com/c/8tKjH8kx68k",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 10时11分]"
+        },
         {
           "title": "U17亚洲杯决赛中国男足vs日本",
           "url": "https://www.douyin.com/hot/2507863",
@@ -31,28 +42,18 @@
           "time_info": "[00时17分 ~ 07时03分]"
         },
         {
-          "title": "美国还要至少10年，中国又挖到新的了",
-          "url": "https://news.ifeng.com/c/8tKjH8kx68k",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
           "title": "七国集团高层接连访华 除了日本",
           "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E9%AB%98%E5%B1%82%E6%8E%A5%E8%BF%9E%E8%AE%BF%E5%8D%8E+%E9%99%A4%E4%BA%86%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
           "ranks": [
             6,
             13,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 10时11分]"
         },
         {
           "title": "美将在日本部署“堤丰”中导系统，外交部：中方坚决反对",
@@ -61,11 +62,35 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 10时11分]"
+        },
+        {
+          "title": "俄罗斯还是世界第二大军事强国吗？",
+          "url": "https://www.zhihu.com/question/1913265157276153371",
+          "source": "知乎",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 10时11分]"
+        },
+        {
+          "title": "纯智商税?日本米饭放硅胶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 10时11分]"
         },
         {
           "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
@@ -79,26 +104,26 @@
           "time_info": "[00时17分 ~ 07时03分]"
         },
         {
-          "title": "俄罗斯还是世界第二大军事强国吗？",
-          "url": "https://www.zhihu.com/question/1913265157276153371",
-          "source": "知乎",
+          "title": "U17国足不敌日本 获亚洲杯亚军",
+          "url": "https://www.toutiao.com/trending/7642856108326915647/",
+          "source": "今日头条",
           "ranks": [
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "纯智商税?日本米饭放硅胶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354475&amp;topic_name=%E7%BA%AF%E6%99%BA%E5%95%86%E7%A8%8E%3F%E6%97%A5%E6%9C%AC%E7%B1%B3%E9%A5%AD%E6%94%BE%E7%A1%85%E8%83%B6",
-          "source": "贴吧",
+          "title": "U17国足2比3不敌日本",
+          "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B32%E6%AF%943%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。",
@@ -110,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3108269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普：沃什将恢复市场对美联储的信心。",
@@ -156,6 +170,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "中国U17男足憾负日本夺亚洲杯亚军",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3%E6%86%BE%E8%B4%9F%E6%97%A5%E6%9C%AC%E5%A4%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国总统特朗普：沃什从今天开始领导美联储，希望沃什能够独立，出色地完成工作。",
           "url": "https://flash.jin10.com/detail/20260522235537445800",
           "source": "金十数据",
@@ -167,6 +192,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "U17 亚洲杯决赛，中国队 2-3 不敌日本队获得亚军，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2041148960480257581",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本U17球员赛后向国足全队鞠躬致意",
+          "url": "https://www.toutiao.com/trending/7642155872773029907/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
           "url": "https://wallstreetcn.com/livenews/3108253",
           "source": "华尔街见闻-快讯",
@@ -176,6 +223,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "中国U17男足2比3日本U17",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B32%E6%AF%943%E6%97%A5%E6%9C%ACU17%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时00分 ~ 10时11分]"
         },
         {
           "title": "美国防部公布第二批涉UFO档案",
@@ -202,6 +261,18 @@
           "time_info": "[06时01分 ~ 07时03分]"
         },
         {
+          "title": "官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3108269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 10时11分]"
+        },
+        {
           "title": "美国卫生部（HHS）寻求禁止美国绿卡持有者与埃博拉疫情地区相关的旅行。",
           "url": "https://wallstreetcn.com/livenews/3108255",
           "source": "华尔街见闻-快讯",
@@ -224,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时03分]"
-        },
-        {
-          "title": "中国U17男足2比3日本U17",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B32%E6%AF%943%E6%97%A5%E6%9C%ACU17%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时00分 ~ 07时03分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -450,6 +510,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国驻印度大使：刚接到美国国务卿鲁比奥的电话，他现在正启程前往印度。",
           "url": "https://flash.jin10.com/detail/20260522233943103800",
           "source": "金十数据",
@@ -492,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "美国再公布UFO文件：发光物追逐战机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%85%AC%E5%B8%83UFO%E6%96%87%E4%BB%B6%EF%BC%9A%E5%8F%91%E5%85%89%E7%89%A9%E8%BF%BD%E9%80%90%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "乌克兰总统泽连斯基：将就可能举行的俄乌谈判的形式和时间寻求美国答复。",
@@ -648,6 +730,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
+          "url": "https://flash.jin10.com/detail/20260523083955929800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "最新数据显示，美国3月北达科他州日均原油产量环比小幅攀升9,000桶，达到1,142,725标桶/天。 其中，作为核心支柱的巴肯（Bakken）和三叉戟（Three Forks）两大主力页岩层环比增长11,000桶。",
           "url": "https://wallstreetcn.com/livenews/3108234",
           "source": "华尔街见闻-快讯",
@@ -723,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "贺炜谈U17国足2-3惜败日本",
+          "url": "https://www.toutiao.com/trending/7642143624435793963/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
