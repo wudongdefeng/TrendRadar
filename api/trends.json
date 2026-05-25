@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T19:45:35.352073+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-25T22:37:47.400424+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 83,
+      "match_count": 94,
       "titles": [
         {
           "title": "美国务卿：有关霍尔木兹海峡，未来几小时可能会有好消息",
@@ -75,6 +75,17 @@
           "time_info": "[00时57分 ~ 06时49分]"
         },
         {
+          "title": "中美元首会晤是否谈及日本？外交部回应",
+          "url": "https://news.ifeng.com/c/8tPnms8zvLU",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
+        },
+        {
           "title": "朝鲜击败日本队，李在明发文祝贺",
           "url": "https://news.ifeng.com/c/8tOIbCE5Gi1",
           "source": "凤凰网",
@@ -126,28 +137,6 @@
           "time_info": "[00时57分 ~ 06时49分]"
         },
         {
-          "title": "中美元首会晤是否谈及日本？外交部回应",
-          "url": "https://news.ifeng.com/c/8tPnms8zvLU",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "中方回应停止向日本出口重稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%81%9C%E6%AD%A2%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E9%87%8D%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "据沙特媒体哈达斯（alhadath）：美国消息人士谈及黎巴嫩时表示，美伊协议包含与5月15日停火条款相同的内容。美伊协议草案包括在黎巴嫩结束敌对行动的承诺。",
           "url": "https://flash.jin10.com/detail/20260525021604678800",
           "source": "金十数据",
@@ -170,15 +159,15 @@
           "time_info": "10时39分"
         },
         {
-          "title": "中方回应停止向日本出口重稀土",
-          "url": "https://www.toutiao.com/trending/7643714981686414884/",
-          "source": "今日头条",
+          "title": "遭袭后，俄罗斯斯兹兰炼油厂（Syzran Oil Refinery）暂停运营。",
+          "url": "https://wallstreetcn.com/livenews/3108937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "22时37分"
         },
         {
           "title": "据塔斯社：美国国务卿鲁比奥将于5月26日访问亚美尼亚。",
@@ -192,6 +181,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "日本野猪变异,繁殖开外挂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354577&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E5%BC%82%2C%E7%B9%81%E6%AE%96%E5%BC%80%E5%A4%96%E6%8C%82",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "起诉劳尔·卡斯特罗，美国离对古巴动手还有多远？",
           "url": "https://news.ifeng.com/c/8tPQ47Ovntp",
           "source": "凤凰网",
@@ -203,6 +203,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时38分 ~ 19时45分]"
+        },
+        {
+          "title": "中方回应停止向日本出口重稀土",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%81%9C%E6%AD%A2%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E9%87%8D%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
         },
         {
           "title": "日本监管机构敦促企业将现金用于增长而非股东回报",
@@ -251,6 +263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "中方回应停止向日本出口重稀土",
+          "url": "https://www.toutiao.com/trending/7643714981686414884/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
         },
         {
           "title": "乌克兰称袭击俄罗斯一输油泵站",
@@ -350,6 +374,30 @@
           "time_info": "[06时49分 ~ 07时53分]"
         },
         {
+          "title": "日本福岛核废区野猪变成“超级猪”",
+          "url": "https://www.toutiao.com/trending/7643218879619989554/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
+        },
+        {
+          "title": "日本福岛核废区野猪变“超级猪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E5%8C%BA%E9%87%8E%E7%8C%AA%E5%8F%98%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国坚定支持黎巴嫩合法政府，帮助其恢复权威，建设更美好的未来。真主党的暴力威胁和推翻行为绝不允许成功。一个恐怖组织绑架整个国家的时代即将结束。",
           "url": "https://flash.jin10.com/detail/20260525044121215800",
           "source": "金十数据",
@@ -372,6 +420,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时53分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
+        },
+        {
+          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 22时37分]"
         },
         {
           "title": "国务院台湾事务办公室5月27日举行新闻发布会",
@@ -468,6 +539,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "消息人士：俄罗斯西兹兰炼油厂在5月21日的无人机袭击后停止了石油加工。",
+          "url": "https://flash.jin10.com/detail/20260525220028246800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
           "url": "https://www.cls.cn/detail/2380246",
           "source": "财联社热门",
@@ -490,17 +572,6 @@
           "time_info": "03时04分"
         },
         {
-          "title": "日本福岛核废区野猪变成“超级猪”",
-          "url": "https://www.toutiao.com/trending/7643218879619989554/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "中国与俄罗斯签署反垄断执法和竞争政策领域谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260525100117644800",
           "source": "金十数据",
@@ -510,17 +581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "日本福岛核废区野猪变“超级猪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E5%8C%BA%E9%87%8E%E7%8C%AA%E5%8F%98%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "日本30年期国债收益率下跌5.5个基点，报3.955%。",
@@ -545,6 +605,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "福岛核区日本野猪变超级猪",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%8C%BA%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E8%B6%85%E7%BA%A7%E7%8C%AA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "日本7-Eleven创始人铃木敏文逝世",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7-Eleven%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%93%83%E6%9C%A8%E6%95%8F%E6%96%87%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -554,17 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
@@ -589,24 +649,13 @@
           "time_info": "00时57分"
         },
         {
-          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "外交部回应台当局称大陆部署舰船",
           "url": "https://www.toutiao.com/trending/7643540060650111039/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -622,13 +671,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "俄罗斯敦促外国外交官离开基辅，俄罗斯警告即将对基辅发动袭击。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3108923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "豆浆店竟是台湾半导体发源地",
           "url": "https://www.toutiao.com/trending/7643593515133419583/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -650,9 +710,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "俄罗斯外交部：打击将针对决策中心和指挥所。",
+          "url": "https://flash.jin10.com/detail/20260525213507209800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
@@ -721,6 +792,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "据塔斯社：俄罗斯外交部称，俄罗斯开始对基辅的乌克兰防务工业设施进行一系列打击。",
+          "url": "https://flash.jin10.com/detail/20260525213311582800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3108601",
           "source": "华尔街见闻-快讯",
@@ -738,7 +820,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -760,7 +842,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -776,13 +858,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "据塔斯社：俄罗斯外交部呼吁外国公民离开基辅。",
+          "url": "https://flash.jin10.com/detail/20260525213218620800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "报道：俄罗斯将就俄方袭击基辅向外国外交官发出警告",
           "url": "https://wallstreetcn.com/livenews/3108848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -807,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国正边缘化以色列：内塔尼亚胡私下坦言无力干预特朗普决策",
+          "url": "https://flash.jin10.com/detail/20260525213109463800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "台湾证交所加权股价指数盘初上涨2.1%至43,174.45点。",
@@ -886,6 +990,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "看到香港航天员去太空台湾同胞啥心情",
+          "url": "https://www.toutiao.com/trending/7643714953576415268/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
           "url": "https://flash.jin10.com/detail/20260525142450155800",
           "source": "金十数据",
@@ -908,13 +1023,24 @@
           "time_info": "15时05分"
         },
         {
+          "title": "受卢布走强及农户惜售影响，俄罗斯小麦出口价格再次上涨",
+          "url": "https://flash.jin10.com/detail/20260525212603236800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "日本不会通过增加日历年度国债发行规模的方式为补充预算筹资",
           "url": "https://wallstreetcn.com/livenews/3108822",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
