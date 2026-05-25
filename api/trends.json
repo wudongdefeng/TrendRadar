@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T10:39:06.988190+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-25T15:05:47.275384+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 59,
+      "match_count": 69,
       "titles": [
         {
           "title": "美国务卿：有关霍尔木兹海峡，未来几小时可能会有好消息",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时48分 ~ 10时39分]"
+          "appearance_count": 6,
+          "time_info": "[05时48分 ~ 15时05分]"
         },
         {
           "title": "美国政府宣布在美外国人申请绿卡须返回原籍国，此举将带来哪些影响？",
@@ -142,9 +143,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "据塔斯社：美国国务卿鲁比奥将于5月26日访问亚美尼亚。",
+          "url": "https://flash.jin10.com/detail/20260525143430602800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "日本监管机构敦促企业将现金用于增长而非股东回报",
@@ -208,6 +220,18 @@
           "time_info": "[04时44分 ~ 07时53分]"
         },
         {
+          "title": "起诉劳尔·卡斯特罗，美国离对古巴动手还有多远？",
+          "url": "https://news.ifeng.com/c/8tPQ47Ovntp",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时05分]"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：应当将伊朗协议交由国会山审议。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3108511",
           "source": "华尔街见闻-快讯",
@@ -254,17 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时04分]"
-        },
-        {
-          "title": "起诉劳尔·卡斯特罗，美国离对古巴动手还有多远？",
-          "url": "https://news.ifeng.com/c/8tPQ47Ovntp",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "美国务卿：美伊协议草案获多国支持",
@@ -421,6 +434,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -438,7 +462,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -449,7 +473,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -460,9 +484,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "日本7-Eleven创始人铃木敏文逝世",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7-Eleven%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%93%83%E6%9C%A8%E6%95%8F%E6%96%87%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
@@ -509,6 +544,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
+          "url": "https://wallstreetcn.com/livenews/3108715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "据福克斯新闻援引美国政府官员的话报道，如果最终协议中伊朗仍在进行铀浓缩，那就不算是最终协议。",
           "url": "https://flash.jin10.com/detail/20260524234317749800",
           "source": "金十数据",
@@ -531,6 +577,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "中方回应4个月未向日本出口重稀土",
+          "url": "https://wallstreetcn.com/livenews/3108712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "据福克斯新闻援引美国政府官员的话报道，我们拒绝在霍尔木兹海峡征收任何过境费，这一选项对我们来说不可接受。",
           "url": "https://flash.jin10.com/detail/20260524234253834800",
           "source": "金十数据",
@@ -548,7 +605,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -559,7 +616,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -614,7 +671,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -641,6 +698,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "台湾网红馆长开启川渝之行",
+          "url": "https://www.toutiao.com/trending/7643167193865715753/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "美国国务卿：我们谴责真主党“鲁莽”呼吁推翻黎巴嫩民选政府的行为。",
           "url": "https://flash.jin10.com/detail/20260525024214042800",
           "source": "金十数据",
@@ -658,9 +726,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "日本20年期国债收益率下跌8个基点，至3.610%。",
+          "url": "https://wallstreetcn.com/livenews/3108699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
+          "url": "https://flash.jin10.com/detail/20260525142450155800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "中方回应4个月未向日本出口重稀土",
+          "url": "https://flash.jin10.com/detail/20260525142358777800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "日本5年期国债收益率下跌2.0个基点，至1.980%。",
@@ -669,9 +770,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高3.3%报43,644.40点。",
+          "url": "https://wallstreetcn.com/livenews/3108690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
@@ -691,7 +803,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
