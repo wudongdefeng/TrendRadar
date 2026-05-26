@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T14:41:40.747933+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-05-26T21:50:16.843678+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 74,
+      "match_count": 88,
       "titles": [
         {
           "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
@@ -27,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 14时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 21时50分]"
         },
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -69,6 +70,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 10时57分]"
+        },
+        {
+          "title": "如何看待俄方提醒美国抓紧撤侨",
+          "url": "https://www.toutiao.com/trending/7644162768865594916/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
+        },
+        {
+          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
+          "url": "https://wallstreetcn.com/articles/3773148",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
+        },
+        {
+          "title": "伊朗外交部：美国公然违反停火协议",
+          "url": "https://www.cls.cn/detail/2382022",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
         },
         {
           "title": "日本福岛核废区野猪变“超级猪”",
@@ -227,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时27分]"
+        },
+        {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时50分]"
         },
         {
           "title": "美媒：美国和伊朗正努力解决在核问题及制裁方面的措辞分歧",
@@ -422,13 +468,35 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
+          "title": "美国女警揪头发将超速女子拖下车",
+          "url": "https://www.toutiao.com/trending/7644120141223624730/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
+        },
+        {
+          "title": "【消息人士：解冻伊朗海外资金成伊美谈判主要分歧】据伊朗法尔斯通讯社26日报道，一名接近伊朗谈判团队的消息人士表示，目前伊美谈判的主要分歧之一，是伊朗海外资金解冻问题。这名消息人士称，美国一度在履行相关承诺问题上“后退”，但伊方坚持，在约定资金到账之前，“任何协议都不可能达成”。报道称，在卡塔尔方面协调后，相关问题已取得一定进展。不过，鉴于美国“违背承诺”的历史，伊朗“已为所有可能情况作好准备”。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3109498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收低0.3%报43,525.37点。",
           "url": "https://wallstreetcn.com/livenews/3109216",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -439,7 +507,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -453,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
-          "url": "https://www.zhihu.com/question/2042527297291431958",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "俄罗斯总统普京签署了一项法律，免除自2026年5月起，签署合同参与“特别军事行动”的人员的债务。",
@@ -488,6 +545,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "美国航天公司股票上涨，太空探索公司直觉机器公司上涨8.2%，Planet Labs上涨4.1%，Rocket Lab上涨3%，Howmet Aerospace上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260526213449117800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
           "url": "https://wallstreetcn.com/livenews/3109030",
           "source": "华尔街见闻-快讯",
@@ -505,7 +573,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -527,7 +595,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -549,7 +617,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -560,9 +628,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "纽约梅隆银行：欧洲央行和日本央行正呈现出更为“鹰派”的倾向",
+          "url": "https://flash.jin10.com/detail/20260526213213670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
@@ -582,7 +661,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -596,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国3月S&P/CS20座大城市季调后房价指数环比 -0.16%，预期 0.1%，前值 -0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3109488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "阿斯利康CEO：可能会在日本投资超过120亿美元。",
@@ -620,6 +710,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "美国3月S&P/CS20座大城市房价指数同比 0.83%，预期 1%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3109487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "据阿拉伯电视台：伊朗议会国家安全委员会主席易卜拉欣·阿齐兹表示，伊朗与美国之间的任何协议都不会标志着伊朗与美国对抗的结束，并称这场冲突对德黑兰而言是“根本性和生存性的”。",
           "url": "https://flash.jin10.com/detail/20260526042214498800",
           "source": "金十数据",
@@ -642,13 +743,35 @@
           "time_info": "07时58分"
         },
         {
+          "title": "市场消息：美国最高法院拒绝审理Meta Platforms试图避免佛蒙特州诉讼的上诉，该诉讼指控Instagram应用使青少年上瘾。",
+          "url": "https://flash.jin10.com/detail/20260526213135619800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "美国3月FHFA房价指数环比 0.1%，预期 0.1%，前值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3109486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "日本3月领先指标终值 114，初值 114.5。",
           "url": "https://wallstreetcn.com/livenews/3109202",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -659,7 +782,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -706,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "哈塞特：霍尔木兹海峡重新开放将立即惠及美国消费者",
+          "url": "https://wallstreetcn.com/livenews/3109478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "乌克兰外交部长：乌克兰寻求防止白俄罗斯卷入战争。",
@@ -791,7 +925,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -816,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：准备下一个俄罗斯制裁方案。",
+          "url": "https://flash.jin10.com/detail/20260526211953116800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "日本将编制补充预算引发财政压力担忧",
@@ -846,7 +991,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -857,9 +1002,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "美国4月芝加哥联储全国活动指数 0.14，前值 -0.2。",
+          "url": "https://wallstreetcn.com/livenews/3109467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     }
