@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-26T10:57:15.245929+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-05-26T14:41:40.747933+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 61,
+      "match_count": 74,
       "titles": [
-        {
-          "title": "日本野猪变异,繁殖开外挂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354577&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E5%BC%82%2C%E7%B9%81%E6%AE%96%E5%BC%80%E5%A4%96%E6%8C%82",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 10时57分]"
-        },
         {
           "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
           "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
@@ -25,11 +14,24 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 10时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时41分]"
+        },
+        {
+          "title": "日本野猪变异,繁殖开外挂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354577&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E5%BC%82%2C%E7%B9%81%E6%AE%96%E5%BC%80%E5%A4%96%E6%8C%82",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时41分]"
         },
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -97,7 +99,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -420,6 +422,28 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
+          "title": "中国台湾证交所加权股价指数收低0.3%报43,525.37点。",
+          "url": "https://wallstreetcn.com/livenews/3109216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "浓缩铀交给美国？特朗普扔最新方案，多家媒体爆料：霍尔木兹30天内打通，伊朗石油获豁免",
           "url": "https://flash.jin10.com/detail/20260526071724879800",
           "source": "金十数据",
@@ -429,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "俄罗斯总统普京签署了一项法律，免除自2026年5月起，签署合同参与“特别军事行动”的人员的债务。",
@@ -464,6 +499,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "阿里速卖通：美国站5月GMV涨超50%",
+          "url": "https://wallstreetcn.com/livenews/3109212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "根据伊朗官方学生新闻社的报道，至少有三人在美国对两艘伊朗船只的攻击中遇难。",
           "url": "https://flash.jin10.com/detail/20260526071539213800",
           "source": "金十数据",
@@ -473,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：启动四方-印太海洋监测合作倡议。",
+          "url": "https://wallstreetcn.com/livenews/3109211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "乌克兰：袭击俄罗斯Bryansk（布良斯克州）地区的一个石油仓库。",
@@ -486,15 +543,48 @@
           "time_info": "01时02分"
         },
         {
+          "title": "萧旭岑：台湾人也是堂堂正正的中国人",
+          "url": "https://www.toutiao.com/trending/7643966580816150574/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国对固定式和便携式空气压缩机发起双反调查",
+          "url": "https://flash.jin10.com/detail/20260526141520489800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
           "url": "https://wallstreetcn.com/livenews/3109132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "韩国国防部长：首尔将通过与美国沟通履行（核）不扩散义务。",
+          "url": "https://flash.jin10.com/detail/20260526141347781800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "伊通社：伊朗多哈之行将检验“美国对承诺的履行”",
@@ -525,7 +615,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -550,6 +640,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "日本3月领先指标终值 114，初值 114.5。",
+          "url": "https://wallstreetcn.com/livenews/3109202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日本3月同步指标终值 116.4，初值 116.5。",
+          "url": "https://wallstreetcn.com/livenews/3109201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
@@ -646,7 +758,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -668,9 +780,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "日本对外净资产规模降为全球第三",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%A4%96%E5%87%80%E8%B5%84%E4%BA%A7%E8%A7%84%E6%A8%A1%E9%99%8D%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "乌克兰军方：袭击了布良斯克地区的俄罗斯石油仓库。",
@@ -690,7 +813,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -712,9 +835,31 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：四方机制拥有切实可行的具体目标。",
+          "url": "https://flash.jin10.com/detail/20260526133610002800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：四方会谈非常富有成效。",
+          "url": "https://flash.jin10.com/detail/20260526133541619800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     }
