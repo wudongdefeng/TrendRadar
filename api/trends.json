@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:45:47.422506+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-28T18:46:57.086537+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 92,
+      "match_count": 106,
       "titles": [
         {
           "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 14时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 18时46分]"
         },
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -167,17 +168,6 @@
           "time_info": "[01时53分 ~ 07时56分]"
         },
         {
-          "title": "美国年轻人街头围攻外卖机器人",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
           "title": "美国国务卿鲁比奥将于6月3日出席参议院拨款委员会作证。",
           "url": "https://flash.jin10.com/detail/20260528033415755800",
           "source": "金十数据",
@@ -195,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -228,7 +218,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -244,13 +234,24 @@
           "time_info": "01时53分"
         },
         {
+          "title": "日本首相高市早苗：将加强与东盟等亚洲地区的供应链。",
+          "url": "https://flash.jin10.com/detail/20260528181331571800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "中国台湾证券交易所计划改革零股交易制度、延长交易时间。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3110520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -277,6 +278,17 @@
           "time_info": "10时15分"
         },
         {
+          "title": "日本首相高市早苗：将就官方军事信息共享展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260528181255585800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "金十提示：美国总统特朗普结束白宫内阁会议讲话。",
           "url": "https://flash.jin10.com/detail/20260528011924837800",
           "source": "金十数据",
@@ -299,6 +311,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "日本首相高市早苗：与菲律宾总统会面，同意提升与菲律宾的关系。",
+          "url": "https://flash.jin10.com/detail/20260528181230638800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
           "url": "https://www.cls.cn/detail/2383460",
           "source": "财联社热门",
@@ -310,6 +333,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时55分 ~ 14时45分]"
+        },
+        {
+          "title": "美国年轻人街头围攻外卖机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时46分]"
+        },
+        {
+          "title": "美国公司用离体「缸中之脑」测试药物，宣称其「既非生也非死」，有伦理风险吗？对药物研究有何作用？",
+          "url": "https://www.zhihu.com/question/2042215326868362955",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时46分]"
         },
         {
           "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
@@ -405,6 +452,18 @@
           "time_info": "[01时53分 ~ 04时07分]"
         },
         {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时46分]"
+        },
+        {
           "title": "机构：美国战略储备原油有史以来首次运往加利福尼亚州",
           "url": "https://wallstreetcn.com/livenews/3110210",
           "source": "华尔街见闻-快讯",
@@ -441,6 +500,17 @@
           "time_info": "[06时26分 ~ 07时56分]"
         },
         {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时46分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
           "url": "https://flash.jin10.com/detail/20260528011859815800",
           "source": "金十数据",
@@ -463,13 +533,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "日本首相高市早苗：同意升级与菲律宾的关系。 将加强整个亚洲的供应链，包括东盟。",
+          "url": "https://wallstreetcn.com/livenews/3110666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "美国年轻人街头围攻外卖机器人",
           "url": "https://www.toutiao.com/trending/7644043195907129394/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -485,15 +566,37 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美国公司用离体「缸中之脑」测试药物，宣称其「既非生也非死」，有伦理风险吗？对药物研究有何作用？",
-          "url": "https://www.zhihu.com/question/2042215326868362955",
-          "source": "知乎",
+          "title": "国防部回应日本大肆布局太空军事力量",
+          "url": "https://www.toutiao.com/trending/7644842292717535251/",
+          "source": "今日头条",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "18时46分"
+        },
+        {
+          "title": "美国日资造纸厂爆炸事故死亡人数升至11人，部分污染物进入河流",
+          "url": "https://news.ifeng.com/c/8tUuMhWQeZd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "俄罗斯开始接受人民币计价政府债券的投标。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -560,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "俄罗斯人民币主权债券新的票面利率指引不高于7.75%。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3110662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：我认为我们在谈判方面进展良好。",
@@ -639,26 +753,15 @@
           "time_info": "04时07分"
         },
         {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "title": "国防部回应美日军演距台湾仅110公里",
+          "url": "https://www.toutiao.com/trending/7644848582231818283/",
           "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：我所做的一切不是为了达成一个糟糕的协议，协议必须是完美的。",
@@ -681,6 +784,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "美国墨西哥将谈判美墨加协定，加拿大缺席",
+          "url": "https://wallstreetcn.com/livenews/3110659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "铜市场又现“乾坤大挪移”？关税担忧复燃 贸易商再掀抢运美国浪潮！",
+          "url": "https://www.cls.cn/detail/2383901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "特朗普：没有任何国家能够控制霍尔木兹海峡，美国将进行监管",
@@ -733,7 +858,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -747,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "美国在为古巴政府可能垮台做准备，美国已制定应对古巴政府垮台的推演计划；美国官员称目前没有入侵古巴的计划。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3110646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：我们可能会讨论取消燃油税减免。",
@@ -788,9 +924,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "美国国防部：已收到报告称美国军方人员在战区被定位数据锁定。",
+          "url": "https://flash.jin10.com/detail/20260528180313840800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：我们可以很快结束与伊朗的战争，可能还必须这样做。不过我认为我们不需要这样做。",
@@ -887,7 +1034,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1022,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美国年轻人街头围攻外卖机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
