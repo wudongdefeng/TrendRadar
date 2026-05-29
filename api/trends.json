@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T13:08:03.449422+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-05-29T17:38:42.366446+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 109,
+      "match_count": 121,
       "titles": [
         {
           "title": "美将在日本部署中程导弹系统，这次“不走了？",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 13时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 17时38分]"
         },
         {
           "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
@@ -77,6 +77,39 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
+          "title": "外交部回应加拿大军舰派至台湾海峡",
+          "url": "https://www.toutiao.com/trending/7645152019690831914/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "日本全境调兵 12万居民转移",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%A8%E5%A2%83%E8%B0%83%E5%85%B5+12%E4%B8%87%E5%B1%85%E6%B0%91%E8%BD%AC%E7%A7%BB",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "美议员回怼泽连斯基：美国不是提款机",
+          "url": "https://news.ifeng.com/c/8tWTwiBm9R3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "美国将部分与伊朗相关的油轮纳入制裁名单。",
           "url": "https://flash.jin10.com/detail/20260529034801135800",
           "source": "金十数据",
@@ -116,7 +149,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -190,6 +223,29 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "日本转移12万居民",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BD%AC%E7%A7%BB12%E4%B8%87%E5%B1%85%E6%B0%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 17时38分]"
+        },
+        {
           "title": "美国财政部更新与伊朗相关的制裁名单。",
           "url": "https://flash.jin10.com/detail/20260529033827496800",
           "source": "金十数据",
@@ -234,6 +290,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "中方回应日本防卫省订单激增",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E7%9C%81%E8%AE%A2%E5%8D%95%E6%BF%80%E5%A2%9E",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "美国财政部发放与俄罗斯相关的通用许可证。",
           "url": "https://flash.jin10.com/detail/20260529033825106800",
           "source": "金十数据",
@@ -262,7 +329,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -317,7 +384,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -394,15 +461,16 @@
           "time_info": "[01时58分 ~ 08时04分]"
         },
         {
-          "title": "日本转移12万居民",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BD%AC%E7%A7%BB12%E4%B8%87%E5%B1%85%E6%B0%91%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33255027",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 17时38分]"
         },
         {
           "title": "菲总统日本国会演说：双方关系已达历史顶峰",
@@ -432,17 +500,6 @@
           "source": "今日头条",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
-        },
-        {
-          "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33255027",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -482,6 +539,17 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
+          "title": "香会前“练兵”，美国防长与海军士兵一同进行体能训练(图)",
+          "url": "https://news.ifeng.com/c/8tWWsQUeIK8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "俄罗斯联邦安全会议秘书绍伊古28日对俄媒表示，俄武装部队针对乌克兰首都基辅的打击行动“随时可能展开”。",
           "url": "https://flash.jin10.com/detail/20260529032514835800",
           "source": "金十数据",
@@ -510,7 +578,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -532,7 +600,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -554,7 +622,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -568,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "日本内阁势将批准3.11万亿日元的补充预算。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3111321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "日本4月零售销售年率 2.1%，预期1.30%，前值由1.70%修正为1.40%。",
@@ -752,7 +831,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -774,7 +853,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -796,7 +875,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -810,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "日本自卫队员赴德就俄乌冲突“取经”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262119",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "在被问及是否在早餐时要求美联储主席沃什降息时，美国财长贝森特避而不答，只表示自己从未向鲍威尔提出过这样的请求。",
@@ -840,7 +930,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -873,7 +963,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -906,7 +996,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -950,9 +1040,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "外交部回应加拿大军舰派至台湾海峡",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E8%88%B0%E6%B4%BE%E8%87%B3%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "加拿大总理卡尼：加拿大可以帮助美国满足能源需求。",
@@ -1098,6 +1199,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美国防长现身香格里拉对话会现场",
+          "url": "https://www.toutiao.com/trending/7645052708088496134/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "加拿大总理对美国的立场出现缓和，在纽约寻求建立美加新伙伴关系",
           "url": "https://wallstreetcn.com/livenews/3110859",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "涉嫌资助针对特朗普的诉讼 美国一亿万富翁关联团体遭到调查",
+          "url": "https://flash.jin10.com/detail/20260529171930816800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.53%，继续创2025年8月份以来新高，前值6.51%。",
@@ -1162,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "日本总人口连续15年下降",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%80%BB%E4%BA%BA%E5%8F%A3%E8%BF%9E%E7%BB%AD15%E5%B9%B4%E4%B8%8B%E9%99%8D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美国5月22日当周EIA汽油库存变动 -257.2万桶，预期 -228.7万桶，前值 -154.8万桶。",
