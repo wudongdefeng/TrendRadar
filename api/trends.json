@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-05-29T08:04:56.985177+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-29T13:08:03.449422+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 85,
+      "match_count": 109,
       "titles": [
         {
           "title": "美将在日本部署中程导弹系统，这次“不走了？",
           "url": "https://news.ifeng.com/c/8tVAfhosRsO",
           "source": "凤凰网",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 13时08分]"
+        },
+        {
+          "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
+          "url": "https://wallstreetcn.com/articles/3773373",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 08时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 13时08分]"
         },
         {
           "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
@@ -30,16 +44,37 @@
           "time_info": "[01时58分 ~ 08时04分]"
         },
         {
-          "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
-          "url": "https://wallstreetcn.com/articles/3773373",
-          "source": "华尔街见闻",
+          "title": "日本迎来坏消息",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E5%9D%8F%E6%B6%88%E6%81%AF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "美国迎来“娃娃炒股”金融实验：千万新生儿一出生就开始买ETF",
+          "url": "https://www.cls.cn/detail/2384749",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "中国在不断地兴修水坝，而美国却拆了 1000 多座水坝，这是为什么？",
+          "url": "https://www.zhihu.com/question/1958158273766200160",
+          "source": "知乎",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "美国将部分与伊朗相关的油轮纳入制裁名单。",
@@ -70,9 +105,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "台湾加权指数涨幅扩大至近3%。",
+          "url": "https://flash.jin10.com/detail/20260529123619014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国加州检察官Rob Bonta就2023年（至少）数百万用户数据问题而起诉基因检测公司23andMe。",
@@ -92,9 +138,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 13时08分]"
         },
         {
           "title": "美国发布通用许可证，允许就卢克石油国际的销售事宜进行谈判，并签订临时合同。",
@@ -125,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -147,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -169,7 +229,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -191,9 +251,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本经济产业省：日本四月原油进口同比下降65.7%。",
+          "url": "https://flash.jin10.com/detail/20260529123303484800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国财政部发放与俄罗斯相关的通用许可证。",
@@ -213,7 +284,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -235,9 +306,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本经济产业省：日本四月石油产品总销量同比下降11.3%。",
+          "url": "https://flash.jin10.com/detail/20260529123249197800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "日本4月大型零售商销售同比 2%，前值 1.1%。",
@@ -246,7 +328,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -312,17 +394,92 @@
           "time_info": "[01时58分 ~ 08时04分]"
         },
         {
-          "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
-          "source": "澎湃新闻",
+          "title": "日本转移12万居民",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BD%AC%E7%A7%BB12%E4%B8%87%E5%B1%85%E6%B0%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            13,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
+          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "为什么语文课本有其他国家的篇章但是不选取日本的文学作品呢？是因为日本的文学底蕴不深厚吗？",
+          "url": "https://www.zhihu.com/question/339280132",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "外交部：台湾问题是中国人自己的事",
+          "url": "https://www.toutiao.com/trending/7645116445282107398/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33255027",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "俄警告日本勿部署美方导弹",
+          "url": "https://www.toutiao.com/trending/7644262883433693247/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "日本预演台湾有事清空战场",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%84%E6%BC%94%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B%E6%B8%85%E7%A9%BA%E6%88%98%E5%9C%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "专家：印度担忧在美国战略重要性下降",
+          "url": "https://www.toutiao.com/trending/7644324659676413995/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "俄罗斯联邦安全会议秘书绍伊古28日对俄媒表示，俄武装部队针对乌克兰首都基辅的打击行动“随时可能展开”。",
@@ -342,9 +499,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本经济产业省：日本四月煤油销售同比下降13.3%。",
+          "url": "https://flash.jin10.com/detail/20260529123212133800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "日本4月工业产出环比初值 0.8%，预期 -0.6%，前值 -0.4%。",
@@ -353,9 +521,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本东证指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3111132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "日本4月工业产出月率初值 0.8%，预期-0.60%，前值-0.40%。",
@@ -364,9 +543,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本经济产业省：日本四月汽油销售同比下降2.6%。",
+          "url": "https://flash.jin10.com/detail/20260529123200543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
@@ -386,7 +576,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -419,7 +609,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -463,7 +653,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -507,7 +697,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -540,7 +730,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -556,15 +746,37 @@
           "time_info": "01时58分"
         },
         {
+          "title": "俄罗斯国防部：俄罗斯在一夜之间击落208架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260529122303825800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "日本4月求才求职比 1.18，预期 1.18，前值 1.18。",
           "url": "https://wallstreetcn.com/livenews/3110987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本自卫队员赴德就俄乌冲突“取经”",
+          "url": "https://wallstreetcn.com/livenews/3111121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国至5月28日7年期国债竞拍-得标利率 4.29%，前值4.18%。",
@@ -576,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "当地州长表示，俄罗斯雅罗斯拉夫尔地区的燃料储存设施在无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260529122207861800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
@@ -611,6 +834,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "美国通胀指标罕见“打架”，沃什一上任就碰上大麻烦",
+          "url": "https://flash.jin10.com/detail/20260529122159144800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "美国财长贝森特：在与前美联储主席鲍威尔的41次早餐中，从未要求鲍威尔降低利率。",
           "url": "https://flash.jin10.com/detail/20260529024331818800",
           "source": "金十数据",
@@ -633,6 +867,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "当地州长表示，无人机袭击了俄罗斯雅罗斯拉夫尔地区的燃料储存设施。",
+          "url": "https://flash.jin10.com/detail/20260529122109120800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3110896",
           "source": "华尔街见闻-快讯",
@@ -653,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "日本拍卖两年期国债，认购倍数3.7，过去12个月均值为3.74。",
+          "url": "https://wallstreetcn.com/livenews/3111116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国财长贝森特：周四与新任美联储主席沃什共进早餐。",
@@ -683,9 +939,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本一航班因轮胎故障请求紧急返航",
+          "url": "https://wallstreetcn.com/livenews/3111115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "加拿大总理卡尼：加拿大可以帮助美国满足能源需求。",
@@ -760,7 +1027,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -936,7 +1203,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
