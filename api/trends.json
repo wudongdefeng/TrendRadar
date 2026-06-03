@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T05:43:44.097843+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-04T07:28:12.103462+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
         {
           "title": "中国女足队史首次输给俄罗斯",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "美国国务院：双方已遵照美国的指引达成一致，将迅速推进试点区的设立工作；在这些试点区内，黎巴嫩武装部队将对相关领土行使专属控制权，并将所有非国家行为体排除在外。",
+          "url": "https://flash.jin10.com/detail/20260604065743896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "【伊媒：伊美谅解备忘录若谈成，将分四阶段推进】伊朗法尔斯通讯社3日援引伊朗与美国间接谈判知情人士的话报道，伊美正在讨论的谅解备忘录若最终敲定，将分四个主要阶段依次推进，其中第三阶段将讨论核问题。（新华社）",
@@ -30,26 +41,26 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
-          "url": "https://wallstreetcn.com/livenews/3114035",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务院：经美国主导的谈判，以色列与黎巴嫩已同意实施停火。",
+          "url": "https://flash.jin10.com/detail/20260604065721882800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时28分"
         },
         {
-          "title": "德尔芬中游公司批准美国首个浮式液化天然气（FLNG）出口项目",
-          "url": "https://wallstreetcn.com/livenews/3114034",
+          "title": "美国称以色列和黎巴嫩同意执行停火。 美国称，以色列和黎巴嫩同意于6月22日当周再次举行会谈。 WTI原油期货跌超0.8%，在亚太盘初逼近95美元。",
+          "url": "https://wallstreetcn.com/livenews/3114058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时28分"
         },
         {
           "title": "据Axios：美国众议院以215票对208票通过限制伊朗战争权力的决议，4名共和党人议员与民主党人一起投票支持该措施。",
@@ -58,9 +69,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国把当年对日本话术套用给中国",
+          "url": "https://www.toutiao.com/trending/7646779181614858303/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -69,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -85,16 +109,16 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国把当年对日本话术套用给中国",
-          "url": "https://www.toutiao.com/trending/7646779181614858303/",
-          "source": "今日头条",
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://wallstreetcn.com/livenews/3114035",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            5
+            2,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "time_info": "[05时43分 ~ 07时28分]"
         },
         {
           "title": "“定好明年要完工的美国数据中心，60%还没动工”",
@@ -104,8 +128,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "德尔芬中游公司批准美国首个浮式液化天然气（FLNG）出口项目",
+          "url": "https://wallstreetcn.com/livenews/3114034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "time_info": "[05时43分 ~ 07时28分]"
         },
         {
           "title": "日本黑白包装零食已上线",
@@ -115,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "日本停留现金社会的唯一好处",
@@ -124,11 +160,35 @@
           "source": "微博",
           "ranks": [
             23,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "日本夫妇拍军服结婚照被痛骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354784&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%8B%8D%E5%86%9B%E6%9C%8D%E7%BB%93%E5%A9%9A%E7%85%A7%E8%A2%AB%E7%97%9B%E9%AA%82",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "中国机器人登上美国达人秀",
+          "url": "https://www.toutiao.com/trending/7647031051694293042/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "日本开始售卖黑白包装零食",
@@ -154,15 +214,15 @@
           "time_info": "[02时18分 ~ 05时43分]"
         },
         {
-          "title": "日本夫妇拍军服结婚照被痛骂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354784&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%8B%8D%E5%86%9B%E6%9C%8D%E7%BB%93%E5%A9%9A%E7%85%A7%E8%A2%AB%E7%97%9B%E9%AA%82",
-          "source": "贴吧",
+          "title": "美国务卿：美国必须同中国保持对话",
+          "url": "https://www.toutiao.com/trending/7645971457487683603/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "中国女足队史首次输给俄罗斯",
@@ -210,6 +270,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在美国的指导下，双方同意迅速推进建立‘试点区’的工作；在这些试点区内，黎巴嫩武装部队将对领土行使专属管辖权，排除任何非国家行为体的存在。",
+          "url": "https://flash.jin10.com/detail/20260604064619506800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "法国称已羁押被海军拦截的俄罗斯油轮船长，俄方称这“近乎国际海盗行径”",
           "url": "https://wallstreetcn.com/livenews/3113956",
           "source": "华尔街见闻-快讯",
@@ -232,6 +303,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "市场消息：黎巴嫩与以色列会谈后的联合声明表示，在由美国主导的谈判取得成果后，以色列与黎巴嫩同意实施停火。此次停火的前提是真主党方面必须彻底停止开火，且所有真主党武装人员必须撤离利塔尼河南部地区。",
+          "url": "https://flash.jin10.com/detail/20260604064546436800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "SpaceX创纪录IPO前夕，在美国得州芯片项目上赢得税收减免",
+          "url": "https://wallstreetcn.com/livenews/3114050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
           "url": "https://flash.jin10.com/detail/20260604012651245800",
           "source": "金十数据",
@@ -249,7 +342,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -271,7 +364,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -282,7 +375,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -293,7 +386,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -315,7 +408,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -348,9 +441,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "受AI驱动利润激增，分析师预计韩国股市表现超越日本对手",
+          "url": "https://wallstreetcn.com/livenews/3114040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
@@ -370,7 +474,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -403,7 +507,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -414,20 +518,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "中国机器人登上美国达人秀",
-          "url": "https://www.toutiao.com/trending/7647031051694293042/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "05时43分"
         },
         {
           "title": "据天空新闻阿拉伯频道：黎巴嫩消息人士表示，黎巴嫩和以色列在目前在美国举行的本轮谈判未取得实质性进展。",
@@ -447,9 +540,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "行业团体敦促美国政府增加存储芯片供应",
+          "url": "https://flash.jin10.com/detail/20260604053833004800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国财长贝森特：铸币局（Mint）围绕5美分锌币启动筹备工作。",
@@ -469,9 +573,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国众议院获得足够票数，通过强制提交动议，推动审议H.R.2913法案（涉及对乌克兰的支持授权及其他事项），投票仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260604053714080800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国财长贝森特：去年夏季，我告诉联邦住房金融局（FHFA）局长Pulte“我会踹他屁股”。",
