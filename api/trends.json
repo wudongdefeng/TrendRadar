@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T05:26:55.277154+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-06-05T07:02:50.893957+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 88,
+      "match_count": 94,
       "titles": [
         {
           "title": "两日本人在吉林处理日军遗弃武器受伤",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
@@ -66,28 +66,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
-          "url": "https://flash.jin10.com/detail/20260605051927289800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美国法官罕见公开回应关税案，警告称上诉可能冲击退税进程",
-          "url": "https://wallstreetcn.com/livenews/3114640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
           "url": "https://flash.jin10.com/detail/20260605001431778800",
           "source": "金十数据",
@@ -97,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与玻利维亚总统帕斯进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260605051146916800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         },
         {
           "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
@@ -130,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美众议院税收立法议员称数字服务税将面临美国报复风险",
-          "url": "https://wallstreetcn.com/livenews/3114637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         },
         {
           "title": "普京：愿在美国安克雷奇与乌方谈判",
@@ -176,17 +132,66 @@
           "time_info": "03时15分"
         },
         {
+          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
+          "url": "https://flash.jin10.com/detail/20260605051927289800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美国法官罕见公开回应关税案，警告称上诉可能冲击退税进程",
+          "url": "https://wallstreetcn.com/livenews/3114640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与玻利维亚总统帕斯进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260605051146916800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美众议院税收立法议员称数字服务税将面临美国报复风险",
+          "url": "https://wallstreetcn.com/livenews/3114637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
           "url": "https://www.cls.cn/detail/2391088",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -195,11 +200,12 @@
           "ranks": [
             12,
             21,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "巴西总统称美国不买就卖给别国",
@@ -211,8 +217,21 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
+        },
+        {
+          "title": "日本扬言以综合国力应对中国军力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "日本黑白包装零食已上线",
@@ -222,20 +241,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
-        },
-        {
-          "title": "日本扬言以综合国力应对中国军力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时02分]"
         },
         {
           "title": "中方回应2名日本人处理日遗化武受伤",
@@ -243,11 +250,36 @@
           "source": "微博",
           "ranks": [
             27,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 05时26分]"
+          "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "商务部回应美国对华实施贸易限制",
+          "url": "https://www.douyin.com/hot/2523425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "泽连斯基承认乌问题并非美国优先事项",
@@ -273,6 +305,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国：Antares Nuclear（安泰雷斯核能公司）的Mark-0已成功完成演示。",
+          "url": "https://wallstreetcn.com/livenews/3114661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "OpenAI：今天向美国的Plus和Pro用户提供更新，未来几周将向其他国家及免费和Go用户推出。",
           "url": "https://flash.jin10.com/detail/20260605000602512800",
           "source": "金十数据",
@@ -293,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "普京：需要说服乌方相信俄罗斯同意妥协",
+          "url": "https://wallstreetcn.com/livenews/3114660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "房地美：6月4日当周，美国抵押贷款利率小幅下降至6.48%。",
@@ -350,17 +404,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "俄罗斯总统普京：无需停止战斗即可与乌克兰开始谈判。",
           "url": "https://flash.jin10.com/detail/20260605024050900800",
           "source": "金十数据",
@@ -378,9 +421,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "普京：需要说服乌方相信俄罗斯同意妥协",
+          "url": "https://flash.jin10.com/detail/20260605061750910800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，政策状态良好，但未来存在不确定性。 现在，提供前瞻指引可能会（对公众）产生误导。",
@@ -405,6 +459,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国小企业招聘计划降至2020年5月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3114656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在谈判期间停火；美国可以监测停火情况。",
           "url": "https://flash.jin10.com/detail/20260605023725556800",
           "source": "金十数据",
@@ -422,7 +487,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -455,7 +520,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -477,7 +542,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -499,7 +564,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -543,7 +608,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -565,9 +630,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260605055248462800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
@@ -579,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "报道：美国将允许银行把客户的移民身份纳入考量",
+          "url": "https://wallstreetcn.com/livenews/3114649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "民主党参议员要求贝森特对派拉蒙天舞和华纳兄弟探索交易进行美国外国投资委员会审查。民主党参议员表示担忧，原因是交易涉及“外国所有权”。",
@@ -609,7 +696,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -631,7 +718,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -653,18 +740,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "商务部回应美国对华实施贸易限制",
-          "url": "https://www.douyin.com/hot/2523425",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -686,7 +762,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -697,7 +773,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -719,7 +795,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -752,7 +828,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -763,7 +839,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -796,7 +872,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -807,7 +883,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -840,7 +916,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -873,7 +949,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -884,7 +960,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -895,7 +971,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -928,7 +1004,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -961,7 +1037,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
