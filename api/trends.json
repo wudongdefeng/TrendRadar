@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T00:46:59.640080+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-05T03:15:49.340948+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 29,
+      "match_count": 59,
       "titles": [
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -15,8 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "两日本人在吉林处理日军遗弃武器受伤",
+          "url": "https://www.toutiao.com/trending/7647473961256619558/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
+          "url": "https://news.ifeng.com/c/8tgJIxXwAkO",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
         },
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -30,15 +54,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "两日本人在吉林处理日军遗弃武器受伤",
-          "url": "https://www.toutiao.com/trending/7647473961256619558/",
-          "source": "今日头条",
+          "title": "乌克兰外交部长：乌方将通过外交渠道正式向俄罗斯总统普京转交泽连斯基的信函。",
+          "url": "https://flash.jin10.com/detail/20260605025306688800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
           "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
@@ -52,15 +76,129 @@
           "time_info": "00时46分"
         },
         {
-          "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
-          "url": "https://news.ifeng.com/c/8tgJIxXwAkO",
+          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260605024637794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "提醒：美国财长贝森特在众议院拨款委员会的听证会结束。",
+          "url": "https://wallstreetcn.com/livenews/3114583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "普京：愿在美国安克雷奇与乌方谈判",
+          "url": "https://news.ifeng.com/c/8th8lToiIWb",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
+          "url": "https://www.cls.cn/detail/2391088",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "巴西总统称美国不买就卖给别国",
+          "url": "https://www.toutiao.com/trending/7647392687661927982/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "日本黑白包装零食已上线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "日本扬言以综合国力应对中国军力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260605024510184800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "OpenAI：今天向美国的Plus和Pro用户提供更新，未来几周将向其他国家及免费和Go用户推出。",
@@ -74,6 +212,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "俄罗斯总统普京：欧洲应将俄罗斯视为平等伙伴。没有证据表明俄罗斯对欧洲发动网络攻击或实施破坏行为。",
+          "url": "https://flash.jin10.com/detail/20260605024503773800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "房地美：6月4日当周，美国抵押贷款利率小幅下降至6.48%。",
           "url": "https://flash.jin10.com/detail/20260605000034028800",
           "source": "金十数据",
@@ -83,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基向俄罗斯总统普京表示，如果不结束战争，你就不得不为自己的生存而战。",
+          "url": "https://flash.jin10.com/detail/20260605024122425800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.48%，前值6.53%——为2025年8月份以来最高位。",
@@ -107,6 +267,28 @@
           "time_info": "00时46分"
         },
         {
+          "title": "俄罗斯总统普京：我们就古巴问题与美国进行了接触。",
+          "url": "https://flash.jin10.com/detail/20260605024053675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：无需停止战斗即可与乌克兰开始谈判。",
+          "url": "https://flash.jin10.com/detail/20260605024050900800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，政策状态良好，但未来存在不确定性。 现在，提供前瞻指引可能会（对公众）产生误导。",
           "url": "https://wallstreetcn.com/livenews/3114540",
           "source": "华尔街见闻-快讯",
@@ -116,6 +298,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "俄罗斯总统普京：那些用于支持俄经济的措施带来积极成果。",
+          "url": "https://wallstreetcn.com/livenews/3114578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰已准备好在谈判期间停火；美国可以监测停火情况。",
+          "url": "https://flash.jin10.com/detail/20260605023725556800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，通胀问题上的焦点在于能源，食品价格上涨。",
@@ -129,26 +333,26 @@
           "time_info": "00时46分"
         },
         {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
-          "source": "bilibili 热搜",
+          "title": "普京：俄罗斯不拒绝与欧洲对话",
+          "url": "https://wallstreetcn.com/livenews/3114577",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
-          "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
-          "url": "https://www.cls.cn/detail/2391088",
-          "source": "财联社热门",
+          "title": "乌克兰总统泽连斯基提议与俄罗斯总统普京举行双边会议。",
+          "url": "https://flash.jin10.com/detail/20260605023649995800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
           "title": "美国参议员Warren敦促贝森特加强金融网络安全保护",
@@ -162,6 +366,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "乌克兰总统泽连斯基向俄罗斯总统普京表示，战斗已经够了，选择权在你们手中。",
+          "url": "https://flash.jin10.com/detail/20260605023648065800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
           "url": "https://wallstreetcn.com/livenews/3114537",
           "source": "华尔街见闻-快讯",
@@ -171,6 +386,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "【普京：控制顿巴斯和与乌方达成和平协议不矛盾】俄罗斯总统普京4日在圣彼得堡会见世界主要通讯社负责人时表示，控制顿巴斯地区和与乌克兰达成和平协议并不矛盾。顿巴斯地区主要包括卢甘斯克和顿涅茨克两地。普京表示，俄罗斯已经控制整个卢甘斯克地区、顿涅茨克地区85%的区域和扎波罗热地区80%的区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3114575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基呼吁俄罗斯总统普京结束战争。",
+          "url": "https://flash.jin10.com/detail/20260605023230812800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
@@ -195,15 +432,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "巴西总统称美国不买就卖给别国",
-          "url": "https://www.toutiao.com/trending/7647392687661927982/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基发表致俄罗斯总统普京的公开信。泽连斯基在信中表示，俄罗斯军队今年无法占领顿涅茨克地区。",
+          "url": "https://flash.jin10.com/detail/20260605023222516800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.615%，投标倍数3.07。 拍卖八周期国债，得标利率3.610%，投标倍数3.20。",
@@ -217,6 +454,39 @@
           "time_info": "00时46分"
         },
         {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国财长贝森特：（被问及关税是否导致价格上涨）影响微乎其微。",
+          "url": "https://flash.jin10.com/detail/20260605022749924800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯为什么要攻击北约？",
+          "url": "https://flash.jin10.com/detail/20260605022210359800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "中国贸促会新闻发言人就美国贸易代表办公室发起强迫劳动301调查并拟加征关税发表谈话",
           "url": "https://wallstreetcn.com/livenews/3114530",
           "source": "华尔街见闻-快讯",
@@ -226,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国华盛顿特区智库Bipartisan Policy Center：美国恐将在2027年年中之前触及债务上限。",
@@ -239,15 +520,37 @@
           "time_info": "00时46分"
         },
         {
-          "title": "日本黑白包装零食已上线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "source": "贴吧",
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
+          "url": "https://wallstreetcn.com/livenews/3114567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：美国经济形势良好。 通胀是美国经济面临的头号风险。 重要问题是，美联储应该在利率问题上保持多大的耐心。",
+          "url": "https://wallstreetcn.com/livenews/3114566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260605021812132800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -261,6 +564,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "由于库存增幅有限以及对温暖天气的预期，美国天然气期货价格延续涨势，上涨5%，预计将创下自2月份以来的最高收盘水平。",
+          "url": "https://flash.jin10.com/detail/20260605021806413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国农业部（USDA）部长Rollins：正以极其严肃认真的态度对待螺旋蝇（Screwworm）病例。 正动用一切可用工具来根除螺旋蝇。 在发现螺旋蝇病例后，美国农业部（USDA）已“立即”采取行动。",
           "url": "https://wallstreetcn.com/livenews/3114525",
           "source": "华尔街见闻-快讯",
@@ -270,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
+          "url": "https://wallstreetcn.com/livenews/3114563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国财长贝森特重申：美国债务发行将是常规的，可预见的。",
@@ -305,6 +630,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "中方回应2名日本人处理日遗化武受伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%942%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%84%E7%90%86%E6%97%A5%E9%81%97%E5%8C%96%E6%AD%A6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
           "url": "https://wallstreetcn.com/livenews/3114520",
           "source": "华尔街见闻-快讯",
@@ -316,15 +652,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "日本扬言以综合国力应对中国军力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "美联储研究显示石油冲击对美国的影响弱于1970年代",
+          "url": "https://wallstreetcn.com/livenews/3114557",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         }
       ]
     }
