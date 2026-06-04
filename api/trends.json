@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:50:22.491301+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-06-04T15:18:15.468711+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 69,
+      "match_count": 78,
       "titles": [
         {
           "title": "中国女足队史首次输给俄罗斯",
@@ -19,26 +19,38 @@
           "time_info": "[02时18分 ~ 07时28分]"
         },
         {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "伊朗突然变了，美国突然客气了",
           "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 15时18分]"
+        },
+        {
+          "title": "日本黑白包装零食已上线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 15时18分]"
+        },
+        {
+          "title": "巴西总统称美国不买就卖给别国",
+          "url": "https://www.toutiao.com/trending/7647392687661927982/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "美国国务院：双方已遵照美国的指引达成一致，将迅速推进试点区的设立工作；在这些试点区内，黎巴嫩武装部队将对相关领土行使专属控制权，并将所有非国家行为体排除在外。",
@@ -74,13 +86,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "俄罗斯财长西卢安诺夫：莫斯科将很快偿清所有债务。",
+          "url": "https://flash.jin10.com/detail/20260604145216428800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "中国海警岱山舰编队位中国台湾岛以东海域依法开展执法巡查，剑指日菲炒作「划界谈判」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2045510783908500299",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -96,13 +119,25 @@
           "time_info": "07时28分"
         },
         {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 15时18分]"
+        },
+        {
           "title": "卢拉：美国不买我们就卖给想买的国家",
           "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E6%8B%89%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E4%B9%B0%E6%88%91%E4%BB%AC%E5%B0%B1%E5%8D%96%E7%BB%99%E6%83%B3%E4%B9%B0%E7%9A%84%E5%9B%BD%E5%AE%B6",
           "source": "百度热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -116,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "俄罗斯财长西卢安诺夫：目前，俄罗斯没有外部投资来源，完全依靠自身发展。",
+          "url": "https://flash.jin10.com/detail/20260604145207472800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国把当年对日本话术套用给中国",
@@ -142,6 +188,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "俄罗斯财长西卢安诺夫：俄罗斯已实现金融主权。尽管外部环境不利，俄罗斯在金融和经济政策方面仍保持独立性——这一点必须得到维护。",
+          "url": "https://flash.jin10.com/detail/20260604145159723800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "巴林发行10亿美元国际债券（美元计价），收益率为7.125%；在那之前数小时，该国遭到导弹袭击。 这是美国和以色列发动伊朗战争以来，海湾地区首次在公开市场的第一笔主权债交易。",
           "url": "https://wallstreetcn.com/livenews/3113959",
           "source": "华尔街见闻-快讯",
@@ -151,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "日本黑白包装零食已上线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 10时50分]"
         },
         {
           "title": "日本夫妇拍军服结婚照被痛骂",
@@ -223,6 +269,18 @@
           "time_info": "[02时18分 ~ 07时28分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 15时18分]"
+        },
+        {
           "title": "中国机器人登上美国达人秀",
           "url": "https://www.toutiao.com/trending/7647031051694293042/",
           "source": "今日头条",
@@ -233,6 +291,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "中国的电路板又让美国头疼了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%94%B5%E8%B7%AF%E6%9D%BF%E5%8F%88%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%A4%B4%E7%96%BC%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "巴西总统：美国不买拉倒，中国解除禁令了",
+          "url": "https://news.ifeng.com/c/8tg8tmalC0Z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "日本开始售卖黑白包装零食",
@@ -256,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时43分]"
+        },
+        {
+          "title": "日本和菲律宾“勾勾搭搭”有何图谋",
+          "url": "https://www.toutiao.com/trending/7647023983972614186/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "美国务卿：美国必须同中国保持对话",
@@ -375,7 +466,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -386,20 +477,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
         {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
+          "title": "日本央行倾向于从2027财年起暂停或放慢其债券购买缩减的步伐，预计将在6月会议上上调利率。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3114251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "15时18分"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -452,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -518,7 +609,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -529,9 +620,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "日经225指数收跌1.4%，报67,470.69点。 日本东证指数收跌1.1%，报3,951.85点。 韩国首尔综指收跌1.8%，报8,639.41点。",
+          "url": "https://wallstreetcn.com/livenews/3114241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -573,7 +675,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -617,7 +719,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -650,7 +752,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -683,7 +785,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -705,7 +807,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -771,7 +873,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -788,7 +890,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
