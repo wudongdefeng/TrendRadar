@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-04T18:56:38.631131+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-04T21:55:16.834644+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 90,
+      "match_count": 101,
       "titles": [
+        {
+          "title": "日本黑白包装零食已上线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时18分 ~ 21时55分]"
+        },
         {
           "title": "中国女足队史首次输给俄罗斯",
           "url": "https://www.toutiao.com/trending/7647163031616491049/",
@@ -17,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "两日本人在吉林处理日军遗弃武器受伤",
+          "url": "https://www.toutiao.com/trending/7647473961256619558/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时55分]"
         },
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -30,17 +54,40 @@
           "time_info": "[10时50分 ~ 15时18分]"
         },
         {
-          "title": "日本黑白包装零食已上线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "source": "贴吧",
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            21,
-            24
+            1,
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
+          "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
+          "url": "https://news.ifeng.com/c/8tgJIxXwAkO",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时55分]"
+        },
+        {
+          "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
+          "url": "https://news.ifeng.com/c/8tgakiDBnfj",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "巴西总统称美国不买就卖给别国",
@@ -52,29 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
-        },
-        {
-          "title": "两日本人在吉林处理日军遗弃武器受伤",
-          "url": "https://www.toutiao.com/trending/7647473961256619558/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "美国国务院：双方已遵照美国的指引达成一致，将迅速推进试点区的设立工作；在这些试点区内，黎巴嫩武装部队将对相关领土行使专属控制权，并将所有非国家行为体排除在外。",
@@ -154,17 +178,6 @@
           "time_info": "10时50分"
         },
         {
-          "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
-          "url": "https://news.ifeng.com/c/8tgJIxXwAkO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "据Axios：美国众议院以215票对208票通过限制伊朗战争权力的决议，4名共和党人议员与民主党人一起投票支持该措施。",
           "url": "https://flash.jin10.com/detail/20260604052011929800",
           "source": "金十数据",
@@ -204,11 +217,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%942%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%84%E7%90%86%E6%97%A5%E9%81%97%E5%8C%96%E6%AD%A6%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时55分]"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -231,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "市场消息：美国国土安全部缩小了部分移民的工作资格范围。",
+          "url": "https://flash.jin10.com/detail/20260604211446952800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "巴林发行10亿美元国际债券（美元计价），收益率为7.125%；在那之前数小时，该国遭到导弹袭击。 这是美国和以色列发动伊朗战争以来，海湾地区首次在公开市场的第一笔主权债交易。",
@@ -349,6 +374,17 @@
           "time_info": "[15时17分 ~ 15时18分]"
         },
         {
+          "title": "泽连斯基承认乌问题并非美国优先事项",
+          "url": "https://www.toutiao.com/trending/7646954126164787263/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
           "title": "日本开始售卖黑白包装零食",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E5%94%AE%E5%8D%96%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -370,6 +406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时43分]"
+        },
+        {
+          "title": "中方回应2名日本人处理日遗化武受伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%942%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%84%E7%90%86%E6%97%A5%E9%81%97%E5%8C%96%E6%AD%A6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "日本和菲律宾“勾勾搭搭”有何图谋",
@@ -412,7 +459,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -544,7 +591,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -610,7 +657,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -632,7 +679,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -698,9 +745,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯总统普京没有计划在圣彼得堡会见美国代表团。",
+          "url": "https://flash.jin10.com/detail/20260604210253283800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国：美韩两国于6月2日至3日就核合作倡议举行了会晤。",
@@ -731,9 +789,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "光通信概念股出海大捷！狂揽美国客户4.6亿订单 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260604210159341800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -767,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国5月23日当周续请失业救济人数 177.7万人，预期 178万人，前值 178.6万人。",
+          "url": "https://wallstreetcn.com/livenews/3114446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国务卿称格陵兰岛目前仍属于丹麦",
@@ -808,9 +888,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "美国5月30日当周首次申请失业救济人数 22.5万人，预期 21.4万人，前值 21.5万人。",
+          "url": "https://wallstreetcn.com/livenews/3114445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗方面概述了与美国达成的四阶段协议计划。",
@@ -841,7 +932,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -857,6 +948,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "美国一季度非农生产力终值 0.3%，预期 0.4%，初值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3114444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "俄罗斯至5月29日当周央行黄金和外汇储备 7487亿美元，前值7538亿美元。",
+          "url": "https://flash.jin10.com/detail/20260604210003421800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美国总统特朗普：一旦签署协议，霍尔木兹海峡将立即开放。",
           "url": "https://wallstreetcn.com/livenews/3114011",
           "source": "华尔街见闻-快讯",
@@ -866,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国一季度非农单位劳动力成本终值 1.8%，预期 2.4%，初值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "日本内阁官房长官木原稔：预计日本央行将采取适当的货币政策，以可持续、稳定地实现其价格目标，同时与政府密切合作。",
@@ -885,7 +1009,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
