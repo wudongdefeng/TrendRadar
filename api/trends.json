@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-05T07:02:50.893957+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-05T10:37:30.748069+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 94,
+      "match_count": 112,
       "titles": [
-        {
-          "title": "两日本人在吉林处理日军遗弃武器受伤",
-          "url": "https://www.toutiao.com/trending/7647473961256619558/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 07时02分]"
-        },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
           "url": "https://news.ifeng.com/c/8tgakiDBnfj",
@@ -30,6 +18,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 07时02分]"
+        },
+        {
+          "title": "两日本人在吉林处理日军遗弃武器受伤",
+          "url": "https://www.toutiao.com/trending/7647473961256619558/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 10时37分]"
         },
         {
           "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
@@ -99,6 +100,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "日本首相高市早苗：经济和财政政策并非旨在影响外汇市场。 希望构建能够抵御汇率波动的经济结构。 提升竞争力有助于维持日元信心。",
+          "url": "https://wallstreetcn.com/livenews/3114738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "普京：愿在美国安克雷奇与乌方谈判",
           "url": "https://news.ifeng.com/c/8th8lToiIWb",
           "source": "凤凰网",
@@ -108,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
@@ -121,6 +144,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "据华尔街日报：消息人士称，乌克兰团队利用卫星情报摧毁了价值数十亿美元的俄罗斯资产。",
+          "url": "https://flash.jin10.com/detail/20260605100326206800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
           "url": "https://wallstreetcn.com/livenews/3114582",
           "source": "华尔街见闻-快讯",
@@ -130,6 +164,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
+          "url": "https://www.cls.cn/detail/2391088",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 10时37分]"
+        },
+        {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            21,
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 10时37分]"
+        },
+        {
+          "title": "日本扬言以综合国力应对中国军力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 10时37分]"
+        },
+        {
+          "title": "日本黑白包装零食已上线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 10时37分]"
         },
         {
           "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
@@ -180,34 +268,6 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
-          "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
-          "url": "https://www.cls.cn/detail/2391088",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 07时02分]"
-        },
-        {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            21,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 07时02分]"
-        },
-        {
           "title": "巴西总统称美国不买就卖给别国",
           "url": "https://www.toutiao.com/trending/7647392687661927982/",
           "source": "今日头条",
@@ -221,28 +281,17 @@
           "time_info": "[00时46分 ~ 07时02分]"
         },
         {
-          "title": "日本扬言以综合国力应对中国军力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "商务部回应美国对华实施贸易限制",
+          "url": "https://www.douyin.com/hot/2523425",
+          "source": "抖音",
           "ranks": [
-            30,
-            23,
-            16
+            18,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 07时02分]"
-        },
-        {
-          "title": "日本黑白包装零食已上线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354814&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%BB%91%E7%99%BD%E5%8C%85%E8%A3%85%E9%9B%B6%E9%A3%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 10时37分]"
         },
         {
           "title": "中方回应2名日本人处理日遗化武受伤",
@@ -270,18 +319,6 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
-          "title": "商务部回应美国对华实施贸易限制",
-          "url": "https://www.douyin.com/hot/2523425",
-          "source": "抖音",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时02分]"
-        },
-        {
           "title": "泽连斯基承认乌问题并非美国优先事项",
           "url": "https://www.toutiao.com/trending/7646954126164787263/",
           "source": "今日头条",
@@ -292,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 05时26分]"
+        },
+        {
+          "title": "普京：俄方愿在美国安克雷奇与乌谈判",
+          "url": "https://www.toutiao.com/trending/7647318065814110250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
@@ -311,9 +359,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "泰国寻求6月底前与美国达成贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3114734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "OpenAI：今天向美国的Plus和Pro用户提供更新，未来几周将向其他国家及免费和Go用户推出。",
@@ -344,7 +403,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -432,7 +491,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -465,9 +524,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "普京：俄罗斯从未拒绝与欧洲进行对话",
+          "url": "https://www.toutiao.com/trending/7647601214406787114/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在谈判期间停火；美国可以监测停火情况。",
@@ -641,7 +711,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -663,9 +733,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌2%至44,757.09点。",
+          "url": "https://wallstreetcn.com/livenews/3114717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "民主党参议员要求贝森特对派拉蒙天舞和华纳兄弟探索交易进行美国外国投资委员会审查。民主党参议员表示担忧，原因是交易涉及“外国所有权”。",
@@ -688,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌1.1%至45,185.64点。",
+          "url": "https://wallstreetcn.com/livenews/3114716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国总统特朗普：我们将处理好古巴问题。",
@@ -743,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开低0.1%报45,619.82点。",
+          "url": "https://wallstreetcn.com/livenews/3114712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国财长贝森特：（被问及关税是否导致价格上涨）影响微乎其微。",
@@ -844,6 +947,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "日本首相高市早苗：经济和财政政策并非为了干预外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260605094903095800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国华盛顿特区智库Bipartisan Policy Center：美国恐将在2027年年中之前触及债务上限。",
           "url": "https://wallstreetcn.com/livenews/3114529",
           "source": "华尔街见闻-快讯",
@@ -888,6 +1002,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "日本首相高市早苗：希望构建能够抵御汇率波动的经济结构。",
+          "url": "https://flash.jin10.com/detail/20260605094827579800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国堪萨斯城联储主席Schmid：美国经济形势良好。 通胀是美国经济面临的头号风险。 重要问题是，美联储应该在利率问题上保持多大的耐心。",
           "url": "https://wallstreetcn.com/livenews/3114566",
           "source": "华尔街见闻-快讯",
@@ -897,6 +1022,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "日本新生儿数量及总和生育率创新低",
+          "url": "https://wallstreetcn.com/livenews/3114709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "冲绳恐成日本再军事化棋子",
+          "url": "https://www.toutiao.com/trending/7646766160213901355/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
@@ -919,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "日本首相高市早苗：提升竞争力有助于维系日元信心。",
+          "url": "https://flash.jin10.com/detail/20260605094819978800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -952,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "756亿美元！日本5月狂卖外国证券，创纪录干预背后“弹药”来源曝光",
+          "url": "https://flash.jin10.com/detail/20260605094810738800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "日本在西南诸岛打造“作战基地群”",
@@ -1042,6 +1211,28 @@
           "time_info": "05时26分"
         },
         {
+          "title": "日本财务省官员：5月份外汇储备的降幅创下自2000年有数据可查以来的历史最大纪录。",
+          "url": "https://wallstreetcn.com/livenews/3114704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "古巴国家主席回应美国制裁",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
           "url": "https://wallstreetcn.com/livenews/3114520",
           "source": "华尔街见闻-快讯",
@@ -1062,6 +1253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "日本首相高市早苗：经济和财政政策并非以汇率为目标。 投资战略将有助于维持对日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3114700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
