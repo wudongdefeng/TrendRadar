@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T10:37:30.748069+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-06-05T15:02:18.663209+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 112,
+      "match_count": 123,
       "titles": [
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 10时37分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 15时02分]"
         },
         {
           "title": "史上首次！德国落选，外长怪上以色列和俄罗斯",
@@ -65,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "日经225指数收跌1.3%，报66,588.12点。 日本东证指数收跌0.1%，报3,949.09点。 韩国首尔综指收跌5.5%，报8,160.59点。",
+          "url": "https://wallstreetcn.com/livenews/3114854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
@@ -106,7 +128,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
@@ -150,7 +161,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -319,6 +330,72 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
+          "title": "日本拥核已是现实威胁",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E5%B7%B2%E6%98%AF%E7%8E%B0%E5%AE%9E%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "外交部：在台湾问题上踩踏红线一定会付出代价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33307417",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "火箭发射突然爆炸，腾起巨大蘑菇云，美国登月计划再添变数",
+          "url": "https://v.ifeng.com/c/8tgYHU5uBap",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "美籍华人带102名美国学生来中国旅游",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%B1%8D%E5%8D%8E%E4%BA%BA%E5%B8%A6102%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "周锡玮：没有人会理日本菲律宾",
+          "url": "https://www.toutiao.com/trending/7647003090214715438/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "日本被批标榜和平国家却行扩军之事",
+          "url": "https://www.toutiao.com/trending/7647190210341879827/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "泽连斯基承认乌问题并非美国优先事项",
           "url": "https://www.toutiao.com/trending/7646954126164787263/",
           "source": "今日头条",
@@ -337,7 +414,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -370,7 +447,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -535,7 +612,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -672,6 +749,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收低1.3%报45,070.94点。",
+          "url": "https://wallstreetcn.com/livenews/3114837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
           "url": "https://wallstreetcn.com/livenews/3114626",
           "source": "华尔街见闻-快讯",
@@ -681,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "日本首相高市早苗：将明确降低债务与GDP比率的目标。 确保财政能力是一个重要课题。 密切关注相关指标和市场趋势。",
+          "url": "https://wallstreetcn.com/livenews/3114836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "乌克兰总统泽连斯基呼吁俄罗斯总统普京结束战争。",
@@ -744,7 +843,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -777,7 +876,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -843,7 +942,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -953,7 +1052,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1008,7 +1107,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1030,7 +1129,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1041,7 +1140,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1074,9 +1173,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "日本4月领先指标初值 115.9，预期 114.5，前值 114。",
+          "url": "https://wallstreetcn.com/livenews/3114822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -1118,9 +1228,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "日本4月同步指标初值 117.9，预期 117.4，前值 116.4。",
+          "url": "https://wallstreetcn.com/livenews/3114821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "日本在西南诸岛打造“作战基地群”",
@@ -1217,7 +1338,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1228,7 +1349,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -1261,7 +1382,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         }
