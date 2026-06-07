@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T10:43:36.013020+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-06-07T15:01:51.189054+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "反制日菲，大陆在台湾岛东部海域启动专项行动",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时01分]"
         },
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
@@ -40,11 +40,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时01分]"
         },
         {
           "title": "野人先生忽然在日本引起了讨论",
@@ -65,11 +66,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时01分]"
         },
         {
           "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
@@ -96,6 +98,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时03分]"
+        },
+        {
+          "title": "美国得州宣布进入“灾难状态”",
+          "url": "https://news.ifeng.com/c/8tktDn4w6Pv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 15时01分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -158,6 +171,17 @@
           "time_info": "[05时59分 ~ 07时03分]"
         },
         {
+          "title": "美国俄亥俄州枪击多人中弹，众人慌忙逃命",
+          "url": "https://v.ifeng.com/c/8tjRMY6IvW9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
           "title": "前美国特使：真主党有望转型为非武装政治实体",
           "url": "https://flash.jin10.com/detail/20260607060323052800",
           "source": "金十数据",
@@ -199,27 +223,39 @@
           "time_info": "[01时03分 ~ 10时43分]"
         },
         {
+          "title": "日本两大航司拟再上调国际航线燃油附加费",
+          "url": "https://wallstreetcn.com/livenews/3115523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 15时01分]"
         },
         {
-          "title": "美国得州宣布进入“灾难状态”",
-          "url": "https://news.ifeng.com/c/8tktDn4w6Pv",
-          "source": "凤凰网",
+          "title": "日本城市树木覆盖率下降，与全球趋势背道而驰",
+          "url": "https://flash.jin10.com/detail/20260607142037596800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "15时01分"
         },
         {
           "title": "“张雪机车”在台湾走红",
@@ -312,6 +348,18 @@
           "time_info": "[04时56分 ~ 07时03分]"
         },
         {
+          "title": "港媒称「印度要想成为经济强国，最优解是找中国而非美国」，如何看待这一观点？",
+          "url": "https://www.zhihu.com/question/2046675992081610375",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 15时01分]"
+        },
+        {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
           "url": "https://flash.jin10.com/detail/20260607031222169800",
           "source": "金十数据",
@@ -323,6 +371,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 07时03分]"
+        },
+        {
+          "title": "香蕉可能会从日本人的餐桌上消失",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E8%95%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%BB%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "美国就业：碳基和硅基的两重天",
@@ -360,6 +419,17 @@
           "time_info": "[05时59分 ~ 07时03分]"
         },
         {
+          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
           "title": "据知情人士透露，美国将考虑伊朗资产是否可用于支持修复过去的损失。",
           "url": "https://flash.jin10.com/detail/20260607044834072800",
           "source": "金十数据",
@@ -370,6 +440,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时03分]"
+        },
+        {
+          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
+          "url": "https://www.cls.cn/detail/2392742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "俄罗斯国防部表示，其防空部队在13小时内于包括莫斯科在内的多个地区拦截了339架乌克兰无人机。",
@@ -402,7 +483,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -435,9 +516,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "日本两大航司拟再上调国际航线燃油附加费",
+          "url": "https://flash.jin10.com/detail/20260607135755267800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "俄罗斯文化部长：俄方计划扩大与中方在电影领域合作规模",
+          "url": "https://wallstreetcn.com/livenews/3115516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "有理儿有面：日本不只想改南京大屠杀",
@@ -446,18 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "港媒称「印度要想成为经济强国，最优解是找中国而非美国」，如何看待这一观点？",
-          "url": "https://www.zhihu.com/question/2046675992081610375",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -468,7 +560,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -512,7 +604,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -534,9 +626,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "伊拉克“国脚”入境美国遭7小时盘查",
+          "url": "https://flash.jin10.com/detail/20260607130125523800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
