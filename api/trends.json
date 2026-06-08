@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T12:24:13.904162+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-06-08T17:19:58.959407+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 74,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国被曝将来自以色列的间谍威胁升至最高级别",
@@ -88,6 +88,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "据福克斯新闻首席国会记者：美国众议院规则委员会今天将准备一项法案，以防止伊朗获取可用于制造无人机的美国和欧洲技术。",
+          "url": "https://flash.jin10.com/detail/20260608165723749800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "日本4月季调后经常帐 42111亿日元，前值 39006亿日元。",
           "url": "https://wallstreetcn.com/livenews/3115691",
           "source": "华尔街见闻-快讯",
@@ -119,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "外企纷纷撤离，美国持续“绞杀”古巴",
+          "url": "https://news.ifeng.com/c/8tmycvead4H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
@@ -160,7 +182,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -185,6 +207,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 17时19分]"
         },
         {
           "title": "日本第一季度GDP平减指数年率终值 3.2%，预期3.40%，前值3.40%。",
@@ -246,16 +281,16 @@
           "time_info": "[00时08分 ~ 03时22分]"
         },
         {
-          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
-          "source": "澎湃新闻",
+          "title": "「石脑油危机」或致香蕉从日本人餐桌上消失，如何看待这场「蝴蝶效应」？暴露了日本供应链的什么问题？",
+          "url": "https://www.zhihu.com/question/2046989382947529171",
+          "source": "知乎",
           "ranks": [
-            16,
-            10
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时24分]"
+          "time_info": "[12时23分 ~ 17时19分]"
         },
         {
           "title": "美国为什么不要求中国把军费提高到 GDP 的 5%？",
@@ -269,6 +304,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 03时22分]"
+        },
+        {
+          "title": "日本樱岛火山喷发，大量火山灰飘到市中心",
+          "url": "https://v.ifeng.com/c/8tm0Z8tlaBV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 17时19分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪就美国将伊朗资产用于支付对地区盟友战争赔偿的报道表示：地区国家政府没有资格要求赔偿。",
@@ -307,17 +353,6 @@
           "time_info": "[01时59分 ~ 03时22分]"
         },
         {
-          "title": "日本樱岛火山喷发，大量火山灰飘到市中心",
-          "url": "https://v.ifeng.com/c/8tm0Z8tlaBV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
           "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
           "url": "https://wallstreetcn.com/livenews/3115587",
           "source": "华尔街见闻-快讯",
@@ -328,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时22分]"
-        },
-        {
-          "title": "「石脑油危机」或致香蕉从日本人餐桌上消失，如何看待这场「蝴蝶效应」？暴露了日本供应链的什么问题？",
-          "url": "https://www.zhihu.com/question/2046989382947529171",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "日本气象厅发布海啸预警",
@@ -429,6 +453,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美国国家飓风中心：“鲍里斯”在墨西哥格雷罗州海岸附近形成，洪水仍是主要威胁。",
+          "url": "https://flash.jin10.com/detail/20260608165522589800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "日本5月银行贷款(含信托)同比 5.7%，前值 5.4%。",
           "url": "https://wallstreetcn.com/livenews/3115687",
           "source": "华尔街见闻-快讯",
@@ -468,9 +503,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
+          "url": "https://wallstreetcn.com/articles/3774051",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "日本4月季调后经常账 42111亿日元，前值39006亿日元。",
@@ -493,6 +539,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "债券交易员下注：本周美国CPI会爆，加剧美联储加息压力",
+          "url": "https://wallstreetcn.com/articles/3774054",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "一口气看完美国UFO档案解密",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E7%BE%8E%E5%9B%BDUFO%E6%A1%A3%E6%A1%88%E8%A7%A3%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "日本一季度实际GDP季环比终值 0.5%，预期 0.3%，初值 0.5%。",
@@ -559,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "高盛：根据历史指标判断美国股市出现些许过热迹象",
+          "url": "https://wallstreetcn.com/livenews/3116021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
@@ -693,15 +772,37 @@
           "time_info": "08时01分"
         },
         {
+          "title": "乌克兰军方：已袭击俄罗斯伏尔加格勒地区的一条管道泵站。",
+          "url": "https://flash.jin10.com/detail/20260608164150627800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "日本10年期国债收益率延续涨势，上涨5个基点至2.715%。",
           "url": "https://flash.jin10.com/detail/20260608115253909800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "乌克兰军方：已袭击俄罗斯新罗西斯克黑海港口舍斯卡里斯石油终端附近的格鲁绍瓦油库（Grushova）。",
+          "url": "https://flash.jin10.com/detail/20260608164128487800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "一名美国官员告诉Axios：我不认为以色列（对伊朗）的袭击有任何迫在眉睫的迹象。",
@@ -834,6 +935,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度石油部长：预计未来几个月石油、天然气库存充足，价格将下跌。",
+          "url": "https://flash.jin10.com/detail/20260608164042493800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "印度石油部长：不担忧油气价格。",
+          "url": "https://flash.jin10.com/detail/20260608163750634800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "奇瑞回应“与印度塔塔集团相关合作”：没有在印度市场直接投资和技术转让等安排",
+          "url": "https://wallstreetcn.com/livenews/3116011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "奇瑞：没有在印度市场直接投资和技术转让等安排",
+          "url": "https://flash.jin10.com/detail/20260608164027821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
