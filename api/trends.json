@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T01:25:57.913365+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-09T04:04:23.449948+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "俄罗斯等7国发表联合声明",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
-          "url": "https://wallstreetcn.com/livenews/3116294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
         },
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -35,6 +24,28 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
+          "url": "https://flash.jin10.com/detail/20260609035302665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
+          "url": "https://wallstreetcn.com/livenews/3116294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,15 +63,27 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
+          "url": "https://wallstreetcn.com/livenews/3116331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
           "title": "台湾岛东部海域执法行动画面",
           "url": "https://www.douyin.com/hot/2526967",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
         },
         {
           "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
@@ -70,8 +93,55 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
+        },
+        {
+          "title": "媒体：两岸统一后台湾将不再缺电",
+          "url": "https://www.toutiao.com/trending/7648853210555875370/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
+        },
+        {
+          "title": "日本开始在南鸟岛部署导弹发射装置",
+          "url": "https://www.toutiao.com/trending/7649014664638971958/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
+        },
+        {
+          "title": "“馆长”喊台湾民众去大陆看看",
+          "url": "https://www.toutiao.com/trending/7648137176563613732/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 04时04分]"
+        },
+        {
+          "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
+          "url": "https://flash.jin10.com/detail/20260609034826274800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "04时04分"
         },
         {
           "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
@@ -85,15 +155,48 @@
           "time_info": "01时25分"
         },
         {
-          "title": "媒体：两岸统一后台湾将不再缺电",
-          "url": "https://www.toutiao.com/trending/7648853210555875370/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基6月8日与美国特使Witkoff、库什纳通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3116323",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "04时04分"
+        },
+        {
+          "title": "白宫：美国总统特朗普向美国参议院提交托德·布兰奇（Todd Blanche）出任司法部长的提名。",
+          "url": "https://flash.jin10.com/detail/20260609033949561800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609033724034800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3116317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "台湾岛东部海域海上交通专项执法行动直击",
@@ -105,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
+          "url": "https://www.zhihu.com/question/2047276644910552070",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "据塔斯社：俄罗斯能源部表示，针对能源设施的空袭增多导致俄罗斯南部燃料供应出现暂时困难。",
@@ -140,17 +254,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "日本开始在南鸟岛部署导弹发射装置",
-          "url": "https://www.toutiao.com/trending/7649014664638971958/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
           "title": "致命害虫螺旋蝇在美国得州蔓延，新增两起确诊病例",
           "url": "https://wallstreetcn.com/livenews/3116267",
           "source": "华尔街见闻-快讯",
@@ -178,17 +281,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "“馆长”喊台湾民众去大陆看看",
-          "url": "https://www.toutiao.com/trending/7648137176563613732/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
