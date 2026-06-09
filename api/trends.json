@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T07:59:23.558029+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-06-09T11:26:32.762292+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -58,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
@@ -102,7 +113,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -113,9 +124,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "机构：日本央行行长发出过度鹰派信号的可能性较低",
+          "url": "https://flash.jin10.com/detail/20260609110641148800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
@@ -252,6 +285,17 @@
           "time_info": "[06时20分 ~ 07时59分]"
         },
         {
+          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
+          "url": "https://v.ifeng.com/c/8tnURPNnxME",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时26分]"
+        },
+        {
           "title": "日本开始在南鸟岛部署导弹发射装置",
           "url": "https://www.toutiao.com/trending/7649014664638971958/",
           "source": "今日头条",
@@ -287,6 +331,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "药明康德港股盘中一度跌超8%，药明联合、药明生物跌超4%。药明康德早间公告称，美国国防部将公司列入“中国军工企业”正式更新版名单的认定是错误的。",
+          "url": "https://wallstreetcn.com/livenews/3116497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
           "url": "https://flash.jin10.com/detail/20260609034826274800",
           "source": "金十数据",
@@ -315,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -326,18 +381,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
-          "url": "https://v.ifeng.com/c/8tnURPNnxME",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -381,7 +425,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -406,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美国女孩26年前奇迹般预言新郎名字",
+          "url": "https://www.toutiao.com/trending/7649048153247203364/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
@@ -502,7 +557,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -549,6 +604,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "印度去年的案件突然“震动”美国",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%8E%BB%E5%B9%B4%E7%9A%84%E6%A1%88%E4%BB%B6%E7%AA%81%E7%84%B6%E2%80%9C%E9%9C%87%E5%8A%A8%E2%80%9D%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2%至44,373.65点。",
+          "url": "https://wallstreetcn.com/livenews/3116462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "台湾年轻人不愿意为“台独”而战",
+          "url": "https://www.toutiao.com/trending/7648668641223065646/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
