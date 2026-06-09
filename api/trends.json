@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T11:26:32.762292+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-06-09T15:39:23.797533+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -28,6 +28,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 06时20分]"
+        },
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 15时39分]"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
@@ -61,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "世界杯主裁被美国拒签",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         },
         {
           "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
@@ -129,15 +141,15 @@
           "time_info": "07时59分"
         },
         {
-          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
-          "url": "https://wallstreetcn.com/articles/3774144",
-          "source": "华尔街见闻",
+          "title": "消息人士：印度研究收购俄罗斯焦煤资产与进口镍的可能性",
+          "url": "https://flash.jin10.com/detail/20260609152236884800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "15时39分"
         },
         {
           "title": "机构：日本央行行长发出过度鹰派信号的可能性较低",
@@ -146,9 +158,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "世界杯主裁被美国拒签",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
@@ -337,9 +361,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
@@ -458,7 +493,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -516,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "据塔斯社：俄罗斯能源部表示，针对能源设施的空袭增多导致俄罗斯南部燃料供应出现暂时困难。",
@@ -612,7 +658,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -623,7 +669,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -634,7 +680,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
