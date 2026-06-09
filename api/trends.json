@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:53:27.933849+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-09T21:39:48.639282+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 73,
+      "match_count": 86,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -30,6 +30,30 @@
           "time_info": "[01时25分 ~ 06时20分]"
         },
         {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 21时39分]"
+        },
+        {
+          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
+          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 21时39分]"
+        },
+        {
           "title": "世界杯主裁被美国拒签",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E8%A3%81%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
           "source": "百度热搜",
@@ -42,28 +66,16 @@
           "time_info": "[15时39分 ~ 18时53分]"
         },
         {
-          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
-          "url": "https://wallstreetcn.com/articles/3774144",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 18时53分]"
-        },
-        {
-          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
-          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "title": "外媒称美方请中国恢复对日本的稀土出口",
+          "url": "https://news.ifeng.com/c/8tokPxm8mua",
           "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 21时39分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
@@ -105,9 +117,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "美国曾关闭GPS让中国船漂泊大海33天",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E6%BC%82%E6%B3%8A%E5%A4%A7%E6%B5%B733%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
@@ -160,7 +183,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -193,7 +216,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -204,18 +227,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "外媒称美方请中国恢复对日本的稀土出口",
-          "url": "https://news.ifeng.com/c/8tokPxm8mua",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -237,9 +249,43 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "美国共和党国众议员哈德森表示，特朗普关于其“不在乎”中期选举的言论被误解了。",
+          "url": "https://flash.jin10.com/detail/20260609211016823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "富国银行：日本在央行政策会议前不太可能干预日元汇率。",
+          "url": "https://wallstreetcn.com/livenews/3116862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 21时39分]"
         },
         {
           "title": "世界杯主裁被美国拒签",
@@ -276,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时59分]"
+        },
+        {
+          "title": "韩国议员窜访台湾，外交部表态",
+          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 21时39分]"
         },
         {
           "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
@@ -376,6 +434,19 @@
           "time_info": "[04时04分 ~ 07时59分]"
         },
         {
+          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 21时39分]"
+        },
+        {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
           "url": "https://wallstreetcn.com/articles/3774144",
           "source": "华尔街见闻",
@@ -423,18 +494,6 @@
           "time_info": "[01时25分 ~ 04时04分]"
         },
         {
-          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 18时53分]"
-        },
-        {
           "title": "“馆长”喊台湾民众去大陆看看",
           "url": "https://www.toutiao.com/trending/7648137176563613732/",
           "source": "今日头条",
@@ -447,26 +506,15 @@
           "time_info": "[01时25分 ~ 04时04分]"
         },
         {
-          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
-          "url": "https://www.cls.cn/detail/2394636",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "韩国议员窜访台湾，外交部表态",
-          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
+          "title": "俄罗斯一处弹药库剧烈爆炸，现场腾起蘑菇云(图)",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUh",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "21时39分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：（援引伊朗驻联合国代表）我们正通过巴基斯坦与美国交换意见，以达成最终文本。",
@@ -478,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：美国众议院议长约翰逊今天稍后将与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260609210838860800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "药明康德港股盘中一度跌超8%，药明联合、药明生物跌超4%。药明康德早间公告称，美国国防部将公司列入“中国军工企业”正式更新版名单的认定是错误的。",
@@ -511,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美国贸易逆差收窄 因石油出口部分抵消了AI相关进口",
+          "url": "https://flash.jin10.com/detail/20260609210828902800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
@@ -601,6 +671,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美国曾关闭GPS让中国船失去方向",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9B%BE%E5%85%B3%E9%97%ADGPS%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "策略师：美国5月CPI料创三年新高，住房和服务粘性通胀更堪忧",
+          "url": "https://flash.jin10.com/detail/20260609210620933800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国女孩26年前奇迹般预言新郎名字",
           "url": "https://www.toutiao.com/trending/7649048153247203364/",
           "source": "今日头条",
@@ -618,7 +710,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -632,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "美国专家盯上世界杯下水道",
+          "url": "https://www.toutiao.com/trending/7648857166220312603/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
@@ -656,15 +759,37 @@
           "time_info": "06时20分"
         },
         {
+          "title": "俄罗斯严厉警告北约",
+          "url": "https://www.toutiao.com/trending/7648387400594423846/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "日本首都近百所中小学紧急停课",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E9%83%BD%E8%BF%91%E7%99%BE%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE",
           "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "美国航空：达成一项协议，将在三年内释放3500万加仑可持续航空燃料，减少近30万吨二氧化碳当量的排放。",
+          "url": "https://flash.jin10.com/detail/20260609210418107800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
@@ -750,7 +875,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -772,7 +897,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -797,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美国至6月6日当周红皮书商业零售销售年率 9.1%，前值9%。",
+          "url": "https://flash.jin10.com/detail/20260609205527825800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "印度去年的案件突然“震动”美国",
@@ -830,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "美国4月贸易帐 -559亿美元，预期 -561亿美元，前值 -603亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
