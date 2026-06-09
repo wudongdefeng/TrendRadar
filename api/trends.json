@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-06-10T05:42:59.823301+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-10T07:13:52.635549+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 55,
+      "match_count": 73,
       "titles": [
         {
           "title": "中国海事巡航期间发现疑似日本飞机",
           "url": "https://v.ifeng.com/c/8tos3hBXZUo",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
-        },
-        {
-          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
-          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
-          "source": "凤凰网",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
@@ -38,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "外媒称美方请中国恢复对日本的稀土出口",
@@ -49,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "韩国议员窜访台湾，外交部表态",
@@ -58,6 +48,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
+        },
+        {
+          "title": "日本多次跟监辽宁舰航母编队，国防部回应",
+          "url": "https://news.ifeng.com/c/8tojX3VRqfM",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -103,9 +104,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗：已向地区内美国目标发射导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260610064449762800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国能源信息署（EIA）：现预计经合组织石油库存将降至2003年以来的最低水平。",
@@ -130,6 +142,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美国农业部（USDA）部长Rollins：首先，美国感染了螺旋蝇的牛是健康的，正在康复。 将在未来几个月启动全面消灭螺旋蝇的行动。",
+          "url": "https://wallstreetcn.com/livenews/3117065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "美国能源信息署（EIA）：霍尔木兹海峡的干扰迫使中东生产商在5月将产量较战前水平削减了超过1100万桶/日。",
           "url": "https://flash.jin10.com/detail/20260610002102449800",
           "source": "金十数据",
@@ -148,19 +171,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
           "source": "澎湃新闻",
           "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "被美国国防部盯上 药明康德能做什么",
@@ -169,22 +205,12 @@
           "ranks": [
             10,
             14,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
-        },
-        {
-          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "中国为什么要对日本断供钨",
@@ -195,8 +221,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "中国海事巡航期间发现疑似日本飞机",
@@ -208,8 +234,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时13分]"
         },
         {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
@@ -247,6 +273,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "据纽约时报，美国袭击伊朗军南部五个地方，袭击目标位军事基地和海军基地。 道指期货、标普股指期货跌0.3%，罗素2000股指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3117063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
           "url": "https://flash.jin10.com/detail/20260610023444030800",
           "source": "金十数据",
@@ -256,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外交部长：我们强大的武装部队绝不会让任何袭击或主权威胁免遭报复（定将对等血战到底）。 尽管美国在战场上屡遭惨败，但它依然愚蠢地选择来测试我们的钢铁意志。 如果你们（美军）想要保全自身性命，就立刻滚出我们的地区！",
+          "url": "https://wallstreetcn.com/livenews/3117062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国国家航空航天局宣布，由三名美国宇航员和一名意大利宇航员组成的乘组将执行“阿耳忒弥斯三号”地球轨道任务。",
@@ -275,9 +323,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：尽管美国在战场上屡遭挫败，但仍选择试探我们的决心。",
+          "url": "https://flash.jin10.com/detail/20260610063154364800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国至6月5日当周API原油进口 -35.8万桶，前值54.3万桶。",
@@ -286,7 +345,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -297,7 +356,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -319,9 +378,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
+          "url": "https://flash.jin10.com/detail/20260610062852689800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国至6月5日当周API取暖油库存 -40.7万桶，前值49.8万桶。",
@@ -330,7 +400,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -352,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -363,7 +433,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -396,7 +466,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -410,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国能源信息署（EIA）：预计美国6月石油产量预计将平均达到1383万桶/日，较5月的1371万桶/日有所上升；7月预计将平均为1382万桶/日。",
@@ -429,9 +510,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260610061434000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国能源信息署（EIA）：预计美国天然气产量预计在六月平均为1223亿立方英尺/天，较五月的1221亿立方英尺/天略有上升；预计七月将平均达到1225亿立方英尺/天。",
@@ -451,7 +543,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -462,9 +554,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
+          "url": "https://wallstreetcn.com/livenews/3117050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "邱毅：日本拉着菲律宾在外制造纷争",
@@ -478,15 +581,37 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统",
+          "url": "https://flash.jin10.com/detail/20260610060319000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3117016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国能源信息署预计2026年全球石油需求为1.029亿桶/日，低于之前预测的1.042亿桶/日；预计2027年需求为1.053亿桶/日（之前预测为1.056亿桶/日）。",
@@ -517,9 +642,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美国法官Richard Eaton要求总统特朗普的政府加速退还关税。",
+          "url": "https://wallstreetcn.com/livenews/3117047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "美国6月EIA次年短期前景美国原油产量预期 1415万桶/日，前值1410万桶/日。",
@@ -555,6 +691,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 Caisi被要求暂停披露关于AI模型评估的信息。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3117045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "美国6月EIA次年天然气产量预期 1136亿立方英尺/日，前值1150亿立方英尺/日。",
           "url": "https://flash.jin10.com/detail/20260610000818676800",
           "source": "金十数据",
@@ -566,6 +713,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美国众议院通过约700亿美元的移民执法拨款法案",
+          "url": "https://wallstreetcn.com/livenews/3117043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
           "url": "https://flash.jin10.com/detail/20260610012552407800",
           "source": "金十数据",
@@ -575,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国官员：此次对伊打击是警告 不会妨碍谈判",
+          "url": "https://flash.jin10.com/detail/20260610055910259800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "据Axios报道，伊朗无人机击中美国直升机，并导致后者坠落。 美方的调查尚未确定该事件是否是（伊朗）故意的。 标普跌幅收窄至不足1.5%，纳指跌超2.5%。",
@@ -594,7 +763,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -610,6 +779,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美国国防部：美国国防部长皮特·海格塞斯将于周三前往古巴关塔那摩湾的美国海军基地，与驻扎在那里的部队会面。",
+          "url": "https://flash.jin10.com/detail/20260610055551137800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.192%（4月7日为3.897%），投标倍数2.64（前次为2.54）。",
           "url": "https://wallstreetcn.com/livenews/3116965",
           "source": "华尔街见闻-快讯",
@@ -619,6 +799,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "西班牙毕尔巴鄂比斯开银行（BBVA）驻美国纽约策略师Alejandro Cuadrado在研究报告中写道：地缘政治的大背景依然充满了极高的不确定性。 目前全球宏观资金的核心焦点依然停留在全球风险资产溢价、美债收益率曲线上，尤其是本周三即将炸响的美国CPI核心通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3117037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
+          "url": "https://flash.jin10.com/detail/20260610055413211800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     }
