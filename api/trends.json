@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:13:52.635549+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:37:47.268503+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 73,
+      "match_count": 87,
       "titles": [
         {
           "title": "中国海事巡航期间发现疑似日本飞机",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
         },
         {
           "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
@@ -28,30 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
         },
         {
           "title": "外媒称美方请中国恢复对日本的稀土出口",
           "url": "https://news.ifeng.com/c/8tokPxm8mua",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
-        },
-        {
-          "title": "韩国议员窜访台湾，外交部表态",
-          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
-          "source": "凤凰网",
-          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
         },
         {
           "title": "日本多次跟监辽宁舰航母编队，国防部回应",
@@ -65,6 +56,42 @@
           "time_info": "[00时27分 ~ 05时42分]"
         },
         {
+          "title": "韩国议员窜访台湾，外交部表态",
+          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
+        },
+        {
+          "title": "伊朗战争最新动态丨美国和伊朗又动手了，情况如何？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "伊朗议员：军方对美国总统特朗普的威胁保持全面警惕。（MEHR）",
           "url": "https://wallstreetcn.com/livenews/3116991",
           "source": "华尔街见闻-快讯",
@@ -74,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "贝莱德亚太区负责人：预计亚洲ETF市场将实现“巨大增长”。 科技股抛售是创造超额收益（Alpha）的机会。 对日本私募市场有浓厚兴趣。 传统的60-40资产配置表现不佳。 在私人信贷中看到特有风险问题。 私人信贷违约率非常低。 在中国看到“巨大价值”和投资兴趣。 亚洲信贷市场蕴藏着“巨大机遇”。",
+          "url": "https://wallstreetcn.com/livenews/3117165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国能源信息署（EIA）：现预计2026年全球石油需求将出现下滑，这与此前预测的微幅增长形成反转。",
@@ -109,15 +147,37 @@
           "time_info": "05时42分"
         },
         {
+          "title": "俄罗斯一处弹药库剧烈爆炸，现场腾起蘑菇云(图)",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
+        },
+        {
           "title": "伊朗：已向地区内美国目标发射导弹和无人机",
           "url": "https://flash.jin10.com/detail/20260610064449762800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "报道：星巴克正考虑日本业务的各种选项，包括出售股权",
+          "url": "https://wallstreetcn.com/livenews/3117162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国能源信息署（EIA）：现预计经合组织石油库存将降至2003年以来的最低水平。",
@@ -148,7 +208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -164,15 +224,28 @@
           "time_info": "00时27分"
         },
         {
-          "title": "俄罗斯一处弹药库剧烈爆炸，现场腾起蘑菇云(图)",
-          "url": "https://v.ifeng.com/c/8tos3hBXZUh",
-          "source": "凤凰网",
+          "title": "伊朗伊斯兰革命卫队称击中该地区21个美国空中和海上目标。",
+          "url": "https://wallstreetcn.com/livenews/3117159",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时37分]"
         },
         {
           "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
@@ -187,18 +260,6 @@
           "time_info": "[00时27分 ~ 07时13分]"
         },
         {
-          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
-        },
-        {
           "title": "被美国国防部盯上 药明康德能做什么",
           "url": "https://www.toutiao.com/trending/7649328512267980331/",
           "source": "今日头条",
@@ -207,18 +268,6 @@
             14,
             12,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时13分]"
-        },
-        {
-          "title": "中国为什么要对日本断供钨",
-          "url": "https://www.toutiao.com/trending/7649080538980007955/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -279,7 +328,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -301,7 +350,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -334,7 +383,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -359,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "今晚美国CPI或破4%！交易员仓位释放信号：加息最快9月到来",
+          "url": "https://flash.jin10.com/detail/20260610101038258800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国能源信息署（EIA）：预计部分中东地区的石油产量中断状况将持续至2027年底，超出短期能源展望的预测范围。",
@@ -389,7 +449,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -438,6 +498,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，已准备好对任何进一步的美国攻击作出“毁灭性和决定性的”回应。",
+          "url": "https://flash.jin10.com/detail/20260610100540617800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.6%，投标倍数3.25。 拍卖52周期国债，得标利率3.750%，投标倍数3.34。",
           "url": "https://wallstreetcn.com/livenews/3116937",
           "source": "华尔街见闻-快讯",
@@ -471,6 +542,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，在对约旦的美国基地打击中使用了远程导弹。",
+          "url": "https://flash.jin10.com/detail/20260610100454662800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国能源部发出重磅警告：全球石油库存正加速滑向数十年历史低谷",
           "url": "https://wallstreetcn.com/livenews/3116978",
           "source": "华尔街见闻-快讯",
@@ -488,7 +570,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -521,7 +603,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -565,7 +647,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -581,15 +663,37 @@
           "time_info": "00时27分"
         },
         {
+          "title": "中方巡航期间两次发现疑似日本飞机",
+          "url": "https://www.toutiao.com/trending/7648980175791112218/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统",
           "url": "https://flash.jin10.com/detail/20260610060319000800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，对约旦的美国基地的打击目标包括F-35机库和指挥控制中心。",
+          "url": "https://flash.jin10.com/detail/20260610100339209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
@@ -609,7 +713,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -636,6 +740,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，对位于约旦的美国阿尔阿兹拉克基地四个目标进行打击。",
+          "url": "https://flash.jin10.com/detail/20260610100206477800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3117014",
           "source": "华尔街见闻-快讯",
@@ -653,7 +768,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -667,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "A股油服工程板块震荡回升，科力股份涨超9%，通源石油、惠博普、潜能恒信、中曼石油、贝肯能源等个股跟涨。伊朗媒体报道称，伊朗革命卫队对约旦的美国基地发起了导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260610100023664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
@@ -697,7 +823,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -719,9 +845,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美国专家盯上世界杯“下水道”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%93%E5%AE%B6%E7%9B%AF%E4%B8%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E4%B8%8B%E6%B0%B4%E9%81%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
@@ -741,7 +878,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -785,7 +922,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -807,9 +944,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "中国海事钓鱼岛附近喊话日本舰艇",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E9%92%93%E9%B1%BC%E5%B2%9B%E9%99%84%E8%BF%91%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E8%88%B0%E8%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
@@ -818,9 +966,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美国完成就阿帕奇直升机被击落事件对伊朗实施的打击",
+          "url": "https://wallstreetcn.com/livenews/3117113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
