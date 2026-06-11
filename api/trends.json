@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-12T05:14:32.541778+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-12T07:16:54.045159+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "美国五角大楼被封锁",
           "url": "https://www.douyin.com/hot/2531410",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
         },
         {
           "title": "美国国务院：批准向巴西出售FIM-92K“毒刺”导弹，估值3.3亿美元。",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -39,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3118442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美债收益率在特朗普取消对伊朗的打击后下跌，美国10年期国债收益率日内下跌4.7个基点，报4.493%，美国2年期国债收益率日内下跌2.7个基点，报4.1%。",
@@ -57,11 +69,12 @@
           "source": "微博",
           "ranks": [
             2,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
         },
         {
           "title": "美国五角大楼被封锁",
@@ -69,11 +82,94 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "不吃美国这套，韩国对美国电商处以创纪录罚款",
+          "url": "https://news.ifeng.com/c/8ts28pzQWY1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "轮奸犯踢世界杯 日本足协沉默",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "日本准备出手：明知赢不过中国，成本高也要搞",
+          "url": "https://news.ifeng.com/c/8tryMxnRSwv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "“这些稀土，美国从中国拿不到”",
+          "url": "https://news.ifeng.com/c/8treMcj9dUS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "外媒称日菲没想到中国大陆出手这么快",
+          "url": "https://www.toutiao.com/trending/7649308142942322724/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
+        },
+        {
+          "title": "博主：美国把世界杯办成“闭门宴”",
+          "url": "https://www.toutiao.com/trending/7650104347086294569/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时16分]"
         },
         {
           "title": "美国五角大楼发生「危险品事件」，部分区域被封锁，危险品处理小组介入处理，具体情况如何？",
@@ -88,95 +184,26 @@
           "time_info": "[02时08分 ~ 05时14分]"
         },
         {
-          "title": "不吃美国这套，韩国对美国电商处以创纪录罚款",
-          "url": "https://news.ifeng.com/c/8ts28pzQWY1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "轮奸犯踢世界杯 日本足协沉默",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "日本准备出手：明知赢不过中国，成本高也要搞",
-          "url": "https://news.ifeng.com/c/8tryMxnRSwv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "“这些稀土，美国从中国拿不到”",
-          "url": "https://news.ifeng.com/c/8treMcj9dUS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "外媒称日菲没想到中国大陆出手这么快",
-          "url": "https://www.toutiao.com/trending/7649308142942322724/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "博主：美国把世界杯办成“闭门宴”",
-          "url": "https://www.toutiao.com/trending/7650104347086294569/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
           "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
           "url": "https://flash.jin10.com/detail/20260612043722328800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
+          "url": "https://flash.jin10.com/detail/20260612064451567800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
@@ -196,7 +223,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -207,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -218,7 +245,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -240,7 +267,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -262,7 +289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -284,7 +311,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -317,7 +344,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -339,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -350,7 +377,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -372,7 +399,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -388,6 +415,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "SpaceX或被快速纳入指数遭美国参议员Warren质疑",
+          "url": "https://wallstreetcn.com/livenews/3118425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "伊朗警告美国或再陷战争泥潭",
           "url": "https://flash.jin10.com/detail/20260612012020218800",
           "source": "金十数据",
@@ -397,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "周五亚太盘初，美国股指期货微幅上涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3118424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国对古巴国家石油公司实施制裁",
@@ -416,7 +465,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -438,7 +487,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -471,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -482,7 +531,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -515,9 +564,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "加拿大总理卡尼：“推迟密歇根-安大略”大桥开放是美国的请求。 加拿大寻求与墨西哥达成双边（贸易）协议。",
+          "url": "https://wallstreetcn.com/livenews/3118413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "【特朗普称美伊协议进入最后定稿阶段，有望本周末签署】道指狂暴超1000点，涨幅扩大至2%，标普500指数涨1.9%，纳指涨2.5%，纳斯达克100指数涨3.3%，半导体指数涨7.8%。 据央视报道，6月11日，美国总统特朗普就伊朗问题表示“达成了极好的协议”，并称相关文件已进入最后定稿阶段，未来几天内有望最终敲定，并即将签署。他还表示，协议可能在欧洲签署，时间可能在本周末，美国副总统万斯将出席。特朗普称，一旦伊朗方面签署协议，霍尔木兹海峡就会开放。伊朗方面对此暂无回应。",
@@ -526,7 +586,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -540,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美国芝商所推出全天候交易的WTI原油与黄金合约",
+          "url": "https://wallstreetcn.com/livenews/3118411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     }
