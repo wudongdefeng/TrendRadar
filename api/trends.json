@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-11T08:10:44.356577+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-06-11T13:23:32.734945+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 77,
+      "match_count": 88,
       "titles": [
         {
           "title": "美国5月CPI同比4.2%创三年新高，核心CPI同比加速至2.9%，但环比涨幅低于预期",
           "url": "https://wallstreetcn.com/articles/3774348",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 13时23分]"
         },
         {
           "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
@@ -92,20 +93,6 @@
           "time_info": "[04时14分 ~ 08时10分]"
         },
         {
-          "title": "美国5月CPI同比上涨4.2%",
-          "url": "https://www.douyin.com/hot/2530093",
-          "source": "抖音",
-          "ranks": [
-            1,
-            5,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 08时10分]"
-        },
-        {
           "title": "索马里籍世界杯裁判被美国遣返",
           "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E9%A9%AC%E9%87%8C%E7%B1%8D%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94",
           "source": "bilibili 热搜",
@@ -114,7 +101,22 @@
             7,
             6,
             4,
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 13时23分]"
+        },
+        {
+          "title": "美国5月CPI同比上涨4.2%",
+          "url": "https://www.douyin.com/hot/2530093",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -141,11 +143,12 @@
             8,
             28,
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 13时23分]"
         },
         {
           "title": "国台办：和平统一后台湾将成繁荣之岛",
@@ -157,8 +160,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 13时23分]"
+        },
+        {
+          "title": "外媒称日菲没想到中国大陆出手这么快",
+          "url": "https://www.toutiao.com/trending/7649308142942322724/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时23分]"
         },
         {
           "title": "美国绕过英国“收购查戈斯群岛”，为了“不给中国送大礼”？",
@@ -184,17 +199,6 @@
           "time_info": "[01时53分 ~ 06时49分]"
         },
         {
-          "title": "外媒称日菲没想到中国大陆出手这么快",
-          "url": "https://www.toutiao.com/trending/7649308142942322724/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
           "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3117654",
           "source": "华尔街见闻-快讯",
@@ -212,7 +216,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -260,7 +264,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -271,9 +275,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
+          "url": "https://www.cls.cn/detail/2396641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国中央司令部：伊朗声称在霍尔木兹海峡袭击了一艘美国军舰，此为不实信息。",
@@ -282,7 +297,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -293,7 +308,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -304,7 +319,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -315,7 +330,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -344,13 +359,24 @@
           "time_info": "[04时14分 ~ 06时49分]"
         },
         {
+          "title": "美国CPI创三年新高，华尔街不慌，“新美联储通讯社”：这份报告什么都没解决",
+          "url": "https://wallstreetcn.com/articles/3774356",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普表示，这是世界历史上被违反得最严重的停火协议。",
           "url": "https://flash.jin10.com/detail/20260611073815655800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -383,7 +409,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -397,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "“再过5年，中国有望超过美国成为最大核能生产国”",
+          "url": "https://news.ifeng.com/c/8tquR5Q7Hd0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国国家飓风中心：卫星风数据显示，热带气旋“克里斯蒂娜”（Cristina）已减弱为热带低压。预计暴雨将持续影响中美洲部分地区，直至周四。",
@@ -427,7 +464,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -454,13 +491,24 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美国外交官被发现死在缅甸酒店，警方拘留一名泰国女子",
+          "url": "https://news.ifeng.com/c/8trq14hB87i",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "美国通知日本",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%9A%E7%9F%A5%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -498,6 +546,17 @@
           "time_info": "06时49分"
         },
         {
+          "title": "日本5年期国债收益率下降1.5个基点，至1.920%。",
+          "url": "https://flash.jin10.com/detail/20260611124212981800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "美国财长贝森特宣称：美国正在破坏支持伊朗的采购网络。 绝不容忍任何对伊朗军方的支持。",
           "url": "https://wallstreetcn.com/livenews/3117641",
           "source": "华尔街见闻-快讯",
@@ -509,13 +568,35 @@
           "time_info": "01时54分"
         },
         {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "日本40年期国债收益率上升3.0个基点，达到3.765%。",
+          "url": "https://flash.jin10.com/detail/20260611124208612800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普表示，如果伊朗拒绝签署协议，明晚我们将把他们炸个稀巴烂。",
           "url": "https://flash.jin10.com/detail/20260611073322329800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -542,6 +623,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "当地政府表示，俄罗斯阿菲普斯基炼油厂火灾已扑灭。",
+          "url": "https://flash.jin10.com/detail/20260611124015500800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "报道：美国打击伊朗南部防空系统和雷达",
           "url": "https://wallstreetcn.com/livenews/3117729",
           "source": "华尔街见闻-快讯",
@@ -559,7 +651,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -570,7 +662,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -592,9 +684,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "据塔斯社援引俄罗斯国防部消息称，俄罗斯在夜间击落了330架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260611123204974800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国5月CPI通胀报告要点总结",
@@ -614,7 +717,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -658,7 +761,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -669,7 +772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -680,7 +783,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -691,7 +794,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -705,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "美国务院提醒在约旦公民“就地躲避”袭击",
+          "url": "https://wallstreetcn.com/livenews/3117905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国已经开始袭击伊朗。（Axios）",
@@ -746,7 +860,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -812,7 +926,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -834,7 +948,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -881,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗称美国试图让霍尔木兹海峡不安全",
+          "url": "https://wallstreetcn.com/livenews/3117888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
