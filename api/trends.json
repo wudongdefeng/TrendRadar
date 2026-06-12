@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T19:37:40.702826+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-06-12T22:38:35.263504+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 86,
+      "match_count": 113,
       "titles": [
         {
           "title": "美国五角大楼被封锁",
@@ -20,6 +20,17 @@
           "time_info": "[02时08分 ~ 07时16分]"
         },
         {
+          "title": "民调显示：欧洲对美国信任崩塌",
+          "url": "https://news.ifeng.com/c/8tt66wlKzvU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 22时38分]"
+        },
+        {
           "title": "美国国务院：批准向巴西出售FIM-92K“毒刺”导弹，估值3.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260612050557988800",
           "source": "金十数据",
@@ -31,26 +42,48 @@
           "time_info": "05时14分"
         },
         {
+          "title": "古巴总统：美国制裁旨在加紧石油封锁。",
+          "url": "https://flash.jin10.com/detail/20260612222827154800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：美国汽车价格已经大幅上涨。 对墨西哥汽车下调关税符合美国的利益。",
+          "url": "https://wallstreetcn.com/livenews/3118953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "纳斯达克：SpaceX IPO将于美国东部时间上午10点（北京时间22:00）可开始交易。",
           "url": "https://flash.jin10.com/detail/20260612190556076800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
         {
-          "title": "民调显示：欧洲对美国信任崩塌",
-          "url": "https://news.ifeng.com/c/8tt66wlKzvU",
-          "source": "凤凰网",
+          "title": "美国密歇根大学消费者信心指数调查负责人Joanne Hsu：尽管消费者获得了些许喘息空间，但高企的汽油价格仍是他们关注的焦点。 当前汽油价格水平对消费者而言总体上仍难以接受，并持续拖累他们对经济的看法。",
+          "url": "https://wallstreetcn.com/livenews/3118952",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "22时38分"
         },
         {
           "title": "日本政府正准备挑选船舶部署到霍尔木兹海峡，以响应美国和伊朗达成停火协议。 日本政府正在权衡多种方案，包括参与多边行动和提供扫雷作业设备。 部署的前提是该区域的安全得到全面保障。（路透）",
@@ -62,6 +95,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "美国消费者信心四个月来首次回升，油价回落带来提振",
+          "url": "https://wallstreetcn.com/livenews/3118951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "日本车企被困在电动化孤岛",
+          "url": "https://www.toutiao.com/trending/7650457146483736582/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国能源部长赖特：美国不会为抑制油价而实施石油出口禁令。",
+          "url": "https://flash.jin10.com/detail/20260612222732339800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
@@ -95,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美国能源部长Wright：每天有大约700万桶石油从波斯湾外流。 这700万桶包含原油与精炼产品。 无论伊朗是否提供帮助，都将恢复霍尔木兹海峡的航运秩序。 美国不会为了抑制价格而实施石油出口禁令。",
+          "url": "https://wallstreetcn.com/livenews/3118949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国五角大楼被封锁",
@@ -158,6 +235,19 @@
           "time_info": "[10时43分 ~ 19时37分]"
         },
         {
+          "title": "日本炸鸡店一锅油用了66年",
+          "url": "https://www.toutiao.com/trending/7650041794684043307/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 22时38分]"
+        },
+        {
           "title": "轮奸犯踢世界杯 日本足协沉默",
           "url": "https://www.baidu.com/s?wd=%E8%BD%AE%E5%A5%B8%E7%8A%AF%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF+%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -216,6 +306,32 @@
           "time_info": "[02时08分 ~ 07时16分]"
         },
         {
+          "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33361470",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 22时38分]"
+        },
+        {
+          "title": "美国五角大楼被封锁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 22时38分]"
+        },
+        {
           "title": "博主：美国把世界杯办成“闭门宴”",
           "url": "https://www.toutiao.com/trending/7650104347086294569/",
           "source": "今日头条",
@@ -241,18 +357,6 @@
           "time_info": "[02时08分 ~ 05时14分]"
         },
         {
-          "title": "日本炸鸡店一锅油用了66年",
-          "url": "https://www.toutiao.com/trending/7650041794684043307/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 19时37分]"
-        },
-        {
           "title": "美国防部更名“战争部”写入法案，共和党全力推动",
           "url": "https://news.ifeng.com/c/8ttGW6Hx87J",
           "source": "凤凰网",
@@ -265,28 +369,50 @@
           "time_info": "[10时43分 ~ 15时15分]"
         },
         {
-          "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33361470",
-          "source": "澎湃新闻",
+          "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
+          "url": "https://news.ifeng.com/c/8ttlOWIERy5",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            13
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时15分 ~ 19时37分]"
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
-          "title": "美国五角大楼被封锁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
-          "source": "bilibili 热搜",
+          "title": "日本男足队长宣布退役",
+          "url": "https://www.douyin.com/hot/2531450",
+          "source": "抖音",
           "ranks": [
-            28,
-            30
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 15时15分]"
+          "time_info": "[19时37分 ~ 22时38分]"
+        },
+        {
+          "title": "据CNN援引国防官员消息称，美国昨晚击落两架伊朗攻击无人机。",
+          "url": "https://flash.jin10.com/detail/20260612222544313800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：美国汽车价格大幅上涨。降低对墨西哥汽车的关税符合美国利益。",
+          "url": "https://flash.jin10.com/detail/20260612222436916800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
@@ -300,13 +426,35 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国消费者的信心因汽油价格回落而回温",
+          "url": "https://flash.jin10.com/detail/20260612222404751800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国vs巴拉圭前瞻解读",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%89%8D%E7%9E%BB%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "“罕见”！外媒：印度三天内两次召见美国外交官，抗议美军袭击载有印度船员商船",
           "url": "https://wallstreetcn.com/livenews/3118841",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -320,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国能源部长赖特：如果达成协议，对伊朗的制裁可能会部分解除。",
+          "url": "https://flash.jin10.com/detail/20260612222115470800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
@@ -350,9 +509,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "俄罗斯总统普京：乌克兰军队的攻击正在损害俄罗斯经济，但经济恢复速度很快。",
+          "url": "https://flash.jin10.com/detail/20260612222102019800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）",
@@ -388,17 +558,6 @@
           "time_info": "15时15分"
         },
         {
-          "title": "日媒：中国发起“氢能攻势”，日本已落入下风",
-          "url": "https://news.ifeng.com/c/8ttlOWIERy5",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "美国至6月5日当周外国央行持有美国国债 -135.55亿美元，前值-326.86亿美元。",
           "url": "https://flash.jin10.com/detail/20260612043036152800",
           "source": "金十数据",
@@ -419,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国6月密歇根大学5年通胀预期初值 3.4，预期 3.9，前值 3.9。",
+          "url": "https://wallstreetcn.com/livenews/3118942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：协议签署的时间和地点将很快公布。",
@@ -443,15 +613,26 @@
           "time_info": "05时14分"
         },
         {
-          "title": "日本男足队长宣布退役",
-          "url": "https://www.douyin.com/hot/2531450",
-          "source": "抖音",
+          "title": "美国能源部长赖特：如果没有和平协议，美军将恢复通过海峡的石油产品运输。",
+          "url": "https://flash.jin10.com/detail/20260612222009815800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国6月密歇根大学消费者预期指数初值 49.3，预期 44.7，前值 44.1。",
+          "url": "https://wallstreetcn.com/livenews/3118941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：海上封锁将保持全面有效，直至协议完成。",
@@ -476,6 +657,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国能源部长赖特：霍尔木兹海峡没有伊朗原油流出。",
+          "url": "https://flash.jin10.com/detail/20260612221804634800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "伊朗警告美国或再陷战争泥潭",
           "url": "https://wallstreetcn.com/livenews/3118337",
           "source": "华尔街见闻-快讯",
@@ -496,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国6月密歇根大学1年通胀预期初值 4.6，预期 4.9，前值 4.8。",
+          "url": "https://wallstreetcn.com/livenews/3118940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：我已取消今晚对伊朗计划中的打击和轰炸。",
@@ -520,15 +723,48 @@
           "time_info": "10时43分"
         },
         {
+          "title": "美国能源部长赖特：上述说的700万桶既包括原油也包括成品油。",
+          "url": "https://flash.jin10.com/detail/20260612221719066800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国6月密歇根大学消费者现况指数初值 48.4，预期 46，前值 45.8。",
+          "url": "https://wallstreetcn.com/livenews/3118939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据与美国的谅解备忘录，伊朗对霍尔木兹海峡管理权的转让没有作出任何承诺。",
           "url": "https://flash.jin10.com/detail/20260612183516547800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "美国能源部长赖特：每天有700万桶石油离开波斯湾。",
+          "url": "https://flash.jin10.com/detail/20260612221632840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国家庭净资产一季度增幅为一年来最小",
@@ -553,13 +789,24 @@
           "time_info": "15时15分"
         },
         {
+          "title": "美国6月密歇根大学消费者信心指数初值 48.9，预期 46，前值 44.8。",
+          "url": "https://wallstreetcn.com/livenews/3118938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "日本向“台独”释放危险信号",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E9%87%8A%E6%94%BE%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -573,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "据休斯敦纪事报：美国财长贝森特今日访问休斯敦。",
+          "url": "https://flash.jin10.com/detail/20260612221620158800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国财政部网站显示，美国对古巴国家石油公司实施制裁。（央视）",
@@ -595,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国官员：根据协议，伊朗核计划将被拆毁。 伊朗只有履行承诺才能拿到钱。 根据协议，霍尔木兹海峡将开放。",
+          "url": "https://wallstreetcn.com/livenews/3118936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
@@ -636,7 +905,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -661,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯并未发动战争。",
+          "url": "https://flash.jin10.com/detail/20260612221015664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
@@ -812,9 +1092,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "美国航空将自11月1日起恢复飞往海地的航班。",
+          "url": "https://flash.jin10.com/detail/20260612220422357800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "台湾证交所加权股价指数盘初上涨3.1%至44,491.27点。",
@@ -837,6 +1128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美国航空将增加迈阿密至委内瑞拉马拉开波的航班。",
+          "url": "https://flash.jin10.com/detail/20260612220415823800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "日本恢复核污染水排海作业",
@@ -933,7 +1235,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -969,6 +1271,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2027款奇瑞星途ES开启预售，18.99万元起",
+          "url": "https://wallstreetcn.com/livenews/3118945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     }
