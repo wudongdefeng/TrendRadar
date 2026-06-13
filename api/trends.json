@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T14:52:13.838064+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-13T17:52:52.144239+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 144,
+      "match_count": 153,
       "titles": [
         {
           "title": "民调显示：欧洲对美国信任崩塌",
@@ -19,17 +19,6 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
-          "title": "美加墨世界杯美国开幕式",
-          "url": "https://www.douyin.com/hot/2532678",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 14时52分]"
-        },
-        {
           "title": "美国五角大楼被封锁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
           "source": "bilibili 热搜",
@@ -38,11 +27,12 @@
             20,
             19,
             28,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 14时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 17时52分]"
         },
         {
           "title": "开门红!美国4-1大胜巴拉圭",
@@ -52,8 +42,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "美国4-1巴拉圭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4-1%E5%B7%B4%E6%8B%89%E5%9C%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "美加墨世界杯美国开幕式",
+          "url": "https://www.douyin.com/hot/2532678",
+          "source": "抖音",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 17时52分]"
         },
         {
           "title": "世界杯美国vs巴拉圭",
@@ -67,17 +80,6 @@
           "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "美国4:1巴拉圭",
-          "url": "https://www.douyin.com/hot/2532660",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
           "url": "https://flash.jin10.com/detail/20260613041905027800",
           "source": "金十数据",
@@ -87,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时09分]"
-        },
-        {
-          "title": "美国4-1巴拉圭",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4-1%E5%B7%B4%E6%8B%89%E5%9C%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
@@ -155,17 +146,6 @@
           "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "水均益称美国举办的世界杯是战争杯",
-          "url": "https://www.toutiao.com/trending/7649555910590939182/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "日本炸鸡店一锅油反复用66年",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E5%BA%97%E4%B8%80%E9%94%85%E6%B2%B9%E5%8F%8D%E5%A4%8D%E7%94%A866%E5%B9%B4",
           "source": "百度热搜",
@@ -175,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "李立群吐槽台湾看不到世界杯",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%90%90%E6%A7%BD%E5%8F%B0%E6%B9%BE%E7%9C%8B%E4%B8%8D%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国政府高级官员：伊朗承诺永不发展核武器。",
@@ -243,6 +234,29 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美国4:1巴拉圭",
+          "url": "https://www.douyin.com/hot/2532660",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
+          "url": "https://www.zhihu.com/question/2048692040377033581",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
           "url": "https://flash.jin10.com/detail/20260613012606092800",
           "source": "金十数据",
@@ -260,7 +274,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -274,17 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "古巴确定系列举措应对美国极限施压",
-          "url": "https://wallstreetcn.com/livenews/3119125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "美国vs巴拉圭前瞻解读",
@@ -342,15 +345,16 @@
           "time_info": "03时56分"
         },
         {
-          "title": "美国将大幅减少驻欧洲战机数量",
-          "url": "https://wallstreetcn.com/livenews/3119124",
-          "source": "华尔街见闻-快讯",
+          "title": "水均益称美国举办的世界杯是战争杯",
+          "url": "https://www.toutiao.com/trending/7649555910590939182/",
+          "source": "今日头条",
           "ranks": [
-            4
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
         },
         {
           "title": "美国政府高级官员：根据协议，美方将取得伊朗浓缩核材料。",
@@ -386,6 +390,30 @@
           "time_info": "03时56分"
         },
         {
+          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "现场观战美国队揭幕战",
+          "url": "https://www.douyin.com/hot/2532870",
+          "source": "抖音",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
           "title": "日本炸鸡店一锅油用了66年",
           "url": "https://www.toutiao.com/trending/7650041794684043307/",
           "source": "今日头条",
@@ -397,6 +425,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "Lisa世界杯美国开幕式表演",
+          "url": "https://www.baidu.com/s?wd=Lisa%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 17时52分]"
         },
         {
           "title": "专访｜中国美国商会会长眼中的中美关系新变化：回归正常与稳定预期",
@@ -422,6 +463,31 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
+          "title": "美国公布涉UFO新档案，照片曝光",
+          "url": "https://news.ifeng.com/c/8tuOxMBY7aa",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 17时52分]"
+        },
+        {
+          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 17时52分]"
+        },
+        {
           "title": "美国正开发「两倍做多中际旭创」杠杆产品，预计 2 个月后上市，未来或配对应做空杠杆么，你怎么看？",
           "url": "https://www.zhihu.com/question/2048753376565973819",
           "source": "知乎",
@@ -444,6 +510,19 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
+          "title": "美国资管巨头申报多个中国股票杠杆ETF，包括中际旭创、新易盛、天孚通信等",
+          "url": "https://wallstreetcn.com/livenews/3119116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 17时52分]"
+        },
+        {
           "title": "华尔街对历史性的SpaceX美国IPO给出出极端两极分化的看法",
           "url": "https://wallstreetcn.com/livenews/3119101",
           "source": "华尔街见闻-快讯",
@@ -463,18 +542,6 @@
           "ranks": [
             1,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 14时52分]"
-        },
-        {
-          "title": "美国资管巨头申报多个中国股票杠杆ETF，包括中际旭创、新易盛、天孚通信等",
-          "url": "https://wallstreetcn.com/livenews/3119116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -518,39 +585,28 @@
           "time_info": "[03时56分 ~ 05时26分]"
         },
         {
-          "title": "Lisa世界杯美国开幕式表演",
-          "url": "https://www.baidu.com/s?wd=Lisa%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94",
-          "source": "百度热搜",
+          "title": "古巴确定系列举措应对美国极限施压",
+          "url": "https://wallstreetcn.com/livenews/3119125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 14时52分]"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时52分]"
         },
         {
-          "title": "美国公布涉UFO新档案，照片曝光",
-          "url": "https://news.ifeng.com/c/8tuOxMBY7aa",
-          "source": "凤凰网",
+          "title": "美国将大幅减少驻欧洲战机数量",
+          "url": "https://wallstreetcn.com/livenews/3119124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 14时52分]"
-        },
-        {
-          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 14时52分]"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时52分]"
         },
         {
           "title": "SpaceX跻身美国第六大上市公司",
@@ -565,6 +621,65 @@
           "time_info": "[10时35分 ~ 14时52分]"
         },
         {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
+          "url": "https://wallstreetcn.com/livenews/3119111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 17时52分]"
+        },
+        {
+          "title": "《宝可梦 GO》被荷兰媒体《Trouw》曝光成为美国军方数据供应商，训练无人机导航系统，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2048117055455499743",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "日本不高兴了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "美国女市长性侵16岁男孩被判90天监禁",
+          "url": "https://www.toutiao.com/trending/7650696109162135598/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
           "title": "媒体陪看世界杯：美国VS巴拉圭",
           "url": "https://www.toutiao.com/trending/7650028368347496489/",
           "source": "今日头条",
@@ -574,17 +689,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "东道主美国首秀vs巴拉圭",
@@ -619,18 +723,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 05时26分]"
-        },
-        {
-          "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
-          "url": "https://wallstreetcn.com/livenews/3119111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 14时52分]"
         },
         {
           "title": "美国世界杯开幕式",
@@ -750,17 +842,6 @@
           "time_info": "[10时36分 ~ 14时52分]"
         },
         {
-          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "葡萄牙队抵达美国",
           "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -831,17 +912,6 @@
           "time_info": "[10时36分 ~ 14时52分]"
         },
         {
-          "title": "现场观战美国队揭幕战",
-          "url": "https://www.douyin.com/hot/2532870",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "2026 年世界杯小组赛 D 组，美国 vs 巴拉圭，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2048794235315250277",
           "source": "知乎",
@@ -851,17 +921,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "《宝可梦 GO》被荷兰媒体《Trouw》曝光成为美国军方数据供应商，训练无人机导航系统，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2048117055455499743",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "锐评美国横扫巴拉圭",
@@ -898,17 +957,6 @@
           "time_info": "[10时36分 ~ 14时52分]"
         },
         {
-          "title": "美国女市长性侵16岁男孩被判90天监禁",
-          "url": "https://www.toutiao.com/trending/7650696109162135598/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "日本男足队长宣布退役",
           "url": "https://www.douyin.com/hot/2531450",
           "source": "抖音",
@@ -923,17 +971,6 @@
           "title": "美国4-1巴拉圭迎开门红",
           "url": "https://www.toutiao.com/trending/7650534513700851206/",
           "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
-          "title": "日本不高兴了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
           "ranks": [
             25
           ],
@@ -1063,6 +1100,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "英格兰队大量训练装备在美国被盗，凯恩、贝林厄姆等人球鞋失踪，为啥会出现这种情况？对球队备战影响有多大？",
+          "url": "https://www.zhihu.com/question/2049101471308669244",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "美国政府高级官员：以色列方面在看到协议的完整条款后将对此感到满意。",
           "url": "https://flash.jin10.com/detail/20260613012240364800",
           "source": "金十数据",
@@ -1146,7 +1194,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1193,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美国消费者信心从历史低位反弹 汽油价格回落带来喘息空间",
+          "url": "https://www.cls.cn/detail/2398882",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国政府高级官员：地区和平协议内容广泛。",
@@ -1245,9 +1304,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "台湾统派郑建炘：盼两岸早日统一",
+          "url": "https://www.toutiao.com/trending/7649910932835467305/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗是与美国战争的赢家。伊朗在与美国的战争后变得更强大。",
@@ -1393,6 +1463,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "日本频频尾随偷窥辽宁舰",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "美国政府高级官员：伊朗人表现越好，他们能获得的就越多。",
           "url": "https://flash.jin10.com/detail/20260613011338145800",
           "source": "金十数据",
@@ -1465,7 +1546,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1503,6 +1584,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "市场消息：伊朗司法总监称，德黑兰与美国及其盟友的对抗不会结束，并借12天战争周年纪念之际警告人们不要信任华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260613163628836800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3118990",
           "source": "华尔街见闻-快讯",
@@ -1512,6 +1604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国禁止外国主体访问Fable 5",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%A4%96%E5%9B%BD%E4%B8%BB%E4%BD%93%E8%AE%BF%E9%97%AEFable%205",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国政府高级官员：美伊协议有80%至85%的概率能够签署。",
@@ -1567,6 +1670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "水均益：美国举办的世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "人类历史上最大规模IPO来了：SpaceX美国IPO首日开盘上涨11%，报150美元，此前给出的IPO发行价为每股135美元。 据报道，此次IPO融资规模750亿美元，吸引逾3500亿美元认购需求，近三分之一机构未获配。",
