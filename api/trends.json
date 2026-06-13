@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:49:07.561418+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-06-13T21:29:49.585186+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 166,
+      "match_count": 171,
       "titles": [
         {
           "title": "美国五角大楼被封锁",
@@ -21,8 +21,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时32分 ~ 19时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时32分 ~ 21时29分]"
         },
         {
           "title": "美国4-1巴拉圭",
@@ -47,6 +47,20 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
+          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 21时29分]"
+        },
+        {
           "title": "美加墨世界杯美国开幕式",
           "url": "https://www.douyin.com/hot/2532678",
           "source": "抖音",
@@ -56,21 +70,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 19时49分]"
-        },
-        {
-          "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372840",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 21时29分]"
         },
         {
           "title": "开门红!美国4-1大胜巴拉圭",
@@ -81,20 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时49分]"
-        },
-        {
-          "title": "美国4:1巴拉圭",
-          "url": "https://www.douyin.com/hot/2532660",
-          "source": "抖音",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 21时29分]"
         },
         {
           "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
@@ -105,8 +94,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时29分]"
+        },
+        {
+          "title": "美国4:1巴拉圭",
+          "url": "https://www.douyin.com/hot/2532660",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 21时29分]"
+        },
+        {
+          "title": "日本炸鸡秘方:一锅油用66年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时49分]"
+          "time_info": "[19时48分 ~ 21时29分]"
         },
         {
           "title": "世界杯美国vs巴拉圭",
@@ -189,6 +202,30 @@
           "time_info": "[05时26分 ~ 07时09分]"
         },
         {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 21时29分]"
+        },
+        {
+          "title": "英格兰队大量训练装备在美国被盗，凯恩、贝林厄姆等人球鞋失踪，为啥会出现这种情况？对球队备战影响有多大？",
+          "url": "https://www.zhihu.com/question/2049101471308669244",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时29分]"
+        },
+        {
           "title": "印度召见美国临时代办，抗议油轮遇袭",
           "url": "https://news.ifeng.com/c/8tul02juYVJ",
           "source": "凤凰网",
@@ -213,6 +250,18 @@
           "time_info": "[14时51分 ~ 19时49分]"
         },
         {
+          "title": "水均益：美国举办的世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时29分]"
+        },
+        {
           "title": "日本炸鸡店一锅油反复用66年",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E5%BA%97%E4%B8%80%E9%94%85%E6%B2%B9%E5%8F%8D%E5%A4%8D%E7%94%A866%E5%B9%B4",
           "source": "百度热搜",
@@ -222,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "日本炸鸡秘方:一锅油用66年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
         },
         {
           "title": "李立群吐槽台湾看不到世界杯",
@@ -279,6 +317,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国女市长性侵16岁男孩被判90天监禁",
+          "url": "https://www.toutiao.com/trending/7650696109162135598/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 21时29分]"
+        },
+        {
           "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
           "url": "https://flash.jin10.com/detail/20260613012727715800",
           "source": "金十数据",
@@ -312,15 +361,15 @@
           "time_info": "01时33分"
         },
         {
-          "title": "伊朗司法总监：绝不信任美国",
-          "url": "https://wallstreetcn.com/livenews/3119149",
+          "title": "美国原油交割中心库存告急",
+          "url": "https://wallstreetcn.com/livenews/3119161",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "21时29分"
         },
         {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
@@ -356,29 +405,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "日本核污染水排海再次因异常警报停止",
-          "url": "https://wallstreetcn.com/livenews/3119148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时49分]"
-        },
-        {
           "title": "美国vs巴拉圭前瞻解读",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%89%8D%E7%9E%BB%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -388,18 +414,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 07时09分]"
-        },
-        {
-          "title": "英格兰队大量训练装备在美国被盗，凯恩、贝林厄姆等人球鞋失踪，为啥会出现这种情况？对球队备战影响有多大？",
-          "url": "https://www.zhihu.com/question/2049101471308669244",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时49分]"
         },
         {
           "title": "美国政府高级官员：这项协议是确保伊朗无法获得核武器的重要第一步。",
@@ -444,18 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "水均益：美国举办的世界杯是战争杯",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时49分]"
         },
         {
           "title": "水均益称美国举办的世界杯是战争杯",
@@ -588,17 +590,6 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
-          "title": "美国女市长性侵16岁男孩被判90天监禁",
-          "url": "https://www.toutiao.com/trending/7650696109162135598/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时49分]"
-        },
-        {
           "title": "世界杯美国vs巴拉圭前瞻",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%89%8D%E7%9E%BB",
           "source": "百度热搜",
@@ -699,6 +690,18 @@
           "time_info": "[03时56分 ~ 05时26分]"
         },
         {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时29分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月9日当周，投机者所持COMEX黄金净多头头寸减少7,681手合约，至103,660手合约。 所持COMEX白银净多头头寸降低至9,794手合约，创七周新低。 所持COMEX铜净多头头寸减少至71,127手合约，创五周新低。 所持NYMEX铂金净多头头寸减少至8,377手合约，创三个月新低。 所持NYMEX钯金净空头头寸增至4,520手合约，创八个月新高。",
           "url": "https://wallstreetcn.com/livenews/3119058",
           "source": "华尔街见闻-快讯",
@@ -709,6 +712,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 05时26分]"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时29分]"
         },
         {
           "title": "SpaceX跻身美国第六大上市公司",
@@ -736,6 +751,18 @@
           "time_info": "[10时36分 ~ 17时52分]"
         },
         {
+          "title": "C罗率队抵达美国开启世界杯征程",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%8E%87%E9%98%9F%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 21时29分]"
+        },
+        {
           "title": "日本不高兴了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -746,6 +773,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "日本频频尾随偷窥辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 21时29分]"
         },
         {
           "title": "媒体陪看世界杯：美国VS巴拉圭",
@@ -836,6 +874,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://flash.jin10.com/detail/20260613191057762800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
@@ -980,17 +1030,6 @@
           "time_info": "[10时36分 ~ 14时52分]"
         },
         {
-          "title": "C罗率队抵达美国开启世界杯征程",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%8E%87%E9%98%9F%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%81%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
-        },
-        {
           "title": "2026 年世界杯小组赛 D 组，美国 vs 巴拉圭，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2048794235315250277",
           "source": "知乎",
@@ -1045,17 +1084,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 14时52分]"
-        },
-        {
-          "title": "日本频频尾随偷窥辽宁舰",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E9%A2%91%E5%B0%BE%E9%9A%8F%E5%81%B7%E7%AA%A5%E8%BE%BD%E5%AE%81%E8%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
         },
         {
           "title": "日本男足队长宣布退役",
@@ -1190,17 +1218,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "伊朗司法总监：绝不信任美国",
-          "url": "https://flash.jin10.com/detail/20260613191057762800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
@@ -1245,6 +1262,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "美国基建建设难在哪里",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%BB%BA%E8%AE%BE%E9%9A%BE%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国政府高级官员：双方之间存在着严重的互不信任。",
           "url": "https://flash.jin10.com/detail/20260613012111682800",
           "source": "金十数据",
@@ -1273,7 +1301,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1295,7 +1323,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1443,6 +1471,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "普京宣布俄罗斯版「星链」要来了，称技术性能不逊于美国星链，在某些方面更胜一筹，俄版星链性能究竟如何？",
+          "url": "https://www.zhihu.com/question/2049121142619599290",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：伊朗是与美国战争的赢家。伊朗在与美国的战争后变得更强大。",
           "url": "https://flash.jin10.com/detail/20260613031131836800",
           "source": "金十数据",
@@ -1498,6 +1537,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "日本流行音乐 (J-POP) 有何特点？",
+          "url": "https://www.zhihu.com/question/22534249",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国得克萨斯州发生枪击事件，至少一人死亡",
           "url": "https://wallstreetcn.com/livenews/3118999",
           "source": "华尔街见闻-快讯",
@@ -1548,7 +1598,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1606,6 +1656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "美国女市长性侵16岁男孩被判90天监禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%B8%82%E9%95%BF%E6%80%A7%E4%BE%B516%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%88%A490%E5%A4%A9%E7%9B%91%E7%A6%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美国政府高级官员：伊朗人表现越好，他们能获得的就越多。",
@@ -1691,7 +1752,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1746,7 +1807,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1801,7 +1862,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
