@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T12:23:51.334274+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-06-14T16:38:40.274318+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
         {
           "title": "意想不到！美国主导比赛，巴拉圭疲于奔命，美国4比1大胜",
@@ -51,11 +51,12 @@
           "url": "https://news.ifeng.com/c/8tvGP2lQey4",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 16时38分]"
         },
         {
           "title": "日本炸鸡秘方:一锅油用66年",
@@ -64,11 +65,27 @@
           "ranks": [
             6,
             7,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 16时38分]"
+        },
+        {
+          "title": "开门红!美国4-1大胜巴拉圭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355127&amp;topic_name=%E5%BC%80%E9%97%A8%E7%BA%A2%21%E7%BE%8E%E5%9B%BD4-1%E5%A4%A7%E8%83%9C%E5%B7%B4%E6%8B%89%E5%9C%AD",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            9,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 16时38分]"
         },
         {
           "title": "美国女市长性侵16岁男孩被判90天监禁",
@@ -85,20 +102,6 @@
           "time_info": "[01时14分 ~ 08时01分]"
         },
         {
-          "title": "开门红!美国4-1大胜巴拉圭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355127&amp;topic_name=%E5%BC%80%E9%97%A8%E7%BA%A2%21%E7%BE%8E%E5%9B%BD4-1%E5%A4%A7%E8%83%9C%E5%B7%B4%E6%8B%89%E5%9C%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 12时23分]"
-        },
-        {
           "title": "美国原油交割中心库存告急",
           "url": "https://wallstreetcn.com/livenews/3119161",
           "source": "华尔街见闻-快讯",
@@ -109,6 +112,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 12时23分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：六个俄罗斯机场实施了空中交通限制，自昨晚以来，俄罗斯28个地区处于空袭警报状态。",
+          "url": "https://flash.jin10.com/detail/20260614160148422800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
@@ -147,6 +161,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 12时23分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌军在俄罗斯图拉地区达成了目标——特别是阿佐特工厂，其运营对炸药生产能力至关重要。",
+          "url": "https://flash.jin10.com/detail/20260614160120478800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "压力给到了日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%86%E6%97%A5%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在距离乌克兰国境超过700公里的俄罗斯雅罗斯拉夫尔地区，乌军袭击了一个对俄罗斯储备至关重要的石油设施。",
+          "url": "https://flash.jin10.com/detail/20260614160059427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "水均益：美国举办的世界杯是战争杯",
@@ -346,6 +393,18 @@
           "time_info": "[01时14分 ~ 08时01分]"
         },
         {
+          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
+          "url": "https://wallstreetcn.com/articles/3774576",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 16时38分]"
+        },
+        {
           "title": "美国总统特朗普就伊朗问题表示：我们与伊朗的关系比前任政府时期更加不同、更加良好。",
           "url": "https://flash.jin10.com/detail/20260614005039363800",
           "source": "金十数据",
@@ -418,15 +477,48 @@
           "time_info": "[05时04分 ~ 06时56分]"
         },
         {
-          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
-          "url": "https://wallstreetcn.com/articles/3774576",
-          "source": "华尔街见闻",
+          "title": "乌克兰总统泽连斯基：乌军在对俄罗斯境内及乌克兰暂时被占领土的重要设施实施远程制裁方面取得了良好成果。",
+          "url": "https://flash.jin10.com/detail/20260614155946662800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "荷兰vs日本前瞻",
+          "url": "https://www.douyin.com/hot/2533915",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "日媒：日本要去格陵兰岛勘察稀土",
+          "url": "https://www.toutiao.com/trending/7650419737742278702/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "16时38分"
+        },
+        {
+          "title": "美国公布最新UFO文件：士兵目击土豆状漂浮物，2分钟后突然消失",
+          "url": "https://news.ifeng.com/c/8tx3RWxKc9D",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -435,7 +527,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -446,9 +538,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：消息人士称，德黑兰方面就与美国达成的框架协议的最终决定仍在审议中。",
+          "url": "https://flash.jin10.com/detail/20260614154026354800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "据福克斯新闻：美国政府一位高级官员表示，相信已达成一项极为出色且强有力的协议。",
@@ -457,7 +560,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -490,7 +593,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -506,13 +609,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "地区州长表示，俄罗斯雅罗斯拉夫州遭到大规模乌克兰无人机袭击，工业燃料储存设施被击中。",
+          "url": "https://flash.jin10.com/detail/20260614150049336800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "日本央行为何救不了日元",
           "url": "https://www.toutiao.com/trending/7651049731136687670/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -523,7 +637,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -537,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "英国和日本计划签署180亿英镑清洁能源投资协议",
+          "url": "https://flash.jin10.com/detail/20260614135344492800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "日本涉性侵球员踢世界杯引争议",
@@ -578,7 +703,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -589,7 +714,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
