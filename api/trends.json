@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-19T07:45:10.535450+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-06-19T11:31:33.263417+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 73,
+      "match_count": 89,
       "titles": [
+        {
+          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
+          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 11时31分]"
+        },
         {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
           "url": "https://www.cls.cn/detail/2403606",
@@ -26,17 +37,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时45分]"
-        },
-        {
-          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
-          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -71,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -126,7 +126,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -159,7 +159,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3121964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
@@ -200,6 +211,18 @@
           "time_info": "[01时02分 ~ 03时27分]"
         },
         {
+          "title": "日本女护士杀人解压",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 11时31分]"
+        },
+        {
           "title": "日本焚烧炉中炼出7000多克黄金",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%84%9A%E7%83%A7%E7%82%89%E4%B8%AD%E7%82%BC%E5%87%BA7000%E5%A4%9A%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -222,6 +245,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 06时02分]"
+        },
+        {
+          "title": "高市插不上话只能尬笑，日本发G7领导人热聊照被打脸",
+          "url": "https://news.ifeng.com/c/8u4IhcXt301",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "日本焚烧炉中炼出7000多克黄金",
@@ -247,6 +281,17 @@
           "time_info": "[06时02分 ~ 07时45分]"
         },
         {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "日本焚烧炉中炼出7000多克黄金",
           "url": "https://www.toutiao.com/trending/7652597493637283894/",
           "source": "今日头条",
@@ -270,15 +315,15 @@
           "time_info": "[06时02分 ~ 07时45分]"
         },
         {
-          "title": "日本女护士杀人解压",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=18&Refer=top",
+          "title": "台湾腔是如何一步一步变嗲的",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E8%85%94%E6%98%AF%E5%A6%82%E4%BD%95%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E5%8F%98%E5%97%B2%E7%9A%84&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "日本女护士杀人解压案共开庭52次",
@@ -309,7 +354,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -380,6 +425,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
+          "url": "https://wallstreetcn.com/livenews/3121959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国副总统万斯：打算前往瑞士，不知道何时启程。",
           "url": "https://wallstreetcn.com/livenews/3121819",
           "source": "华尔街见闻-快讯",
@@ -397,7 +453,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -435,6 +491,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "日本央行副行长冰见野良三：在指导货币政策时，日本央行还必须关注金融状况，例如银行的放贷态度。",
+          "url": "https://flash.jin10.com/detail/20260619103405964800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国副总统万斯：可以在缺少国会山批准的情况下暂时取消对伊朗的制裁。",
           "url": "https://wallstreetcn.com/livenews/3121815",
           "source": "华尔街见闻-快讯",
@@ -457,6 +524,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "日本央行副行长冰见野良三：购买日本国债不是收紧或放松政策的手段。 在制定债券购买计划时，最重要的是允许市场自由设定价格。 我们积极地与海外当局交换意见，但最终我们在政策上做出自己的决定。 向市场仔细解释政策很重要。",
+          "url": "https://wallstreetcn.com/livenews/3121954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "荷兰首相：美国对俄罗斯的施压对和平协议至关重要。",
           "url": "https://flash.jin10.com/detail/20260619002642152800",
           "source": "金十数据",
@@ -466,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本央行的中性利率估计范围较广，仅通过测量日本央行的政策利率与估计中性利率之间的差距难以制定货币政策。",
+          "url": "https://flash.jin10.com/detail/20260619103358597800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国副总统万斯：如果霍尔木兹海峡不开放，将不会达成最终协议。",
@@ -532,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国副总统万斯暂不赴瑞士与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3121951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "伊朗将获准动用60亿美元被冻结资金 仅限购买美国产品",
@@ -622,6 +722,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "日本央行副行长冰见野良三：将留意日本央行的财务健康问题。",
+          "url": "https://wallstreetcn.com/livenews/3121948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
           "url": "https://flash.jin10.com/detail/20260619001546386800",
           "source": "金十数据",
@@ -650,7 +761,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -675,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：拖延应对价格风险可能导致通胀超调风险成为现实，长期来看会损害经济。",
+          "url": "https://wallstreetcn.com/livenews/3121947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国副总统万斯在白宫的新闻发布会结束。",
@@ -708,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "日本财相放话可随时“大胆行动”，万亿级干预又在路上？",
+          "url": "https://flash.jin10.com/detail/20260619102352574800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "墨西哥经济部长Ebrard：美墨加三国将于7月1日线上讨论美国墨西哥加拿大贸易协议（USMCA）。",
@@ -765,6 +898,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "日本央行副行长冰见野良三：日本央行暂停缩减债券购买规模的决定，并非是为财政政策服务。",
+          "url": "https://wallstreetcn.com/livenews/3121943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国副总统万斯：批评人士应当对美国总统抱有一点信心。",
           "url": "https://flash.jin10.com/detail/20260619001009228800",
           "source": "金十数据",
@@ -787,6 +931,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "日本财务大臣片山皋月：我们准备对外汇投机行为采取果断行动。 我们已经在七国集团会议上确认，我们可以采取果断行动。",
+          "url": "https://wallstreetcn.com/livenews/3121942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
           "url": "https://wallstreetcn.com/livenews/3121881",
           "source": "华尔街见闻-快讯",
@@ -798,6 +953,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美国贸易代表启动针对德国药品的301条款调查",
+          "url": "https://wallstreetcn.com/livenews/3121940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国4月国际资本净流入 261亿美元，前值 1507亿美元。",
           "url": "https://wallstreetcn.com/livenews/3121880",
           "source": "华尔街见闻-快讯",
@@ -807,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。 日本央行预计将根据经济、价格和金融发展情况继续加息。 日本央行将考虑进一步加息的速度、时机，关注其基准情景实现的可能性，以及风险。 潜在通胀率接近2%。 最近的物价上涨不仅仅是由暂时的供应冲击驱动的，潜在通胀有偏离我们的价格目标的风险。 尽管油价上涨拖累经济增长，但由于企业利润和家庭收入高企，日本经济整体稳健。 外汇走势是影响日本经济和物价的关键因素之一。 货币政策不以外汇变动为目标，但与过去相比，由于企业行为的变化，外汇变动对通货膨胀的影响更大。 外汇走势可能对通胀预期和潜在通胀产生影响，因此我们将继续密切关注事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3121939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国4月长期资本净流入 1031亿美元，前值 813亿美元。",
