@@ -1,175 +1,12 @@
 {
-  "generated_at": "2026-06-20T23:31:50.409660+08:00",
-  "total_titles_processed": 1259,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-06-21T01:17:49.958046+08:00",
+  "total_titles_processed": 310,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 141,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 23时31分]"
-        },
-        {
-          "title": "日本签证7月1日起涨价5倍",
-          "url": "https://www.toutiao.com/trending/7652311692186779684/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "日本防相：“堤丰”导弹系统不会永久在日部署",
-          "url": "https://news.ifeng.com/c/8u5U7rhGbN1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "美国队两连胜,提前小组出线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355291&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%98%9F%E4%B8%A4%E8%BF%9E%E8%83%9C%2C%E6%8F%90%E5%89%8D%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时45分 ~ 23时31分]"
-        },
-        {
-          "title": "日本宣布：签证费涨到5倍",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A8%E5%88%B05%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            5,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "头条世界杯｜乌龙开路、VAR加持，美国队开始畅想夺冠了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33419010",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 23时31分]"
-        },
-        {
-          "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
-          "url": "https://flash.jin10.com/detail/20260620040803014800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
-          "url": "https://flash.jin10.com/detail/20260620040748526800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
-          "url": "https://flash.jin10.com/detail/20260620040416605800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国和以色列还是盟友吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%BF%98%E6%98%AF%E7%9B%9F%E5%8F%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18,
-            20,
-            2,
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 13时05分]"
-        },
-        {
-          "title": "美国总统特朗普：F-47正在建造中。已经启动了装配线。他们说这是有史以来最伟大的战斗机。我们会验证这一点。",
-          "url": "https://flash.jin10.com/detail/20260620040335478800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时02分 ~ 19时10分]"
-        },
-        {
-          "title": "美国总统特朗普：美国国防部长赫格塞思是与生俱来的斗士，他从来不知道什么叫服输，性格极为刚硬，是个发自内心热爱军队的人。",
-          "url": "https://flash.jin10.com/detail/20260620035934714800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
         {
           "title": "央视披露：日本为“备战台海”囤弹药",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%B8%BA%E2%80%9C%E5%A4%87%E6%88%98%E5%8F%B0%E6%B5%B7%E2%80%9D%E5%9B%A4%E5%BC%B9%E8%8D%AF",
@@ -178,116 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        },
-        {
-          "title": "曝徐艺洋在美国生的孩子",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%90%E8%89%BA%E6%B4%8B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 23时31分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长Bill Pulte：房利美和房地美当前拥有雄厚的流动性。",
-          "url": "https://wallstreetcn.com/livenews/3122167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            19,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "美国队两连胜提前出线",
-          "url": "https://www.toutiao.com/trending/7653194411110645801/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
-          "url": "https://flash.jin10.com/detail/20260620030507766800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
-          "url": "https://flash.jin10.com/detail/20260620025928900800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
-          "url": "https://flash.jin10.com/detail/20260620025727223800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 08时02分]"
-        },
-        {
-          "title": "美国2-0战胜澳大利亚",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2-0%E6%88%98%E8%83%9C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国2比0战胜澳大利亚提前出线",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD2%E6%AF%940%E6%88%98%E8%83%9C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%8F%90%E5%89%8D%E5%87%BA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
-          "url": "https://flash.jin10.com/detail/20260620190142057800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "01时17分"
         },
         {
           "title": "【美军称暂未观察到伊朗关闭霍尔木兹海峡】据美国媒体20日援引美国高级官员的话报道称，美军暂未观察到伊朗关闭霍尔木兹海峡的军事动向。（新华社）",
@@ -296,21 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "01时17分"
         },
         {
-          "title": "世界杯：美国vs澳大利亚",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E7%BE%8E%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
-          "source": "百度热搜",
+          "title": "乌克兰总统泽连斯基警告称，俄罗斯即将对乌克兰发起大规模攻击。",
+          "url": "https://flash.jin10.com/detail/20260621010033283800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "巴基斯坦：伊朗与美国将于6月21日举行会谈",
@@ -319,53 +47,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "01时17分"
         },
         {
-          "title": "世界杯小组赛 D 组，美国 2 比 0 澳大利亚，提前一轮小组出线，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050229738019320012",
+          "title": "头条世界杯｜乌龙开路、VAR加持，美国队开始畅想夺冠了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33419010",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "市场消息：伊朗革命卫队海军在霍尔木兹海峡附近发布无线电广播：鉴于以色列在黎巴嫩的行动以及美国违反相关承诺，霍尔木兹海峡现已关闭航行。所有船只被命令远离该海域，以确保自身安全。",
+          "url": "https://flash.jin10.com/detail/20260621005933971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "伊朗军方宣布关闭霍尔木兹海峡，伊朗外交部称美国未能约束以色列，违反谅解备忘录，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2051776067241775423",
           "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "01时17分"
         },
         {
-          "title": "美国2-0澳大利亚",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD2-0%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
-          "source": "bilibili 热搜",
+          "title": "以色列驻美国大使耶希埃尔·莱特在社交平台发文称，违反停火协议的一方是真主党。",
+          "url": "https://flash.jin10.com/detail/20260621005756280800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯将从9月1日起对钻石征收8%的出口关税。",
-          "url": "https://flash.jin10.com/detail/20260620012130502800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国军方：美国军方始终保持在场并保持警惕，以确保与伊朗的协议各方面得到遵守、执行，并全面有效。",
-          "url": "https://flash.jin10.com/detail/20260620223102837800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "01时17分"
         },
         {
           "title": "伊朗外交部：美国未能约束以色列，违反谅解备忘录",
@@ -374,825 +102,97 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3122171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 08时02分]"
-        },
-        {
-          "title": "日本签证费涨5倍",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A85%E5%80%8D%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "美国国务院：国务卿卢比奥今天与黎巴嫩总统AOUN通话。 黎巴嫩和以色列下一轮会谈将于6月23-25日举行。",
-          "url": "https://wallstreetcn.com/livenews/3122170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 08时02分]"
-        },
-        {
-          "title": "俄罗斯从9月1日将开始对钻石征收8%的出口税。（国际文传电讯社）",
-          "url": "https://wallstreetcn.com/livenews/3122164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时45分]"
-        },
-        {
-          "title": "春秋航空日本飞机在哈尔滨机场重着陆",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            12,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "向鹏3-0零封日本全国冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%90%91%E9%B9%8F3-0%E9%9B%B6%E5%B0%81%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗足协正式投诉美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时02分]"
-        },
-        {
-          "title": "美国务卿与黎总统通话，讨论黎以谈判安排",
-          "url": "https://wallstreetcn.com/livenews/3122186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗国家电视台：伊朗代表团前往瑞士与美国会谈。",
-          "url": "https://wallstreetcn.com/livenews/3122264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国vs澳大利亚",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3122184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国副总统万斯称，美伊会谈可能于21日举行，目前与伊朗的谈判进展顺利。 预计将在未来几天内前往瑞士。 目前没有证据显示伊朗正在关闭霍尔木兹海峡。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国连续两场靠乌龙开局",
-          "url": "https://www.toutiao.com/trending/7652650442559819327/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国国务卿卢比奥计划下周前往中东地区，计划前往科威特、阿联酋、巴林。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3122183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国搞垮日本的“广场协议”，德总理竟呼吁用在中国身上",
-          "url": "https://news.ifeng.com/c/8u6kHUnoe6I",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 23时30分]"
-        },
-        {
-          "title": "美国副总统万斯：并没有任何证据表明伊朗仍然关闭霍尔木兹海峡。 在霍尔木兹海峡扫雷需要一些时间。",
-          "url": "https://wallstreetcn.com/livenews/3122262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国高级代表团已抵达瑞士",
-          "url": "https://flash.jin10.com/detail/20260620160541398800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 19时10分]"
-        },
-        {
-          "title": "美国副总统万斯谈及伊朗磋商的潜在时间表，称：库什纳、Witkoff在当地已经有数小时。 与Witkoff一番交谈之后，我理解形势不错。 预计将在未来两天启程离开（美国）。 关于以色列，相信我们能维持停火状态。 最终结果如何将取决于伊朗。 我们将在伊朗谈判方面提供机会。 以色列在许多方面都是美国的好伙伴。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国vs澳大利亚",
-          "url": "https://www.douyin.com/hot/2540896",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时45分]"
-        },
-        {
-          "title": "如何看待乌克兰在 2026 年 6 月 18 日对俄罗斯莫斯科 Kapotnya 炼油厂发动的重大袭击？",
-          "url": "https://www.zhihu.com/question/2051068366954276096",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时45分]"
-        },
-        {
-          "title": "高边疆之谋·74｜俄罗斯版“星链”上线，对俄乌冲突影响有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33410329",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 19时10分]"
-        },
-        {
-          "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
-          "url": "https://flash.jin10.com/detail/20260620035757098800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
-          "url": "https://flash.jin10.com/detail/20260620035742177800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普周五早些时候与以色列进行了对话，要求他们同意与黎巴嫩真主党停火。（NBC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
-        },
-        {
-          "title": "美国新空军一号专机亮相",
-          "url": "https://wallstreetcn.com/livenews/3122182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "玉渊谭天：中国在为台湾岛以东海域的国土空间规划做准备",
-          "url": "https://wallstreetcn.com/livenews/3122215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 19时10分]"
-        },
-        {
-          "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
-          "url": "https://flash.jin10.com/detail/20260620035555695800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.354万亿美元，之前一周19.295万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3122180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：与以色列关系良好。内塔尼亚胡是一位战士。",
-          "url": "https://flash.jin10.com/detail/20260620035254537800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
-          "url": "https://wallstreetcn.com/livenews/3122178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗称不信任美国 正在做两手准备",
-          "url": "https://wallstreetcn.com/livenews/3122212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 19时10分]"
-        },
-        {
-          "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
-          "url": "https://flash.jin10.com/detail/20260620035211173800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：与以色列关系一直都很好。",
-          "url": "https://wallstreetcn.com/livenews/3122177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国缺电了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BC%BA%E7%94%B5%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国总统特朗普：那些船只正以前所未有的速度驶出霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260620035101442800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：将前往土耳其。",
-          "url": "https://wallstreetcn.com/livenews/3122176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3122174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普：霍尔木兹海峡的船只正在通行。",
-          "url": "https://flash.jin10.com/detail/20260620034737404800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普向美国空军军人致以问候，并发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260620034403878800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普将开启G7峰会结束后的首次美国国内行程，前往宾州利哈伊谷的迈克卡车工厂参观。",
-          "url": "https://flash.jin10.com/detail/20260620033802432800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "美国空军正式展示了一架经过改装的波音747-8客机，该机将作为过渡性空军一号使用，这也是公众首次得以一窥这架去年由卡塔尔政府赠予的豪华飞机。",
-          "url": "https://flash.jin10.com/detail/20260620032117719800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
-        },
-        {
-          "title": "玉渊谭天：中国在为台湾岛以东海域的国土空间规划做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420119",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时31分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
-          "url": "https://flash.jin10.com/detail/20260620030703523800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时02分]"
+          "time_info": "01时17分"
         },
         {
           "title": "涉华问题，阿斯麦急着向美国递投名状",
           "url": "https://news.ifeng.com/c/8u6X1Pvs27n",
           "source": "凤凰网",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 23时30分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
-          "title": "美国vs澳大利亚",
-          "url": "https://www.toutiao.com/trending/7653179289428430345/",
-          "source": "今日头条",
+          "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
+          "url": "https://flash.jin10.com/detail/20260621004843090800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时02分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
-          "title": "美国电网扛不住AI热潮",
-          "url": "https://wallstreetcn.com/livenews/3122234",
-          "source": "华尔街见闻-快讯",
+          "title": "泳装屈原!日本手游整狠活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
+          "source": "贴吧",
           "ranks": [
-            6,
-            26
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 21时42分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
-          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
-          "url": "https://wallstreetcn.com/livenews/3122258",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰总统泽连斯基确认对俄罗斯图门地区的炼油设施实施了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260621004745292800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
-          "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
-          "url": "https://wallstreetcn.com/articles/3775053",
-          "source": "华尔街见闻",
+          "title": "据加拿大CTV新闻网：加拿大将于7月1日与美国和墨西哥举行美墨加协定（USMCA）审查会议。",
+          "url": "https://flash.jin10.com/detail/20260621004437923800",
+          "source": "金十数据",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时28分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
-          "title": "台当局扬言查处与大陆签约的5家单位，卢秀燕呛：要办赖清德吗",
-          "url": "https://news.ifeng.com/c/8u6V0Fn7LW6",
+          "title": "美国搞垮日本的“广场协议”，德总理竟呼吁用在中国身上",
+          "url": "https://news.ifeng.com/c/8u6kHUnoe6I",
           "source": "凤凰网",
           "ranks": [
-            10,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 16时42分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "“美国撇开印度，担心刺激中国”",
           "url": "https://news.ifeng.com/c/8u6ykIAUSiQ",
           "source": "凤凰网",
           "ranks": [
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时30分]"
-        },
-        {
-          "title": "美国2:0澳大利亚",
-          "url": "https://www.douyin.com/hot/2540896",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 13时05分]"
-        },
-        {
-          "title": "玉渊谭天：中国在为台湾岛以东海域的国土空间规划做准备",
-          "url": "https://www.cls.cn/detail/2404575",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
-        },
-        {
-          "title": "日本游客为免票全文背诵《岳阳楼记》",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%85%8D%E7%A5%A8%E5%85%A8%E6%96%87%E8%83%8C%E8%AF%B5%E3%80%8A%E5%B2%B3%E9%98%B3%E6%A5%BC%E8%AE%B0%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        },
-        {
-          "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3122151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时28分]"
-        },
-        {
-          "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
-          "url": "https://wallstreetcn.com/livenews/3122149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时28分]"
-        },
-        {
-          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
-          "url": "https://wallstreetcn.com/livenews/3122203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 16时42分]"
-        },
-        {
-          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
-          "url": "https://wallstreetcn.com/livenews/3122141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时28分]"
-        },
-        {
-          "title": "日本大肆囤积弹药备战",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%82%86%E5%9B%A4%E7%A7%AF%E5%BC%B9%E8%8D%AF%E5%A4%87%E6%88%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
-        },
-        {
-          "title": "美国的谈判桌被以色列炸碎了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%B0%88%E5%88%A4%E6%A1%8C%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E7%82%B8%E7%A2%8E%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 16时42分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长普尔特：房利美和房地美目前流动性强劲。",
-          "url": "https://flash.jin10.com/detail/20260620012025967800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "01时17分"
         },
         {
-          "title": "美国军方：今天通过霍尔木兹海峡运输了超过1700万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260620223019478800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "据俄新社：斯洛伐克将通过从俄罗斯的供应满足大部分天然气需求。",
-          "url": "https://flash.jin10.com/detail/20260620120918630800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美国军方：6月20日霍尔木兹海峡的商业船舶通行量有所增加，美军继续在该区域展开行动，以支持航行自由。今天有55艘商船通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260620222931884800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "黎巴嫩总统府发表声明称，黎总统告诉美国国务卿鲁比奥，全面停火是下周在华盛顿举行的美以黎三方会谈的根本基石。",
-          "url": "https://flash.jin10.com/detail/20260620011229701800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗最高联合军事指挥部表示，鉴于美国“明显违背信任、违反其对谅解备忘录第一条款的承诺”，并作为对以色列持续违反黎巴嫩南部停火协议的回应，霍尔木兹海峡现已关闭。",
-          "url": "https://flash.jin10.com/detail/20260620212033280800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "俄罗斯将对部分钻石征收8%出口税",
-          "url": "https://flash.jin10.com/detail/20260620173455762800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "日本签证7月1日起涨价5倍",
-          "url": "https://www.douyin.com/hot/2540938",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示，没有证据表明伊朗正在关闭霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260620211550707800",
+          "title": "美国中央司令部发言人：霍尔木兹海峡交通持续畅通，美国军方正在监测局势以确保这一状况持续。",
+          "url": "https://flash.jin10.com/detail/20260621003530191800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "01时17分"
         },
         {
           "title": "乌克兰打击俄罗斯腹地2000公里处的炼油厂",
@@ -1201,64 +201,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "01时17分"
         },
         {
-          "title": "澳大利亚大陆首次检出高致病性H5型禽流感病毒",
-          "url": "https://flash.jin10.com/detail/20260620114436670800",
+          "title": "美国中央司令部发言人：伊朗并不控制霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260621003344834800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "01时17分"
         },
         {
-          "title": "伊朗革命卫队海军：以色列在黎巴嫩的行动以及美国违反停火承诺是霍尔木兹海峡关闭的原因。",
-          "url": "https://flash.jin10.com/detail/20260620220116164800",
-          "source": "金十数据",
+          "title": "伊朗国家电视台：伊朗代表团前往瑞士与美国会谈。",
+          "url": "https://wallstreetcn.com/livenews/3122264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "俄罗斯农业部：自年初以来矿物肥料出口增长了7%",
-          "url": "https://flash.jin10.com/detail/20260620003134772800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260620021254404800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗最高联合军事指挥部表示，因美国及以色列涉嫌违反停火谅解备忘录，霍尔木兹海峡将禁止船只通行。",
-          "url": "https://flash.jin10.com/detail/20260620211219582800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "01时17分"
         },
         {
           "title": "据伊朗外交部发言人的消息，伊朗代表团将前往瑞士，以跟进谈判进展并要求对方履行其承诺。 伊方已遵守自身承诺，美国有义务迫使以色列停止对黎巴嫩的袭击。 在瑞士，伊方将要求美方落实其承诺，并明确美方打算如何兑现这些承诺。 如果对方部分承诺未能落实，双方的整体谅解（协议）将“陷入危机”。 对方必须尽快采取必要措施。 如果对方拒绝履行其承诺，伊朗将采取必要措施予以回应。 我们不会签署无法落实的承诺；我们的原则是“以承诺换承诺”。（伊朗法尔斯通讯社Fars）",
@@ -1267,394 +234,130 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "近六成台湾民众支持两岸和平谈判",
-          "url": "https://www.toutiao.com/trending/7652465924146446399/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "01时17分"
         },
         {
-          "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
-          "url": "https://flash.jin10.com/detail/20260620021240794800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国电网扛不住AI热潮",
-          "url": "https://flash.jin10.com/detail/20260620165448483800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示，将给伊朗一个谈判机会。",
-          "url": "https://flash.jin10.com/detail/20260620211057336800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "美国队两连胜出线但引发争议",
-          "url": "https://www.toutiao.com/trending/7653219936843694134/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "据AXIOS：美国总统特朗普表示，（关于伊朗战争）这种事可能引发全球性大萧条，达成的协议避免了这一命运。",
-          "url": "https://flash.jin10.com/detail/20260620021212398800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "玉渊谭天：中国在为台湾岛以东海域的国土空间规划做准备",
-          "url": "https://flash.jin10.com/detail/20260620113316367800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示，我们有信心能够维持停火。",
-          "url": "https://flash.jin10.com/detail/20260620210949586800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，美国 vs 澳大利亚，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050229738019320012",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "泽连斯基向白俄罗斯撂狠话",
-          "url": "https://www.toutiao.com/trending/7652846168108154916/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "据AXIOS：美国总统特朗普表示，古巴非常希望进行对话。",
-          "url": "https://flash.jin10.com/detail/20260620021043624800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "伊朗总统高级顾问：美国必须非常谨慎，以免和平协议沦为以色列固有恶意行为的牺牲品。",
-          "url": "https://flash.jin10.com/detail/20260620112802434800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "俄罗斯：霍尔木兹海峡将被当作核武器使用",
-          "url": "https://flash.jin10.com/detail/20260620152056386800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示，伊朗谈判进展顺利，预计接下来几天将前往瑞士。",
-          "url": "https://flash.jin10.com/detail/20260620210902360800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "伊朗外交部：美国未能约束以色列 违反谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260620215552113800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "伊朗：不信任美国 正在做两手准备",
-          "url": "https://flash.jin10.com/detail/20260620110937117800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：对乌冲突中仅存的限制是不得蓄意针对平民。而关于战争法规和惯例的《海牙公约》已不再需要。",
-          "url": "https://flash.jin10.com/detail/20260620152012561800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "据福克斯新闻：美国副总统万斯表示美国总统特使威特科夫和特朗普女婿库什纳已抵达与伊朗的谈判现场，谈判可能在周日举行。",
-          "url": "https://flash.jin10.com/detail/20260620210824596800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "美国世界杯转播“不忘”普及规则",
-          "url": "https://www.toutiao.com/trending/7652570064890478634/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美国情报部门警告称，以色列可能破坏美伊协议",
-          "url": "https://flash.jin10.com/detail/20260620000813534800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在与基辅打交道时，已不再有任何规则可言。",
-          "url": "https://flash.jin10.com/detail/20260620151954456800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
-          "url": "https://wallstreetcn.com/livenews/3122240",
+          "title": "美国副总统万斯称，美伊会谈可能于21日举行，目前与伊朗的谈判进展顺利。 预计将在未来几天内前往瑞士。 目前没有证据显示伊朗正在关闭霍尔木兹海峡。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122263",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国副总统万斯：并没有任何证据表明伊朗仍然关闭霍尔木兹海峡。 在霍尔木兹海峡扫雷需要一些时间。",
+          "url": "https://wallstreetcn.com/livenews/3122262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "日本游客为免票全文背诵《岳阳楼记》",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%85%8D%E7%A5%A8%E5%85%A8%E6%96%87%E8%83%8C%E8%AF%B5%E3%80%8A%E5%B2%B3%E9%98%B3%E6%A5%BC%E8%AE%B0%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国移民和海关执法局（ICE）的名称“ICE”应该改成“NICE”。这样一来，就能彻底把那些腐败、不诚实、毫无爱国心的记者和新闻工作者搞得晕头转向。",
+          "url": "https://flash.jin10.com/detail/20260621000439919800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国副总统万斯谈及伊朗磋商的潜在时间表，称：库什纳、Witkoff在当地已经有数小时。 与Witkoff一番交谈之后，我理解形势不错。 预计将在未来两天启程离开（美国）。 关于以色列，相信我们能维持停火状态。 最终结果如何将取决于伊朗。 我们将在伊朗谈判方面提供机会。 以色列在许多方面都是美国的好伙伴。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "日本游客为免票进景区背《岳阳楼记》",
+          "url": "https://www.toutiao.com/trending/7653460814516305971/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普指责意大利总理“拒绝美国”",
+          "url": "https://flash.jin10.com/detail/20260621000056720800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
+          "url": "https://wallstreetcn.com/livenews/3122258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "当地州长：俄罗斯军队使用滑翔炸弹袭击乌克兰东南部扎波罗热，造成4人死亡、6人受伤。",
+          "url": "https://flash.jin10.com/detail/20260620235928184800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "01时17分"
         },
         {
-          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
-          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "title": "美国军方：美国军方始终保持在场并保持警惕，以确保与伊朗的协议各方面得到遵守、执行，并全面有效。",
+          "url": "https://flash.jin10.com/detail/20260620223102837800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国国务院：下一轮谈判定于6月23日至25日在华盛顿举行。",
-          "url": "https://flash.jin10.com/detail/20260620013933180800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
-          "url": "https://flash.jin10.com/detail/20260619235253993800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥重申，美国全力支持黎巴嫩政府努力建立一个与所有邻国和平共处的完整主权国家。",
-          "url": "https://flash.jin10.com/detail/20260620013921994800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们必须在坚决维护自身安全利益的同时，维系与美国朋友之间的重要纽带。",
-          "url": "https://flash.jin10.com/detail/20260620150858725800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
-          "url": "https://flash.jin10.com/detail/20260619235204278800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥重申需要解除对真主党的武装，并重新建立对黎巴嫩全境的控制。",
-          "url": "https://flash.jin10.com/detail/20260620013859498800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "台湾演员利晴天回汕头认祖归宗",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%91%98%E5%88%A9%E6%99%B4%E5%A4%A9%E5%9B%9E%E6%B1%95%E5%A4%B4%E8%AE%A4%E7%A5%96%E5%BD%92%E5%AE%97",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥今天与黎巴嫩总统奥恩进行了对话。",
-          "url": "https://flash.jin10.com/detail/20260620013847679800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "网友谈美国2-0澳大利亚：袋鼠不反抗",
-          "url": "https://www.toutiao.com/trending/7652360994729148457/",
-          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "01时17分"
         },
         {
-          "title": "美国新“空军一号”专机亮相",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%96%B0%E2%80%9C%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E2%80%9D%E4%B8%93%E6%9C%BA%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
+          "title": "美国队两连胜,提前小组出线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355291&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%98%9F%E4%B8%A4%E8%BF%9E%E8%83%9C%2C%E6%8F%90%E5%89%8D%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "嘉信理财正设法进军预测市场。 该公司正与美国芝加哥期权交易所（CBOE）合作，将推出期权合约。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3122140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "欧洲理事会主席Costa：欧盟不是调解人，也不打算成为调解人。 不能依赖他人来解读俄罗斯的信息。 只有乌克兰才能代表自己进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3122138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "01时17分"
         }
       ]
     }
