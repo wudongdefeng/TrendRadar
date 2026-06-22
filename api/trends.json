@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-23T02:42:21.425572+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2026-06-23T05:29:44.749686+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 25,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
+          "url": "https://wallstreetcn.com/livenews/3123036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
         {
           "title": "美国原油期货结算价为每桶74.82美元，下跌1.78美元，跌幅2.32%。",
           "url": "https://flash.jin10.com/detail/20260623023124474800",
@@ -19,26 +30,96 @@
           "time_info": "02时42分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
+          "url": "https://flash.jin10.com/detail/20260623044637225800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美联储主席沃什将于7月14日出席美国众议院关于货币政策的听证会。",
+          "url": "https://wallstreetcn.com/livenews/3123032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "全面压制,日本送突尼斯出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
         },
         {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2052060271871353728",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
+        },
+        {
+          "title": "商务部公布将艾维奥克斯公司等 10 家美国实体列入出口管制管控名单，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052316614541027284",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
+        },
+        {
+          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
+        },
+        {
+          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
+        },
+        {
+          "title": "钧正平评日本旭日旗现身世界杯看台",
+          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 05时29分]"
         },
         {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
@@ -63,15 +144,26 @@
           "time_info": "02时42分"
         },
         {
-          "title": "商务部公布将艾维奥克斯公司等 10 家美国实体列入出口管制管控名单，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052316614541027284",
-          "source": "知乎",
+          "title": "美联储主席沃什将于7月14日美国东部时间上午（北京时间晚上）10点，在众议院金融服务委员会作证。",
+          "url": "https://flash.jin10.com/detail/20260623043716296800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国芝商所平台“连接中断”，交易受到扰动",
+          "url": "https://wallstreetcn.com/livenews/3123024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
@@ -85,6 +177,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国总统特朗普签署量子领域行政令。",
+          "url": "https://flash.jin10.com/detail/20260623043421047800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国副总统万斯：看到大约1500万桶石油流出霍尔木兹海峡。 对我们已经取得的进展感觉良好，将围绕技术谈判继续取得进展。 如果没有取得进展，不会向伊朗解冻（被制裁的）资金。 对停火感觉良好。 成立机制，确保霍尔木兹海峡保持开放。 我们必须围绕伊朗磋商而继续努力。",
           "url": "https://wallstreetcn.com/livenews/3122977",
           "source": "华尔街见闻-快讯",
@@ -94,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
+          "url": "https://wallstreetcn.com/livenews/3123021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
@@ -151,15 +265,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：油价大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3123017",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
@@ -173,15 +287,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
+          "url": "https://wallstreetcn.com/livenews/3123016",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国副总统万斯：伊朗方面允许检查人员入境，这是近一段时间以来的首次。",
@@ -217,6 +331,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国总统特朗普：如有必要，可能会迅速重新启动封锁。",
+          "url": "https://flash.jin10.com/detail/20260623041742651800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国副总统万斯：（关于停火）对此感到满意。",
           "url": "https://flash.jin10.com/detail/20260623013909150800",
           "source": "金十数据",
@@ -226,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：国防承包商将不被允许进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260623041714980800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国副总统万斯：必须让检查员进入伊朗核设施。",
@@ -239,6 +375,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国总统特朗普：哥伦比亚总统致电感谢我。",
+          "url": "https://flash.jin10.com/detail/20260623041649887800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国副总统万斯：看到约1500万桶石油流出霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260623013840125800",
           "source": "金十数据",
@@ -248,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：只要伊朗尊重美国，我们就不会有任何烦恼。",
+          "url": "https://flash.jin10.com/detail/20260623041553835800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国将从战略石油储备（SPR）向Vitol释放50万桶石油。",
@@ -272,15 +430,48 @@
           "time_info": "02时42分"
         },
         {
-          "title": "钧正平评日本旭日旗现身世界杯看台",
-          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：祝斯塔默一切顺利。",
+          "url": "https://flash.jin10.com/detail/20260623041502171800",
+          "source": "金十数据",
           "ranks": [
-            30
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡",
+          "url": "https://wallstreetcn.com/livenews/3123007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月16日当周，投机者所持NYMEX WTI原油净多头头寸增加9,258手合约，至112,918手合约，创逾20周新高。 所持COMEX白银净多头头寸增加至12,070手合约，创逾五周新高。 所持COMEX铜净多头头寸降低至71,076手合约，创逾六周新低。 所持NYMEX铂金净多头头寸降低至8,072手合约，创逾14周新低。 所持NYMEX钯金净空头头寸降低至4,268手合约。",
+          "url": "https://wallstreetcn.com/livenews/3123004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月16日当周，投机者所持COMEX黄金净多头头寸减少5,322手合约，至117,885手合约。 所持NYMEX汽油净多头头寸增加至67,676手合约。 所持NYMEX天然气净空头头寸减少至15,985手合约。",
+          "url": "https://wallstreetcn.com/livenews/3123003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     }
