@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T07:09:55.199497+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-06-26T10:34:43.312013+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 57,
+      "match_count": 78,
       "titles": [
         {
           "title": "美国“拉清单”，商务部：中方不得不进行反制",
@@ -19,15 +19,18 @@
           "time_info": "[00时18分 ~ 07时09分]"
         },
         {
-          "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
-          "url": "https://news.ifeng.com/c/8uFRcPy7a64",
-          "source": "凤凰网",
+          "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
+          "url": "https://wallstreetcn.com/articles/3775530",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            5,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 10时34分]"
         },
         {
           "title": "高通承认：受制于美国，要为中国定制芯片",
@@ -41,17 +44,27 @@
           "time_info": "[00时18分 ~ 07时09分]"
         },
         {
-          "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
-          "url": "https://wallstreetcn.com/articles/3775530",
-          "source": "华尔街见闻",
+          "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
+          "url": "https://news.ifeng.com/c/8uFRcPy7a64",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 10时34分]"
+        },
+        {
+          "title": "日本1-1瑞典",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-1%E7%91%9E%E5%85%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国与海湾国家：重申无人会被迫离开加沙，且有意离开者将可自由返回。",
@@ -71,7 +84,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -87,6 +100,39 @@
           "time_info": "00时18分"
         },
         {
+          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053452665523279859",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日本1-1瑞典：淘汰赛首轮将战巴西",
+          "url": "https://www.toutiao.com/trending/7654797767533071935/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日本队也坑了韩国队",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E4%B9%9F%E5%9D%91%E4%BA%86%E9%9F%A9%E5%9B%BD%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美国与海湾国家：谈判不以其他冲突的结果为前提。",
           "url": "https://flash.jin10.com/detail/20260626000345025800",
           "source": "金十数据",
@@ -96,6 +142,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "日本也在报复韩国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9F%E5%9C%A8%E6%8A%A5%E5%A4%8D%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "“坏了，难道又被美国袭击了？”",
+          "url": "https://news.ifeng.com/c/8uGOydVFo8M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国与海湾国家就黎巴嫩问题发表联合声明，强调维持谈判进程的重要性。",
@@ -115,9 +183,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "国防部回应福建舰过航台湾海峡：例行训练，今后还会继续组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451753",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 10时34分]"
         },
         {
           "title": "主导电动车之后，中国发动机也对日本穷追不舍",
@@ -189,18 +270,6 @@
           "time_info": "[00时18分 ~ 07时09分]"
         },
         {
-          "title": "国防部回应福建舰过航台湾海峡：例行训练，今后还会继续组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451753",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 07时09分]"
-        },
-        {
           "title": "日本主帅森保一的数学时刻又到了",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%E6%A3%AE%E4%BF%9D%E4%B8%80%E7%9A%84%E6%95%B0%E5%AD%A6%E6%97%B6%E5%88%BB%E5%8F%88%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
@@ -210,6 +279,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 07时09分]"
+        },
+        {
+          "title": "美国关键通胀数据冲上近三年新高！市场却先松一口气",
+          "url": "https://www.cls.cn/detail/2409483",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 10时34分]"
         },
         {
           "title": "日本vs瑞典",
@@ -231,18 +313,6 @@
           "ranks": [
             9,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 07时09分]"
-        },
-        {
-          "title": "美国关键通胀数据冲上近三年新高！市场却先松一口气",
-          "url": "https://www.cls.cn/detail/2409483",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -305,6 +375,28 @@
           "time_info": "03时03分"
         },
         {
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日本1比1瑞典 淘汰赛将战巴西",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC1%E6%AF%941%E7%91%9E%E5%85%B8+%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%B0%86%E6%88%98%E5%B7%B4%E8%A5%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美国原油期货结算价为每桶71.92美元，上涨1.58美元，涨幅2.25%。",
           "url": "https://flash.jin10.com/detail/20260626023100075800",
           "source": "金十数据",
@@ -336,6 +428,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "日本1比1瑞典",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC1%E6%AF%941%E7%91%9E%E5%85%B8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "亲历日本7.2级地震的中国游客住14楼",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E6%97%A5%E6%9C%AC7.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BD%8F14%E6%A5%BC",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
+          "url": "https://wallstreetcn.com/articles/3775500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "美国撒跑了，海湾国家面临“灾难性转折点”",
+          "url": "https://news.ifeng.com/c/8uFe87ncSe4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
@@ -388,9 +524,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "美国通胀“高烧”不退，油价回落反而火上浇油？",
+          "url": "https://flash.jin10.com/detail/20260626095631593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -410,7 +557,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -424,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "台湾加权指数跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20260626095548256800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.610%，投标倍数2.74。 拍卖八周期国债，得标利率3.660%，投标倍数2.79。",
@@ -448,6 +606,28 @@
           "time_info": "03时03分"
         },
         {
+          "title": "土耳其vs美国",
+          "url": "https://www.douyin.com/hot/2547894",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "乌克兰远程无人机袭击加剧，俄罗斯燃料供应遭绞杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451456",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "由于担心可能遭撤回，美国加州寻求法院命令，以阻止环保署将汽车排放规则提交国会。",
           "url": "https://flash.jin10.com/detail/20260626042402264800",
           "source": "金十数据",
@@ -457,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "世界杯：土耳其vs美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%9C%9F%E8%80%B3%E5%85%B6vs%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普讨论的主题包括北约和伊朗问题。",
@@ -479,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "巴西日本首次在世界杯淘汰赛对决",
+          "url": "https://www.toutiao.com/trending/7655503792708468755/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普及多位美国高级官员进行了长时间的讨论，涉及多个议题。",
@@ -586,9 +788,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "土耳其vs美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6vs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国至6月25日8周国债竞拍-得标利率配置百分比 70.5%，前值31.85%。",
@@ -600,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "台湾证交所加权股价指数盘初下跌1%至45,774.10点。",
+          "url": "https://wallstreetcn.com/livenews/3124924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国：预计伊朗石油出口将达到200万桶/日",
@@ -630,7 +854,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -644,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会限制用于投资的预算申请。 在投资时会将财政可持续性铭记于心。 不会依靠举债来为调降食品消费税提供资金。 需要通过评估补贴和支出来为减税筹集资金。",
+          "url": "https://wallstreetcn.com/livenews/3124919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     }
