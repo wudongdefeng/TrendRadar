@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:22:53.057425+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-06-27T21:14:45.747551+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 94,
+      "match_count": 99,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -87,6 +87,18 @@
           "time_info": "[00时08分 ~ 07时57分]"
         },
         {
+          "title": "评论员：日本悍然模拟攻击辽宁舰",
+          "url": "https://www.toutiao.com/trending/7655975779733376550/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 21时14分]"
+        },
+        {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
           "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
           "source": "凤凰网",
@@ -98,15 +110,18 @@
           "time_info": "[00时08分 ~ 10时39分]"
         },
         {
-          "title": "评论员：日本悍然模拟攻击辽宁舰",
-          "url": "https://www.toutiao.com/trending/7655975779733376550/",
-          "source": "今日头条",
+          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
+          "url": "https://wallstreetcn.com/articles/3775640",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 21时14分]"
         },
         {
           "title": "据福克斯新闻：美国针对伊朗目标的打击行动目前“正在进行中”。",
@@ -120,6 +135,17 @@
           "time_info": "[06时05分 ~ 07时57分]"
         },
         {
+          "title": "胆大包天 日本竟模拟攻击辽宁舰",
+          "url": "https://www.baidu.com/s?wd=%E8%83%86%E5%A4%A7%E5%8C%85%E5%A4%A9+%E6%97%A5%E6%9C%AC%E7%AB%9F%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时14分]"
+        },
+        {
           "title": "美国中央司令部：美国对伊朗发动打击，以回应其袭击商船的行为",
           "url": "https://flash.jin10.com/detail/20260627044443759800",
           "source": "金十数据",
@@ -129,19 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时57分]"
-        },
-        {
-          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
-          "url": "https://wallstreetcn.com/articles/3775640",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 19时22分]"
         },
         {
           "title": "乌克兰会不会迫使俄罗斯从克里米亚撤军？",
@@ -154,6 +167,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时28分 ~ 10时39分]"
+        },
+        {
+          "title": "中俄两军在日本海等空域巡航",
+          "url": "https://www.toutiao.com/trending/7655960412043362323/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -203,6 +227,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制",
+          "url": "https://flash.jin10.com/detail/20260627205748841800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
           "url": "https://wallstreetcn.com/livenews/3125429",
           "source": "华尔街见闻-快讯",
@@ -223,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "胆大包天 日本竟模拟攻击辽宁舰",
-          "url": "https://www.baidu.com/s?wd=%E8%83%86%E5%A4%A7%E5%8C%85%E5%A4%A9+%E6%97%A5%E6%9C%AC%E7%AB%9F%E6%A8%A1%E6%8B%9F%E6%94%BB%E5%87%BB%E8%BE%BD%E5%AE%81%E8%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示：SpaceX(SPCX.O)公司发行70亿美元、票面利率5.35%的2031年到期高级票据；发行60亿美元、票面利率5.65%的2033年到期高级票据；发行60亿美元、票面利率5.88%的2036年到期高级票据；发行25亿美元、票面利率6.60%的2046年到期高级票据；发行35亿美元、票面利率6.65%的2056年到期高级票据。",
@@ -509,6 +533,18 @@
           "time_info": "[06时05分 ~ 07时57分]"
         },
         {
+          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
+          "url": "https://flash.jin10.com/detail/20260627181139499800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时14分]"
+        },
+        {
           "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
           "url": "https://wallstreetcn.com/livenews/3125565",
           "source": "华尔街见闻-快讯",
@@ -735,6 +771,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "报道：美国向部分美国企业开放Anthropic的Mythos模型",
           "url": "https://wallstreetcn.com/livenews/3125486",
           "source": "华尔街见闻-快讯",
@@ -768,17 +815,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
-          "url": "https://flash.jin10.com/detail/20260627181139499800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "美国国会山涉爱泼斯坦案听证会上，首次有人中途退场，并拒绝透露“保密信息”",
           "url": "https://wallstreetcn.com/livenews/3125524",
           "source": "华尔街见闻-快讯",
@@ -788,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "俄罗斯为什么防不住乌克兰无人机",
+          "url": "https://www.toutiao.com/trending/7655989890496073267/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "标普：确认美国“AA+/A-1+”主权信用评级，展望维持稳定。",
@@ -854,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "日本精锐部队成员被坠落机枪砸死",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%B2%BE%E9%94%90%E9%83%A8%E9%98%9F%E6%88%90%E5%91%98%E8%A2%AB%E5%9D%A0%E8%90%BD%E6%9C%BA%E6%9E%AA%E7%A0%B8%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
