@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:56:01.052096+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-06-28T19:44:29.963181+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "轰6k与俄图95在日本海上空同框",
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 17时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 19时44分]"
         },
         {
           "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
@@ -59,19 +59,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 19时44分]"
         },
         {
           "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
           "url": "https://www.zhihu.com/question/2053970381673861771",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 19时44分]"
         },
         {
           "title": "日本对战巴西战术推演",
@@ -172,6 +173,19 @@
           "time_info": "10时57分"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 19时44分]"
+        },
+        {
           "title": "如果俄罗斯在俄乌战场使用小型战术核弹，会有什么后果？",
           "url": "https://www.zhihu.com/question/2053729226679902385",
           "source": "知乎",
@@ -196,6 +210,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 07时57分]"
+        },
+        {
+          "title": "“我们太依赖美国，结果被关税坑惨了”",
+          "url": "https://news.ifeng.com/c/8uKOChSprsc",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
@@ -245,16 +270,16 @@
           "time_info": "[05时56分 ~ 07时57分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2054540391236335233",
+          "source": "知乎",
           "ranks": [
-            15,
-            13
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 19时44分]"
         },
         {
           "title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。",
@@ -310,16 +335,16 @@
           "time_info": "[04时04分 ~ 07时57分]"
         },
         {
-          "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2054540391236335233",
-          "source": "知乎",
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时57分 ~ 17时56分]"
+          "time_info": "[17时55分 ~ 19时44分]"
         },
         {
           "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
@@ -355,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "美国如何在海外培植腐败政府",
@@ -472,6 +486,17 @@
           "time_info": "[00时59分 ~ 02时05分]"
         },
         {
+          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "伊朗革命卫队发言人：伊朗将对任何进一步的美国违反停火协议采取更强硬的回应。",
           "url": "https://flash.jin10.com/detail/20260628135117587800",
           "source": "金十数据",
@@ -494,6 +519,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国230斤男孩在家中去世 父母被捕",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96+%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "伊朗革命卫队海军指挥部：美国在中东地区的基地将在未来几天内经历“地狱般的日子”。",
           "url": "https://flash.jin10.com/detail/20260628090805721800",
           "source": "金十数据",
@@ -514,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "俄罗斯国防部：过去24小时内，我们击落了590架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260628180812222800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "声明显示，伊朗外交部谴责美国对南伊朗的空袭，称其违反了临时停火协议。",
@@ -544,7 +591,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -558,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "美国230斤男孩在家中去世 父母被捕",
+          "url": "https://www.toutiao.com/trending/7655868642037415979/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     }
