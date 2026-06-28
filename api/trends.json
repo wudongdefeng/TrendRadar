@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T07:57:43.120352+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-06-28T10:57:17.296907+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "轰6k与俄图95在日本海上空同框",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时57分]"
         },
         {
           "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
@@ -27,11 +28,25 @@
             15,
             13,
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时57分]"
+        },
+        {
+          "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33468283",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时57分]"
         },
         {
           "title": "美国中央司令部确认再次对伊朗进行打击",
@@ -96,18 +111,6 @@
           "time_info": "[00时59分 ~ 07时57分]"
         },
         {
-          "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33468283",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时57分]"
-        },
-        {
           "title": "日本小组第二出线，第一轮淘汰赛将挑战巴西，你认为日本赢球的概率有多大？",
           "url": "https://www.zhihu.com/question/2053776961428885843",
           "source": "知乎",
@@ -120,6 +123,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 07时57分]"
+        },
+        {
+          "title": "日本山梨县地震已致20人受伤",
+          "url": "https://flash.jin10.com/detail/20260628104535862800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "如果俄罗斯在俄乌战场使用小型战术核弹，会有什么后果？",
@@ -170,6 +184,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时57分]"
+        },
+        {
+          "title": "据路透社：美国官员表示，伊朗局势仍在演变中。目前在该地区没有报告美国人员伤亡或对美国地点造成重大影响或损害。伊朗向包括巴林和科威特在内的邻国发射了多枚导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260628095136295800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "欧洲地中海地震中心：日本本州东海岸附近发生6级地震。",
@@ -272,6 +297,17 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
+          "title": "美国如何在海外培植腐败政府",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%9F%B9%E6%A4%8D%E8%85%90%E8%B4%A5%E6%94%BF%E5%BA%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "以色列国防部长卡茨：与美国和黎巴嫩签署的协议是一个历史性事件，也是以色列重要的政治和安全成就。",
           "url": "https://flash.jin10.com/detail/20260628000420594800",
           "source": "金十数据",
@@ -308,6 +344,17 @@
           "time_info": "[04时04分 ~ 05时56分]"
         },
         {
+          "title": "淘汰赛日本将迎战巴西",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%97%A5%E6%9C%AC%E5%B0%86%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们并未参与伊朗与美国的协议，我们有利益需要与华盛顿讨论。",
           "url": "https://flash.jin10.com/detail/20260628022349851800",
           "source": "金十数据",
@@ -318,6 +365,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时04分 ~ 05时56分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "俄罗斯为什么防不住乌克兰无人机",
@@ -341,6 +399,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "伊朗革命卫队海军指挥部：美国在中东地区的基地将在未来几天内经历“地狱般的日子”。",
+          "url": "https://flash.jin10.com/detail/20260628090805721800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "伊朗革命卫队海军指挥部：美国对西里克的盲目攻击并不能解决我们对霍尔木兹海峡控制的谜团，但我们对违规者的攻击是在提醒其他船只清晰的通行路径。",
+          "url": "https://flash.jin10.com/detail/20260628090751755800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：美国以革命卫队海军对侵犯船只进行对抗为借口，袭击了五个伊朗沿海哨所。",
+          "url": "https://flash.jin10.com/detail/20260628083912525800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队海军和航空航天部队在科威特和巴林发起联合导弹和无人机行动，以回应美国近期的打击。",
+          "url": "https://flash.jin10.com/detail/20260628083657263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     }
