@@ -1,166 +1,12 @@
 {
-  "generated_at": "2026-06-29T22:43:23.170649+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-06-30T01:29:31.882011+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 133,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
-          "url": "https://wallstreetcn.com/articles/3775686",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "“我们太依赖美国，结果被关税坑惨了”",
-          "url": "https://news.ifeng.com/c/8uKOChSprsc",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 13时24分]"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "美国股灾告诉你泡沫如何收割散户",
-          "url": "https://www.toutiao.com/trending/7656455001794940458/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            18,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
-          "url": "https://www.cls.cn/detail/2411069",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
-          "url": "https://wallstreetcn.com/articles/3775686",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时26分]"
-        },
-        {
-          "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
-          "url": "https://www.zhihu.com/question/2053970381673861771",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            12,
-            9,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "美国230斤男孩在家中去世父母被捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            18,
-            14,
-            15,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 08时03分]"
-        },
-        {
-          "title": "中方在联合国发言：敦促日本深刻反省",
-          "url": "https://news.ifeng.com/c/8uLJwCpOkNO",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时24分]"
-        },
-        {
-          "title": "商务部宣布 20 家日本实体列入出口管制管控名单，20 家日本实体列入关注名单，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2054868040655943361",
-          "source": "知乎",
-          "ranks": [
-            12,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 22时43分]"
-        },
-        {
-          "title": "巴西球员：日本队有点傲慢了",
-          "url": "https://www.toutiao.com/trending/7656231733754498614/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
         {
           "title": "中国对日本再出重拳",
           "url": "https://www.toutiao.com/trending/7655812439468998675/",
@@ -168,53 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "01时29分"
         },
         {
-          "title": "日本5月零售销售 13.447万亿日元，前值13.217万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260629075123438800",
-          "source": "金十数据",
+          "title": "巴西vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "日本5月零售销售同比 5.3%，预期 3%，前值 2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3125740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "巴西VS日本前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BFVS%E6%97%A5%E6%9C%AC%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本宣布：部署岸舰导弹发射装置",
-          "url": "https://news.ifeng.com/c/8uLeKNdyw0Z",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "01时29分"
         },
         {
           "title": "日本教授：高市早苗缺乏作为首相的基本素质",
@@ -223,445 +36,86 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "01时29分"
         },
         {
-          "title": "日本5月季调后零售销售月率 1.9%，预期-0.60%，前值由1.30%修正为2.10%。",
-          "url": "https://flash.jin10.com/detail/20260629075037557800",
+          "title": "据日经新闻：日本政府预计向乐天集团牵头财团提供1500亿日元补贴。",
+          "url": "https://flash.jin10.com/detail/20260630010351518800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时29分"
         },
         {
-          "title": "美国6月达拉斯联储商业活动指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260629222000000800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本5月大型零售商销售同比 5%，前值 2%。",
-          "url": "https://wallstreetcn.com/livenews/3125739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "世界杯 32 强对阵出炉，巴西 vs 日本、法国 vs 瑞典、葡萄牙 vs 克罗地亚，你看好哪些球队晋级？",
-          "url": "https://www.zhihu.com/question/2054536470178653026",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时07分]"
-        },
-        {
-          "title": "日本5月零售销售环比 1.9%，预期 -0.5%，前值 1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3125738",
-          "source": "华尔街见闻-快讯",
+          "title": "火药味浓!日本巴西激情互怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时29分"
         },
         {
-          "title": "日本5月零售销售年率 5.3%，预期3.2%，前值由2.10%修正为2.80%。",
-          "url": "https://flash.jin10.com/detail/20260629075006805800",
-          "source": "金十数据",
+          "title": "商务部宣布 20 家日本实体列入出口管制管控名单，20 家日本实体列入关注名单，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2054868040655943361",
+          "source": "知乎",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时29分"
         },
         {
-          "title": "市场消息：美国最高法院扩大总统罢免高级官员的权力，推翻了1935年一项允许独立机构保持一定独立性的先例。",
-          "url": "https://flash.jin10.com/detail/20260629221848963800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本防卫省正考虑引进美企人工智能系统",
-          "url": "https://wallstreetcn.com/livenews/3126063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "普京：俄罗斯面临命运攸关时刻",
-          "url": "https://www.toutiao.com/trending/7655569850643041835/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "市场消息：美国最高法院支持美国总统特朗普解雇联邦贸易委员会成员。",
-          "url": "https://flash.jin10.com/detail/20260629221812054800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社，伊朗表示本周没有与美国进行技术性会谈的计划。塔斯尼姆通讯社",
-          "url": "https://wallstreetcn.com/livenews/3126058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美国加州州长纽森宣布该州与Anthropic建立合作伙伴关系。 加州州政府机构可享受CLAUDE五折优惠。",
-          "url": "https://wallstreetcn.com/livenews/3126220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本媒体人：警惕日本再次成为战争加害国",
-          "url": "https://wallstreetcn.com/livenews/3125694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时56分]"
-        },
-        {
-          "title": "美国纽约市长：初选结果表明选民渴望一种新型政治",
-          "url": "https://wallstreetcn.com/livenews/3125690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时56分]"
-        },
-        {
-          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3125689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时56分]"
-        },
-        {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://www.cls.cn/detail/2411388",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时26分]"
-        },
-        {
-          "title": "报道：美国和伊朗即将举行的谈判已被取消。",
-          "url": "https://wallstreetcn.com/livenews/3125699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "俄罗斯总统普京：乌克兰已提出停止在彼此领土上互相攻击的提议。",
-          "url": "https://flash.jin10.com/detail/20260629034328307800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "俄罗斯总统普京：各地加油站前排起长队，民众所需的汽油有时供不应求。",
-          "url": "https://flash.jin10.com/detail/20260629003823038800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "俄罗斯总统普京：（关于乌克兰提案）我们没有计划拯救基辅政权。",
-          "url": "https://flash.jin10.com/detail/20260629034321104800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "中方将20家日本实体列入管控名单",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时26分]"
-        },
-        {
-          "title": "普京承认俄罗斯国内燃油供应出现短缺 考虑全面禁止柴油出口",
-          "url": "https://flash.jin10.com/detail/20260629012159704800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 04时08分]"
-        },
-        {
-          "title": "俄罗斯总统普京：我们的主要任务是解放顿巴斯和“NOVOROSSIYA”，包括赫尔松和扎波罗热地区。",
-          "url": "https://flash.jin10.com/detail/20260629034314913800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "中国对日本再出重拳",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%8D%E5%87%BA%E9%87%8D%E6%8B%B3",
+          "title": "世界杯：巴西vs日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
           "ranks": [
-            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯已开始使用其燃料储备，但汽油库存仍与去年持平。",
-          "url": "https://flash.jin10.com/detail/20260629003706398800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "巴西vs日本",
-          "url": "https://www.douyin.com/hot/2551903",
-          "source": "抖音",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
-        },
-        {
-          "title": "俄罗斯总统普京：正在讨论对柴油出口实施全面禁令的可能性。",
-          "url": "https://flash.jin10.com/detail/20260629003651233800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "美国史上最大风电场投产，行业却步入低谷",
-          "url": "https://wallstreetcn.com/livenews/3125688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时56分]"
-        },
-        {
-          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
-          "url": "https://wallstreetcn.com/livenews/3125682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时56分]"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制交易所汽油销售配额从15%下调至10%，并限制价格波动幅度。 俄罗斯没有必要禁止柴油出口。",
-          "url": "https://wallstreetcn.com/livenews/3125677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时56分]"
-        },
-        {
-          "title": "据俄罗斯副总理诺瓦克，俄能源部还没有提出柴油出口禁令方面的建议。（国际文传通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3125675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时56分]"
-        },
-        {
-          "title": "普京最新发声：俄罗斯正处于命运攸关之际，西方企图动摇俄国内政局！",
-          "url": "https://wallstreetcn.com/articles/3775713",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 22时43分]"
-        },
-        {
-          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
-          "url": "https://wallstreetcn.com/livenews/3125699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 06时56分]"
-        },
-        {
-          "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2054540391236335233",
-          "source": "知乎",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时07分]"
-        },
-        {
-          "title": "中国代表在联合国点名日本所犯罪行",
-          "url": "https://www.toutiao.com/trending/7655885086147182611/",
+          "url": "https://www.toutiao.com/trending/7656606247496253503/",
           "source": "今日头条",
           "ranks": [
-            14,
-            21
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "巴西对阵日本内马尔或登场15分钟",
-          "url": "https://www.douyin.com/hot/2551400",
-          "source": "抖音",
+          "title": "美国内政部：宣布与杜克能源达成能源协议，降低北卡罗来纳州能源成本。杜克能源将自愿终止其价值1.29亿美元的卡罗来纳长湾海上风电租赁合同。",
+          "url": "https://flash.jin10.com/detail/20260630004229358800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "普京：俄罗斯将坚定捍卫自身根本利益",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%9D%9A%E5%AE%9A%E6%8D%8D%E5%8D%AB%E8%87%AA%E8%BA%AB%E6%A0%B9%E6%9C%AC%E5%88%A9%E7%9B%8A",
-          "source": "百度热搜",
+          "title": "日本队豪言击败巴西冲击世界杯冠军，是自信还是傲慢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33475502",
+          "source": "澎湃新闻",
           "ranks": [
-            30,
-            22,
-            29
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 05时56分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "梅德韦杰夫列举俄罗斯面临的七大挑战",
@@ -671,277 +125,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "美国230斤男孩家中去世 父母被捕",
-          "url": "https://www.toutiao.com/trending/7655868642037415979/",
+          "title": "据CNN：黎巴嫩高级官员抨击美国斡旋达成的与以色列的协议。",
+          "url": "https://flash.jin10.com/detail/20260630004035700800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "中国代表在联合国点名日本所犯罪行",
+          "url": "https://www.toutiao.com/trending/7655885086147182611/",
           "source": "今日头条",
           "ranks": [
-            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "普京最新发声：俄罗斯正处于命运攸关之际，西方企图动摇俄国内政局！",
+          "url": "https://wallstreetcn.com/articles/3775713",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "巴西vs日本首发名单",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 05时56分]"
-        },
-        {
-          "title": "于北辰210%拦截率登大陆考卷遭狠嘲",
-          "url": "https://www.toutiao.com/trending/7655694193901453354/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时24分]"
-        },
-        {
-          "title": "俄罗斯总统普京：最大的炼油厂的产能正在被充分利用。",
-          "url": "https://flash.jin10.com/detail/20260629003546431800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "俄罗斯总统普京：石油炼厂应加快维护，燃料进口应尽快安排。",
-          "url": "https://flash.jin10.com/detail/20260629032516040800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "日本铁路京都站站内发生列车脱轨事故",
-          "url": "https://flash.jin10.com/detail/20260629063239501800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时03分]"
-        },
-        {
-          "title": "世界杯：巴西vs日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
-        },
-        {
-          "title": "俄罗斯总统普京：之前积累的燃料已供应至俄罗斯国内市场。",
-          "url": "https://flash.jin10.com/detail/20260629003536111800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "俄罗斯总统普京：首要任务是提高防空系统的生产，以保护基础设施免受袭击。",
-          "url": "https://flash.jin10.com/detail/20260629032510724800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯的汽油储备达到170万吨。",
-          "url": "https://flash.jin10.com/detail/20260629003521978800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "俄罗斯总统普京：克里米亚的燃料库存足够维持几天，供应将得到保障。",
-          "url": "https://flash.jin10.com/detail/20260629032504153800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "俄罗斯总统普京：（针对有关基辅提议限制军事行动的问题）乌克兰武装部队希望将军事行动限制在四个地区，以便重新部署部队。",
-          "url": "https://flash.jin10.com/detail/20260629031436639800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时56分]"
-        },
-        {
-          "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
-          "url": "https://flash.jin10.com/detail/20260629042328972800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时56分]"
-        },
-        {
-          "title": "日本主教练回应迎战巴西",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BB%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
-        },
-        {
-          "title": "据AXIOS：美国要求以色列对协议文本作出两项修改，以确保协议达成，其中包括以色列从目前处于其占领下的黎巴嫩南部一个村庄撤军，以及明确表示这将标志着从黎巴嫩撤出的更广泛进程的开始。",
-          "url": "https://flash.jin10.com/detail/20260629001624038800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "普京：俄罗斯正面临命运攸关时刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473813",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 22时43分]"
-        },
-        {
-          "title": "伊朗敦促美国为以色列“无条件”撤出黎巴嫩设定时间表",
-          "url": "https://flash.jin10.com/detail/20260628234842222800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "日本队豪言击败巴西冲击世界杯冠军，是自信还是傲慢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33475502",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "市场消息：美国最高法院拒绝允许特朗普罢免美联储理事丽莎·库克，允许丽莎·库克暂且继续留任。",
-          "url": "https://flash.jin10.com/detail/20260629221647822800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "范志毅看好日本队淘汰巴西",
-          "url": "https://www.toutiao.com/trending/7656644494602862601/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示与美国在多哈的会谈地点尚未确认。",
-          "url": "https://flash.jin10.com/detail/20260629175656558800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（6月26日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3126218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中方将20家日本实体列入出口管制名单",
-          "url": "https://www.toutiao.com/trending/7656631627371708458/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "巴西球员：日本队有点傲慢了",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%90%83%E5%91%98%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9C%89%E7%82%B9%E5%82%B2%E6%85%A2%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "01时29分"
         },
         {
           "title": "白宫：美国总统特使等本周将赴多哈参加美伊会谈",
@@ -950,64 +179,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中方将20家日本实体列入管控名单",
-          "url": "https://www.douyin.com/hot/2551276",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "德国外长：（在与美国国务卿鲁比奥会面前表示）我们将在北约内部讨论新的责任分担安排。",
-          "url": "https://flash.jin10.com/detail/20260629130108386800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "报告显示：美国许可审批停滞威胁1210亿美元风能和太阳能投资",
-          "url": "https://wallstreetcn.com/livenews/3126216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "被中方管控的20家日本实体什么来头",
-          "url": "https://www.toutiao.com/trending/7656631809635532836/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "日本硬刚巴西谁能赢",
-          "url": "https://www.toutiao.com/trending/7656427161628573738/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "01时29分"
         },
         {
           "title": "美国要改“统计方法”了！华尔街：旨在“降低”核心通胀，存在操纵风险",
@@ -1016,31 +190,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "普京：俄罗斯正处于命运攸关之际",
-          "url": "https://news.ifeng.com/c/8uKlWY8iNtz",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "普京最新发声：俄罗斯面临命运攸关时刻",
-          "url": "https://news.ifeng.com/c/8uKlWY8iNtz",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "01时29分"
         },
         {
           "title": "释新闻｜中方将日本20家实体列入出口管控名单，这些实体什么背景",
@@ -1049,295 +201,163 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "俄罗斯总统普京：对俄罗斯能源基础设施的袭击正在造成问题。",
-          "url": "https://flash.jin10.com/detail/20260629030703356800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
-          "url": "https://flash.jin10.com/detail/20260629072439714800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "巴西国脚说不出日本球员全场哄笑",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E5%9B%BD%E8%84%9A%E8%AF%B4%E4%B8%8D%E5%87%BA%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E5%85%A8%E5%9C%BA%E5%93%84%E7%AC%91",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯所有受损的能源设施正在迅速恢复，且一切运作均有较大安全余地。",
-          "url": "https://flash.jin10.com/detail/20260629030656228800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "本周重要事件与数据预告：美国非农、美英加欧四大央行聚首、三星和SK海力士将公布投资“大动作”",
-          "url": "https://flash.jin10.com/detail/20260629072331442800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "特朗普遭遇挫折 美国最高法院认可邮寄选票的宽限期",
-          "url": "https://flash.jin10.com/detail/20260629221213800800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "孙颖莎将迎来本届美国大满贯首秀",
-          "url": "https://www.toutiao.com/trending/7656332910807482422/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "日本足球能掀翻巴西吗",
-          "url": "https://www.toutiao.com/trending/7656728489860533806/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "巨浪来袭！美国养老金即将被动调仓 300亿美元卖盘已在路上",
-          "url": "https://www.cls.cn/detail/2411472",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯的燃料短缺并不严重。",
-          "url": "https://flash.jin10.com/detail/20260629030625538800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "美国国务卿鲁比奥和美国总统特使威特科夫今天将向众议院和参议院汇报伊朗局势。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3126211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
-          "url": "https://flash.jin10.com/detail/20260629024615359800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "以色列总理办公室：以色列已提前通知美国将对真主党进行攻击。",
-          "url": "https://flash.jin10.com/detail/20260629040457129800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "中方将20家日本实体列入出口管制名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "消息称日本拟引进对舰攻击无人潜艇，将如何影响亚太地区军事平衡？",
-          "url": "https://www.zhihu.com/question/2054636755316430235",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
-          "url": "https://flash.jin10.com/detail/20260629024517840800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "WTT 美国大满贯，王楚钦 3-0 周启豪，晋级 32 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054866069215344005",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "01时29分"
         },
         {
           "title": "巴西队称日本前锋发言傲慢，此前日本队称内马尔以及巴西状态不佳，如何看待这一发言？你认为哪方胜算更大？",
           "url": "https://www.zhihu.com/question/2054902291505705168",
           "source": "知乎",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国最高法院做出历史性判决，扩大总统解职联邦高级官员的权力",
+          "url": "https://wallstreetcn.com/livenews/3126265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "日本主教练回应迎战巴西",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BB%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美联储理事库克在一份声明中表示，美国最高法院6月29日的裁决“重申了一项支撑数代稳健经济管理的原则：美联储必须在不受政治干预的情况下，完全基于证据和独立判断作出所有政策决策”。",
+          "url": "https://wallstreetcn.com/livenews/3126262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "普京：俄罗斯正面临命运攸关时刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473813",
+          "source": "澎湃新闻",
+          "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本前锋言论激怒巴西",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%94%8B%E8%A8%80%E8%AE%BA%E6%BF%80%E6%80%92%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "全网懂球人聊聊日本能战胜巴西吗",
-          "url": "https://www.douyin.com/hot/2551518",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "巴西前锋说不出日本球员全场哄笑",
-          "url": "https://www.toutiao.com/trending/7655651837168815659/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "景顺调查：61%的央行认为美国债务水平对美元作为储备资产的长期地位产生负面影响。",
-          "url": "https://flash.jin10.com/detail/20260629070243839800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时29分"
         },
         {
           "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2054881323324651014",
           "source": "知乎",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "曾沛慈和老公一起回台湾",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%92%8C%E8%80%81%E5%85%AC%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "01时29分"
         },
         {
-          "title": "景顺调查：“若干机构”正在重新评估对美国托管机构、交易对手及清算基础设施的依赖。",
-          "url": "https://flash.jin10.com/detail/20260629070216920800",
+          "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
+          "url": "https://wallstreetcn.com/livenews/3126259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "据CNBC：美国联邦贸易委员会（FTC）前委员斯劳特表示，对美国最高法院的裁决感到失望。",
+          "url": "https://flash.jin10.com/detail/20260629235805984800",
           "source": "金十数据",
           "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "德银：6月底买盘料将使美国国债收益率曲线趋平",
+          "url": "https://wallstreetcn.com/livenews/3126258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "巴西vs日本",
+          "url": "https://www.douyin.com/hot/2551903",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "巴西若输日本将创36年最差纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%8B%A5%E8%BE%93%E6%97%A5%E6%9C%AC%E5%B0%86%E5%88%9B36%E5%B9%B4%E6%9C%80%E5%B7%AE%E7%BA%AA%E5%BD%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "日本航空自卫队改编为「航空宇宙自卫队」，日本加速太空军事化有何目的？其实力如何？",
+          "url": "https://www.zhihu.com/question/2053776038761699085",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.740%，投标倍数2.32。 拍卖六个月期国债，得标利率3.840%，投标倍数2.58。",
+          "url": "https://wallstreetcn.com/livenews/3126256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时29分"
         },
         {
-          "title": "日本主帅：对战胜巴西很有信心",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%EF%BC%9A%E5%AF%B9%E6%88%98%E8%83%9C%E5%B7%B4%E8%A5%BF%E5%BE%88%E6%9C%89%E4%BF%A1%E5%BF%83",
+          "title": "日本世界杯淘汰赛历史0胜",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%8E%86%E5%8F%B20%E8%83%9C",
           "source": "百度热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "01时29分"
         },
         {
           "title": "日本京都站发生列车脱轨事故",
@@ -1346,196 +366,53 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "01时29分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
-          "url": "https://flash.jin10.com/detail/20260629173551889800",
+          "title": "市场消息：美国取消了杜克能源位于北卡罗来纳州近海的一项海上风电租约。",
+          "url": "https://flash.jin10.com/detail/20260629234416479800",
           "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "01时29分"
         },
         {
-          "title": "世界杯巴西vs日本前瞻",
-          "url": "https://www.toutiao.com/trending/7656316906397384713/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本世界杯淘汰赛历史0胜",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%8E%86%E5%8F%B20%E8%83%9C",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "特朗普要拆掉美国几十年对伊制裁体系！真正难倒他的，却是华尔街",
-          "url": "https://flash.jin10.com/detail/20260629121218998800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "美国加州州长纽森宣布与Anthropic建立合作伙伴关系，加州机构将以50%的折扣获得Claude访问权限。",
-          "url": "https://flash.jin10.com/detail/20260629220548013800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "日本拟明年正式启动海底稀土开发计划",
-          "url": "https://www.toutiao.com/trending/7655960749525008390/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260628220938422800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国将部分实体从与俄罗斯相关的制裁名单中移除。",
-          "url": "https://flash.jin10.com/detail/20260629220436656800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "俄罗斯将考虑6月29日实施全面的柴油出口禁令。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3125674",
+          "title": "美国最高法院裁定邮寄选票在选举日后送达依然有效",
+          "url": "https://wallstreetcn.com/livenews/3126252",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "01时29分"
         },
         {
-          "title": "杨毅董路预测日本巴西",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%AF%85%E8%91%A3%E8%B7%AF%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "美国最高法院：周二将发布剩余法律意见书。",
+          "url": "https://wallstreetcn.com/livenews/3126251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "01时29分"
         },
         {
-          "title": "美国“反悔”？鲁比奥：美俄安克雷奇会晤并未达成协议",
-          "url": "https://wallstreetcn.com/livenews/3125672",
+          "title": "SpaceX推动美国股票发行规模创下2510亿美元的半年最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3126250",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "专家：福建舰穿越台湾海峡显示决心",
-          "url": "https://www.toutiao.com/trending/7655580792210554916/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "小勒布伦WTT美国大满贯开门红",
-          "url": "https://www.toutiao.com/trending/7655918812890660902/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中俄联合巡航阵容强大 日本慌了？",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA%E9%98%B5%E5%AE%B9%E5%BC%BA%E5%A4%A7+%E6%97%A5%E6%9C%AC%E6%85%8C%E4%BA%86%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "习近平会见白俄罗斯总统卢卡申科",
-          "url": "https://wallstreetcn.com/livenews/3125836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "中国再对日本出重拳",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%87%BA%E9%87%8D%E6%8B%B3%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3125668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "01时29分"
         }
       ]
     }
