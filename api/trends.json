@@ -1,943 +1,154 @@
 {
-  "generated_at": "2026-06-30T21:05:53.293759+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-01T00:18:20.222834+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 167,
+      "match_count": 41,
       "titles": [
         {
-          "title": "惊险翻盘,巴西绝杀日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
+          "title": "美国能源信息署（EIA）：美国4月份天然气液产量增加3.9万桶/日，达到790.3万桶/日（3月份为786.4万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260701000318913800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            3,
-            5,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时45分 ~ 21时05分]"
-        },
-        {
-          "title": "日本队豪言击败巴西冲击世界杯冠军，是自信还是傲慢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33475502",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时29分 ~ 14时50分]"
-        },
-        {
-          "title": "火药味浓!日本巴西激情互怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6,
-            11,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 21时05分]"
-        },
-        {
-          "title": "巴西2-1绝杀日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时45分 ~ 21时05分]"
-        },
-        {
-          "title": "日本教授：高市早苗缺乏作为首相的基本素质",
-          "url": "https://news.ifeng.com/c/8uM3L9iDd7g",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "补时绝杀 巴西2-1淘汰日本",
-          "url": "https://www.baidu.com/s?wd=%E8%A1%A5%E6%97%B6%E7%BB%9D%E6%9D%80+%E5%B7%B4%E8%A5%BF2-1%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时45分 ~ 10时34分]"
-        },
-        {
-          "title": "释新闻｜中方将日本20家实体列入出口管控名单，这些实体什么背景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33476711",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 18时27分]"
-        },
-        {
-          "title": "中国对日本再出重拳",
-          "url": "https://www.toutiao.com/trending/7655812439468998675/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "梅德韦杰夫列举俄罗斯面临的七大挑战",
-          "url": "https://news.ifeng.com/c/8uLxCXhNQ8S",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时34分]"
-        },
-        {
-          "title": "日本反击率先破门",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%87%BB%E7%8E%87%E5%85%88%E7%A0%B4%E9%97%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 07时56分]"
-        },
-        {
-          "title": "巴西绝杀日本",
-          "url": "https://www.toutiao.com/trending/7656885041292722222/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时45分 ~ 10时34分]"
-        },
-        {
-          "title": "巴西vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054881323324651014",
-          "source": "知乎",
-          "ranks": [
-            16,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "日本淘汰",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "美国准备向某些肉类包装公司提供救助。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3126914",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            2,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 07时56分]"
-        },
-        {
-          "title": "土耳其总统要摧毁以色列？内塔尼亚胡：将向美国告状",
-          "url": "https://news.ifeng.com/c/8uN3fdPkiPZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 18时27分]"
-        },
-        {
-          "title": "中国代表在联合国点名日本所犯罪行",
-          "url": "https://www.toutiao.com/trending/7655885086147182611/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "巴西2比1日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%941%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 07时56分]"
-        },
-        {
-          "title": "输球捡垃圾,日本人又开演",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 21时05分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，巴西 2-1 绝杀日本，日本队史世界杯淘汰赛仍 0 胜，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054881323324651014",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时50分]"
-        },
-        {
-          "title": "巴西2:1绝杀日本",
-          "url": "https://www.douyin.com/hot/2551903",
-          "source": "抖音",
-          "ranks": [
-            5,
-            12,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 21时05分]"
-        },
-        {
-          "title": "商务部宣布 20 家日本实体列入出口管制管控名单，20 家日本实体列入关注名单，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2054868040655943361",
-          "source": "知乎",
-          "ranks": [
-            3,
-            14,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
           "url": "https://www.zhihu.com/question/2055222122289558459",
           "source": "知乎",
           "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 21时05分]"
-        },
-        {
-          "title": "日本遭绝杀 韩国解说开心到跳舞",
-          "url": "https://www.toutiao.com/trending/7656257858685796390/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
-          "title": "普京最新发声：俄罗斯正处于命运攸关之际，西方企图动摇俄国内政局！",
-          "url": "https://wallstreetcn.com/articles/3775713",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "白宫：美国总统特使等本周将赴多哈参加美伊会谈",
-          "url": "https://news.ifeng.com/c/8uMHUcGbxF4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "据Punchbowl：三位消息人士称，美国众议院国防拨款小组将于周三上午听取五角大楼提出的670亿美元补充拨款的简报。",
-          "url": "https://flash.jin10.com/detail/20260630073610507800",
-          "source": "金十数据",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "日本主教练回应迎战巴西",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BB%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%BF%8E%E6%88%98%E5%B7%B4%E8%A5%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "普京：俄罗斯正面临命运攸关时刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473813",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33474226",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时45分 ~ 10时34分]"
-        },
-        {
-          "title": "据日经新闻：日本政府预计向乐天集团牵头财团提供1500亿日元补贴。",
-          "url": "https://flash.jin10.com/detail/20260630010351518800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国贸易办公室（USTR）：对瑞士方面取得的进展表示欢迎；我们正致力于敲定瑞士贸易协议。",
-          "url": "https://flash.jin10.com/detail/20260630063308167800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "2026 年美加墨世界杯世界杯 1/16 决赛巴西 2:1 日本，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2055094039184249812",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时49分]"
-        },
-        {
-          "title": "美国总统特朗普：华盛顿倒影池已恢复运行并重现美观，将在7月4日后修复防水层等损坏并尽快恢复原状，同时加强对纪念碑等设施的安保，任何破坏行为将面临最高10年监禁。",
-          "url": "https://flash.jin10.com/detail/20260630045341435800",
+          "title": "市场消息：美国最高法院拒绝受理关于对18至20岁人群实施枪支限制措施合法性的案件。",
+          "url": "https://flash.jin10.com/detail/20260701000156898800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "瑞士政府：将推进落实对美贸易承诺 期待美国履行对等义务",
-          "url": "https://flash.jin10.com/detail/20260630063142805800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "日本5月失业率 2.5%，预期2.50%，前值2.50%。",
-          "url": "https://flash.jin10.com/detail/20260630073004180800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "奥本海默：将美国银行(BAC.N)评级从跑赢大市下调至持平。",
-          "url": "https://flash.jin10.com/detail/20260630182125042800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "日本球迷被强行披上巴西国旗",
-          "url": "https://www.toutiao.com/trending/7656696632339595327/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时50分]"
-        },
-        {
-          "title": "世界杯：巴西vs日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
-          "url": "https://flash.jin10.com/detail/20260630033047940800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "日本5月求才求职比 1.17，预期1.18，前值1.18。",
-          "url": "https://flash.jin10.com/detail/20260630073002238800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "伊朗总统：若美国遵守协议 伊方也将履行承诺",
-          "url": "https://wallstreetcn.com/livenews/3126690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "日本球迷被披上巴西国旗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 21时05分]"
-        },
-        {
-          "title": "球评巴西绝杀逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时50分]"
-        },
-        {
-          "title": "巴西vs日本",
-          "url": "https://www.toutiao.com/trending/7656606247496253503/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "黄健翔：说巴西差的忘了日本7-0我们",
-          "url": "https://www.toutiao.com/trending/7656786184651751450/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "日本队5进世界杯淘汰赛0胜",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F5%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B0%E8%83%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
           "url": "https://news.ifeng.com/c/8uNlbOj0m8e",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国内政部：宣布与杜克能源达成能源协议，降低北卡罗来纳州能源成本。杜克能源将自愿终止其价值1.29亿美元的卡罗来纳长湾海上风电租赁合同。",
-          "url": "https://flash.jin10.com/detail/20260630004229358800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：我想他们（伊朗方面）已启程去多哈开会。",
-          "url": "https://flash.jin10.com/detail/20260630033019264800",
+          "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
+          "url": "https://flash.jin10.com/detail/20260701000119871800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国白宫：美国总统特朗普授权暂停对从摩洛哥进口的磷酸盐肥料的某些关税。",
-          "url": "https://flash.jin10.com/detail/20260630072923721800",
+          "title": "市场消息：美国最高法院将审议拥有“攻击性武器”的权利。",
+          "url": "https://flash.jin10.com/detail/20260701000056867800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "日本主帅赛后回应淘汰出局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%E8%B5%9B%E5%90%8E%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%E5%87%BA%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时50分]"
-        },
-        {
-          "title": "王楚钦孙颖莎美国大满贯开门红",
-          "url": "https://www.douyin.com/hot/2552443",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 21时05分]"
-        },
-        {
-          "title": "日本京都站发生列车脱轨事故",
-          "url": "https://www.douyin.com/hot/2551132",
-          "source": "抖音",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
-        },
-        {
-          "title": "日本球员说被绝杀非常不甘心",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E8%AF%B4%E8%A2%AB%E7%BB%9D%E6%9D%80%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%94%98%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 07时56分]"
-        },
-        {
-          "title": "巴西队称日本前锋发言傲慢，此前日本队称内马尔以及巴西状态不佳，如何看待这一发言？你认为哪方胜算更大？",
-          "url": "https://www.zhihu.com/question/2054902291505705168",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
-        },
-        {
-          "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
-          "url": "https://flash.jin10.com/detail/20260630033732173800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "日本在外网翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%A4%96%E7%BD%91%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
-          "url": "https://flash.jin10.com/detail/20260630033555569800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "日本进球",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%BF%9B%E7%90%83&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时49分]"
-        },
-        {
-          "title": "日本淘汰赛白卷,四强全靠吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 21时05分]"
-        },
-        {
-          "title": "我看巴西绝杀日本的心路历程",
-          "url": "https://www.douyin.com/hot/2552514",
-          "source": "抖音",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 18时27分]"
-        },
-        {
-          "title": "日本半场1比0领先巴西",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%9C%BA1%E6%AF%940%E9%A2%86%E5%85%88%E5%B7%B4%E8%A5%BF",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时49分]"
-        },
-        {
-          "title": "卡塞米罗头球破门 巴西扳平日本",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E5%A1%9E%E7%B1%B3%E7%BD%97%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8+%E5%B7%B4%E8%A5%BF%E6%89%B3%E5%B9%B3%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时49分]"
-        },
-        {
-          "title": "日本航空自卫队改编为「航空宇宙自卫队」，日本加速太空军事化有何目的？其实力如何？",
-          "url": "https://www.zhihu.com/question/2053776038761699085",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "日本16强魔咒",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC16%E5%BC%BA%E9%AD%94%E5%92%92&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时49分]"
-        },
-        {
-          "title": "河野华随机采访美国二次元",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E9%87%8E%E5%8D%8E%E9%9A%8F%E6%9C%BA%E9%87%87%E8%AE%BF%E7%BE%8E%E5%9B%BD%E4%BA%8C%E6%AC%A1%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 10时34分]"
-        },
-        {
-          "title": "世界杯淘汰赛，日本对战巴西上半场 1 比 0 领先，再到最后被绝杀，大家怎么看待这个结果？",
-          "url": "https://www.zhihu.com/question/2055107869150812079",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时49分]"
-        },
-        {
-          "title": "美国要改“统计方法”了！华尔街：旨在“降低”核心通胀，存在操纵风险",
-          "url": "https://wallstreetcn.com/articles/3775718",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
-        },
-        {
-          "title": "补时绝杀！巴西2-1淘汰日本，桑巴军团晋级16强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33481442",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时50分]"
-        },
-        {
-          "title": "日本 5 战世界杯倒在淘汰赛首轮， 3 次遭逆转绝杀，你认为队内现存最大问题是什么？",
-          "url": "https://www.zhihu.com/question/2055187913390782220",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "time_info": "00时18分"
         },
         {
           "title": "5:4！美国高院“独保”美联储，最大赢家是沃什",
           "url": "https://wallstreetcn.com/articles/3775790",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "日本想夺冠，巴西没答应",
-          "url": "https://news.ifeng.com/c/8uNL1pfc0JF",
-          "source": "凤凰网",
+          "title": "市场消息：美国拟允许超音速飞机在陆地上空飞行。",
+          "url": "https://flash.jin10.com/detail/20260701000018499800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "周二亚太盘初，美国股指期货走低，纳斯达克100指数跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3126329",
+          "title": "美国财政部拍卖六周期国债，得标利率3.655%，投标倍数2.71。",
+          "url": "https://wallstreetcn.com/livenews/3126907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3126906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
           "url": "https://news.ifeng.com/c/8uNZON3SysC",
           "source": "凤凰网",
           "ranks": [
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
-          "url": "https://wallstreetcn.com/livenews/3126304",
-          "source": "华尔街见闻-快讯",
+          "title": "美国能源信息署（EIA）：美国原油日产量升至1393万桶，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260630235933036800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时49分]"
-        },
-        {
-          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3126325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时56分]"
-        },
-        {
-          "title": "日本遭读秒绝杀 森保一：我水平不够",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%AD%E8%AF%BB%E7%A7%92%E7%BB%9D%E6%9D%80+%E6%A3%AE%E4%BF%9D%E4%B8%80%EF%BC%9A%E6%88%91%E6%B0%B4%E5%B9%B3%E4%B8%8D%E5%A4%9F",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时34分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -947,1026 +158,305 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
-          "url": "https://wallstreetcn.com/livenews/3126299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时49分]"
-        },
-        {
-          "title": "美国最高法院做出历史性判决，扩大总统解职联邦高级官员的权力",
-          "url": "https://wallstreetcn.com/livenews/3126265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时45分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
-          "url": "https://wallstreetcn.com/livenews/3126296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时49分]"
-        },
-        {
-          "title": "美国内政部长Burgum：汽油价格“绝对”可以跌回3美元/加仑下方。",
-          "url": "https://wallstreetcn.com/livenews/3126279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "日本 高位逼抢",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%20%E9%AB%98%E4%BD%8D%E9%80%BC%E6%8A%A2&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "日本队淘汰赛为何未尝一胜",
-          "url": "https://www.douyin.com/hot/2552469",
-          "source": "抖音",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 18时27分]"
-        },
-        {
-          "title": "美联储理事库克在一份声明中表示，美国最高法院6月29日的裁决“重申了一项支撑数代稳健经济管理的原则：美联储必须在不受政治干预的情况下，完全基于证据和独立判断作出所有政策决策”。",
-          "url": "https://wallstreetcn.com/livenews/3126262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时45分]"
-        },
-        {
-          "title": "日本五次世界杯淘汰赛全败",
-          "url": "https://www.toutiao.com/trending/7656620412054356014/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时34分]"
-        },
-        {
-          "title": "内马尔安慰日本球员",
-          "url": "https://www.douyin.com/hot/2553088",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "巴西球员回应伸五指嘲讽日本队",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E7%90%83%E5%91%98%E5%9B%9E%E5%BA%94%E4%BC%B8%E4%BA%94%E6%8C%87%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
-          "title": "日本遭绝杀 韩国解说开心到跳舞",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%AD%E7%BB%9D%E6%9D%80+%E9%9F%A9%E5%9B%BD%E8%A7%A3%E8%AF%B4%E5%BC%80%E5%BF%83%E5%88%B0%E8%B7%B3%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "巴西若输日本将创36年最差纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%8B%A5%E8%BE%93%E6%97%A5%E6%9C%AC%E5%B0%86%E5%88%9B36%E5%B9%B4%E6%9C%80%E5%B7%AE%E7%BA%AA%E5%BD%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时45分]"
-        },
-        {
-          "title": "据CNN：黎巴嫩高级官员抨击美国斡旋达成的与以色列的协议。",
-          "url": "https://flash.jin10.com/detail/20260630004035700800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：油价已大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260630032956729800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "俄罗斯财政部：计划在第三季度出售价值1.5万亿卢布的OFZ债券。",
-          "url": "https://flash.jin10.com/detail/20260630203131999800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "标普500指数收涨86.41点，涨幅1.18%，报7440.43点。 道琼斯工业平均指数收涨306.63点，涨幅0.59%，报52182.74点。 纳斯达克综合指数（纳指）收涨522.526点，涨幅2.07%，报25820.144点。 纳斯达克100指数收涨656.513点，涨幅2.26%，报29774.751点。 纳斯达克科技市值加权指数收涨2.33%，报2890.6411点。 费城半导体指数收涨506.09点，涨幅3.83%，报13709.66点。 费城证交所KBW银行指数收涨0.18%，报182.74点。 道琼斯KBW地区银行指数收跌0.69%，报145.21点。 罗素2000指数收涨0.01%，报3010.417点，勉强连续三个交易日创收盘历史新高。 纳斯达克生物科技指数收涨1.28%，报6563.09点，连续六天创收盘历史新高。 标普中盘股400指数收涨0.31%，报3828.08点，时隔一天再创收盘历史新高。 纳斯达克美国中等市值指数涨0.57%，报3813.0588点，继续创收盘历史新高。 恐慌指数VIX收跌4.13%，报17.65，在一波短时冲高回落行情中、北京时间22:15达到19.45。",
-          "url": "https://wallstreetcn.com/livenews/3126308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
-          "url": "https://wallstreetcn.com/livenews/3126345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "日经225指数收涨0.86%，报70062.32点。 日本东证指数收涨0.52%，报3994.76点。 韩国首尔综指收涨0.97%，报8476.47点。",
-          "url": "https://wallstreetcn.com/livenews/3126536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "输球后日本球迷被强行披上巴西国旗",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%93%E7%90%83%E5%90%8E%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260630032916343800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "日本5月失业率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260630072000001800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "报道：SpaceX与美国讨论捐赠股票给“特朗普账户”",
-          "url": "https://wallstreetcn.com/livenews/3126344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "内马尔安慰日本球员",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%89%E6%85%B0%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "无人机袭击造成白俄罗斯平民伤亡，中方表态",
-          "url": "https://wallstreetcn.com/livenews/3126534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "日本财务省：5月28日至6月26日期间未进行日元汇率干预。",
-          "url": "https://wallstreetcn.com/livenews/3126684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "巴西vs日本首发名单",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260630032736175800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：如果俄罗斯不结束战争，届时仍将不得不再次推迟这一期限。",
-          "url": "https://flash.jin10.com/detail/20260630031632901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美国战储石油库存降至1983年以来的最低水平",
-          "url": "https://flash.jin10.com/detail/20260630041102411800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：自俄乌冲突全面升级以来，俄罗斯军方已先后15次设定全面占领顿涅茨克地区的最后期限，但均未实现。",
-          "url": "https://flash.jin10.com/detail/20260630031601604800",
+          "title": "数据公布错漏频出，监管机构称美国劳工统计局需加强数据保护",
+          "url": "https://flash.jin10.com/detail/20260630235636390800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据日经新闻：日本和印度将就氨和氢气生产合作达成协议。",
-          "url": "https://flash.jin10.com/detail/20260630060225495800",
-          "source": "金十数据",
+          "title": "观察机构认为：美国劳工统计局（BLS）自2024年以来采取的数据发布措施是不适当的。 BLX仍然需要增强其数据测试和CPI来源。 72家网站服务商接触了2024年年初的美国CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3126901",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时49分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国财长贝森特：尚未看到6月份的就业数据。 如果6月份的就业数据非常强劲，我不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3126787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
-          "url": "https://flash.jin10.com/detail/20260630070512009800",
+          "title": "美国能源信息署（EIA）：美国航空煤油供应在4月份上升至180万桶/日，为2025年8月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260630235510549800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国财长贝森特：石油公司是否存在价格欺诈，“我们将拭目以待”。 鼓励汽油零售商“成为守规矩的参与者”。 正在关注汽油零售商。",
-          "url": "https://wallstreetcn.com/livenews/3126786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "巴西绝杀日本：漫画般结局换了主角",
-          "url": "https://www.toutiao.com/trending/7656953243729137206/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "日本队将获17.8亿日元奖金",
-          "url": "https://www.toutiao.com/trending/7656569928358789174/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "市场消息：美国众议院通过儿童在线安全相关立法。",
-          "url": "https://flash.jin10.com/detail/20260630070455347800",
+          "title": "美国能源信息署（EIA）：美国4月成品车用汽油供应量升至912万桶/日，为2025年8月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260630235135012800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "日本最大电力公司JERA：与泰国电力公司签署谅解备忘录，合作开发泰国氢能和氨的价值链。",
-          "url": "https://flash.jin10.com/detail/20260630101957965800",
+          "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
+          "url": "https://flash.jin10.com/detail/20260630235100163800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "日本官员呼吁央行采取“促进经济增长”的政策",
-          "url": "https://flash.jin10.com/detail/20260630181649368800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "美国贸易办公室（USTR）：正致力于敲定瑞士贸易协议。 对瑞士方面取得的进展表示欢迎。",
-          "url": "https://wallstreetcn.com/livenews/3126338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "2026 年 WTT 美国大满贯，国乒自带球桌是真实的吗？",
-          "url": "https://www.zhihu.com/question/2053789215197078646",
-          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "00时18分"
         },
         {
-          "title": "武磊：日本队有能力跟任何强队抗衡",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E6%9C%89%E8%83%BD%E5%8A%9B%E8%B7%9F%E4%BB%BB%E4%BD%95%E5%BC%BA%E9%98%9F%E6%8A%97%E8%A1%A1",
-          "source": "百度热搜",
+          "title": "输球捡垃圾,日本人又开演",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国4月汽油出口降至72.6万桶/日（3月为80.3万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260630235016849800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "00时18分"
         },
         {
-          "title": "日本队获17亿日元奖金",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%8E%B717%E4%BA%BF%E6%97%A5%E5%85%83%E5%A5%96%E9%87%91",
-          "source": "百度热搜",
+          "title": "惊险翻盘,巴西绝杀日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
           "ranks": [
-            16
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
-          "url": "https://flash.jin10.com/detail/20260630040343836800",
+          "title": "王楚钦孙颖莎美国大满贯开门红",
+          "url": "https://www.douyin.com/hot/2552443",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
+          "url": "https://www.zhihu.com/question/2050396904736002428",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国4月精炼油品出口总量升至356.7万桶/日，3月为340.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260630234955982800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国战略石油储备的石油库存减少550万桶，降至1983年以来最低",
-          "url": "https://wallstreetcn.com/livenews/3126301",
+          "title": "美国最高法院声明：我们尚未就大法官Alito退休问题发布公告。",
+          "url": "https://wallstreetcn.com/livenews/3126894",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国4月馏分燃料油出口升至159.7万桶/日，3月为134.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260630234933097800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "00时18分"
         },
         {
-          "title": "分析师：日元跌至40年低位 日本股市有望走强",
-          "url": "https://flash.jin10.com/detail/20260630065623404800",
+          "title": "日本淘汰赛白卷,四强全靠吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国原油出口在四月份上升至559.3万桶/日（三月份为404.3万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260630234913081800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
-          "url": "https://wallstreetcn.com/livenews/3126259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "日本博主：日本足球真的垃圾",
-          "url": "https://www.toutiao.com/trending/7656893417322102822/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "据CNBC：美国联邦贸易委员会（FTC）前委员斯劳特表示，对美国最高法院的裁决感到失望。",
-          "url": "https://flash.jin10.com/detail/20260629235805984800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普： 我很荣幸地宣布，我提名凯斯·E·桑德林（Keith E. Sonderling）担任美国劳工部的常任部长。",
-          "url": "https://flash.jin10.com/detail/20260630065224546800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "愿意聘用外籍毕业生的美国企业正在减少",
-          "url": "https://flash.jin10.com/detail/20260630181419902800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "美国财长贝森特：尚未看到6月份的就业数据。如果6月份的就业数据非常强劲，我不会感到惊讶。",
-          "url": "https://flash.jin10.com/detail/20260630202221281800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "德银：6月底买盘料将使美国国债收益率曲线趋平",
-          "url": "https://wallstreetcn.com/livenews/3126258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3126328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "巴西vs日本",
-          "url": "https://www.douyin.com/hot/2551903",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国财长贝森特：我们正在关注汽油零售商。",
-          "url": "https://flash.jin10.com/detail/20260630202125490800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "陆慷会见美国哈佛大学教授艾利森",
-          "url": "https://wallstreetcn.com/livenews/3126776",
+          "title": "美国克利夫兰联储主席Hammack：并没有在经济中看到大量政策限制（的影响）。",
+          "url": "https://wallstreetcn.com/livenews/3126890",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "武磊：日本队有能力跟任何强队抗衡",
-          "url": "https://www.toutiao.com/trending/7656663266518548516/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "库尼亚赛后伸五指嘲讽日本",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%B0%BC%E4%BA%9A%E8%B5%9B%E5%90%8E%E4%BC%B8%E4%BA%94%E6%8C%87%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
-          "url": "https://flash.jin10.com/detail/20260630034422150800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "据Politico：美国众议院规则委员会当地时间周一晚间通过了一项程序性措施，为共和党提出的1.1万亿美元国防政策法案、政府拨款法案以及其他共和党法案安排进入众议院全体会议辩论。",
-          "url": "https://flash.jin10.com/detail/20260630100523312800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美国财长贝森特：现在是为美国人民采取行动的时候了。",
-          "url": "https://flash.jin10.com/detail/20260630202115148800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.740%，投标倍数2.32。 拍卖六个月期国债，得标利率3.840%，投标倍数2.58。",
-          "url": "https://wallstreetcn.com/livenews/3126256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "伊朗：国际原子能机构仍未获准进入受损核设施。 美国在执行谅解备忘录过程中仍存在“重大挑战”。",
-          "url": "https://wallstreetcn.com/livenews/3126775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本队赛前有多狂赛后有多凉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%9F%E8%B5%9B%E5%89%8D%E6%9C%89%E5%A4%9A%E7%8B%82%E8%B5%9B%E5%90%8E%E6%9C%89%E5%A4%9A%E5%87%89%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "日本世界杯淘汰赛历史0胜",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%8E%86%E5%8F%B20%E8%83%9C",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：SpaceX(SPCX.O)与美国政府讨论向“特朗普账户”捐赠股票事宜。",
-          "url": "https://flash.jin10.com/detail/20260630064846082800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "日本2年期国债收益率下降4个基点，至1.355%。",
-          "url": "https://flash.jin10.com/detail/20260630142205698800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "日本主帅：未能夺冠深感抱歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%A4%BA%E5%86%A0%E6%B7%B1%E6%84%9F%E6%8A%B1%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美国总统特朗普：与《保障美国选民资格法案》相比，其他事情都显得无足轻重。",
-          "url": "https://flash.jin10.com/detail/20260630033950897800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美国财长贝森特：“我们会看看”石油公司是否存在价格操纵。鼓励汽油零售商“守规矩”。",
-          "url": "https://flash.jin10.com/detail/20260630201954208800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "如何评价日本对战巴西表现",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%88%98%E5%B7%B4%E8%A5%BF%E8%A1%A8%E7%8E%B0",
+          "title": "日本球迷被披上巴西国旗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时18分"
         },
         {
-          "title": "市场消息：美国取消了杜克能源位于北卡罗来纳州近海的一项海上风电租约。",
-          "url": "https://flash.jin10.com/detail/20260629234416479800",
+          "title": "美国能源信息署（EIA）：美国原油及产品供应在四月份增长至每日2081万桶，为2026年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260630234347266800",
           "source": "金十数据",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据CNBC：礼来(LLY.N)和再生元制药公司(REGN.O)成为首批入选美国食品药品监督管理局新试点计划的企业。",
-          "url": "https://flash.jin10.com/detail/20260630025620363800",
-          "source": "金十数据",
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：我正在将药价降低200%、300%，甚至400%，但几乎没人谈论这件事。民主党反对这一举措，如果他们上台执政，药价将上涨300%、400%，甚至500%。",
-          "url": "https://flash.jin10.com/detail/20260630033906236800",
-          "source": "金十数据",
+          "title": "火药味浓!日本巴西激情互怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
+          "source": "贴吧",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "巴西绝杀日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "覃予萱晋级WTT美国大满贯女单32强",
-          "url": "https://www.toutiao.com/trending/7656356661874098230/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "全新问界M9现身美国街头",
-          "url": "https://www.toutiao.com/trending/7656011816505901075/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "韩国解说为何在日本被绝杀后跳舞",
-          "url": "https://www.toutiao.com/trending/7657103631874805298/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时18分"
         },
         {
           "title": "拆解日本队出局原因",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
-          "url": "https://flash.jin10.com/detail/20260630025055671800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "00时18分"
         },
         {
-          "title": "俄罗斯拟放宽油品进口，泽连斯基嘲讽普京15次目标落空",
-          "url": "https://flash.jin10.com/detail/20260630100112321800",
-          "source": "金十数据",
+          "title": "提醒：NPR撤回了之前关于“美国最高法院大法官Alito将退休”的报道。",
+          "url": "https://wallstreetcn.com/livenews/3126887",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国最高法院裁定邮寄选票在选举日后送达依然有效",
-          "url": "https://wallstreetcn.com/livenews/3126252",
+          "title": "巴西2:1绝杀日本",
+          "url": "https://www.douyin.com/hot/2551903",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美联储Hammack：美国通胀依然过高，美联储可能需要考虑加息",
+          "url": "https://wallstreetcn.com/livenews/3126885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时18分"
         },
         {
-          "title": "中国地震台网自动测定：06月30日05时15分在台湾宜兰县海域附近（北纬24.83度，东经122.13度）发生4.0级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260630051829071800",
-          "source": "金十数据",
+          "title": "内马尔安慰日本球员",
+          "url": "https://www.douyin.com/hot/2553088",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "如何评价日本对战巴西表现",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%88%98%E5%B7%B4%E8%A5%BF%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时49分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国最高法院：周二将发布剩余法律意见书。",
-          "url": "https://wallstreetcn.com/livenews/3126251",
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "SpaceX推动美国股票发行规模创下2510亿美元的半年最高纪录",
-          "url": "https://wallstreetcn.com/livenews/3126250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "中方对白俄罗斯平民伤亡表示关切",
-          "url": "https://www.toutiao.com/trending/7656964294685130795/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
-          "url": "https://flash.jin10.com/detail/20260630181048101800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "中国新一轮出口管制直指日本命脉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9B%B4%E6%8C%87%E6%97%A5%E6%9C%AC%E5%91%BD%E8%84%89%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石油 大豆 猪肉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "消息人士：伊拉克国家石油市场管理局7月大幅降低巴士拉原油价格",
-          "url": "https://flash.jin10.com/detail/20260630102458263800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "欧洲央行首席经济学家连恩：石油价格期货曲线显示未来几年油价将维持在较高水平，这意味着经济成本将上升。",
-          "url": "https://flash.jin10.com/detail/20260630142426094800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时18分"
         }
       ]
     }
