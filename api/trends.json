@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T04:53:24.226442+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-01T06:11:26.685778+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 71,
+      "match_count": 85,
       "titles": [
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             2,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国4月份天然气液产量增加3.9万桶/日，达到790.3万桶/日（3月份为786.4万桶/日）。",
@@ -49,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -65,13 +66,24 @@
           "time_info": "00时18分"
         },
         {
+          "title": "两名美国宇航员完成太空行走 更换机械臂故障部件",
+          "url": "https://wallstreetcn.com/livenews/3126997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国至6月26日当周API原油库存 -607.2万桶，预期-405万桶，前值-76.5万桶。",
           "url": "https://flash.jin10.com/detail/20260701043430744800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -82,9 +94,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "South32 Ltd.（S32.AU）将出售铝资产给美国铝业，交易价值高达56亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3126996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "市场消息：美国最高法院拒绝受理关于对18至20岁人群实施枪支限制措施合法性的案件。",
@@ -104,7 +127,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -118,6 +141,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "5:4！美国高院“独保”美联储，最大赢家是沃什",
+          "url": "https://wallstreetcn.com/articles/3775790",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
@@ -137,18 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存锐减超600万桶",
-          "url": "https://wallstreetcn.com/livenews/3126984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -181,21 +205,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "5:4！美国高院“独保”美联储，最大赢家是沃什",
-          "url": "https://wallstreetcn.com/articles/3775790",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
@@ -205,8 +217,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
+        },
+        {
+          "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
+          "url": "https://www.zhihu.com/question/2050396904736002428",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -216,21 +242,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
-        },
-        {
-          "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
-          "url": "https://www.zhihu.com/question/2050396904736002428",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "输球捡垃圾,日本人又开演",
@@ -241,8 +254,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "惊险翻盘,巴西绝杀日本",
@@ -253,8 +266,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "日本球迷被披上巴西国旗",
@@ -265,8 +278,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "日本淘汰赛白卷,四强全靠吹",
@@ -277,8 +290,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "内马尔安慰日本球员",
@@ -290,8 +303,22 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
+        },
+        {
+          "title": "拆解日本队出局原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "火药味浓!日本巴西激情互怼",
@@ -302,8 +329,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "巴西2:1绝杀日本",
@@ -315,21 +342,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
-          "title": "拆解日本队出局原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
+          "title": "行业周报：美国上周API原油库存锐减超600万桶",
+          "url": "https://wallstreetcn.com/livenews/3126984",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            25,
-            28
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时53分]"
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时11分]"
         },
         {
           "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
@@ -337,11 +363,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 06时11分]"
         },
         {
           "title": "王楚钦孙颖莎美国大满贯开门红",
@@ -349,11 +376,24 @@
           "source": "抖音",
           "ranks": [
             15,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时11分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3126981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时11分]"
         },
         {
           "title": "球评巴西绝杀逆转日本",
@@ -365,6 +405,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时32分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3126975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时11分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：部门员工不可以持有SpaceX股票。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3126961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时11分]"
         },
         {
           "title": "巴西2-1绝杀日本",
@@ -390,6 +454,18 @@
           "time_info": "[00时18分 ~ 04时53分]"
         },
         {
+          "title": "被披巴西国旗日本球迷痛哭回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%AB%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E7%97%9B%E5%93%AD%E5%9B%9E%E5%BA%94%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时11分]"
+        },
+        {
           "title": "市场消息：美国拟允许超音速飞机在陆地上空飞行。",
           "url": "https://flash.jin10.com/detail/20260701000018499800",
           "source": "金十数据",
@@ -412,6 +488,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
+          "url": "https://flash.jin10.com/detail/20260701054226191800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.655%，投标倍数2.71。",
           "url": "https://wallstreetcn.com/livenews/3126907",
           "source": "华尔街见闻-快讯",
@@ -421,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "市场消息：美国铝业公司宣布以41亿美元收购South32的铝土矿、氧化铝及铝资产。",
+          "url": "https://flash.jin10.com/detail/20260701054031985800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
@@ -434,15 +532,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3126981",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待乌称俄军导弹用了日本零件",
+          "url": "https://www.toutiao.com/trending/7657158048644861486/",
+          "source": "今日头条",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "06时11分"
         },
         {
           "title": "市场消息：美国国务院批准向新加坡政府出售AGM-114R“海尔法”（Hellfire）导弹的潜在对外军售。",
@@ -462,9 +560,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
+          "url": "https://flash.jin10.com/detail/20260701054029812800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国能源信息署（EIA）：美国原油日产量升至1393万桶，创历史新高。",
@@ -487,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
+          "url": "https://flash.jin10.com/detail/20260701052059560800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "数据公布错漏频出，监管机构称美国劳工统计局需加强数据保护",
@@ -517,7 +637,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -553,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3126975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
@@ -621,6 +730,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "卡塔尔外交部：卡塔尔首相在与美国特使威特科夫及库什纳的会晤中表示，卡塔尔将继续推进调解努力，并支持基于谅解备忘录的所有谈判路径。",
+          "url": "https://flash.jin10.com/detail/20260701050044249800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国原油出口在四月份上升至559.3万桶/日（三月份为404.3万桶/日）。",
           "url": "https://flash.jin10.com/detail/20260630234913081800",
           "source": "金十数据",
@@ -630,6 +750,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
+          "url": "https://flash.jin10.com/detail/20260701050003787800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
+          "url": "https://flash.jin10.com/detail/20260701045910278800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "以色列逮捕一名“涉嫌从事间谍活动”的美国公民",
@@ -649,9 +791,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701045751619800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：并没有在经济中看到大量政策限制（的影响）。",
@@ -663,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：部门员工不可以持有SpaceX股票。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3126961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "市场消息：美国国际贸易委员会裁定，在对墨西哥新鲜番茄的“情势变化复审”中未作出有利于调整贸易限制的决定。",
@@ -693,7 +835,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -707,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701045159164800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
@@ -731,6 +884,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美国国务卿鲁比奥：祝贺秘鲁当选总统藤森惠子赢得选举。",
+          "url": "https://flash.jin10.com/detail/20260701044909862800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "提醒：NPR撤回了之前关于“美国最高法院大法官Alito将退休”的报道。",
           "url": "https://wallstreetcn.com/livenews/3126887",
           "source": "华尔街见闻-快讯",
@@ -742,13 +906,24 @@
           "time_info": "00时18分"
         },
         {
+          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701044849105800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
           "url": "https://wallstreetcn.com/livenews/3126957",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -762,17 +937,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "被披巴西国旗日本球迷痛哭回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%AB%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E7%97%9B%E5%93%AD%E5%9B%9E%E5%BA%94%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "美国最高法院将审议拥有“攻击性武器”的权利。",
