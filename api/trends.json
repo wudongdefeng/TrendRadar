@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T12:10:21.118669+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-07-01T16:45:42.181609+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 115,
+      "match_count": 124,
       "titles": [
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "日本球迷被披上巴西国旗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            17,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 16时45分]"
         },
         {
           "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时31分 ~ 12时10分]"
-        },
-        {
-          "title": "日本球迷被披上巴西国旗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            17,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 12时10分]"
         },
         {
           "title": "输球捡垃圾,日本人又开演",
@@ -91,15 +91,20 @@
           "time_info": "[00时18分 ~ 12时10分]"
         },
         {
-          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
-          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
-          "source": "凤凰网",
+          "title": "拆解日本队出局原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            23,
+            25,
+            28,
+            20,
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 16时45分]"
         },
         {
           "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
@@ -155,19 +160,16 @@
           "time_info": "[00时18分 ~ 08时02分]"
         },
         {
-          "title": "拆解日本队出局原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
+          "title": "中方敦促美国：快点交钱",
+          "url": "https://news.ifeng.com/c/8uOlmTced5k",
+          "source": "凤凰网",
           "ranks": [
-            23,
-            25,
-            28,
-            20,
-            24
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时02分]"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时45分]"
         },
         {
           "title": "火药味浓!日本巴西激情互怼",
@@ -183,15 +185,16 @@
           "time_info": "[00时18分 ~ 08时02分]"
         },
         {
-          "title": "中方敦促美国：快点交钱",
-          "url": "https://news.ifeng.com/c/8uOlmTced5k",
+          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
+          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
           "source": "凤凰网",
           "ranks": [
-            1
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时45分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国4月份天然气液产量增加3.9万桶/日，达到790.3万桶/日（3月份为786.4万桶/日）。",
@@ -222,7 +225,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -258,6 +261,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "球评巴西绝杀逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 16时45分]"
         },
         {
           "title": "美国至6月26日当周API原油库存 -607.2万桶，预期-405万桶，前值-76.5万桶。",
@@ -310,9 +326,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "日本男球迷公然猥亵女记者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355796&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E5%85%AC%E7%84%B6%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "市场消息：美国最高法院拒绝受理关于对18至20岁人群实施枪支限制措施合法性的案件。",
@@ -357,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "德国商业银行：根据IMF规则 日本还有两次干预日元窗口",
+          "url": "https://wallstreetcn.com/livenews/3127280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
@@ -447,6 +485,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "日本物价三连跳,老百姓麻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355799&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E4%B8%89%E8%BF%9E%E8%B7%B3%2C%E8%80%81%E7%99%BE%E5%A7%93%E9%BA%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
           "url": "https://news.ifeng.com/c/8uNZON3SysC",
           "source": "凤凰网",
@@ -467,19 +516,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 06时11分]"
-        },
-        {
-          "title": "球评巴西绝杀逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 12时10分]"
         },
         {
           "title": "内马尔安慰日本球员",
@@ -508,6 +544,18 @@
           "time_info": "[00时18分 ~ 06时11分]"
         },
         {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时45分]"
+        },
+        {
           "title": "行业周报：美国上周API原油库存锐减超600万桶",
           "url": "https://wallstreetcn.com/livenews/3126984",
           "source": "华尔街见闻-快讯",
@@ -518,6 +566,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时11分]"
+        },
+        {
+          "title": "日本政坛，发生稀奇一幕(图)",
+          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时45分]"
         },
         {
           "title": "王楚钦孙颖莎美国大满贯开门红",
@@ -546,17 +605,6 @@
           "time_info": "[00时18分 ~ 08时02分]"
         },
         {
-          "title": "日本政坛，发生稀奇一幕(图)",
-          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时10分]"
-        },
-        {
           "title": "巴西2-1绝杀日本",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
           "source": "bilibili 热搜",
@@ -579,6 +627,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时11分]"
+        },
+        {
+          "title": "美国5月JOLTS职位空缺小幅回升至759万人，高于预期，劳动力需求保持稳定",
+          "url": "https://wallstreetcn.com/articles/3775872",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时45分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -615,6 +674,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时11分]"
+        },
+        {
+          "title": "中方回应美国解除对伊单边制裁",
+          "url": "https://news.ifeng.com/c/8uPFngdR3ec",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "市场消息：美国拟允许超音速飞机在陆地上空飞行。",
@@ -678,7 +748,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -716,6 +786,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
+          "url": "https://wallstreetcn.com/articles/3775902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "市场消息：美国国务院批准向新加坡政府出售AGM-114R“海尔法”（Hellfire）导弹的潜在对外军售。",
           "url": "https://flash.jin10.com/detail/20260701014911636800",
           "source": "金十数据",
@@ -749,15 +830,15 @@
           "time_info": "06时11分"
         },
         {
-          "title": "美国5月JOLTS职位空缺小幅回升至759万人，高于预期，劳动力需求保持稳定",
-          "url": "https://wallstreetcn.com/articles/3775872",
-          "source": "华尔街见闻",
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "16时45分"
         },
         {
           "title": "美国能源信息署（EIA）：美国原油日产量升至1393万桶，创历史新高。",
@@ -769,6 +850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "北约秘书长：欧洲和加拿大向美国采购的武器订单已达3000亿美元",
+          "url": "https://flash.jin10.com/detail/20260701161409002800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国东部热浪来袭，世界杯赛事面临严峻考验",
@@ -843,7 +935,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -870,13 +962,24 @@
           "time_info": "00时18分"
         },
         {
+          "title": "外交部：日方应该教育提醒在华日本公民和企业遵守中国法律法规",
+          "url": "https://wallstreetcn.com/livenews/3127268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "王曼昱不敌日本削球手佐藤瞳",
           "url": "https://www.toutiao.com/trending/7656518517240741939/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -931,7 +1034,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -958,24 +1061,13 @@
           "time_info": "00时18分"
         },
         {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "日本为何输给巴西",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E8%BE%93%E7%BB%99%E5%B7%B4%E8%A5%BF",
           "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1000,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "日本物价持续上涨",
+          "url": "https://www.toutiao.com/trending/7656756619632279558/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国能源信息署（EIA）：美国原油出口在四月份上升至559.3万桶/日（三月份为404.3万桶/日）。",
@@ -1030,7 +1133,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1173,7 +1276,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1195,7 +1298,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1217,7 +1320,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1250,7 +1353,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1283,7 +1386,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
