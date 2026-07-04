@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T00:02:45.609685+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-05T01:58:16.421835+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 26,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国7舰横穿日本4大要道",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
         },
         {
           "title": "普京首次承认缺油，被指准备从日本进口航空燃油",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,19 +37,54 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
+          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260705013538607800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "董路：中国足球小将现在就能超越日本",
           "url": "https://www.toutiao.com/trending/7657769293937098798/",
           "source": "今日头条",
           "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "随着日本队被绝杀，地理意义上的亚洲球队全部告别世界杯，你觉得亚洲足球的整体水平是进步了还是退步了？",
+          "url": "https://www.zhihu.com/question/2055227215474856026",
+          "source": "知乎",
+          "ranks": [
+            12,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
         },
         {
           "title": "王楚钦孙颖莎不敌韩国组合，获WTT美国大满贯赛混双亚军",
@@ -59,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
         },
         {
           "title": "日本“首次”从废旧空调中提取稀土，网民吐槽",
@@ -70,8 +105,124 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "近四成美国人不相信国家能延续 250 年，原因是什么？",
+          "url": "https://www.zhihu.com/question/2051787784281646934",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "日本首次公布跟踪中国航母视频",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "董路：中国足球小将现在就能超越日本",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%8E%B0%E5%9C%A8%E5%B0%B1%E8%83%BD%E8%B6%85%E8%B6%8A%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
+        },
+        {
+          "title": "酱油日本特有?日网友醒醒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时58分]"
         },
         {
           "title": "独砍27分，日本男篮归化球员霍金森：每支队伍都有自己优势",
@@ -85,48 +236,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
+          "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
+          "url": "https://flash.jin10.com/detail/20260705011249100800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
-          "title": "日本首次公布跟踪中国航母视频",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E8%B7%9F%E8%B8%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
+          "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
+          "url": "https://flash.jin10.com/detail/20260705011106298800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
+          "url": "https://flash.jin10.com/detail/20260705011006115800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
-          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
           "title": "据塔斯社：俄罗斯国防部表示，他们的部队正在清除利曼镇的乌克兰军队。",
@@ -151,17 +291,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "随着日本队被绝杀，地理意义上的亚洲球队全部告别世界杯，你觉得亚洲足球的整体水平是进步了还是退步了？",
-          "url": "https://www.zhihu.com/question/2055227215474856026",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "据塔斯社：俄罗斯总统普京签署法律修订税法以支持国内燃料市场。",
           "url": "https://flash.jin10.com/detail/20260704213006038800",
           "source": "金十数据",
@@ -171,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
+          "url": "https://flash.jin10.com/detail/20260705005401003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
@@ -184,15 +324,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "一碗面38块,日本还在吹经济",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
-          "source": "贴吧",
+          "title": "俄罗斯国防部表示，俄罗斯提议周一在康斯坦丁诺夫卡实施六小时停火，以便移交遗体。俄方预计乌克兰将在周日中午前对这一停火提议作出回应。",
+          "url": "https://flash.jin10.com/detail/20260705004856126800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
           "title": "乌克兰能源公司DTEK：俄罗斯在乌克兰东部袭击了一家煤矿企业，造成一名矿工死亡，五名矿工受伤。",
@@ -206,15 +346,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "近四成美国人不相信国家能延续 250 年，原因是什么？",
-          "url": "https://www.zhihu.com/question/2051787784281646934",
-          "source": "知乎",
+          "title": "据俄罗斯卫星通讯社：俄罗斯准备开展人道主义行动，在康斯坦丁诺夫卡移交乌克兰武装部队阵亡军人的遗体。",
+          "url": "https://flash.jin10.com/detail/20260705004612044800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -228,26 +368,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
+          "title": "据塔斯社：克里姆林宫发言人佩斯科夫表示，乌克兰总统泽连斯基只要准备好做出重要且负责任的决定，就可以随时来莫斯科与俄罗斯总统普京会晤。",
+          "url": "https://flash.jin10.com/detail/20260705003948104800",
+          "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
         },
         {
-          "title": "日本男演员片场骚扰女明星",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
-          "source": "贴吧",
+          "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
+          "url": "https://flash.jin10.com/detail/20260705001145696800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美国财政部正式推出“特朗普账户”应用程序",
+          "url": "https://flash.jin10.com/detail/20260705001056251800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "日本首次公布跟踪中国航母视频",
@@ -255,28 +406,6 @@
           "source": "微博",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "董路：中国足球小将现在就能超越日本",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%8E%B0%E5%9C%A8%E5%B0%B1%E8%83%BD%E8%B6%85%E8%B6%8A%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "酱油日本特有?日网友醒醒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
