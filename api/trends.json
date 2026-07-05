@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T17:36:52.619791+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-07-05T19:24:45.960091+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 96,
+      "match_count": 103,
       "titles": [
         {
           "title": "中国7舰横穿日本4大要道",
@@ -96,11 +96,12 @@
             20,
             22,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 17时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 19时24分]"
         },
         {
           "title": "日本男演员片场骚扰女明星",
@@ -210,30 +211,32 @@
           "time_info": "[00时02分 ~ 05时51分]"
         },
         {
-          "title": "美光在日本广岛晶圆厂扩建动工，投资约93亿美元布局HBM产能",
-          "url": "https://wallstreetcn.com/livenews/3128961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 17时36分]"
-        },
-        {
           "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
           "url": "https://www.zhihu.com/question/2056872271713678232",
           "source": "知乎",
           "ranks": [
             5,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 19时24分]"
+        },
+        {
+          "title": "美光在日本广岛晶圆厂扩建动工，投资约93亿美元布局HBM产能",
+          "url": "https://wallstreetcn.com/livenews/3128961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。",
@@ -245,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "国乒包揽WTT美国大满贯男女双冠军",
-          "url": "https://www.toutiao.com/trending/7658922081005866559/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "美国总统特朗普：无论如何都会发表演讲。",
@@ -302,6 +294,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "美国国防部启动碳酸锂战略收储，五年拟采购1.62万吨补充国防储备",
+          "url": "https://wallstreetcn.com/livenews/3128956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 19时24分]"
         },
         {
           "title": "俄罗斯国防部：6月份约有1.3万个空中目标在俄罗斯上空被击落。",
@@ -370,24 +376,25 @@
           "source": "今日头条",
           "ranks": [
             2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时36分]"
-        },
-        {
-          "title": "美国国防部启动碳酸锂战略收储，五年拟采购1.62万吨补充国防储备",
-          "url": "https://wallstreetcn.com/livenews/3128956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            21
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时12分 ~ 17时36分]"
+          "time_info": "[14时32分 ~ 19时24分]"
+        },
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时24分]"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -426,18 +433,6 @@
           "time_info": "[10时12分 ~ 14时32分]"
         },
         {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时36分]"
-        },
-        {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
           "url": "https://flash.jin10.com/detail/20260705015152155800",
           "source": "金十数据",
@@ -472,6 +467,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时12分]"
+        },
+        {
+          "title": "国乒包揽WTT美国大满贯男女双冠军",
+          "url": "https://www.toutiao.com/trending/7658922081005866559/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 19时24分]"
         },
         {
           "title": "以色列总理内塔尼亚胡表示，昨天与美国总统特朗普通了电话，已同意很快在美国与特朗普会面。",
@@ -691,6 +698,17 @@
           "time_info": "[04时45分 ~ 05时51分]"
         },
         {
+          "title": "美国飞行员在印尼遭枪杀，遗体被找到画面曝光",
+          "url": "https://news.ifeng.com/c/8uVozFIQD2y",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 19时24分]"
+        },
+        {
           "title": "为找稀土 日本开始拆空调了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E6%89%BE%E7%A8%80%E5%9C%9F+%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E6%8B%86%E7%A9%BA%E8%B0%83%E4%BA%86",
           "source": "百度热搜",
@@ -724,6 +742,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "市场消息：伊拉克与美国油服巨头哈里伯顿签署管理两个油田的协议和声明。",
+          "url": "https://flash.jin10.com/detail/20260705183035230800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美网友：日本被轰炸过还对我们好",
           "url": "https://www.toutiao.com/trending/7658235956931084342/",
           "source": "今日头条",
@@ -744,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
+          "url": "https://wallstreetcn.com/articles/3776210",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "俄罗斯新识别系统可强制民用无人机降落",
@@ -801,15 +841,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国飞行员在印尼遭枪杀，遗体被找到画面曝光",
-          "url": "https://news.ifeng.com/c/8uVozFIQD2y",
-          "source": "凤凰网",
+          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼调整产量，重申对市场稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20260705181641262800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "19时24分"
         },
         {
           "title": "据塔斯社：俄罗斯国防部表示，俄军已在乌克兰东部攻下5个居民点。",
@@ -840,7 +880,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -898,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "美国“独立日”发生枪击事件 8人受伤",
+          "url": "https://flash.jin10.com/detail/20260705175626412800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "俄罗斯联邦安全会议副主席梅德韦杰夫：俄罗斯愿继续同伊朗发展战略伙伴关系。",
@@ -1027,9 +1078,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "蒯曼 4-3 逆转日本削球手佐藤瞳，晋级 WTT 美国大满贯女单四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2057077247014614163",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "台籍博士：部分台湾青年对大陆有误解",
@@ -1038,7 +1100,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -1129,6 +1191,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "美国医生发现男婴在喘息仍宣告死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8F%91%E7%8E%B0%E7%94%B7%E5%A9%B4%E5%9C%A8%E5%96%98%E6%81%AF%E4%BB%8D%E5%AE%A3%E5%91%8A%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "美国施压多国阻挠联合国审议涉古议题",
+          "url": "https://www.toutiao.com/trending/7658973090642903078/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "普京首次承认俄罗斯缺油",
