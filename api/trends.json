@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:12:33.902592+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-06T20:38:35.318584+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
         {
           "title": "日本为找稀土开始拆空调了",
@@ -56,11 +56,12 @@
             15,
             16,
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 16时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 20时38分]"
         },
         {
           "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
@@ -177,6 +178,28 @@
           "time_info": "[03时22分 ~ 06时55分]"
         },
         {
+          "title": "美国国庆日为何异象四起",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "阿塞拜疆召见俄罗斯特使。",
+          "url": "https://flash.jin10.com/detail/20260706202736244800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "据华尔街日报：美国航空航天局（NASA）局长贾里德·艾萨克曼不顾美国联邦航空管理局（FAA）反对，驾驶复古战机参加华盛顿航展。艾萨克曼曾邀请美国财长贝森特、白宫办公厅副主任丹·斯卡维诺以及特朗普高级顾问克里斯·拉西维塔等白宫官员乘坐飞机，但这些安排最终被取消。",
           "url": "https://flash.jin10.com/detail/20260706071640269800",
           "source": "金十数据",
@@ -194,7 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -204,11 +227,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 16时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 20时38分]"
+        },
+        {
+          "title": "WTT美国大满贯国乒3冠",
+          "url": "https://www.toutiao.com/trending/7658320004915871750/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "川普施压FIFA,美国红牌不禁赛",
@@ -217,9 +252,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "乌克兰总统泽连斯基：情报再次显示，俄罗斯正在准备一次新的大规模打击。请注意安全，留意任何空袭警报。",
@@ -361,6 +407,18 @@
           "time_info": "[03时23分 ~ 05时55分]"
         },
         {
+          "title": "美国人：现在才知道我们是个坏国家",
+          "url": "https://www.toutiao.com/trending/7659278040756944947/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 20时38分]"
+        },
+        {
           "title": "孙颖莎晋级美国大满贯决赛",
           "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -394,6 +452,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时23分]"
+        },
+        {
+          "title": "连美国队都以为球员红牌特赦是假新闻",
+          "url": "https://www.toutiao.com/trending/7659244753493724682/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 20时38分]"
         },
         {
           "title": "为找稀土，日本开始“拆空调”了",
@@ -440,26 +510,15 @@
           "time_info": "[05时54分 ~ 05时55分]"
         },
         {
-          "title": "美国人：现在才知道我们是个坏国家",
-          "url": "https://www.toutiao.com/trending/7659278040756944947/",
-          "source": "今日头条",
+          "title": "美国国庆日为何举行吃热狗比赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E4%B8%BE%E8%A1%8C%E5%90%83%E7%83%AD%E7%8B%97%E6%AF%94%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "连美国队都以为球员红牌特赦是假新闻",
-          "url": "https://www.toutiao.com/trending/7659244753493724682/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
+          "time_info": "20时38分"
         },
         {
           "title": "外交部发言人就美国独立250周年答记者问",
@@ -468,7 +527,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -479,7 +538,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -495,13 +554,24 @@
           "time_info": "08时00分"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "日本前外汇事务主管称日元被低估高达20%。",
           "url": "https://wallstreetcn.com/livenews/3129234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -550,13 +620,35 @@
           "time_info": "00时58分"
         },
         {
+          "title": "中方回应“日本敦促重新考虑试射”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E6%95%A6%E4%BF%83%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E8%AF%95%E5%B0%84%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "SK海力士美国ADR发行获较大幅度的超额认购，美国上市交易将于纽约时间7月8日下午4点停止接受订单。",
+          "url": "https://wallstreetcn.com/livenews/3129371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "2026 年 WTT 美国大满贯赛男单决赛，松岛辉空 4：2 力克希德仁科夺冠，怎么评价 19 岁松岛辉空的崛起？",
           "url": "https://www.zhihu.com/question/2057439674877081351",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -578,9 +670,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "美国证交会文件显示：博通(AVGO.O)与苹果(AAPL.O)通过新的多年协议将技术合作扩展至2031年。",
+          "url": "https://flash.jin10.com/detail/20260706200404703800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "今年是美国独立250周年，外交部：习近平主席向特朗普总统致电表达了祝贺",
@@ -589,9 +692,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "俄罗斯总理米舒斯京对亚美尼亚总理帕希尼扬表示，我们希望新政府能够促进两国关系的发展。",
+          "url": "https://flash.jin10.com/detail/20260706200133662800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
@@ -605,6 +719,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "松岛辉空美国大满贯夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "日本军工真的要完了吗",
           "url": "https://www.toutiao.com/trending/7658466725897420854/",
           "source": "今日头条",
@@ -614,6 +739,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十大上市车企年中销量完成率：奇瑞吉利超四成 北汽蓝谷不足25%",
+          "url": "https://www.cls.cn/detail/2418114",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     }
