@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T04:48:32.972716+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-07T06:07:46.150889+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 48,
+      "match_count": 65,
       "titles": [
         {
           "title": "如何看美国队红牌特赦",
@@ -14,33 +14,23 @@
           "ranks": [
             2,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         },
         {
-          "title": "市场消息：丰田宣布将在美国德克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
-          "url": "https://flash.jin10.com/detail/20260707043051603800",
+          "title": "俄副外长：俄方将与美国在乌克兰问题上保持接触",
+          "url": "https://flash.jin10.com/detail/20260707054057544800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
-          "url": "https://wallstreetcn.com/livenews/3129563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "06时07分"
         },
         {
           "title": "美国总统特朗普赞赏股市上涨。",
@@ -54,15 +44,37 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国芝加哥期货交易所（CBOE）6月期货日均成交量增长30.5%。 指数期权日均成交量增长36.8%。 跨交易所期权日均成交量增长40.5%。",
-          "url": "https://wallstreetcn.com/livenews/3129562",
+          "title": "美国专利局撤销“和平委员会”商标申请",
+          "url": "https://wallstreetcn.com/livenews/3129581",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "06时07分"
+        },
+        {
+          "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
+          "url": "https://flash.jin10.com/detail/20260707053241420800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美国两年期国债收益率跌约3个基点",
+          "url": "https://wallstreetcn.com/livenews/3129579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
@@ -76,29 +88,87 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美国财报季将启 投资者看好业绩但警惕油价冲击",
+          "url": "https://flash.jin10.com/detail/20260707053053700800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://flash.jin10.com/detail/20260707052248546800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
+          "url": "https://www.zhihu.com/question/2057280677406577002",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时07分]"
+        },
+        {
+          "title": "市场消息：丰田宣布将在美国德克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://flash.jin10.com/detail/20260707043051603800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时07分]"
+        },
+        {
+          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://wallstreetcn.com/livenews/3129563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时07分]"
+        },
+        {
+          "title": "美国芝加哥期货交易所（CBOE）6月期货日均成交量增长30.5%。 指数期权日均成交量增长36.8%。 跨交易所期权日均成交量增长40.5%。",
+          "url": "https://wallstreetcn.com/livenews/3129562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时07分]"
+        },
+        {
           "title": "川普关税施压,美国红牌不禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
-        },
-        {
-          "title": "台湾大叔：大陆要“收拾”台湾太简单",
-          "url": "https://www.toutiao.com/trending/7659031388231172102/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         },
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -108,8 +178,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
+        },
+        {
+          "title": "台湾大叔：大陆要“收拾”台湾太简单",
+          "url": "https://www.toutiao.com/trending/7659031388231172102/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         },
         {
           "title": "美国国庆日为何异象四起",
@@ -118,11 +202,12 @@
           "ranks": [
             9,
             12,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         },
         {
           "title": "漠叔调查日本毒气战",
@@ -131,11 +216,12 @@
           "ranks": [
             20,
             23,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         },
         {
           "title": "美国人：现在才知道我们是个坏国家",
@@ -144,11 +230,35 @@
           "ranks": [
             24,
             19,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
+        },
+        {
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "time_info": "[02时51分 ~ 06时07分]"
+        },
+        {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 06时07分]"
         },
         {
           "title": "空调炼稀土,日本没招了",
@@ -162,27 +272,16 @@
           "time_info": "[00时17分 ~ 04时48分]"
         },
         {
-          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
-          "url": "https://news.ifeng.com/c/8uYELXPooFC",
-          "source": "凤凰网",
+          "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
+          "url": "https://www.zhihu.com/question/2057148749714134022",
+          "source": "知乎",
           "ranks": [
-            6
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时51分 ~ 04时48分]"
-        },
-        {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 04时48分]"
+          "time_info": "[04时48分 ~ 06时07分]"
         },
         {
           "title": "美国前锋红牌被特赦 比利时上诉",
@@ -197,6 +296,17 @@
           "time_info": "[00时17分 ~ 04时48分]"
         },
         {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://wallstreetcn.com/livenews/3129575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "以色列驻美国大使：以色列与黎巴嫩下一轮会谈将于7月14日至15日在意大利罗马举行。",
           "url": "https://flash.jin10.com/detail/20260707021306646800",
           "source": "金十数据",
@@ -206,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
-          "url": "https://www.zhihu.com/question/2057280677406577002",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.735%，投标倍数2.58。 拍卖六个月期国债，得标利率3.830%，投标倍数3.05。",
@@ -236,7 +335,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -258,9 +357,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "市场消息：Rivian向美国证券交易委员会（SEC）提交文件，拟发行7500万股A类普通股。",
+          "url": "https://flash.jin10.com/detail/20260707051128139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
+          "url": "https://wallstreetcn.com/livenews/3129566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "美国至7月6日6个月国债竞拍-投标倍数 3.05，前值2.58。",
@@ -285,6 +406,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
+          "url": "https://wallstreetcn.com/livenews/3129565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "美国博主一口闷茅台走红TikTok",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E4%B8%80%E5%8F%A3%E9%97%B7%E8%8C%85%E5%8F%B0%E8%B5%B0%E7%BA%A2TikTok&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -307,6 +439,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "美国至7月6日6个月国债竞拍-得标利率配置百分比 0.86%，前值96.12%。",
           "url": "https://flash.jin10.com/detail/20260706233208595800",
           "source": "金十数据",
@@ -318,15 +461,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
-          "url": "https://www.zhihu.com/question/2057148749714134022",
-          "source": "知乎",
+          "title": "美国vs比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "06时07分"
         },
         {
           "title": "美国至7月6日3个月国债竞拍-投标倍数 2.58，前值2.32。",
@@ -357,7 +500,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -368,7 +511,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -406,15 +549,37 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
+          "url": "https://flash.jin10.com/detail/20260707044730846800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持NYMEX WTI原油净多头头寸减少6,582手合约，至93,713手合约，创19周新低。 所持NYMEX汽油净多头头寸增至72,308手合约，创逾十四周新高。 所持NYMEX取暖油净多头头寸增至8,494手合约。",
           "url": "https://wallstreetcn.com/livenews/3129538",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "South32美国亚利桑那州20亿美元锌锰矿项目将获批",
+          "url": "https://flash.jin10.com/detail/20260707044709974800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "美国战略石油储备原油库存降至1983年以来最低水平",
@@ -434,9 +599,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将降低价格。",
+          "url": "https://flash.jin10.com/detail/20260707044646086800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者转而持有ICE与NYMEX四大市场天然气净多头头寸8,963手合约，较之前一周增加11,147手合约。 投机者所持NYMEX天然气净空头头寸增加1,916手合约，至15,936手合约。",
@@ -445,7 +621,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -478,9 +654,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "明晟公司（MSCI）：将调整对孟买、印度国家证券交易所、韩国及台湾交易所“警示板”股票的处理规则。",
+          "url": "https://flash.jin10.com/detail/20260707043531256800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据知情人士透露，Thrive Holdings融资大约20亿美元，这是首次有外部投资者参与投资。 Altimeter、D1 Capital Partners、日本软银集团参与本轮投资。 此前，该公司已经从（当时的）现有投资者募集10亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3129553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
@@ -522,7 +720,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -563,8 +761,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时07分]"
         }
       ]
     }
