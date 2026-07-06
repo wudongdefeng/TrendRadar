@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-07T00:17:19.448136+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-07T02:51:26.506972+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 20,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "如何看美国队红牌特赦",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
         {
           "title": "美国总统特朗普赞赏股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3129485",
@@ -30,37 +19,51 @@
           "time_info": "00时17分"
         },
         {
+          "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
+          "url": "https://flash.jin10.com/detail/20260707022859049800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "如何看美国队红牌特赦",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%89%B9%E8%B5%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
           "title": "川普关税施压,美国红牌不禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         },
         {
           "title": "台湾大叔：大陆要“收拾”台湾太简单",
           "url": "https://www.toutiao.com/trending/7659031388231172102/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国国庆日为何异象四起",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         },
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -70,8 +73,77 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
+          "title": "美国国庆日为何异象四起",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E5%BC%82%E8%B1%A1%E5%9B%9B%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
+          "title": "美国人：现在才知道我们是个坏国家",
+          "url": "https://www.toutiao.com/trending/7659278040756944947/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
+        },
+        {
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "以色列驻美国大使：以色列与黎巴嫩下一轮会谈将于7月14日至15日在意大利罗马举行。",
+          "url": "https://flash.jin10.com/detail/20260707021306646800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.735%，投标倍数2.58。 拍卖六个月期国债，得标利率3.830%，投标倍数3.05。",
@@ -85,6 +157,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "据Politico：美国国务卿鲁比奥表示，美国可能会在明天的北约会议上与比利时等盟友讨论美国球员被出示红牌的判罚。",
+          "url": "https://flash.jin10.com/detail/20260707020040744800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "美国至7月6日6个月国债竞拍-投标倍数 3.05，前值2.58。",
           "url": "https://flash.jin10.com/detail/20260706233208665800",
           "source": "金十数据",
@@ -94,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国最高法院拒绝叫停得州一项法律，该法要求未成年人下载应用程序前须进行年龄验证，并获得家长同意。",
+          "url": "https://flash.jin10.com/detail/20260707015739759800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国博主一口闷茅台走红TikTok",
@@ -140,6 +245,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
+          "url": "https://flash.jin10.com/detail/20260707014648139800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "美国至7月6日3个月国债竞拍-得标利率配置百分比 93.49%，前值85.81%。",
           "url": "https://flash.jin10.com/detail/20260706233206593801",
           "source": "金十数据",
@@ -149,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "消息人士：内塔尼亚胡要求特朗普阻止美国向土耳其出售可提升其空军实力的武器。",
+          "url": "https://flash.jin10.com/detail/20260707014319420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国至7月6日3个月国债竞拍-得标利率 3.735%，前值3.74%。",
@@ -162,15 +289,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "美国战略石油储备原油库存降至1983年以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3129503",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时51分"
         },
         {
           "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
@@ -184,15 +311,37 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国人：现在才知道我们是个坏国家",
-          "url": "https://www.toutiao.com/trending/7659278040756944947/",
-          "source": "今日头条",
+          "title": "市场消息：美国密歇根州底特律的马拉松炼油厂在停电后恢复供电。",
+          "url": "https://flash.jin10.com/detail/20260707012446611800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
+          "url": "https://flash.jin10.com/detail/20260707012328575800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
+          "url": "https://wallstreetcn.com/livenews/3129494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美国前锋红牌被特赦 比利时上诉",
@@ -217,15 +366,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
+          "title": "Anthropic已于6月10日写信给美国参议院民主党成员Warren和国会议员Scott。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3129490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
+          "url": "https://wallstreetcn.com/livenews/3129489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时51分"
         }
       ]
     },
@@ -241,8 +401,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         }
       ]
     }
