@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T11:37:11.717437+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-07-07T15:32:30.200153+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 95,
+      "match_count": 108,
       "titles": [
         {
           "title": "国际足联主席回应美国球员巴洛贡红牌事件",
@@ -44,11 +44,12 @@
             8,
             9,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 15时32分]"
         },
         {
           "title": "漠叔调查日本毒气战",
@@ -62,19 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 11时37分]"
-        },
-        {
-          "title": "比利时4-1大胜美国",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B64-1%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 15时32分]"
         },
         {
           "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
@@ -84,30 +74,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
         },
         {
-          "title": "美国门将超级巨大失误",
-          "url": "https://www.toutiao.com/trending/7659590855321976874/",
-          "source": "今日头条",
+          "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
+          "url": "https://news.ifeng.com/c/8uYpqgZCOL7",
+          "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "比利时4-1美国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B64-1%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
         },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
@@ -121,33 +101,11 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
-          "url": "https://news.ifeng.com/c/8uYpqgZCOL7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
           "title": "“日本正一步步滑向军工复合体的泥潭”",
           "url": "https://news.ifeng.com/c/8uYb21HGdqk",
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "盘外招无用!比利时大胜美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -196,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国国庆日为何异象四起",
@@ -261,6 +230,42 @@
           "time_info": "08时02分"
         },
         {
+          "title": "盘外招无用!比利时大胜美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "比利时4-1大胜美国",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B64-1%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
           "url": "https://flash.jin10.com/detail/20260707022859049800",
           "source": "金十数据",
@@ -292,6 +297,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美国门将超级巨大失误",
+          "url": "https://www.toutiao.com/trending/7659590855321976874/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "比利时4-1美国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B64-1%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "北约秘书长妄称“不能对中国天真，已与日本讨论”",
+          "url": "https://news.ifeng.com/c/8uYsvnO52z9",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://www.toutiao.com/trending/7658891295284281382/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
@@ -440,6 +492,30 @@
           "time_info": "[04时48分 ~ 08时02分]"
         },
         {
+          "title": "美国门将超级巨大失误",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
+          "title": "美国1:4比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时32分]"
+        },
+        {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
           "url": "https://www.cls.cn/detail/2417917",
           "source": "财联社热门",
@@ -487,55 +563,11 @@
           "time_info": "[06时07分 ~ 08时02分]"
         },
         {
-          "title": "北约秘书长妄称“不能对中国天真，已与日本讨论”",
-          "url": "https://news.ifeng.com/c/8uYsvnO52z9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
           "title": "美国淘汰",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "美国门将超级巨大失误",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "美国1:4比利时",
-          "url": "https://www.douyin.com/hot/2561113",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "比利时官方嘲讽美国",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -649,9 +681,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "香港团体赴日本领事馆抗议，追讨军票赔偿",
+          "url": "https://news.ifeng.com/c/8uZ4eXw03R3",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.735%，投标倍数2.58。 拍卖六个月期国债，得标利率3.830%，投标倍数3.05。",
@@ -786,6 +840,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "俄罗斯警告波罗的海国家勿将领土用于“反俄行动”",
+          "url": "https://flash.jin10.com/detail/20260707150646781800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国至7月6日6个月国债竞拍-得标利率配置百分比 0.86%，前值96.12%。",
           "url": "https://flash.jin10.com/detail/20260706233208595800",
           "source": "金十数据",
@@ -795,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日经225指数收跌2.1%，报68,256.96点。 日本东证指数收跌1%，报4,062.26点。 韩国首尔综指收跌4.9%，报7,656.31点。",
+          "url": "https://wallstreetcn.com/livenews/3129791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国至7月6日3个月国债竞拍-投标倍数 2.58，前值2.32。",
@@ -863,6 +939,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
+          "url": "https://www.zhihu.com/question/2057769216468415013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国至7月6日3个月国债竞拍-得标利率 3.735%，前值3.74%。",
           "url": "https://flash.jin10.com/detail/20260706233206591800",
           "source": "金十数据",
@@ -894,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "South32美国亚利桑那州20亿美元锌锰矿项目将获批",
@@ -949,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "全世界都在笑话美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
@@ -1017,6 +1126,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "日本品牌拿七七当七夕是何居心",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%8B%BF%E4%B8%83%E4%B8%83%E5%BD%93%E4%B8%83%E5%A4%95%E6%98%AF%E4%BD%95%E5%B1%85%E5%BF%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
           "url": "https://wallstreetcn.com/livenews/3129494",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低2.3%报45,479.11点。",
+          "url": "https://wallstreetcn.com/livenews/3129778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国俄亥俄州发生枪击事件 致多人伤亡",
@@ -1050,6 +1181,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "日本2年期国债收益率上行1.0个基点，至1.400%； 日本5年期国债收益率上行3.5个基点，至1.975%。",
+          "url": "https://wallstreetcn.com/livenews/3129775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "Anthropic已于6月10日写信给美国参议院民主党成员Warren和国会议员Scott。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3129490",
           "source": "华尔街见闻-快讯",
@@ -1067,7 +1209,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1089,9 +1231,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "日本存储巨头铠侠（KIOXIA）股价持续走低，最新下跌12%。",
+          "url": "https://wallstreetcn.com/livenews/3129773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
