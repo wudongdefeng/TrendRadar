@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T02:56:33.460208+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-08T04:47:11.179711+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 51,
+      "match_count": 76,
       "titles": [
         {
           "title": "比利时官方贴脸嘲讽美国",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "日本品牌拿七七当七夕遭痛批",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
@@ -40,8 +40,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
+        },
+        {
+          "title": "中国试射导弹，日本一天发两份声明，急什么？",
+          "url": "https://news.ifeng.com/c/8uZpoNtZPeG",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时47分]"
+        },
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://news.ifeng.com/c/8uZxW8JiojM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "time_info": "[04时46分 ~ 04时47分]"
         },
         {
           "title": "消息人士：由于需求疲软，俄罗斯乌拉尔原油在印度市场相对布伦特原油的贴水已扩大至每桶10美元以上。",
@@ -55,6 +78,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "市场消息：美国参议员麦康奈尔自6月14日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。",
+          "url": "https://flash.jin10.com/detail/20260708044348157800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
           "url": "https://wallstreetcn.com/livenews/3130093",
           "source": "华尔街见闻-快讯",
@@ -66,15 +100,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "中国试射导弹，日本一天发两份声明，急什么？",
-          "url": "https://news.ifeng.com/c/8uZpoNtZPeG",
-          "source": "凤凰网",
+          "title": "行业周报：美国上周API原油库存减少大约40万桶",
+          "url": "https://wallstreetcn.com/livenews/3130173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "04时47分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国7月原油产量平均为1384万桶/日，低于6月的1389万桶/日；8月平均产量预计进一步降至1381万桶/日。",
@@ -86,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
+          "url": "https://flash.jin10.com/detail/20260708044045752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3130172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
@@ -110,6 +166,50 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国至7月3日当周API投产原油量 3.4万桶/日，前值7.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260708043845661800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
+          "url": "https://wallstreetcn.com/livenews/3130170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国至7月3日当周API成品油进口 -32.5万桶/日，前值21.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260708043837578800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国贸易代表格里尔谈论美国墨西哥加拿大贸易协议（USMCA）：加拿大、墨西哥都没能在任何事上达到标准。",
+          "url": "https://wallstreetcn.com/livenews/3130169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2026年美国原油产量为1378万桶/日，高于此前预测的1372万桶/日；预计2027年产量为1403万桶/日，低于此前预测的1415万桶/日。",
           "url": "https://flash.jin10.com/detail/20260708000607772800",
           "source": "金十数据",
@@ -119,6 +219,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国至7月3日当周API原油进口 15.9万桶，前值-18万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043825103800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3130168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
@@ -133,6 +255,19 @@
           "time_info": "[00时20分 ~ 02时56分]"
         },
         {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
+        },
+        {
           "title": "日本一海域发现的遗骸身份确认为中国籍女性，警方：遭人肢解弃尸",
           "url": "https://v.ifeng.com/c/8uZToui93zL",
           "source": "凤凰网",
@@ -140,31 +275,33 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "日本海域半截女尸确认为中国籍女子",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%9F%9F%E5%8D%8A%E6%88%AA%E5%A5%B3%E5%B0%B8%E7%A1%AE%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
-          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "title": "马上评丨红牌“特赦”，美国队也没笑到最后",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533370",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12
+            19,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "漠叔调查日本毒气战",
@@ -172,11 +309,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "盘外招无用!比利时大胜美国",
@@ -187,20 +325,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
-        },
-        {
-          "title": "马上评丨红牌“特赦”，美国队也没笑到最后",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
@@ -208,11 +334,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -220,11 +347,24 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时47分]"
+        },
+        {
+          "title": "学者：俄罗斯只能接受印度天价油",
+          "url": "https://www.toutiao.com/trending/7659695138427375123/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时47分]"
         },
         {
           "title": "媒体评世界杯美国被群嘲",
@@ -249,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "美国至7月3日当周API取暖油库存 -43.4万桶，前值20.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043813565800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "据知情人士透露，SK海力士美国IPO获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。（彭博）",
@@ -284,13 +435,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国至7月3日当周API库欣原油库存 -6.9万桶，前值50.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043756865800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "如何看待俄想从日本进口航空燃油",
           "url": "https://www.toutiao.com/trending/7659741104769601060/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -306,6 +468,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国至7月3日当周API精炼油库存 -180.1万桶，预期100万桶，前值292.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043737131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
+          "url": "https://wallstreetcn.com/livenews/3130164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美国7月EIA当年天然气产量预期 1112亿立方英尺/日，前值1110亿立方英尺/日。",
           "url": "https://flash.jin10.com/detail/20260708000506956800",
           "source": "金十数据",
@@ -315,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国至7月3日当周API汽油库存 -292.9万桶，预期-155万桶，前值-210.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043715482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年美国天然气产量为1112亿立方英尺/日，高于此前预测的1110亿立方英尺/日；预计2027年产量为1153亿立方英尺/日，高于此前预测的1136亿立方英尺/日。<br/>可选新闻标题：",
@@ -328,6 +523,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国至7月3日当周API原油库存 -39.9万桶，预期-150万桶，前值-607.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260708043701256800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美国7月EIA次年短期前景美国原油产量预期 1403万桶/日，前值1415万桶/日。",
           "url": "https://flash.jin10.com/detail/20260708000444812800",
           "source": "金十数据",
@@ -337,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20260708043509600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
@@ -367,20 +584,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
         {
-          "title": "学者：俄罗斯只能接受印度天价油",
-          "url": "https://www.toutiao.com/trending/7659695138427375123/",
-          "source": "今日头条",
+          "title": "美国海军作战部长：我们掌握霍尔木兹海峡布设水雷的数量。相关信息属于机密情报，我不会透露我们如何获取这些数据。",
+          "url": "https://flash.jin10.com/detail/20260708043509123800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据福克斯新闻：美国贸易代表格里尔表示，加拿大和墨西哥未能完全履行《美墨加协定》中的全部承诺。",
+          "url": "https://flash.jin10.com/detail/20260708042429687800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
+          "url": "https://wallstreetcn.com/livenews/3130157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国7月EIA当年布伦特原油均价预期 81.91美元/桶，前值95.39美元/桶。",
@@ -400,9 +650,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国至7月3日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260708042000001800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国参议院民主党成员Warren施压五角大楼与多家AI公司，要求披露合同。（NBC）",
@@ -438,6 +699,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国终止对伊朗石油制裁豁免",
+          "url": "https://wallstreetcn.com/livenews/3130152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美国（国会山）民主党成员们发函Kalshi、Polymarket、以及特朗普媒体。",
           "url": "https://wallstreetcn.com/livenews/3130076",
           "source": "华尔街见闻-快讯",
@@ -455,7 +727,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -477,7 +749,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -488,7 +760,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -543,9 +815,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3130141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "特朗普一通电话毁了美国队",
