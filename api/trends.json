@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:19:44.391941+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-07-11T18:56:47.065845+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 104,
+      "match_count": 109,
       "titles": [
         {
           "title": "巴威减弱由强台风级改为台风级，可能不会擦过台湾岛，预计 12 日登陆浙江福建，当地情况如何？可做哪些准备？",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时16分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[04时16分 ~ 18时56分]"
         },
         {
           "title": "为了美国，土耳其竟转卖俄顶尖武器，克宫：这个问题极其敏感",
@@ -61,8 +61,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 18时56分]"
         },
         {
           "title": "日本拟为六代机取绰号“烈风”，翻着军国主义“花名册”搞招魂",
@@ -78,6 +78,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时51分]"
+        },
+        {
+          "title": "食贫道带美国演员逛重庆",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%B8%A6%E7%BE%8E%E5%9B%BD%E6%BC%94%E5%91%98%E9%80%9B%E9%87%8D%E5%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29,
+            22,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 18时56分]"
         },
         {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
@@ -119,18 +134,26 @@
           "time_info": "[05时54分 ~ 09时51分]"
         },
         {
-          "title": "食贫道带美国演员逛重庆",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%B8%A6%E7%BE%8E%E5%9B%BD%E6%BC%94%E5%91%98%E9%80%9B%E9%87%8D%E5%BA%86",
-          "source": "bilibili 热搜",
+          "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
+          "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
+          "source": "凤凰网",
           "ranks": [
-            30,
-            29,
-            22,
-            14
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
+          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
+          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国中央司令部：随着“乔治·H·W·布什”号航空母舰在地区海域航行，美军水兵正在舰上执行夜间航空作战训练任务。",
@@ -142,28 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "克里姆林宫：欧洲人被百分之百地洗脑了。俄罗斯被描绘成绝对的邪恶。他们正在无情地灌输“所有人都处于危险之中”的理论。",
-          "url": "https://flash.jin10.com/detail/20260711170519030800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
-          "url": "https://wallstreetcn.com/livenews/3132333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美国两年期国债收益率本周涨超7个基点",
@@ -190,17 +191,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "克里姆林宫：如果有任何威胁到俄罗斯国家存在的情况，将会使用核武器。否则将不会使用。其他一切都是纯粹的猜测。",
-          "url": "https://flash.jin10.com/detail/20260711170427268800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
@@ -213,28 +203,6 @@
           "time_info": "[06时53分 ~ 09时51分]"
         },
         {
-          "title": "日本可回收火箭着陆成功 仅飞11米",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E7%9D%80%E9%99%86%E6%88%90%E5%8A%9F+%E4%BB%85%E9%A3%9E11%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
-          "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至7月7日当周，投机者将CBOT美国10年期国债期货净空头头寸增加5,371手至814,262手。投机者将CBOT美国2年期国债期货净空头头寸减少26,573手至1,261,008手。",
           "url": "https://flash.jin10.com/detail/20260711033345142800",
           "source": "金十数据",
@@ -244,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "克里姆林宫：一方是俄罗斯，另一方是乌克兰以及多个欧洲国家和美国，它们向乌克兰提供了数百万吨武器。这已不再是一场特别军事行动，而是一场全面战争。",
-          "url": "https://flash.jin10.com/detail/20260711170357020800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月7日当周，投机者所持WTI原油净多头头寸减少19,507手合约，至65,681手合约。",
@@ -307,17 +264,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "克里姆林宫：乌克兰总统泽连斯基上台时曾向人民承诺结束冲突，那是他最初的承诺。他仍然可以通过做出负责任的决定——从顿巴斯地区、从现已并入俄罗斯的地区撤军，并通过承认已成既成事实的现状为法律事实，来结束这场冲突。",
-          "url": "https://flash.jin10.com/detail/20260711170251575800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "SK海力士美国IPO首日开盘上涨超过14.09%，报170美元，盘中市值大约1.25万亿美元。 此前给出的IPO发行价为每份ADS 149美元，通过发行1.779亿份ADS融资大约265亿美元。",
           "url": "https://wallstreetcn.com/livenews/3132172",
           "source": "华尔街见闻-快讯",
@@ -327,6 +273,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
+          "url": "https://wallstreetcn.com/livenews/3132333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
+          "title": "日本可回收火箭着陆成功 仅飞11米",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E7%9D%80%E9%99%86%E6%88%90%E5%8A%9F+%E4%BB%85%E9%A3%9E11%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
+          "title": "巴威过境日本 大树连根拔起雨横飞",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E8%BF%87%E5%A2%83%E6%97%A5%E6%9C%AC+%E5%A4%A7%E6%A0%91%E8%BF%9E%E6%A0%B9%E6%8B%94%E8%B5%B7%E9%9B%A8%E6%A8%AA%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
+          "title": "克里姆林宫：欧洲人被百分之百地洗脑了。俄罗斯被描绘成绝对的邪恶。他们正在无情地灌输“所有人都处于危险之中”的理论。",
+          "url": "https://flash.jin10.com/detail/20260711170519030800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
+          "title": "克里姆林宫：如果有任何威胁到俄罗斯国家存在的情况，将会使用核武器。否则将不会使用。其他一切都是纯粹的猜测。",
+          "url": "https://flash.jin10.com/detail/20260711170427268800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
         },
         {
           "title": "美国国家情报局代理局长：启动第三轮“减少冗余或非关键人员”计划。",
@@ -353,6 +359,18 @@
           "time_info": "[12时57分 ~ 15时09分]"
         },
         {
+          "title": "克里姆林宫：一方是俄罗斯，另一方是乌克兰以及多个欧洲国家和美国，它们向乌克兰提供了数百万吨武器。这已不再是一场特别军事行动，而是一场全面战争。",
+          "url": "https://flash.jin10.com/detail/20260711170357020800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
           "title": "欧洲地中海地震中心：美国北加州发生了4.2级地震；震源深度10.7公里。",
           "url": "https://flash.jin10.com/detail/20260711091918419800",
           "source": "金十数据",
@@ -375,6 +393,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 15时09分]"
+        },
+        {
+          "title": "克里姆林宫：乌克兰总统泽连斯基上台时曾向人民承诺结束冲突，那是他最初的承诺。他仍然可以通过做出负责任的决定——从顿巴斯地区、从现已并入俄罗斯的地区撤军，并通过承认已成既成事实的现状为法律事实，来结束这场冲突。",
+          "url": "https://flash.jin10.com/detail/20260711170251575800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -534,6 +564,17 @@
           "time_info": "[12时57分 ~ 15时09分]"
         },
         {
+          "title": "“以打促谈”还是“战略转变”？美国给出“周六开通霍尔木兹海峡”的“最后通牒”",
+          "url": "https://wallstreetcn.com/articles/3776691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
+        },
+        {
           "title": "俄罗斯柴油出口禁令给本已紧张的能源市场再添一击",
           "url": "https://flash.jin10.com/detail/20260711113513253800",
           "source": "金十数据",
@@ -556,6 +597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 15时09分]"
+        },
+        {
+          "title": "直击台风巴威前的台湾街头",
+          "url": "https://www.douyin.com/hot/2566685",
+          "source": "抖音",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时56分]"
         },
         {
           "title": "乌克兰基辅市市长：俄罗斯轰炸袭击了首都多个地区，造成6人受伤。",
@@ -647,17 +700,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "“以打促谈”还是“战略转变”？美国给出“周六开通霍尔木兹海峡”的“最后通牒”",
-          "url": "https://wallstreetcn.com/articles/3776691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "乌克兰当局：俄罗斯对乌克兰首都基辅发起导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260711085356370800",
           "source": "金十数据",
@@ -667,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰将在武装部队内设立“远程打击”指挥部，瞄准俄罗斯。",
@@ -691,17 +744,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "直击台风巴威前的台湾街头",
-          "url": "https://www.douyin.com/hot/2566685",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "日本明日将测试发射可回收火箭",
           "url": "https://www.toutiao.com/trending/7660837690741440566/",
           "source": "今日头条",
@@ -722,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯军队控制了乌克兰苏梅地区的巴奇夫斯克。",
+          "url": "https://flash.jin10.com/detail/20260711172329356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "据日经新闻：大众汽车正寻求与日产合作，在美国开发一款大型SUV。",
@@ -829,20 +882,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
         {
-          "title": "巴威过境日本 大树连根拔起雨横飞",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E8%BF%87%E5%A2%83%E6%97%A5%E6%9C%AC+%E5%A4%A7%E6%A0%91%E8%BF%9E%E6%A0%B9%E6%8B%94%E8%B5%B7%E9%9B%A8%E6%A8%AA%E9%A3%9E",
-          "source": "百度热搜",
+          "title": "乌克兰军方称隔夜击中21艘俄罗斯油轮。",
+          "url": "https://flash.jin10.com/detail/20260711171044875800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "18时56分"
         },
         {
           "title": "美国总统特朗普：我在伊朗的暗杀名单上排第一已经很久了。",
@@ -873,7 +926,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -917,7 +970,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -986,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "日媒拆台日本火箭只飞了11米",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%8B%86%E5%8F%B0%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%AA%E9%A3%9E%E4%BA%8611%E7%B1%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国驻联合国代表：与伊朗的外交渠道仍然开放。",
@@ -1060,7 +1124,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
