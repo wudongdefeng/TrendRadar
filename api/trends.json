@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-13T13:31:59.843558+08:00",
-  "total_titles_processed": 839,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-13T16:52:46.039867+08:00",
+  "total_titles_processed": 1029,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 59,
+      "match_count": 70,
       "titles": [
         {
           "title": "美国最后一名“铁肺”使用者去世",
@@ -52,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 13时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 16时52分]"
         },
         {
           "title": "冉莹颖说把北京贵阳美国的房子都卖了",
@@ -104,11 +103,12 @@
           "ranks": [
             14,
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 13时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 16时52分]"
         },
         {
           "title": "日本死要面子,拟禁吃猫狗",
@@ -116,11 +116,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 13时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 16时52分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -132,6 +133,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 09时57分]"
+        },
+        {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 16时52分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 16时52分]"
         },
         {
           "title": "美国驻阿曼使馆发布“就地避险”提醒",
@@ -155,30 +180,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时44分]"
-        },
-        {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 13时31分]"
-        },
-        {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 13时31分]"
         },
         {
           "title": "外交部用冲之鸟礁反问日本",
@@ -216,6 +217,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "伊朗外交部：美国和以色列刺杀伊朗公民、领导人和重要人物，并引以为荣，同时又将自己置于受害者和受压迫者的位置。这显然是一场心理战和舆论战的一部分，任何人都不会上这些把戏的当。",
+          "url": "https://flash.jin10.com/detail/20260713163942278800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
           "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
@@ -233,20 +245,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
         {
-          "title": "美国外卖小哥戴项圈抢银行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
-          "source": "贴吧",
+          "title": "日本宣布可回收火箭试飞成功",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "16时52分"
         },
         {
           "title": "据AXIOS网站：美国官员称，美国军方在一小时前对霍尔木兹海峡周边几个地点的导弹和空中防御系统以及伊朗革命卫队的小型船只进行了几次打击。",
@@ -325,6 +337,18 @@
           "time_info": "[02时54分 ~ 05时41分]"
         },
         {
+          "title": "美国外卖小哥戴项圈抢银行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时52分]"
+        },
+        {
           "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
           "url": "https://flash.jin10.com/detail/20260713052720745800",
           "source": "金十数据",
@@ -349,6 +373,17 @@
           "time_info": "[02时54分 ~ 04时03分]"
         },
         {
+          "title": "美国又降半旗，但有人笑了",
+          "url": "https://news.ifeng.com/c/8uielxpEJXS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 16时52分]"
+        },
+        {
           "title": "巴丹群岛距离中国台湾岛约 190 公里，为何被指菲律宾对其无主权？",
           "url": "https://www.zhihu.com/question/2057979365087093311",
           "source": "知乎",
@@ -359,17 +394,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 02时54分]"
-        },
-        {
-          "title": "美国又降半旗，但有人笑了",
-          "url": "https://news.ifeng.com/c/8uielxpEJXS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 13时31分]"
         },
         {
           "title": "美国共和党鹰派参议员死因披露",
@@ -393,6 +417,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时41分]"
+        },
+        {
+          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2059657075496575156",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时52分]"
         },
         {
           "title": "美国10年期国债期货下跌5点，联邦基金期货小幅下滑。",
@@ -429,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时39分]"
+        },
+        {
+          "title": "美国会头号反华鹰派暴毙，“台独”关键人脉靠山塌了",
+          "url": "https://news.ifeng.com/c/8uiqLcByK2A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时52分]"
         },
         {
           "title": "市场消息：欧盟大使再次未能就新的俄罗斯制裁方案达成一致。",
@@ -483,20 +530,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
         {
-          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2059657075496575156",
-          "source": "知乎",
+          "title": "日本民众集会举牌“中国对不起”",
+          "url": "https://www.toutiao.com/trending/7661205293186944518/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "16时52分"
         },
         {
           "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
@@ -532,15 +579,15 @@
           "time_info": "00时49分"
         },
         {
-          "title": "美国会头号反华鹰派暴毙，“台独”关键人脉靠山塌了",
-          "url": "https://news.ifeng.com/c/8uiqLcByK2A",
-          "source": "凤凰网",
+          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
+          "url": "https://www.cls.cn/detail/2424017",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "16时52分"
         },
         {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
@@ -552,6 +599,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "伊朗：俄罗斯外长拉夫罗夫计划访问德黑兰。",
+          "url": "https://wallstreetcn.com/livenews/3132728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "标普：（关于印度尼西亚）美国关税的影响正在减弱，中东战争和霍尔木兹海峡的关闭带来了新的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260713163613746800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "美国再次公布UFO相关文件",
@@ -582,7 +651,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -604,7 +673,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -615,7 +684,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -642,13 +711,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "伊朗外交部：（当谈及美国媒体公布的伊朗重建核设施袭击的卫星图像时）我并未看到相关卫星图像，因此不予置评。",
+          "url": "https://flash.jin10.com/detail/20260713163228284800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "MSCI亚太指数一度跌1.6%，触及一个月低点。SK海力士跌13%，三星电子跌8%，日本铠侠跌超11%。",
           "url": "https://wallstreetcn.com/livenews/3132599",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -659,7 +739,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -681,9 +761,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗外交部：关于伊朗请求进行谈判的说法是美国进行的心理战的一部分。",
+          "url": "https://flash.jin10.com/detail/20260713162855007800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟对（俄罗斯）九名个人和四个实体实施限制措施。这些欧盟制裁措施也将包括针对俄罗斯格鲁乌(俄罗斯军事情报总局) 情报官员的内容。",
+          "url": "https://flash.jin10.com/detail/20260713162701646800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟谴责俄罗斯针对欧盟、其成员国及国际伙伴的恶意网络生态系统。",
+          "url": "https://flash.jin10.com/detail/20260713162600813800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "2年期美国国债收益率升至2025年2月以来的最高水平。",
@@ -695,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "伊朗外交部：与美国的谅解备忘录已进入“危机”阶段",
+          "url": "https://wallstreetcn.com/livenews/3132698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     }
