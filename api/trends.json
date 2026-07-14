@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T12:43:39.044801+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-14T15:05:33.962059+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 101,
+      "match_count": 110,
       "titles": [
         {
           "title": "非要和中国比？印度在贸易谈判中对美国提要求",
@@ -41,11 +41,12 @@
             8,
             9,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 12时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 15时05分]"
         },
         {
           "title": "你跑不过我!日本少年制服窃贼",
@@ -55,11 +56,12 @@
             21,
             22,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 12时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 15时05分]"
         },
         {
           "title": "日本死要面子,拟禁吃猫狗",
@@ -102,6 +104,23 @@
           "time_info": "[01时09分 ~ 07时45分]"
         },
         {
+          "title": "日本宣布可回收火箭试飞成功",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15,
+            16,
+            17,
+            13,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 15时05分]"
+        },
+        {
           "title": "美国将恢复“针对伊朗的封锁”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
           "source": "百度热搜",
@@ -114,22 +133,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 07时45分]"
-        },
-        {
-          "title": "日本宣布可回收火箭试飞成功",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            16,
-            17,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 12时43分]"
         },
         {
           "title": "欧盟对俄罗斯4名个人和5家实体实施制裁",
@@ -183,7 +186,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -205,7 +208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -242,7 +245,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -331,6 +334,18 @@
           "time_info": "[05时47分 ~ 06时47分]"
         },
         {
+          "title": "伊朗袭击美国海军第五舰队司令部",
+          "url": "https://www.toutiao.com/trending/7661886519921573894/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 15时05分]"
+        },
+        {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
           "url": "https://flash.jin10.com/detail/20260714041351687800",
           "source": "金十数据",
@@ -353,17 +368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时47分]"
-        },
-        {
-          "title": "伊朗袭击美国海军第五舰队司令部",
-          "url": "https://www.toutiao.com/trending/7661886519921573894/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "美国总统特朗普：与以色列总理内塔尼亚胡相处得很好。",
@@ -437,6 +441,18 @@
           "time_info": "[09时43分 ~ 09时44分]"
         },
         {
+          "title": "挑战在美国E人coser前跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 15时05分]"
+        },
+        {
           "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
           "url": "https://wallstreetcn.com/livenews/3133109",
           "source": "华尔街见闻-快讯",
@@ -447,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "美国25岁女子涉嫌性侵男童并录像",
+          "url": "https://www.toutiao.com/trending/7661944739440820260/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 15时05分]"
         },
         {
           "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
@@ -512,9 +539,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "日经225指数收涨0.7%，报67743.50点。 日本东证指数收涨0.8%，报4038.98点。 韩国首尔综指收涨0.7%，报6856.83点。",
+          "url": "https://wallstreetcn.com/livenews/3133376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "日本5月工业产出年率终值 -2.1%，前值-1.70%。",
@@ -523,9 +572,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "俄罗斯农业部：亚速海局势不会影响俄罗斯国内市场食品供应或出口。",
+          "url": "https://flash.jin10.com/detail/20260714143457522800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美国短期利率期货显示，美联储7月加息概率约为45%，较周一早些时候的35%有所上升。",
@@ -539,15 +599,15 @@
           "time_info": "01时09分"
         },
         {
-          "title": "挑战在美国E人coser前跳舞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
-          "source": "bilibili 热搜",
+          "title": "打着躲避台风的幌子，日本巡逻船逗留台海、多点布局",
+          "url": "https://news.ifeng.com/c/8ukhG4N6hO8",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "15时05分"
         },
         {
           "title": "美国6月政府预算 -1203.05亿美元，前值 -2926亿美元。",
@@ -567,18 +627,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "美国25岁女子涉嫌性侵男童并录像",
-          "url": "https://www.toutiao.com/trending/7661944739440820260/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -589,7 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -644,7 +693,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -655,7 +704,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -669,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "日本20和30年期国债收益率大跌18个基点 此前日本财务大臣发表讲话且20年期国债拍卖需求强劲",
+          "url": "https://wallstreetcn.com/livenews/3133367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
@@ -688,7 +748,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -724,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "金十整理：机构前瞻美国6月CPI及核心CPI月率",
+          "url": "https://flash.jin10.com/detail/20260714143009101800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "英国以新一轮制裁打击俄罗斯网络攻击网络",
@@ -836,6 +907,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "日本40年期国债收益率下行10个基点至3.795%。",
+          "url": "https://wallstreetcn.com/livenews/3133358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "美国6月政府预算 -1200亿美元，预期-1283亿美元，前值-2926.48亿美元。",
           "url": "https://flash.jin10.com/detail/20260714020002307800",
           "source": "金十数据",
@@ -911,6 +993,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.4%报44,737.95点。",
+          "url": "https://wallstreetcn.com/livenews/3133359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美国国防部暂停实施网络安全成熟度模型认证第二阶段网络安全规则，理由是担忧该规定导致小企业退出相关国防供应链。",
@@ -1051,7 +1144,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -1120,6 +1213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "评论员：千万不要轻视日本军力",
+          "url": "https://www.toutiao.com/trending/7661115799976804379/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "日本大分县发生持刀伤人案 4人受伤",
