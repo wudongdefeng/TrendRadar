@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T09:30:09.856808+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-07-15T12:43:19.260532+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 122,
+      "match_count": 133,
       "titles": [
         {
           "title": "美国CPI六年来首现负增长！市场随即“开香槟” 但油价风险已经重燃",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 09时30分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 12时43分]"
         },
         {
           "title": "外交部：奉劝有关国家不要沦为美国帮凶",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 09时30分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 12时43分]"
         },
         {
           "title": "美国媒体，这次服了中国电网",
@@ -121,6 +121,17 @@
           "time_info": "[05时49分 ~ 06时50分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时43分]"
+        },
+        {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
@@ -131,17 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 04时52分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
         },
         {
           "title": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
@@ -220,6 +220,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "据伊朗IRIB新闻网：美国在周三凌晨袭击了伊朗霍韦泽（Hoveyzeh）的一处小麦储存筒仓。",
+          "url": "https://flash.jin10.com/detail/20260715122610456800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美国众议院投票通过永久实行夏令时的立法草案，将该草案提交参议院审议。",
           "url": "https://wallstreetcn.com/livenews/3133893",
           "source": "华尔街见闻-快讯",
@@ -237,9 +248,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "美国航母陷入超期部署“死循环”",
+          "url": "https://news.ifeng.com/c/8uln4DAN4bL",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
@@ -286,6 +308,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "日本5月第三产业活动指数环比 1.1%，预期 0.4%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3134097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "以媒：美国暂停从以色列机场撤离军机",
           "url": "https://news.ifeng.com/c/8ulXHnlwbrE",
           "source": "凤凰网",
@@ -314,7 +347,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -328,6 +361,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
+          "url": "https://www.cls.cn/detail/2426660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时43分]"
         },
         {
           "title": "美媒称日本针对俄中朝成立情报机构",
@@ -475,17 +520,6 @@
           "time_info": "[05时50分 ~ 06时50分]"
         },
         {
-          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
-          "url": "https://www.cls.cn/detail/2426660",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
           "title": "美国能源部长：20%的收费并不在考虑范围内",
           "url": "https://wallstreetcn.com/livenews/3133882",
           "source": "华尔街见闻-快讯",
@@ -588,6 +622,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "甲骨文在向日本提供绝密级云服务的竞争中处于领先地位",
+          "url": "https://flash.jin10.com/detail/20260715121242329800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美国总统特朗普宣称：明晚将再次袭击伊朗。 下周将袭击伊朗的发电厂和桥梁。 我会将能源目标留到最后，最终将袭击伊朗的能源目标。 伊朗别无选择，只能（与美方）达成协议。",
           "url": "https://wallstreetcn.com/livenews/3133907",
           "source": "华尔街见闻-快讯",
@@ -605,7 +650,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -671,9 +716,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "投行Jefferies把美国银行目标股价从70美元上调至75美元。",
+          "url": "https://wallstreetcn.com/livenews/3134088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "日本掉进自己挖的坑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8E%89%E8%BF%9B%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84%E5%9D%91",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示，对伊朗的打击将持续，直到我说够了为止。伊朗还有一些斗志，但他们的余力不多。",
@@ -709,6 +776,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "据英国金融时报：比亚迪(01211.HK)高管称表示，即便不进入美国市场，比亚迪也能超越丰田夺取全球销冠宝座。",
+          "url": "https://flash.jin10.com/detail/20260715120653321800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "市场消息：美国众议院议员拉斯金致信派拉蒙CEO埃里森，要求其回应是否在推动CBS新闻报道迎合特朗普立场。",
           "url": "https://flash.jin10.com/detail/20260715023131877800",
           "source": "金十数据",
@@ -726,9 +804,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡将继续关闭，直至美国停止袭击。",
+          "url": "https://wallstreetcn.com/livenews/3134084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国原油期货结算价为每桶79.34美元，上涨1.20美元，涨幅1.54%。",
@@ -773,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "多个市民团体反对日本拥有核潜艇",
+          "url": "https://flash.jin10.com/detail/20260715120319123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国能源部长赖特：已不再考虑收取20%的费用。",
@@ -891,7 +991,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -1004,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2.1%至45,670.23点。",
+          "url": "https://wallstreetcn.com/livenews/3134073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国国务院官员：美国预计，美国企业将在推进伊拉克—叙利亚原油管道重建工作中发挥重要作用。",
@@ -1199,7 +1310,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -1309,7 +1420,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -1364,9 +1475,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "中方连续两次追加发言 驳斥美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E8%BF%BD%E5%8A%A0%E5%8F%91%E8%A8%80+%E9%A9%B3%E6%96%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国总统特朗普：我与伊拉克总理之间有着极好的默契（或“化学反应”）。 最近，与伊拉克在短期内形成了石油合作伙伴关系。 将很快宣布两国间石油伙伴关系，预计会在本周、或下周。 （被问及伊拉克是否会退出石油输出国组织OPEC）我支持伊拉克总理。",
