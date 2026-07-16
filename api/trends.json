@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:50:26.008414+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-07-16T12:53:54.147308+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 120,
+      "match_count": 138,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 09时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时53分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -43,6 +44,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时57分 ~ 12时53分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -95,19 +110,6 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时57分 ~ 09时50分]"
-        },
-        {
           "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
           "url": "https://wallstreetcn.com/articles/3777031",
           "source": "华尔街见闻",
@@ -117,19 +119,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时05分 ~ 09时50分]"
+          "appearance_count": 7,
+          "time_info": "[04时05分 ~ 12时53分]"
         },
         {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
           "url": "https://news.ifeng.com/c/8umxPSPZXoN",
           "source": "凤凰网",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时53分]"
+        },
+        {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "12时53分"
         },
         {
           "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
@@ -165,6 +179,28 @@
           "time_info": "07时52分"
         },
         {
+          "title": "日本央行调查：日本家庭预计五年后通胀率将平均上升10.8%，中位数为5.0%。",
+          "url": "https://flash.jin10.com/detail/20260716123137752800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "美国指了指中国 然后狠狠抽自己耳光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BA%86%E6%8C%87%E4%B8%AD%E5%9B%BD+%E7%84%B6%E5%90%8E%E7%8B%A0%E7%8B%A0%E6%8A%BD%E8%87%AA%E5%B7%B1%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国驻伊拉克埃尔比勒领馆附近传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260716024107731800",
           "source": "金十数据",
@@ -185,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "日本央行调查：86.1%的日本家庭预计五年后物价将上涨，而此前调查中的这一比例为82.6%。",
+          "url": "https://flash.jin10.com/detail/20260716123126563800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：我不喜欢设定最后期限。",
@@ -220,6 +267,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "日本央行调查：日本家庭预计一年后通胀率将平均上升13.1%，中位数为10.0%。",
+          "url": "https://flash.jin10.com/detail/20260716123114869800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "皮尤研究中心调查：中国在全球的好感度排名首次超过美国",
           "url": "https://wallstreetcn.com/livenews/3134555",
           "source": "华尔街见闻-快讯",
@@ -240,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：国防生产需要再加快一些速度。",
@@ -264,6 +333,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "日本央行6月季度调查显示，90.4%的日本家庭预计一年后物价将上涨，而此前调查中的这一比例为83.7%。",
+          "url": "https://flash.jin10.com/detail/20260716123101188800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉领导层表现出色。",
           "url": "https://wallstreetcn.com/livenews/3134585",
           "source": "华尔街见闻-快讯",
@@ -281,7 +361,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -410,6 +490,17 @@
           "time_info": "[02时57分 ~ 04时05分]"
         },
         {
+          "title": "美国议员警告：这么干，让中国赢了",
+          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时53分]"
+        },
+        {
           "title": "美国国务院批准向沙特阿拉伯出售先进精确打击武器系统及相关设备，预计交易金额为19.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260716052212185800",
           "source": "金十数据",
@@ -482,6 +573,17 @@
           "time_info": "[05时50分 ~ 06时52分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时53分]"
+        },
+        {
           "title": "台退将：挑衅大陆红线必玩火自焚",
           "url": "https://www.toutiao.com/trending/7662036154451722250/",
           "source": "今日头条",
@@ -527,17 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "美国议员警告：这么干，让中国赢了",
-          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
@@ -628,6 +719,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：凭借人工智能，日本将定义其下一个时代。",
+          "url": "https://flash.jin10.com/detail/20260716122405222800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
           "url": "https://wallstreetcn.com/livenews/3134548",
           "source": "华尔街见闻-快讯",
@@ -667,7 +769,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -705,6 +807,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "健世科技-B：公司产品经导管三尖瓣置换系统LuX-Valve Plus美国注册临床取得突破性进展",
+          "url": "https://flash.jin10.com/detail/20260716122351941800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国总统特朗普：出于政治原因，纽约州州长凯西·霍楚尔叫停了纽约州所有正在建设或计划建设的数据中心项目。",
           "url": "https://flash.jin10.com/detail/20260716004053683800",
           "source": "金十数据",
@@ -733,9 +846,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：物理AI是下一场工业革命，而且可将在日本制造。",
+          "url": "https://flash.jin10.com/detail/20260716122337410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国两年期国债收益率跌超6个基点",
@@ -804,17 +928,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
           "url": "https://flash.jin10.com/detail/20260716022948918800",
           "source": "金十数据",
@@ -837,6 +950,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "日本40年期国债收益率上升3.0个基点，达到3.785%。",
+          "url": "https://flash.jin10.com/detail/20260716122034941800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
           "url": "https://wallstreetcn.com/livenews/3134544",
           "source": "华尔街见闻-快讯",
@@ -846,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "巴西政府称将依据对等法律回应美国关税措施",
+          "url": "https://wallstreetcn.com/livenews/3134792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）不喜欢设定最后期限。",
@@ -909,7 +1044,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -953,7 +1088,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -975,9 +1110,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "日本央行委员Nakamura：适当的货币政策有助于稳定物价和促进经济增长，日本央行若延迟调整政策可能会对经济造成拖累。",
+          "url": "https://wallstreetcn.com/livenews/3134785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：希望利率下降。",
@@ -989,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国政府考虑加入特朗普针对BBC的诉讼",
+          "url": "https://flash.jin10.com/detail/20260716121443983800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：油价将波动一段时间。",
@@ -1008,9 +1165,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "皮尤调查：中国全球好感度排名超美国",
+          "url": "https://www.toutiao.com/trending/7661901274195197995/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：暂停加息总比加息更好。",
@@ -1184,7 +1352,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1277,6 +1445,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美国务院批准向沙特出售近20亿美元武器装备",
+          "url": "https://wallstreetcn.com/livenews/3134775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -1286,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美国将从7月22日起对部分巴西商品征收25%的关税，将豁免牛肉、咖啡、部分能源产品的25%关税税率。",
+          "url": "https://wallstreetcn.com/livenews/3134774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：（关于石油）价格稍微上涨是因为我不得不采取强硬措施。",
@@ -1305,7 +1495,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1363,6 +1553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：希望鼓励对国内资产的投资。 如果需要，可以考虑调整日本政府养老金投资基金（GPIF）的投资组合。 GPIF会在适当的时机评估投资组合。 我们无法干预或强行规定GPIF的投资组合方向。",
+          "url": "https://wallstreetcn.com/livenews/3134766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
