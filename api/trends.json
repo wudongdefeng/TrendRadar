@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:08:44.127798+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-07-17T23:07:29.873700+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 139,
+      "match_count": 154,
       "titles": [
         {
           "title": "中国援助海外,日本冒领功劳",
@@ -18,11 +18,12 @@
             14,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 21时08分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 23时07分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -32,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 21时08分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 23时07分]"
         },
         {
           "title": "美国副总统，两个不寻常的动向",
@@ -55,8 +56,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 23时07分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 23时07分]"
         },
         {
           "title": "国台办：赖清德当局编造所谓“风险”目的是恐吓台湾民众",
@@ -99,17 +113,19 @@
           "time_info": "[01时05分 ~ 09时54分]"
         },
         {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
           "ranks": [
-            10,
-            6,
-            1
+            4,
+            9,
+            11,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 21时08分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 23时07分]"
         },
         {
           "title": "特朗普说别人都在笑话美国",
@@ -142,20 +158,6 @@
             8,
             10,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 21时08分]"
-        },
-        {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -250,6 +252,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "法国外交部：驻巴黎俄罗斯大使馆临时代办于7月17日被法国召见。",
+          "url": "https://flash.jin10.com/detail/20260717224551606800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函给美联储监督部门，要求调查美联储理事鲍曼。 此前，媒体在SVB（硅谷银行）评估方面提及鲍曼。 Warren质疑鲍曼聘请外部咨询公司一事。",
           "url": "https://wallstreetcn.com/livenews/3135196",
           "source": "华尔街见闻-快讯",
@@ -311,7 +324,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -355,7 +368,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -444,6 +457,44 @@
           "time_info": "[04时01分 ~ 05时07分]"
         },
         {
+          "title": "男子帮台湾游客拍照发现是失联大伯",
+          "url": "https://www.toutiao.com/trending/7663079876816175147/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 23时07分]"
+        },
+        {
+          "title": "黄油拌糖嘎嘣脆,日本网友整活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 23时07分]"
+        },
+        {
+          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
+          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 23时07分]"
+        },
+        {
           "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
           "url": "https://www.zhihu.com/question/2060754085637271982",
           "source": "知乎",
@@ -468,18 +519,6 @@
           "time_info": "[12时57分 ~ 15时13分]"
         },
         {
-          "title": "男子帮台湾游客拍照发现是失联大伯",
-          "url": "https://www.toutiao.com/trending/7663079876816175147/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 21时08分]"
-        },
-        {
           "title": "2026 上半年中国大陆电视出货量创十七年新低，同期下降 10%，为啥电视卖不动了？可能会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2060800089560282167",
           "source": "知乎",
@@ -490,6 +529,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时01分 ~ 07时52分]"
+        },
+        {
+          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
+          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 23时07分]"
         },
         {
           "title": "美国原油期货结算价为每桶78.95美元，下跌65美分，跌幅0.82%。",
@@ -514,30 +564,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时07分]"
-        },
-        {
-          "title": "黄油拌糖嘎嘣脆,日本网友整活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时08分]"
-        },
-        {
-          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
-          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时08分]"
         },
         {
           "title": "中国全球好感度反超美国",
@@ -612,20 +638,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
         {
-          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
-          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
-          "source": "凤凰网",
+          "title": "LS Power LLC.的CEO Paul Segal：面对一波又一波的热浪侵袭，（美国的）电网运行良好。 需要新的输电网络和发电设施。 就（入网）电力供应而言，天然气发电站是必须得。 面对全球石油市场，美国发电行业得到保护。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3135797",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "23时07分"
         },
         {
           "title": "美国至7月10日当周外国央行持有美国国债 6.39亿美元，前值-286.05亿美元。",
@@ -656,7 +682,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -689,9 +715,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "美国证实摧毁了伊朗港口监视塔。",
+          "url": "https://wallstreetcn.com/livenews/3135795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "伊朗革命卫队：美国目前已陷入困境，唯一出路是撤出西亚地区。美国霸凌和挑衅的时代已经结束。",
@@ -733,7 +770,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -755,7 +792,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -821,7 +858,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -887,7 +924,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -942,7 +979,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -967,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "7月美国消费者信心有所改善 中东冲突重燃带来下行风险",
+          "url": "https://flash.jin10.com/detail/20260717222238035800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.55%，创2025年8月份以来新高；前值6.49%。",
@@ -1096,7 +1144,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1110,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国不再延续涉港国家紧急状态，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33607609",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
@@ -1129,7 +1188,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1162,7 +1221,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1184,7 +1243,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1198,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "王梦洁加盟美国女排职业联赛",
+          "url": "https://www.toutiao.com/trending/7662889521926668351/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "西红柿炒蛋在日本火了",
@@ -1283,7 +1353,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1316,7 +1386,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1371,7 +1441,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1387,13 +1457,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "美国克利夫兰联储主席Hammack：美联储双重职责（维持价格稳定+实现充分就业）之间不存在冲突。 （相比劳动力市场）通胀顽固地偏高是更大的顾虑。 通胀太高，且广泛地存在。 美国经济增长良好，消费者开支稳定。 企业称美联储需要针对通胀问题采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3135776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国6月新屋开工总数年化 142.7万户，预期131万户，前值由117.7万户修正为119.9万户。",
           "url": "https://flash.jin10.com/detail/20260717203004036800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1448,9 +1529,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "美联储哈玛克：我以开放心态对待每次联邦公开市场委员会（FOMC）会议，专注于为美国人民实现最佳结果。",
+          "url": "https://flash.jin10.com/detail/20260717220751566800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "日本财务大臣片山皋月：货币政策的具体内容应交由日本央行决定。 利率由市场决定。",
@@ -1475,13 +1567,24 @@
           "time_info": "19时16分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（7月16日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3135774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国6月进口物价指数月率 0.3%，预期-0.7%，前值由1.90%修正为1.7%。",
           "url": "https://flash.jin10.com/detail/20260717203003821800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1508,6 +1611,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "【美国消费者信心创五个月新高，得益于汽油价格下跌】美国7月密歇根大学消费者信心指数初值 54.4，预期 51，前值 49.5。 7月密歇根大学1年通胀预期初值 4.2%，预期 4.4%，前值 4.6%。 7月密歇根大学5年通胀预期初值 3.3%，预期 3.3%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3135773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "房利美：美国30年期固定利率抵押贷款在7月16日当周平均为6.55%，为2025年8月28日以来的最高水平，较前一周的6.49%有所上升。",
           "url": "https://flash.jin10.com/detail/20260717000043545800",
           "source": "金十数据",
@@ -1517,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "美国7月密歇根大学5年通胀预期初值 3.3，预期 3.3，前值 3.3。",
+          "url": "https://wallstreetcn.com/livenews/3135771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "巴西副总统Alckmin：美国关税不公平且不合理。美国对巴西存在贸易顺差。巴西对美国商品的中等关税为3.1%，75%出口至巴西的美国商品关税为零。美国在301条款调查中提出的观点缺乏事实依据。",
@@ -1552,6 +1677,17 @@
           "time_info": "17时49分"
         },
         {
+          "title": "美国7月密歇根大学1年通胀预期初值 4.2，预期 4.4，前值 4.6。",
+          "url": "https://wallstreetcn.com/livenews/3135770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "白宫称伊朗仍在与美国对话",
           "url": "https://wallstreetcn.com/livenews/3135227",
           "source": "华尔街见闻-快讯",
@@ -1563,6 +1699,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美国7月密歇根大学消费者预期指数初值 54，预期 51.9，前值 50.7。",
+          "url": "https://wallstreetcn.com/livenews/3135769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "日本人真的很热衷于吃夹生的食物",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E7%83%AD%E8%A1%B7%E4%BA%8E%E5%90%83%E5%A4%B9%E7%94%9F%E7%9A%84%E9%A3%9F%E7%89%A9%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1572,6 +1719,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者信心指数初值 54.4，预期 51，前值 49.5。",
+          "url": "https://wallstreetcn.com/livenews/3135768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者现况指数初值 54.9，预期 48.7，前值 47.7。",
+          "url": "https://wallstreetcn.com/livenews/3135767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     },
