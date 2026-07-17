@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T01:03:34.644838+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-18T02:55:04.734301+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 23,
+      "match_count": 37,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -26,41 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "美国原油期货涨幅扩大至4%，报道称美国向以色列增派数十架空中加油机。",
-          "url": "https://wallstreetcn.com/livenews/3135843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
         },
         {
           "title": "美国不再延续涉港国家紧急状态，商务部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33607609",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
         },
         {
           "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
@@ -70,8 +49,53 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "美国原油钻井平台连续第12周增长",
+          "url": "https://flash.jin10.com/detail/20260718024203921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国：欢迎伊拉克与叙利亚就管道项目合作。 管道完成后初始输送能力将达每天200万桶。",
+          "url": "https://wallstreetcn.com/livenews/3135875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶82.49美元，上涨3.54美元，涨幅4.48%。",
+          "url": "https://flash.jin10.com/detail/20260718023157464800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
         },
         {
           "title": "媒体：为应对局势升级，美国将向以色列增派数十架加油机",
@@ -85,6 +109,96 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国原油期货涨幅扩大至4%，报道称美国向以色列增派数十架空中加油机。",
+          "url": "https://wallstreetcn.com/livenews/3135843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "黄油拌糖嘎嘣脆,日本网友整活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
+          "url": "https://wallstreetcn.com/articles/3777225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
+          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "加拿大网民：去年还帮美国救火，今年就成了罪人？",
+          "url": "https://news.ifeng.com/c/8uqB77EU9I5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "男子帮台湾游客拍照发现是失联大伯",
+          "url": "https://www.toutiao.com/trending/7663079876816175147/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时55分]"
+        },
+        {
           "title": "据AXIOS：为应对可能升级的局势，美国向以色列增派数十架加油机。",
           "url": "https://flash.jin10.com/detail/20260718000406850800",
           "source": "金十数据",
@@ -96,44 +210,22 @@
           "time_info": "01时03分"
         },
         {
+          "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
+          "url": "https://flash.jin10.com/detail/20260718022504678800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
           "url": "https://wallstreetcn.com/livenews/3135838",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "黄油拌糖嘎嘣脆,日本网友整活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
-          "url": "https://wallstreetcn.com/articles/3777225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
-          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
-          "source": "凤凰网",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -162,15 +254,37 @@
           "time_info": "01时03分"
         },
         {
-          "title": "加拿大网民：去年还帮美国救火，今年就成了罪人？",
-          "url": "https://news.ifeng.com/c/8uqB77EU9I5",
-          "source": "凤凰网",
+          "title": "美国联邦航空管理局（FAA）：波音飞机认证恢复工作将于7月20日生效。 FAA将允许波音恢复对所有737 MAX及787飞机的认证。 FAA批准波音恢复颁发适航证书。",
+          "url": "https://wallstreetcn.com/livenews/3135862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国参议院加密货币谈判陷入波折，法案通过窗口期日益收窄",
+          "url": "https://wallstreetcn.com/livenews/3135859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国国会公布临时拨款法案，将联邦政府资金期限延长至12月4日。",
+          "url": "https://flash.jin10.com/detail/20260718021103037800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "伊朗关联油轮掉头、蛇形机动，美国实施海上封锁",
@@ -184,15 +298,37 @@
           "time_info": "01时03分"
         },
         {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
-          "source": "贴吧",
+          "title": "美国7月17日当周石油钻井数 452，前值 445。",
+          "url": "https://wallstreetcn.com/livenews/3135856",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国7月17日当周天然气钻井数 126，前值 126。",
+          "url": "https://wallstreetcn.com/livenews/3135855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据News Nation：已故美国共和党参议员林赛·格雷厄姆的葬礼将于当地时间7月28日在美国华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260718015447590800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -206,33 +342,55 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国7月17日当周总钻井数 588，前值 581。",
+          "url": "https://wallstreetcn.com/livenews/3135854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国石油钻井平台数量继续增加",
+          "url": "https://flash.jin10.com/detail/20260718015042717800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
+          "url": "https://wallstreetcn.com/livenews/3135850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
+          "url": "https://flash.jin10.com/detail/20260718014652994800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：看到美国7月初消费者信心指数升至五个月高点，这是因为汽油价格下降提振了民众情绪。",
           "url": "https://flash.jin10.com/detail/20260717233043326800",
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "男子帮台湾游客拍照发现是失联大伯",
-          "url": "https://www.toutiao.com/trending/7663079876816175147/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
