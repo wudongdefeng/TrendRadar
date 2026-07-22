@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T04:13:31.651151+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-23T05:59:37.443215+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 58,
+      "match_count": 68,
       "titles": [
         {
           "title": "日本拍卖疑似我国文物 中方紧急拦截",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
         },
         {
           "title": "张雪机车被禁止进入台湾",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
         },
         {
           "title": "据Politico：美国众议院刚刚投票决定将《国防生产法》授权延长至2031年，作为附在《国防授权法》上的一揽子两党修正案的一部分。",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -109,6 +109,73 @@
           "time_info": "[00时21分 ~ 02时03分]"
         },
         {
+          "title": "一中国籍男童在日本被撞身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            8,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
+        },
+        {
+          "title": "一中国籍男童在日本被撞身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
+        },
+        {
+          "title": "日本鼓励男性穿短裤上班引女职员不满",
+          "url": "https://www.toutiao.com/trending/7665183140259889178/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            13,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
+        },
+        {
+          "title": "王毅会见美国国务卿鲁比奥",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时59分]"
+        },
+        {
+          "title": "如何评价日本电影《花束般的恋爱》？",
+          "url": "https://www.zhihu.com/question/461455834",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 05时59分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -120,55 +187,15 @@
           "time_info": "[00时21分 ~ 04时13分]"
         },
         {
-          "title": "一中国籍男童在日本被撞身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2061557759359840568",
+          "source": "知乎",
           "ranks": [
-            20,
-            8,
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "一中国籍男童在日本被撞身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "日本鼓励男性穿短裤上班引女职员不满",
-          "url": "https://www.toutiao.com/trending/7665183140259889178/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "王毅会见美国国务卿鲁比奥",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "time_info": "[00时21分 ~ 05时59分]"
         },
         {
           "title": "美国演员凯莉·霍特尔车祸离世",
@@ -195,18 +222,6 @@
           "time_info": "[00时21分 ~ 02时03分]"
         },
         {
-          "title": "如何评价日本电影《花束般的恋爱》？",
-          "url": "https://www.zhihu.com/question/461455834",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时13分]"
-        },
-        {
           "title": "保加利亚议会同意美国在保部署加油机，有效期为未来不到三个月",
           "url": "https://wallstreetcn.com/livenews/3138312",
           "source": "华尔街见闻-快讯",
@@ -219,15 +234,16 @@
           "time_info": "[00时21分 ~ 02时03分]"
         },
         {
-          "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2061557759359840568",
-          "source": "知乎",
+          "title": "俄远程战略轰炸机巡航日本海",
+          "url": "https://www.douyin.com/hot/2580342",
+          "source": "抖音",
           "ranks": [
-            16
+            24,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时03分]"
+          "time_info": "[04时13分 ~ 05时59分]"
         },
         {
           "title": "委内瑞拉前总统马杜罗抵达美国法庭，听证会即将开始。",
@@ -247,7 +263,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -302,9 +318,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "英特尔为旗下美国俄亥俄州芯片工厂寻找合作伙伴。 包括SK海力士在内，多家公司考虑在俄亥俄州问题上与英特尔合作。 SK海力士尚未与英特尔正式讨论。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3138420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "英国金融时报：根据欧盟各国即将达成的一项针对莫斯科的新制裁方案，希腊航运公司Dynagas将获准继续运输俄罗斯液化天然气（LNG）。",
+          "url": "https://flash.jin10.com/detail/20260723053833383800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
@@ -316,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "英国金融时报：随着欧盟即将达成新的制裁协议，俄罗斯天然气运输将继续获得豁免。",
+          "url": "https://flash.jin10.com/detail/20260723053825761800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国财长贝森特：支持巴基斯坦实现经济自给自足。",
@@ -340,13 +389,24 @@
           "time_info": "00时21分"
         },
         {
+          "title": "委内瑞拉民众举行示威，要求美国释放马杜罗夫妇",
+          "url": "https://wallstreetcn.com/livenews/3138416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "全球柴油供应告急下 美国炼油商提前数月将产量推至历史峰值水平",
           "url": "https://flash.jin10.com/detail/20260723031920440800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -357,7 +417,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -423,7 +483,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -445,7 +505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -489,7 +549,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -500,7 +560,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -533,7 +593,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -555,9 +615,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国众议院以216票赞成、212票反对的微弱优势通过规模达1.15万亿美元的《国防授权法案》。 7名共和党议员投票反对，6名民主党议员投票支持。",
+          "url": "https://wallstreetcn.com/livenews/3138404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国贸易代表格里尔：美墨加协定（USMCA）谈判可能延续到明年。",
@@ -588,20 +659,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "俄远程战略轰炸机巡航日本海",
-          "url": "https://www.douyin.com/hot/2580342",
-          "source": "抖音",
+          "title": "美国财经媒体Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK海力士正在考虑与英特尔合作。",
+          "url": "https://flash.jin10.com/detail/20260723051057743800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时59分"
         },
         {
           "title": "墨西哥总统辛鲍姆将于周四早间会见美国贸易代表格里尔。",
@@ -621,9 +692,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国与沙特阿拉伯签署核合作协议",
+          "url": "https://wallstreetcn.com/livenews/3138402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "菲律宾示威者抗议美国务卿到访",
@@ -637,13 +719,35 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗迈赫尔通讯社援引胡齐斯坦省官员的话称，阿瓦士（Ahvaz）附近的一处地点遭到了美国导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260723050906280800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "特斯拉：在上半年将美国得州工厂的本地算力规模翻了一倍多。 电池包产能仍然是限制性因素。 公司正设法提高电池包的产能。",
+          "url": "https://wallstreetcn.com/livenews/3138397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3138360",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -657,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
+          "url": "https://wallstreetcn.com/livenews/3138398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     }
