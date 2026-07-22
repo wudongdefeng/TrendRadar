@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T09:51:06.428969+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-07-22T13:13:11.808932+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 105,
+      "match_count": 117,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时13分]"
         },
         {
           "title": "美国宣布对加拿大部分产品加征50%关税",
@@ -76,6 +76,30 @@
           "time_info": "[00时19分 ~ 06时51分]"
         },
         {
+          "title": "菲律宾在仁爱礁蓄意挑衅，台外事部门竟谴责大陆，国台办抨击",
+          "url": "https://news.ifeng.com/c/8uxl6DMPihY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "美国贸易代表暗示将很快出台新关税政策",
+          "url": "https://www.cls.cn/detail/2433214",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 13时13分]"
+        },
+        {
           "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
           "url": "https://www.zhihu.com/question/2062554385847160852",
           "source": "知乎",
@@ -107,7 +131,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -156,6 +180,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "俄罗斯国防部表示，俄军袭击了乌克兰港口，两艘船只遭击中。",
+          "url": "https://flash.jin10.com/detail/20260722130221580800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
           "url": "https://flash.jin10.com/detail/20260721234532750800",
           "source": "金十数据",
@@ -184,7 +219,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -235,6 +270,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "美国防部发布声明，公布美军最新死亡人数",
+          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时13分]"
         },
         {
           "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
@@ -323,16 +369,38 @@
           "time_info": "[06时51分 ~ 07时50分]"
         },
         {
-          "title": "美国贸易代表暗示将很快出台新关税政策",
-          "url": "https://www.cls.cn/detail/2433214",
-          "source": "财联社热门",
+          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
+          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时13分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
+          "url": "https://www.zhihu.com/question/2063034932763669204",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时13分]"
+        },
+        {
+          "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
+          "url": "https://news.ifeng.com/c/8uwxjZi2bzq",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时13分]"
         },
         {
           "title": "日本支付公司破产 殃及数万商户",
@@ -345,17 +413,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 09时51分]"
-        },
-        {
-          "title": "美国防部发布声明，公布美军最新死亡人数",
-          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "报道：美国白宫希望向研究员提供2000亿美元研发经费",
@@ -380,39 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时50分]"
-        },
-        {
-          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
-          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
-          "url": "https://news.ifeng.com/c/8uwxjZi2bzq",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
-          "url": "https://www.zhihu.com/question/2063034932763669204",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗最高联合军事指挥部表示，如果美国袭击伊朗核设施，将被视为“扩大地区战争”。",
@@ -523,6 +547,17 @@
           "time_info": "[05时57分 ~ 06时51分]"
         },
         {
+          "title": "美国3米长鲨鱼靠近游泳儿童",
+          "url": "https://www.toutiao.com/trending/7664245391466233883/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
           "title": "日本指礁为“岛”闹剧还要演多久",
           "url": "https://www.toutiao.com/trending/7665117365369110579/",
           "source": "今日头条",
@@ -532,6 +567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "俄罗斯远程战略轰炸机巡航日本海",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%9C%E7%A8%8B%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA%E5%B7%A1%E8%88%AA%E6%97%A5%E6%9C%AC%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -595,7 +641,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -620,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美官员称特朗普批准美国与沙特民用核项目协议",
+          "url": "https://wallstreetcn.com/livenews/3137962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国参议员柯林斯表示，美国部分军种正面临近期资金保障方面的挑战。",
@@ -782,7 +839,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -826,9 +883,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "日本40年期国债收益率上涨2个基点至3.910%。",
+          "url": "https://wallstreetcn.com/livenews/3137955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "木星资产管理公司已将投资从美国国债转向欧洲主权债务。",
@@ -870,9 +938,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "马杜罗和美国检方共同提议明年6月审理其所涉指控",
+          "url": "https://wallstreetcn.com/livenews/3137954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "木星资产管理公司因强劲数据和加息前景，在四月下旬至五月初将美国国债持仓削减至“极低水平”。",
@@ -903,7 +982,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -985,6 +1064,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "日本财务大臣片山皋月：必要时将对外汇采取行动，我们对外汇的立场没有任何改变。",
+          "url": "https://wallstreetcn.com/livenews/3137950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这是因为他们对我们的农民等问题上采取了强硬措施。",
           "url": "https://flash.jin10.com/detail/20260721233610193800",
           "source": "金十数据",
@@ -1035,9 +1125,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "日本40年期国债收益率上升2个基点，达到3.910%。",
+          "url": "https://flash.jin10.com/detail/20260722121724083800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这与野火无关。",
@@ -1071,6 +1172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "日本10年期国债收益率上行3个基点至2.75%。",
+          "url": "https://wallstreetcn.com/livenews/3137948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国至7月21日6周国债竞拍-得标利率配置百分比 1.87%，前值63.1%。",
@@ -1150,6 +1262,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "俄罗斯最大在线零售商WB报告称，其位于俄罗斯南部的仓库在夜间遭到袭击，造成数人受伤。",
+          "url": "https://flash.jin10.com/detail/20260722120828694800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
           "url": "https://wallstreetcn.com/livenews/3137656",
           "source": "华尔街见闻-快讯",
@@ -1167,7 +1290,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1183,13 +1306,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "日本拍卖40年期国债，认购倍数2.82，过去12个月均值为2.55。",
+          "url": "https://wallstreetcn.com/livenews/3137944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "日本五年期国债收益率上涨2.0个基点至1.960%。",
           "url": "https://wallstreetcn.com/livenews/3137817",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
