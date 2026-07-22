@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-22T07:50:17.774197+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-22T09:51:06.428969+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 90,
+      "match_count": 105,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
           "url": "https://wallstreetcn.com/articles/3777542",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时51分]"
         },
         {
           "title": "美国宣布对加拿大部分产品加征50%关税",
@@ -95,9 +96,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：全球经济面临威胁。",
+          "url": "https://flash.jin10.com/detail/20260722094359041800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
@@ -139,7 +151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -164,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国对中东冲突持开放态度，愿意参与、谈判并解决分歧。我们面临的问题是对方并不认真对待谈判。",
+          "url": "https://flash.jin10.com/detail/20260722094207537800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -300,6 +323,41 @@
           "time_info": "[06时51分 ~ 07时50分]"
         },
         {
+          "title": "美国贸易代表暗示将很快出台新关税政策",
+          "url": "https://www.cls.cn/detail/2433214",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时51分]"
+        },
+        {
+          "title": "日本支付公司破产 殃及数万商户",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%AF%E4%BB%98%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7+%E6%AE%83%E5%8F%8A%E6%95%B0%E4%B8%87%E5%95%86%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时51分]"
+        },
+        {
+          "title": "美国防部发布声明，公布美军最新死亡人数",
+          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
           "title": "报道：美国白宫希望向研究员提供2000亿美元研发经费",
           "url": "https://wallstreetcn.com/livenews/3137774",
           "source": "华尔街见闻-快讯",
@@ -322,6 +380,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时50分]"
+        },
+        {
+          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
+          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
+          "url": "https://news.ifeng.com/c/8uwxjZi2bzq",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
+          "url": "https://www.zhihu.com/question/2063034932763669204",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗最高联合军事指挥部表示，如果美国袭击伊朗核设施，将被视为“扩大地区战争”。",
@@ -432,6 +523,17 @@
           "time_info": "[05时57分 ~ 06时51分]"
         },
         {
+          "title": "日本指礁为“岛”闹剧还要演多久",
+          "url": "https://www.toutiao.com/trending/7665117365369110579/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
           "url": "https://flash.jin10.com/detail/20260722013554217800",
           "source": "金十数据",
@@ -485,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国致力于通过外交途径处理中东及伊朗问题。 美国仍然持开放态度，愿意进行谈判。 伊朗对待谈判缺乏诚意。",
+          "url": "https://wallstreetcn.com/livenews/3137851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -570,7 +683,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -603,7 +716,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -625,18 +738,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国贸易代表暗示将很快出台新关税政策",
-          "url": "https://www.cls.cn/detail/2433214",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -669,9 +771,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "A股创新药板块走强，药康生物涨超13%，莱美药业涨超8%，益诺思、哈三联、博瑞医药、华兰股份、众生药业等个股跟涨。消息面上，美国总统特朗普当地时间7月21日在社交媒体发文表示，自2026年8月1日起，所有进口到美国的仿制药将在未来两年内继续适用零关税。两年期满后，相关产品将被征收100%的关税，期限为一年；此后，关税将进一步提高至200%。",
+          "url": "https://flash.jin10.com/detail/20260722093524095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
@@ -707,6 +820,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "日本30年期国债收益率上行1.5个基点至3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3137838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "木星资产管理公司已将投资从美国国债转向欧洲主权债务。",
           "url": "https://flash.jin10.com/detail/20260721233811518800",
           "source": "金十数据",
@@ -740,6 +864,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "日本财务大臣片山皋月：必要时可以随时采取大胆行动；不就具体的汇率水平发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3137837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "木星资产管理公司因强劲数据和加息前景，在四月下旬至五月初将美国国债持仓削减至“极低水平”。",
           "url": "https://flash.jin10.com/detail/20260721233807566800",
           "source": "金十数据",
@@ -760,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "台湾证交所加权股价指数盘初上涨2.1%至45,163.33点。",
+          "url": "https://wallstreetcn.com/livenews/3137836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
@@ -823,7 +969,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -883,6 +1029,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "A股石油石化板块高开，科力股份涨超8%，通源石油、中曼石油、潜能恒信、中国海油、泰山石油等个股跟涨。消息面上，伊朗伊斯兰革命卫队发表声明称，“惩罚侵略者的行动仍在继续”。此前，美国已连续第11晚对伊朗发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260722093119744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这与野火无关。",
           "url": "https://flash.jin10.com/detail/20260721233528208800",
           "source": "金十数据",
@@ -911,7 +1068,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -1004,6 +1161,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国：完成对伊朗的第11晚打击。 霍尔木兹海峡仍对商船开放通行。",
+          "url": "https://wallstreetcn.com/livenews/3137826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美元兑日元涨至163上方，日内涨超0.3%，日本当局干预的风险加重。",
           "url": "https://wallstreetcn.com/livenews/3137655",
           "source": "华尔街见闻-快讯",
@@ -1015,15 +1183,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "日本支付公司破产 殃及数万商户",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%AF%E4%BB%98%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7+%E6%AE%83%E5%8F%8A%E6%95%B0%E4%B8%87%E5%95%86%E6%88%B7",
-          "source": "百度热搜",
+          "title": "日本五年期国债收益率上涨2.0个基点至1.960%。",
+          "url": "https://wallstreetcn.com/livenews/3137817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "09时51分"
         }
       ]
     }
