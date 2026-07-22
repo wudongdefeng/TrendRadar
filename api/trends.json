@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T20:26:08.482027+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-07-22T22:58:37.742470+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 151,
+      "match_count": 187,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -53,8 +53,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 20时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 22时58分]"
+        },
+        {
+          "title": "张雪机车被禁止进入台湾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356406&amp;topic_name=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时58分]"
         },
         {
           "title": "“美国海军第五舰队司令部发生爆炸”",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时50分]"
-        },
-        {
-          "title": "张雪机车被禁止进入台湾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356406&amp;topic_name=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -128,11 +128,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时58分]"
         },
         {
           "title": "美国贸易代表暗示将很快出台新关税政策",
@@ -162,6 +163,17 @@
           "time_info": "[02时11分 ~ 06时51分]"
         },
         {
+          "title": "日本拍卖疑似我国文物 中方紧急拦截",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%8D%E5%8D%96%E7%96%91%E4%BC%BC%E6%88%91%E5%9B%BD%E6%96%87%E7%89%A9+%E4%B8%AD%E6%96%B9%E7%B4%A7%E6%80%A5%E6%8B%A6%E6%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "据美国财经媒体Semafor：知情人士透露，英特尔与SK海力士并未就英特尔位于俄亥俄州的晶圆厂进行交易谈判。英特尔发表声明称，“按照惯例，我们不会对媒体关于未来商业协议的猜测发表评论。不过，英特尔致力于在俄亥俄州的发展，并将继续推进投资，以加快该厂址的投产准备工作。”",
           "url": "https://flash.jin10.com/detail/20260722072150341800",
           "source": "金十数据",
@@ -182,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：上周美国航空煤油需求创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260722224904413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
@@ -239,13 +262,24 @@
           "time_info": "13时13分"
         },
         {
+          "title": "美国贸易代表格里尔：昨天与加拿大贸易代表进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260722224547067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "伊朗南部拉腊克岛遭到美国导弹袭击",
           "url": "https://wallstreetcn.com/livenews/3138214",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -259,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国贸易代表格里尔：加拿大未表明对50%美国关税的报复措施。",
+          "url": "https://flash.jin10.com/detail/20260722224543777800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国战争部长赫格塞斯：（美国+以色列发动的）伊朗战争给美方带来375亿美元成本。",
@@ -281,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美国贸易代表格里尔：巴西的森林砍伐行为使美国农民面临竞争劣势。",
+          "url": "https://flash.jin10.com/detail/20260722224353583800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -318,6 +374,18 @@
           "time_info": "[00时19分 ~ 04时16分]"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时58分]"
+        },
+        {
           "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
           "url": "https://www.zhihu.com/question/2063034932763669204",
           "source": "知乎",
@@ -328,6 +396,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时50分 ~ 16时10分]"
+        },
+        {
+          "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2061557759359840568",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时58分]"
         },
         {
           "title": "赖岳谦：日本一旦做出核弹对美不利",
@@ -441,29 +521,6 @@
           "time_info": "[18时59分 ~ 20时26分]"
         },
         {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
-        },
-        {
-          "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2061557759359840568",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 20时26分]"
-        },
-        {
           "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
           "url": "https://news.ifeng.com/c/8uwxjZi2bzq",
           "source": "凤凰网",
@@ -499,6 +556,18 @@
           "time_info": "[16时10分 ~ 19时00分]"
         },
         {
+          "title": "日本男子坠楼砸死路人自己生还",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%94%9F%E8%BF%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时58分]"
+        },
+        {
           "title": "日本支付公司破产 殃及数万商户",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%AF%E4%BB%98%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7+%E6%AE%83%E5%8F%8A%E6%95%B0%E4%B8%87%E5%95%86%E6%88%B7",
           "source": "百度热搜",
@@ -509,6 +578,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 09时51分]"
+        },
+        {
+          "title": "日本鼓励男性穿短裤上班引女职员不满",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%BC%93%E5%8A%B1%E7%94%B7%E6%80%A7%E7%A9%BF%E7%9F%AD%E8%A3%A4%E4%B8%8A%E7%8F%AD%E5%BC%95%E5%A5%B3%E8%81%8C%E5%91%98%E4%B8%8D%E6%BB%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时58分]"
         },
         {
           "title": "报道：美国白宫希望向研究员提供2000亿美元研发经费",
@@ -676,17 +757,6 @@
           "time_info": "[13时12分 ~ 13时13分]"
         },
         {
-          "title": "日本男子坠楼砸死路人自己生还",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%94%9F%E8%BF%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "日本指礁为“岛”闹剧还要演多久",
           "url": "https://www.toutiao.com/trending/7665117365369110579/",
           "source": "今日头条",
@@ -696,17 +766,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "日本鼓励男性穿短裤上班引女职员不满",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%BC%93%E5%8A%B1%E7%94%B7%E6%80%A7%E7%A9%BF%E7%9F%AD%E8%A3%A4%E4%B8%8A%E7%8F%AD%E5%BC%95%E5%A5%B3%E8%81%8C%E5%91%98%E4%B8%8D%E6%BB%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "俄罗斯远程战略轰炸机巡航日本海",
@@ -740,6 +799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
+        },
+        {
+          "title": "美国贸易代表格里尔：其他国家降低环境标准是提高关税的合理依据。",
+          "url": "https://flash.jin10.com/detail/20260722224337145800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -786,6 +856,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "俄罗斯国防部：已在乌克兰敖德萨和切尔诺莫尔斯克港口击中目标。",
+          "url": "https://flash.jin10.com/detail/20260722224325164800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.650%，投标倍数2.79。",
           "url": "https://wallstreetcn.com/livenews/3137674",
           "source": "华尔街见闻-快讯",
@@ -808,6 +889,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加201万桶，彭博用户预计下降50万桶、分析师预期下降87.967万桶，之前一周减少169.2万桶。",
+          "url": "https://wallstreetcn.com/livenews/3138274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯武装部队在当天持续打击乌克兰港口、海军舰艇以及参与支援乌克兰武装部队的后勤中心。",
+          "url": "https://flash.jin10.com/detail/20260722224302839800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "日本两年期国债收益率升至1.47%，为1995年以来首次。",
           "url": "https://wallstreetcn.com/livenews/3138076",
           "source": "华尔街见闻-快讯",
@@ -817,6 +920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "美国7月17日当周EIA精炼厂设备利用率变化 -0.1%，前值 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -863,6 +977,17 @@
           "time_info": "19时00分"
         },
         {
+          "title": "俄罗斯国防部澄清称，敖德萨港口内用于卸载和储存军事物资的港口基础设施遭到了打击。",
+          "url": "https://flash.jin10.com/detail/20260722224243786800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美官员称特朗普批准美国与沙特民用核项目协议",
           "url": "https://wallstreetcn.com/livenews/3137962",
           "source": "华尔街见闻-快讯",
@@ -872,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "美国7月17日当周EIA原油库存变动 201万桶，前值 -169.2万桶。",
+          "url": "https://wallstreetcn.com/livenews/3138272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
@@ -907,6 +1043,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "美国正在布局“AI贸易体系”：从数据流动到源代码保护，规则之争已经开始",
+          "url": "https://flash.jin10.com/detail/20260722224228195800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国两年期国债收益率涨5.5个基点",
           "url": "https://wallstreetcn.com/livenews/3137728",
           "source": "华尔街见闻-快讯",
@@ -938,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "美国7月17日当周EIA库欣地区原油库存变动 -67.4万桶，前值 43万桶。",
+          "url": "https://wallstreetcn.com/livenews/3138271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国总统特朗普：我们将很快打击镐山地区。",
@@ -984,6 +1142,28 @@
           "time_info": "19时00分"
         },
         {
+          "title": "美国贸易代表格里尔：我们正在努力维护和扩大在墨西哥和加拿大的农业市场准入。",
+          "url": "https://flash.jin10.com/detail/20260722224052808800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国7月17日当周EIA汽油库存变动 76.5万桶，前值 -153.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3138270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国总统特朗普：伊朗还什么都没见识过，我们一直很克制。",
           "url": "https://flash.jin10.com/detail/20260721233939461800",
           "source": "金十数据",
@@ -1017,6 +1197,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美国能源信息署（EIA）：上周美国中西部原油库存降至2014年12月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260722224046529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
           "url": "https://wallstreetcn.com/livenews/3137726",
           "source": "华尔街见闻-快讯",
@@ -1045,9 +1236,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国7月17日当周EIA精炼油库存变动 139.5万桶，前值 455.6万桶。",
+          "url": "https://wallstreetcn.com/livenews/3138269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "木星资产管理公司：美国两年期实际收益率上升助推美元走强。",
@@ -1111,7 +1313,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1127,13 +1329,24 @@
           "time_info": "16时10分"
         },
         {
+          "title": "邵永灵：中俄军舰正遍布日本周边",
+          "url": "https://www.toutiao.com/trending/7665319500186652203/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "微软(MSFT.O)向美国能源部的“创世使命”提供6000万美元的资金承诺。",
           "url": "https://flash.jin10.com/detail/20260722200309764800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1147,6 +1360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国希望在美国墨西哥加拿大贸易协议（USMCA）存在“非常强大的”原产地制度。 有望在年底前围绕USMCA取得阶段性进展。",
+          "url": "https://wallstreetcn.com/livenews/3138267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国高级顾问布洛斯：会议进行得非常顺利。",
@@ -1248,6 +1472,28 @@
           "time_info": "13时13分"
         },
         {
+          "title": "据军方消息，伊朗回应威胁，称如果美国袭击诸多发电站，将打击（中东地区的）能源设施。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3138265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "王毅会见美国国务卿鲁比奥",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "木星资产管理公司因强劲数据和加息前景，在四月下旬至五月初将美国国债持仓削减至“极低水平”。",
           "url": "https://flash.jin10.com/detail/20260721233807566800",
           "source": "金十数据",
@@ -1270,6 +1516,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美国贸易代表格里尔：墨西哥在谈判中相当务实，他们的增长依赖于美国市场。",
+          "url": "https://flash.jin10.com/detail/20260722223640309800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "台湾证交所加权股价指数盘初上涨2.1%至45,163.33点。",
           "url": "https://wallstreetcn.com/livenews/3137836",
           "source": "华尔街见闻-快讯",
@@ -1290,6 +1547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3138264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
@@ -1323,6 +1591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美国两年期国债收益率涨3个基点，至4.29%，创2025年2月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3138263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国国防部长赫格塞思：伊朗此前已获得就霍尔木兹海峡问题进行谈判的“所有机会”。如果伊朗袭击商业船只，美国将采取“10倍强度”的反击。",
@@ -1512,6 +1791,17 @@
           "time_info": "13时13分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（7月21日）担保隔夜融资利率（SOFR）报3.61%，之前一天报3.57%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3138259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国至7月21日6周国债竞拍-得标利率配置百分比 1.87%，前值63.1%。",
           "url": "https://flash.jin10.com/detail/20260721233355009800",
           "source": "金十数据",
@@ -1543,6 +1833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "王毅会见美国国务卿鲁比奥",
+          "url": "https://wallstreetcn.com/livenews/3138258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国总统特朗普：我们的协议将不允许伊朗拥有核武器。我们将打击伊朗考虑用于核武器的任何地点。",
@@ -1578,6 +1879,28 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美国至7月17日当周国内原油产量降幅录得2026年1月30日当周以来最大。美国至7月17日当周EIA战略石油储备库存为1983年3月25日当周以来最低。",
+          "url": "https://flash.jin10.com/detail/20260722223136664800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "OpenAI将向美国佐治亚州提供至多1000 MW灵活需求，这是当地数据中心项目协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3138256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国至7月21日6周国债竞拍-得标利率 3.65%，前值3.64%。",
           "url": "https://flash.jin10.com/detail/20260721233327499800",
           "source": "金十数据",
@@ -1611,6 +1934,17 @@
           "time_info": "13时13分"
         },
         {
+          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
+          "url": "https://flash.jin10.com/detail/20260722223044312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
           "url": "https://wallstreetcn.com/livenews/3137656",
           "source": "华尔街见闻-快讯",
@@ -1639,9 +1973,42 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "美国总统特朗普警告：伊朗在霍尔木兹海峡每袭击一艘船只，美国将轰炸其一座桥梁或发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3138255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国演员凯莉·霍特尔车祸离世",
+          "url": "https://www.toutiao.com/trending/7665152376919113738/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "一中国籍男童在日本被撞身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美元兑日元涨至163上方，日内涨超0.3%，日本当局干预的风险加重。",
@@ -1672,7 +2039,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -1686,6 +2053,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
+        },
+        {
+          "title": "美国参议员怀登建议立法，来限制总统特朗普的关税权力",
+          "url": "https://wallstreetcn.com/livenews/3138253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国与沙特协议料于下午1:30左右签署。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3138252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "国台办回应台湾民众党组团到大陆交流",
@@ -1708,6 +2097,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普：伊朗将付出沉重的代价。 士兵死亡事件正在调查中，伊朗将付出代价。 美国人并不反对这场战争。 美国人不想要高油价。",
+          "url": "https://wallstreetcn.com/livenews/3138250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }
