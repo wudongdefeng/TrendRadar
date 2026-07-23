@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-23T09:58:26.058930+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-07-23T13:22:07.908269+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 87,
+      "match_count": 102,
       "titles": [
         {
           "title": "张雪机车被禁止进入台湾",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356406&amp;topic_name=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 09时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 13时22分]"
         },
         {
           "title": "日本拍卖疑似我国文物 中方紧急拦截",
@@ -31,17 +32,6 @@
           "time_info": "[00时21分 ~ 09时58分]"
         },
         {
-          "title": "据Politico：美国众议院刚刚投票决定将《国防生产法》授权延长至2031年，作为附在《国防授权法》上的一揽子两党修正案的一部分。",
-          "url": "https://flash.jin10.com/detail/20260723001801152800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
           "title": "一中国籍男童在日本被撞身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -51,22 +41,35 @@
             13,
             10,
             15,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 09时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 13时22分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 13时22分]"
+        },
+        {
+          "title": "据Politico：美国众议院刚刚投票决定将《国防生产法》授权延长至2031年，作为附在《国防授权法》上的一揽子两党修正案的一部分。",
+          "url": "https://flash.jin10.com/detail/20260723001801152800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "00时21分"
         },
         {
           "title": "美国法官将委内瑞拉前总统马杜罗的审判开始日期定为2027年6月1日。",
@@ -108,7 +111,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -122,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "日本降低载重目标后完成火箭发动机燃烧试验",
+          "url": "https://flash.jin10.com/detail/20260723125027203800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -240,6 +254,29 @@
           "time_info": "[00时21分 ~ 07时02分]"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 13时22分]"
+        },
+        {
+          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
+          "url": "https://news.ifeng.com/c/8uz562h6pLp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 13时22分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -249,6 +286,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时13分]"
+        },
+        {
+          "title": "美国“痛失”杨植麟，这是历史性风向标",
+          "url": "https://news.ifeng.com/c/8uyzwfRwRg0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 13时22分]"
+        },
+        {
+          "title": "王毅会见美国国务卿鲁比奥",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33639414",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 13时22分]"
         },
         {
           "title": "俄远程战略轰炸机巡航日本海",
@@ -264,6 +324,28 @@
           "time_info": "[04时13分 ~ 07时02分]"
         },
         {
+          "title": "台湾海峡部分海域进行实弹射击",
+          "url": "https://www.toutiao.com/trending/7665559237002530346/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "预判2028：美国如何影响台湾地区选举",
+          "url": "https://news.ifeng.com/c/8uzMhUtD32T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
           "title": "提醒：美国贸易代表格里尔的听证会结束。",
           "url": "https://wallstreetcn.com/livenews/3138317",
           "source": "华尔街见闻-快讯",
@@ -274,6 +356,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时03分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "“就算冷战，美国也没碰到中国这样的”",
+          "url": "https://news.ifeng.com/c/8uzGukmm0r1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "美国6艘巡逻舰“现身”南海",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD6%E8%89%98%E5%B7%A1%E9%80%BB%E8%88%B0%E2%80%9C%E7%8E%B0%E8%BA%AB%E2%80%9D%E5%8D%97%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "保加利亚议会同意美国在保部署加油机，有效期为未来不到三个月",
@@ -288,15 +403,15 @@
           "time_info": "[00时21分 ~ 02时03分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
+          "title": "视频丨美国海岸警卫队6艘巡逻舰“现身”南海，打的什么算盘？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642339",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "委内瑞拉前总统马杜罗抵达美国法庭，听证会即将开始。",
@@ -330,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
-          "url": "https://news.ifeng.com/c/8uz562h6pLp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         },
         {
           "title": "据AXIOS网站：消息人士透露，乌克兰总统泽连斯基今天与美国中东问题特使威特科夫和高级顾问库什纳进行了交谈，讨论了恢复外交努力以结束战争的想法。",
@@ -393,7 +497,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -418,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "美国“痛失”杨植麟，这是历史性风向标",
-          "url": "https://news.ifeng.com/c/8uyzwfRwRg0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         },
         {
           "title": "英国金融时报：根据欧盟各国即将达成的一项针对莫斯科的新制裁方案，希腊航运公司Dynagas将获准继续运输俄罗斯液化天然气（LNG）。",
@@ -508,6 +601,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "农业农村部组织开展我国台湾岛以东管辖海域渔业资源调查",
+          "url": "https://flash.jin10.com/detail/20260723122343684800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "全球柴油供应告急下 美国炼油商提前数月将产量推至历史峰值水平",
           "url": "https://flash.jin10.com/detail/20260723031920440800",
           "source": "金十数据",
@@ -547,9 +651,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "美国祭出B-1“重锤”！远程轰炸机加入战场，美伊战争烈度升级",
+          "url": "https://flash.jin10.com/detail/20260723121635431800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "分析师：俄罗斯正失去低价销售能力，这将利好小麦价格",
@@ -561,17 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "王毅会见美国国务卿鲁比奥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33639414",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         },
         {
           "title": "美国中央司令部：美军周三对伊朗发动了新一轮打击。",
@@ -591,7 +695,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -717,6 +821,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "路透调查：70%的经济学家预计日本央行将在2027年第二季度加息至至少1.50%；51%的受访者认为1.50%是终端利率。",
+          "url": "https://flash.jin10.com/detail/20260723120728434800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "美国至7月22日4个月国债竞拍-投标倍数 2.76，前值3.35。",
           "url": "https://flash.jin10.com/detail/20260722233401009800",
           "source": "金十数据",
@@ -739,6 +854,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "路透调查：58%经济学家认为，日债收益率上升对未来2-3年日本债务融资成本的影响“非常”或“有些”令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260723120624372800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "巴西贸易部长：如有必要，将对美国实施对等反制措施。",
           "url": "https://flash.jin10.com/detail/20260723030619038800",
           "source": "金十数据",
@@ -748,6 +874,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "路透调查：79%经济学家认为，相对于日本经济基本面，日元兑美元在160左右过于疲软。",
+          "url": "https://flash.jin10.com/detail/20260723120615235800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "美国证交会（SEC）：执法部门副主任沃尔登将于7月31日离职，奥斯曼·纳瓦兹将接任。",
@@ -783,13 +920,24 @@
           "time_info": "04时13分"
         },
         {
+          "title": "路透调查：86%经济学家预计，日本央行将在第四季末前把关键利率上调至1.25%（6月调查有79%经济学家如此预测）。",
+          "url": "https://flash.jin10.com/detail/20260723120602951800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "日本两年期国债收益率升至1.5%，为1995年以来首次。",
           "url": "https://wallstreetcn.com/livenews/3138506",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -888,7 +1036,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -926,6 +1074,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国五天内三度发布全球安全提醒",
+          "url": "https://wallstreetcn.com/livenews/3138585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "菲律宾示威者抗议美国务卿到访",
           "url": "https://www.toutiao.com/trending/7665318984061288498/",
           "source": "今日头条",
@@ -946,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "航行警告 台湾海峡军事演习",
+          "url": "https://wallstreetcn.com/livenews/3138583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "特斯拉：在上半年将美国得州工厂的本地算力规模翻了一倍多。 电池包产能仍然是限制性因素。 公司正设法提高电池包的产能。",
@@ -990,6 +1160,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "灵初智能正以14.8亿美元的估值融资近1亿美元，该公司接近完成由奇瑞领投的一轮融资，其他投资者还包括蓝思科技。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     }
