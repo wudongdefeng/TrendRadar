@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T18:55:58.713031+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-07-24T20:14:40.577430+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 163,
+      "match_count": 177,
       "titles": [
         {
           "title": "美国务卿：目前无法迅速推动俄乌达成协议",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 18时55分]"
+          "appearance_count": 12,
+          "time_info": "[03时01分 ~ 20时14分]"
         },
         {
           "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
@@ -88,6 +88,18 @@
           "time_info": "[01时11分 ~ 07时54分]"
         },
         {
+          "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
+          "url": "https://news.ifeng.com/c/8v10rP3qRlo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时14分]"
+        },
+        {
           "title": "供给不足,美国大兵KFC觅食",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356449&amp;topic_name=%E4%BE%9B%E7%BB%99%E4%B8%8D%E8%B6%B3%2C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%85%B5KFC%E8%A7%85%E9%A3%9F",
           "source": "贴吧",
@@ -95,11 +107,12 @@
             12,
             18,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时11分 ~ 18时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 20时14分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -159,18 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时54分 ~ 16时10分]"
-        },
-        {
-          "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
-          "url": "https://news.ifeng.com/c/8v10rP3qRlo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
         },
         {
           "title": "以媒称美国已通知以色列将加大对伊打击，或将使用重型轰炸机打击镐山，一旦行动落地，会带来哪些连锁影响？",
@@ -305,6 +306,20 @@
           "time_info": "[01时11分 ~ 06时54分]"
         },
         {
+          "title": "《日本三国》作者疑删号退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时14分]"
+        },
+        {
           "title": "墨西哥经济部：美国和墨西哥对美墨加协定（USMCA）的第四轮审查谈判定于9月前两周进行。",
           "url": "https://flash.jin10.com/detail/20260724062756413800",
           "source": "金十数据",
@@ -327,6 +342,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "俄罗斯央行行长纳比乌琳娜：我们假设公司将在年底前恢复生产能力。",
+          "url": "https://flash.jin10.com/detail/20260724200540198800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "美国原油期货收涨约6.2%",
           "url": "https://wallstreetcn.com/livenews/3139034",
           "source": "华尔街见闻-快讯",
@@ -336,6 +362,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 20时14分]"
         },
         {
           "title": "美国公布新关税措施24日生效",
@@ -368,7 +409,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -382,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "日本首相高市早苗将考虑内阁改组。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3139464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美国原油期货结算价为每桶92.19美元，上涨5.36美元，涨幅6.17%。",
@@ -415,19 +467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "《日本三国》作者疑删号退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
         },
         {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
@@ -480,7 +519,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -496,6 +535,17 @@
           "time_info": "06时54分"
         },
         {
+          "title": "俄罗斯央行行长纳比乌琳娜：燃料价格上涨开始对其他商品和服务产生溢出效应。",
+          "url": "https://flash.jin10.com/detail/20260724200308476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
           "url": "https://wallstreetcn.com/livenews/3139026",
           "source": "华尔街见闻-快讯",
@@ -507,18 +557,43 @@
           "time_info": "03时01分"
         },
         {
-          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
-          "source": "澎湃新闻",
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
           "ranks": [
-            15,
+            6,
             12,
-            11,
-            9
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时54分 ~ 18时55分]"
+          "time_info": "[13时13分 ~ 20时14分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时14分]"
+        },
+        {
+          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
+          "url": "https://news.ifeng.com/c/8v142IG9aOe",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时14分]"
         },
         {
           "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
@@ -581,19 +656,6 @@
           "time_info": "[05时59分 ~ 06时54分]"
         },
         {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
-        },
-        {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
           "url": "https://flash.jin10.com/detail/20260724051248877800",
           "source": "金十数据",
@@ -618,31 +680,6 @@
           "time_info": "[05时59分 ~ 06时54分]"
         },
         {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
-        },
-        {
-          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
-          "url": "https://news.ifeng.com/c/8v142IG9aOe",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
-        },
-        {
           "title": "美国男子打死父亲被警方连开18枪击毙",
           "url": "https://www.toutiao.com/trending/7665687468549275657/",
           "source": "今日头条",
@@ -665,6 +702,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 03时01分]"
+        },
+        {
+          "title": "日本游客锐减,仇越情绪爆发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时14分]"
         },
         {
           "title": "日本校园动漫生活真实度大揭秘",
@@ -701,18 +751,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 13时14分]"
-        },
-        {
-          "title": "日本游客锐减,仇越情绪爆发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时55分]"
         },
         {
           "title": "外交部副部长马朝旭访问美国",
@@ -808,6 +846,18 @@
           "time_info": "[05时59分 ~ 06时54分]"
         },
         {
+          "title": "俄罗斯央行将基准利率下调至14.00%，预期 14.25%，前值14.25%。",
+          "url": "https://wallstreetcn.com/livenews/3139430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时14分]"
+        },
+        {
           "title": "“731”这样的纪录片，日本应该更多地播放",
           "url": "https://news.ifeng.com/c/8v0LLKhYRJq",
           "source": "凤凰网",
@@ -868,6 +918,30 @@
           "time_info": "[06时54分 ~ 07时54分]"
         },
         {
+          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
+          "url": "https://wallstreetcn.com/livenews/3139427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时14分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时14分]"
+        },
+        {
           "title": "美国两年期国债收益率涨超5.3个基点，投资者关注中东局势的影响",
           "url": "https://wallstreetcn.com/livenews/3139049",
           "source": "华尔街见闻-快讯",
@@ -911,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "俄罗斯央行行长纳比乌琳娜：由于燃料价格飙升，通胀有所加速。",
+          "url": "https://flash.jin10.com/detail/20260724200303268800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "台湾证交所加权股价指数下跌1.2%至44,311.26点。",
@@ -990,6 +1075,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "俄罗斯央行行长纳比乌琳娜：通胀加速是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260724200216739800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "A股油服工程板块高开，中曼石油涨超8%，科力股份涨超5%，潜能恒信、通源石油、博迈科、海油工程、中油工程、中海油服等个股跟涨。据纽约时报：伊朗和伊拉克官员透露，伊朗周四拒绝了美国总统特朗普提出的停火方案，该方案由伊拉克总理转交至德黑兰。",
           "url": "https://flash.jin10.com/detail/20260724092720578800",
           "source": "金十数据",
@@ -999,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "乌克兰检察总长：俄罗斯空袭导致基辅地区10人遇难。",
+          "url": "https://flash.jin10.com/detail/20260724200137328800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "王毅会见白俄罗斯外长雷任科夫",
@@ -1034,17 +1141,6 @@
           "time_info": "13时14分"
         },
         {
-          "title": "俄罗斯央行将基准利率下调至14.00%，预期 14.25%，前值14.25%。",
-          "url": "https://wallstreetcn.com/livenews/3139430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "日本各界如何看待美国新增关税措施",
           "url": "https://www.toutiao.com/trending/7665947515086179876/",
           "source": "今日头条",
@@ -1065,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "美国运通二季度营收196.4亿美元，预期196.9亿美元。 二季度每股收益4.53美元，预期4.41美元。 美国运通预计全年营收增长10%，此前预期增长9%至10%。 美国运通仍预计全年每股收益为17.30至17.90美元，市场预期为17.68美元。 美国运通美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
@@ -1100,6 +1207,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "Meta Platforms：推出Facebook认证。 Facebook卖家应用现面向美国18岁以上用户开放。",
+          "url": "https://wallstreetcn.com/livenews/3139450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "美国中央司令部：于美东时间7月23日晚9点（北京时间今早9点），成功完成了针对伊朗连续第13晚的打击行动。",
           "url": "https://flash.jin10.com/detail/20260724092613219800",
           "source": "金十数据",
@@ -1117,7 +1235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1144,15 +1262,15 @@
           "time_info": "09时54分"
         },
         {
-          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
-          "url": "https://wallstreetcn.com/livenews/3139427",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称袭击美国亚马逊公司一数据中心",
+          "url": "https://www.toutiao.com/trending/7665519115210899499/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "20时14分"
         },
         {
           "title": "美国财政部：对古巴实施新制裁。",
@@ -1172,7 +1290,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1216,18 +1334,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1260,7 +1367,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1293,9 +1400,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "俄罗斯奶牛猫运毒被抓只能喵喵喵",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B6%E7%89%9B%E7%8C%AB%E8%BF%90%E6%AF%92%E8%A2%AB%E6%8A%93%E5%8F%AA%E8%83%BD%E5%96%B5%E5%96%B5%E5%96%B5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "俄罗斯奶牛猫运毒被抓只能喵喵喵",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B6%E7%89%9B%E7%8C%AB%E8%BF%90%E6%AF%92%E8%A2%AB%E6%8A%93%E5%8F%AA%E8%83%BD%E5%96%B5%E5%96%B5%E5%96%B5%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "声明显示，巴西政府拒绝接受美国针对巴西商品征收的12.5%关税。",
@@ -1315,7 +1444,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1359,7 +1488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1381,7 +1510,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1414,7 +1543,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1439,6 +1568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
+          "url": "https://www.zhihu.com/question/2063933601394025370",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -1469,7 +1609,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1535,7 +1675,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1579,7 +1719,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1612,9 +1752,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "罗马尼亚军方：周五俄罗斯对乌克兰敖德萨地区的夜间攻击非常激烈。",
+          "url": "https://flash.jin10.com/detail/20260724194859109800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
@@ -1645,7 +1796,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1670,6 +1821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "航运数据显示，悬挂丹麦国旗的油品油轮TORM INNOVATION正在运载一批用于日本的石脑油货物。",
+          "url": "https://flash.jin10.com/detail/20260724194726781800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.730%，投标倍数2.79。 拍卖八周期国债，得标利率3.795%，投标倍数2.31。",
@@ -1788,7 +1950,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1799,7 +1961,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
