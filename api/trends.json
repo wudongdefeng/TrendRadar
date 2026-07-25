@@ -1,690 +1,77 @@
 {
-  "generated_at": "2026-07-25T23:58:32.189879+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-07-26T00:54:50.779368+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 138,
+      "match_count": 22,
       "titles": [
         {
-          "title": "王小洪会见美国联邦调查局局长",
-          "url": "https://www.toutiao.com/trending/7666079821497630771/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时13分 ~ 21时05分]"
-        },
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时13分 ~ 23时58分]"
-        },
-        {
-          "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
-          "url": "https://news.ifeng.com/c/8v1fix6UY1m",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时13分 ~ 13时37分]"
-        },
-        {
-          "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
-          "url": "https://news.ifeng.com/c/8v10rP3qRlo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "美国被曝考虑对第8国动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 10时56分]"
-        },
-        {
-          "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
-          "url": "https://news.ifeng.com/c/8v1pOgU8oeC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 22时56分]"
-        },
-        {
-          "title": "日本游客锐减,仇越情绪爆发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            22,
-            23,
-            24,
-            25,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时13分 ~ 23时58分]"
-        },
-        {
-          "title": "《日本三国》作者疑删号退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            23,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时13分 ~ 17时31分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 19时04分]"
-        },
-        {
-          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
-          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时37分 ~ 23时58分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 10时56分]"
-        },
-        {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 10时56分]"
-        },
-        {
-          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
-          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "title": "俄外交部：俄外长在马尼拉未与日本外务大臣进行实质性交谈",
+          "url": "https://flash.jin10.com/detail/20260726001257215800",
           "source": "金十数据",
           "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
-          "url": "https://www.zhihu.com/question/2063933601394025370",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉还没有准备好大选，还需要一段时间。",
-          "url": "https://wallstreetcn.com/livenews/3139627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "刚签核协议不到24小时，美国突然变卦",
-          "url": "https://news.ifeng.com/c/8v1t98jbB4H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
-          "url": "https://news.ifeng.com/c/8v142IG9aOe",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "俄罗斯再成中国汽车最大买家",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%8D%E6%88%90%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%80%E5%A4%A7%E4%B9%B0%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            18,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "印度和日本因高铁闹翻",
-          "url": "https://www.toutiao.com/trending/7666341208477748782/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23,
-            29,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 23时58分]"
-        },
-        {
-          "title": "美国总统特朗普：众议院共和党已在推动通过预算案方面取得重要进展。我要求参议院在进入8月休会期之前通过一项预算决议，该决议只需简单多数即可通过。",
-          "url": "https://flash.jin10.com/detail/20260725013921780800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：现在正在与伊朗人交谈，我认为他们变得更加认真了。",
-          "url": "https://flash.jin10.com/detail/20260725034410603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260725102400999800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国总统特朗普：美国国务卿鲁比奥与副总统万斯谈论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260725034352232800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持COMEX黄金净多头头寸增加4,439手合约，至123,586手合约，创六个月新高。 所持COMEX白银净多头头寸创六周新低。 所持COMEX铜净多头头寸创七周新高。 所持NYMEX铂金净多头头寸创20周新低，所持NYMEX钯金净空头头寸创13个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3139625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "00时54分"
         },
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260725051459277800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "吃美了!中国食堂拿捏日本胃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356507&amp;topic_name=%E5%90%83%E7%BE%8E%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E9%A3%9F%E5%A0%82%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
           "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时58分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持NYMEX WTI原油净多头头寸增加522手合约，至86,905手合约，创三周新高。 所持NYMEX汽油净多头头寸创18周新高。 所持NYMEX天然气净空头头寸创两年新高。",
-          "url": "https://wallstreetcn.com/livenews/3139624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普谈与沙特的核协议：他们必须加入亚伯拉罕协议。",
-          "url": "https://wallstreetcn.com/livenews/3139623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 17时31分]"
-        },
-        {
-          "title": "台湾民众大游行怒喊“下架民进党”",
-          "url": "https://www.toutiao.com/trending/7666050594217541642/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "印度和日本因高铁闹翻了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%92%8C%E6%97%A5%E6%9C%AC%E5%9B%A0%E9%AB%98%E9%93%81%E9%97%B9%E7%BF%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时37分]"
-        },
-        {
-          "title": "日本确认南鸟岛海泥含中重稀土",
-          "url": "https://www.toutiao.com/trending/7665884486211371035/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时04分]"
-        },
-        {
-          "title": "美国两年期国债收益率本周涨15.6个基点，油价上涨让投资者关注利率前景",
-          "url": "https://wallstreetcn.com/livenews/3139665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
-        },
-        {
-          "title": "俄罗斯奶牛猫运毒被抓只能喵喵喵",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B6%E7%89%9B%E7%8C%AB%E8%BF%90%E6%AF%92%E8%A2%AB%E6%8A%93%E5%8F%AA%E8%83%BD%E5%96%B5%E5%96%B5%E5%96%B5",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时13分 ~ 08时01分]"
-        },
-        {
-          "title": "伊朗称袭击美国亚马逊公司一数据中心",
-          "url": "https://www.toutiao.com/trending/7665519115210899499/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时13分 ~ 06时58分]"
+          "time_info": "00时54分"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
           "url": "https://wallstreetcn.com/livenews/3139778",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普称美国与伊朗仍在对话",
-          "url": "https://wallstreetcn.com/livenews/3139662",
-          "source": "华尔街见闻-快讯",
+          "title": "台湾民众大游行怒喊“下架民进党”",
+          "url": "https://www.toutiao.com/trending/7666050594217541642/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
-        },
-        {
-          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3139667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 10时56分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3139702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时53分]"
-        },
-        {
-          "title": "日本连续5天出现“酷暑日”，刷新历史纪录",
-          "url": "https://wallstreetcn.com/livenews/3139751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 04时12分]"
-        },
-        {
-          "title": "SpaceX星舰在美国IPO后首次试飞中成功升空",
-          "url": "https://wallstreetcn.com/livenews/3139673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 10时56分]"
-        },
-        {
-          "title": "两位巴西消息人士：美国计划派遣特使旨在影响巴西十月的总统选举。",
-          "url": "https://flash.jin10.com/detail/20260725222312261800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3139750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "俄罗斯任命的州长表示，俄控扎波罗热地区旅游营地遭袭致8人死亡。",
-          "url": "https://flash.jin10.com/detail/20260725163702731800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 19时04分]"
-        },
-        {
-          "title": "两家企业起诉美国新关税措施违法",
-          "url": "https://wallstreetcn.com/livenews/3139672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 10时56分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持澳元多头头寸创2026年迄今最低。",
-          "url": "https://wallstreetcn.com/livenews/3139666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "当地州长表示，无人机引发俄罗斯图门地区石油炼厂火灾。",
-          "url": "https://flash.jin10.com/detail/20260725161722616800",
-          "source": "金十数据",
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 19时04分]"
-        },
-        {
-          "title": "乌克兰安全局：乌克兰袭击了俄罗斯在里海的菲拉诺夫斯基油平台及两艘货船。",
-          "url": "https://flash.jin10.com/detail/20260725181853549800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时05分]"
-        },
-        {
-          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://wallstreetcn.com/livenews/3139717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 19时04分]"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 19时04分]"
-        },
-        {
-          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
-          "url": "https://www.toutiao.com/trending/7666370454471180329/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 23时58分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3139664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -694,984 +81,190 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "日本皇室恐上演养子夺嫡，麻生太郎成重要推手",
+          "url": "https://news.ifeng.com/c/8v2mKHkpzGm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "两位巴西消息人士：美国计划派遣特使旨在影响巴西十月的总统选举。",
+          "url": "https://flash.jin10.com/detail/20260725222312261800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "印度和日本因高铁闹翻",
+          "url": "https://www.toutiao.com/trending/7666341208477748782/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
           "source": "澎湃新闻",
           "ranks": [
-            18,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "日本确认南鸟岛海泥含中重稀土",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A1%AE%E8%AE%A4%E5%8D%97%E9%B8%9F%E5%B2%9B%E6%B5%B7%E6%B3%A5%E5%90%AB%E4%B8%AD%E9%87%8D%E7%A8%80%E5%9C%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
+          "url": "https://www.toutiao.com/trending/7666370454471180329/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "专家：撕开美国关税战真相",
-          "url": "https://www.toutiao.com/trending/7666088172287168043/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时12分]"
-        },
-        {
-          "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063902919200711048",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时37分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
-        },
-        {
-          "title": "王小洪会见美国联邦调查局局长",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80%E5%B1%80%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 06时58分]"
-        },
-        {
-          "title": "德国工商界批评美国新关税加剧贸易不确定性",
-          "url": "https://wallstreetcn.com/livenews/3139735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时05分]"
-        },
-        {
-          "title": "日本确认南鸟岛海域海泥含有中重稀土",
-          "url": "https://www.toutiao.com/trending/7665884486211371035/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
-        },
-        {
-          "title": "市场消息：俄罗斯电商巨头Wildberries位于叶卡捷琳堡（距俄乌边境约1750公里）的仓库遭到乌克兰无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260725145015622800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时31分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "俄罗斯将汽油出口禁令延长至2026年底",
           "url": "https://flash.jin10.com/detail/20260725213005425800",
           "source": "金十数据",
           "ranks": [
-            10,
-            12
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
-          "url": "https://flash.jin10.com/detail/20260725144545668800",
-          "source": "金十数据",
+          "title": "日本确认南鸟岛海泥含中重稀土",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A1%AE%E8%AE%A4%E5%8D%97%E9%B8%9F%E5%B2%9B%E6%B5%B7%E6%B3%A5%E5%90%AB%E4%B8%AD%E9%87%8D%E7%A8%80%E5%9C%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            21
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时31分]"
-        },
-        {
-          "title": "日本首相高市早苗：日本不会在7月决定释放石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3139693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 13时37分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "安全消息人士：伊拉克防空系统在埃尔比勒美国领事馆附近击落了一架无人机。",
           "url": "https://flash.jin10.com/detail/20260725211428595800",
           "source": "金十数据",
           "ranks": [
-            12,
-            14
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "德国工商界批评美国新关税加剧贸易不确定性",
-          "url": "https://flash.jin10.com/detail/20260725172907357800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "俄罗斯任命的州长表示，乌克兰扎波罗热地区俄罗斯控制区的假日营地袭击事件导致死亡人数上升至11人，其中包括四名儿童。",
           "url": "https://flash.jin10.com/detail/20260725211024298800",
           "source": "金十数据",
           "ranks": [
-            13,
-            15
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "印度和日本因高铁闹翻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%92%8C%E6%97%A5%E6%9C%AC%E5%9B%A0%E9%AB%98%E9%93%81%E9%97%B9%E7%BF%BB%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "热浪炙烤美国中部，用电需求攀升",
           "url": "https://flash.jin10.com/detail/20260725210602519800",
           "source": "金十数据",
           "ranks": [
-            14,
-            16
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "报道：美国将解除对墨西哥肉牛的螺虫蝇进口禁令",
-          "url": "https://wallstreetcn.com/livenews/3139656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "俄罗斯：将在市场恢复后取消柴油出口禁令",
           "url": "https://wallstreetcn.com/livenews/3139760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "俄罗斯将把汽油出口禁令延长至年底。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3139759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "台湾民众游行怒喊“下架民进党”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E6%B8%B8%E8%A1%8C%E6%80%92%E5%96%8A%E2%80%9C%E4%B8%8B%E6%9E%B6%E6%B0%91%E8%BF%9B%E5%85%9A%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "退钱哥在美国40几天瘦脱相",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E9%92%B1%E5%93%A5%E5%9C%A8%E7%BE%8E%E5%9B%BD40%E5%87%A0%E5%A4%A9%E7%98%A6%E8%84%B1%E7%9B%B8%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "美国企业致信特朗普反对限制中国模型",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%87%B4%E4%BF%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%AF%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "日本连续5天出现“酷暑日”，刷新历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3139751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
-          "url": "https://flash.jin10.com/detail/20260725034104359800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美国下调对伊战事阵亡人数",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%8B%E8%B0%83%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%8B%E9%98%B5%E4%BA%A1%E4%BA%BA%E6%95%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
-          "url": "https://flash.jin10.com/detail/20260725034022999800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：尽管你看到了一些情况，但伊朗剩下的无人机其实寥寥无几。他们偶尔会搞些动作，但实际上已所剩无几。",
-          "url": "https://flash.jin10.com/detail/20260725101202111800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3139589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国农业部部长Rollins：美方将恢复从墨西哥进口牛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特朗普威胁对欧盟加征高额关税 要求撤销对美国企业罚款",
-          "url": "https://flash.jin10.com/detail/20260725012529485800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：将对墨西哥的生菜征收高额关税。",
-          "url": "https://flash.jin10.com/detail/20260725034011532800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势进展非常顺利。不要相信假新闻。",
-          "url": "https://flash.jin10.com/detail/20260725101107906800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "欧洲央行首席经济学家：美国并非国际贸易主导力量",
-          "url": "https://flash.jin10.com/detail/20260725125828916800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "美国7月24日当周石油钻井数 450，前值 452。",
-          "url": "https://wallstreetcn.com/livenews/3139588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "伦敦证券交易所集团-理柏（LSGE Lipper）正评估美国投资级（债券）基金的每周数据流。 此前，摩根大通报告称，逾六年来最大单周资金外流数据可能存在错误。",
-          "url": "https://wallstreetcn.com/livenews/3139617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗方面目前正与我们保持联系，但我认为他们尚未准备好达成协议。",
-          "url": "https://flash.jin10.com/detail/20260725101005763800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "日本自民党再曝丑闻 多人称被迫“进贡”大额资金",
-          "url": "https://flash.jin10.com/detail/20260725125541045800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "美国7月24日当周天然气钻井数 127，前值 126。",
-          "url": "https://wallstreetcn.com/livenews/3139587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，瑞士法郎净空头头寸为34,242手。英镑净空头头寸为55,561手。欧元净空头头寸为41,338手。日元净空头头寸为152,125手。",
-          "url": "https://flash.jin10.com/detail/20260725033729973800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，投机者将CBOT美国10年期国债期货净空头头寸增加48,031手，至879,706手。投机者将CBOT美国国债期货净空头头寸增加7,734手，至186,790手。",
-          "url": "https://flash.jin10.com/detail/20260725033621765800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：将出席明年的白宫新闻晚宴。",
-          "url": "https://flash.jin10.com/detail/20260725100539518800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国7月24日当周总钻井数 587，前值 588。",
-          "url": "https://wallstreetcn.com/livenews/3139585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "谷歌公司回应美国总统发出301调查威胁，称：曾努力设法符合欧盟数字市场法案（DMA）的要求。 就近期欧盟委员会（反垄断）决定的影响表达诸多关切。 感谢美国政府的介入。",
-          "url": "https://wallstreetcn.com/livenews/3139614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，投机者将CBOT美国2年期国债期货净空头头寸减少2,880手，至1,154,597手。投机者将CBOT美国5年期国债期货净空头头寸减少20,954手，至1,273,329手。",
-          "url": "https://flash.jin10.com/detail/20260725033613570800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
-          "url": "https://flash.jin10.com/detail/20260725011333281800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：或者我们可以和伊朗达成协议，但不认为伊朗已准备好达成协议。",
-          "url": "https://flash.jin10.com/detail/20260725033458339800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "中国女排主教练谈逆转美国进入四强",
-          "url": "https://www.toutiao.com/trending/7665816911199977478/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，四大NYMEX、ICE市场天然气投机者将净空头头寸增加5,421手，至55,716手。",
-          "url": "https://flash.jin10.com/detail/20260725033401079800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
-          "url": "https://wallstreetcn.com/livenews/3139581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗问题上有很多退出策略。",
-          "url": "https://flash.jin10.com/detail/20260725033349906800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "贝克休斯油服：美国能源公司六周以来首次削减钻井平台数量。",
-          "url": "https://flash.jin10.com/detail/20260725010533650800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉还没有准备好进行选举，但“总有一天他们会准备好的。”",
-          "url": "https://flash.jin10.com/detail/20260725033334380800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "俄罗斯国防部：俄防空系统夜间击落328架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20260725140146284800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "美国CDC：与碎球生菜相关的大规模环孢子虫病疫情已扩散至九个州",
-          "url": "https://wallstreetcn.com/livenews/3139704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，COMEX黄金投机者将净多头头寸增加4,438手，至123,586手。COMEX白银投机者将净多头头寸减少374手，至10,003手。COMEX铜投机者将净多头头寸增加11,751手，至73,685手。",
-          "url": "https://flash.jin10.com/detail/20260725033330148800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至7月21日的一周内，投机者将WTI原油净多头头寸增加了8,289手，至78,348手。",
-          "url": "https://flash.jin10.com/detail/20260725033225456800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：我敢说，这里聚集了有史以来最大规模的一群患有“特朗普精神错乱综合征”的人。",
-          "url": "https://flash.jin10.com/detail/20260725094945934800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
-          "url": "https://flash.jin10.com/detail/20260725122018676800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "日本经济白皮书：经济复苏仍面临多重挑战",
-          "url": "https://wallstreetcn.com/livenews/3139576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普周五围绕伊朗问题会见多个顶级顾问。 本次会议讨论是否加大对伊朗的袭击力度。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3139606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉尚未准备好进行选举。",
-          "url": "https://flash.jin10.com/detail/20260725033159307800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "据韩联社：SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://flash.jin10.com/detail/20260725121405252800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "报道，乌克兰总统泽连斯基以及西方情报人士均发出警告，俄罗斯极有可能最早于今晚或在未来几天内发动新一轮大规模空袭。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3139605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国至7月24日当周总钻井总数 587口，前值588口。",
-          "url": "https://flash.jin10.com/detail/20260725010232285800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普：（关于沙特核协议）沙特阿拉伯应该成为亚伯拉罕协议的成员。",
-          "url": "https://flash.jin10.com/detail/20260725033003189800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "据韩国媒体Newsis援引韩国总统顾问的消息报道，三星电子和SK海力士将与美国大型科技公司推进规模达1375万亿韩元（约9500亿美元）的芯片合作项目。",
-          "url": "https://flash.jin10.com/detail/20260725121246416800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "礼来支持的Scribe Therapeutics美国IPO，首日飙升超44%",
-          "url": "https://wallstreetcn.com/livenews/3139684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国至7月24日当周天然气钻井总数 127口，前值126口。",
-          "url": "https://flash.jin10.com/detail/20260725010221381800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普在白宫记者协会晚宴上致辞时开玩笑说，观看那些批评他政府的报道获奖，对他而言并非易事。特朗普说：“今晚可真不容易——这么多奖项，我对这些奖项有发言权吗？”",
-          "url": "https://flash.jin10.com/detail/20260725094651072800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "加拿大开通通往底特律的大桥，美国官员被排除在仪式之外",
-          "url": "https://wallstreetcn.com/livenews/3139603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国至7月24日当周石油钻井总数 450口，前值452口。",
-          "url": "https://flash.jin10.com/detail/20260725010211142800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
-          "url": "https://wallstreetcn.com/livenews/3139573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "塞尔维亚总统武契奇：美国已经对我国产品取消（加征）35%的关税。 塞美将谈判新的关税，税率可能会（低至）10%-12%。",
-          "url": "https://wallstreetcn.com/livenews/3139602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "地区局势持续紧张，美国驻以使馆发布安全警告",
-          "url": "https://wallstreetcn.com/livenews/3139572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "邵永灵：欧盟外长不满美国加征关税",
-          "url": "https://www.toutiao.com/trending/7666330541142052394/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "台湾致癌油已查出约8000吨",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%87%B4%E7%99%8C%E6%B2%B9%E5%B7%B2%E6%9F%A5%E5%87%BA%E7%BA%A68000%E5%90%A8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：就像我的总统任期一样，第二次总是更好。第三次会更好。我开玩笑的。",
-          "url": "https://flash.jin10.com/detail/20260725093848498800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美国的“关税续命术”又有了新剧本",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E5%85%B3%E7%A8%8E%E7%BB%AD%E5%91%BD%E6%9C%AF%E2%80%9D%E5%8F%88%E6%9C%89%E4%BA%86%E6%96%B0%E5%89%A7%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
-          "url": "https://wallstreetcn.com/livenews/3139570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "特朗普政府因新一轮全球关税而被推上被告席，多家小微企业挑战美国总统特朗普的301关税。 标普500指数目前涨0.36%道指涨0.53%，纳指跌0.13%，半导体指数跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3139598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
-          "url": "https://flash.jin10.com/detail/20260725035806616800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。 在地产板块，成分股数字房地产信托收涨11.01%，Equinix涨4.9%，美国铁山公司涨3.02%表现第三。",
-          "url": "https://wallstreetcn.com/livenews/3139641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "美国与英国打算围绕霍尔木兹海峡问题举行国际会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3139566",
+          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3139750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "玉柴 奇瑞",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "奇瑞集团全球累计销量突破2000万辆",
-          "url": "https://flash.jin10.com/detail/20260725160731034800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 19时04分]"
-        },
         {
           "title": "奇瑞风云A9正式上市",
           "url": "https://www.toutiao.com/trending/7665626188970426387/",
           "source": "今日头条",
           "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时58分]"
-        },
-        {
-          "title": "奇瑞集团全球销量突破2000万辆",
-          "url": "https://www.toutiao.com/trending/7665537958309199881/",
-          "source": "今日头条",
-          "ranks": [
-            26
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时56分"
+          "time_info": "00时54分"
         }
       ]
     }
