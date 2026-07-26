@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T09:57:47.582432+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-07-26T13:27:21.731795+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 47,
+      "match_count": 57,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -15,22 +15,24 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 13时27分]"
         },
         {
           "title": "吃美了!中国食堂拿捏日本胃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356507&amp;topic_name=%E5%90%83%E7%BE%8E%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E9%A3%9F%E5%A0%82%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 13时27分]"
         },
         {
           "title": "台湾民众大游行怒喊“下架民进党”",
@@ -52,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 13时27分]"
         },
         {
           "title": "印度和日本因高铁闹翻",
@@ -66,11 +69,12 @@
             15,
             10,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 13时27分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -80,11 +84,12 @@
             6,
             8,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 09时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 13时27分]"
         },
         {
           "title": "美国女子吸毒精神错乱仰躺推车晃腿",
@@ -192,11 +197,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 09时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 13时27分]"
         },
         {
           "title": "美国中央司令部：今天早些时候，美军在阿拉伯海对悬挂科摩罗国旗的“Charminar”号油轮完成了一次核查登临，该油轮现已继续航行。",
@@ -208,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时53分]"
+        },
+        {
+          "title": "台湾“致癌油”已查出8000吨",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E2%80%9C%E8%87%B4%E7%99%8C%E6%B2%B9%E2%80%9D%E5%B7%B2%E6%9F%A5%E5%87%BA8000%E5%90%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "日本确认南鸟岛海泥含中重稀土",
@@ -243,9 +260,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "日本欲前往格陵兰岛挖稀土",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%89%8D%E5%BE%80%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%8C%96%E7%A8%80%E5%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "日本连续5天出现“酷暑日”，刷新历史纪录",
@@ -393,6 +421,18 @@
           "time_info": "[06时45分 ~ 07时53分]"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
           "title": "伊朗公布近期美国在中东地区资产受损清单",
           "url": "https://flash.jin10.com/detail/20260726013050501800",
           "source": "金十数据",
@@ -429,6 +469,17 @@
           "time_info": "[00时54分 ~ 01时53分]"
         },
         {
+          "title": "如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛？",
+          "url": "https://www.zhihu.com/question/1995555700441634403",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
           "title": "俄罗斯将汽油出口禁令延长至2026年底",
           "url": "https://flash.jin10.com/detail/20260725213005425800",
           "source": "金十数据",
@@ -447,7 +498,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -458,20 +509,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "13时27分"
         },
         {
           "title": "啥是“宇宙作战集团”？日本把手伸向太空意欲何为？",
@@ -480,20 +531,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛？",
-          "url": "https://www.zhihu.com/question/1995555700441634403",
-          "source": "知乎",
+          "title": "美国官员想赴巴西“查选举”，遭拒签",
+          "url": "https://news.ifeng.com/c/8v4KzEhBRHT",
+          "source": "凤凰网",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "13时27分"
+        },
+        {
+          "title": "台湾 致癌油",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%20%E8%87%B4%E7%99%8C%E6%B2%B9&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "韩国芯片“爆单”背后：离不开中国，绕不开美国",
+          "url": "https://news.ifeng.com/c/8v4MNMcH8Bk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：所有共和党参议员！终止阻挠议事，民主党人一有机会就会这么做，赶快通过《拯救美国法案》，以及其他一切，包括预算和即将到来的债务上限。现在就去做，别等到太晚。",
+          "url": "https://flash.jin10.com/detail/20260726114945161800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "日本确认南鸟岛海泥含中重稀土",
@@ -524,7 +619,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -535,7 +630,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -562,6 +657,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "怎么看日本遭股债汇三杀",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E6%97%A5%E6%9C%AC%E9%81%AD%E8%82%A1%E5%80%BA%E6%B1%87%E4%B8%89%E6%9D%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "热浪炙烤美国中部，用电需求攀升",
           "url": "https://flash.jin10.com/detail/20260725210602519800",
           "source": "金十数据",
@@ -571,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "乌克兰无人机袭击引发俄罗斯秋明炼油厂火灾",
+          "url": "https://flash.jin10.com/detail/20260726101828465800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
