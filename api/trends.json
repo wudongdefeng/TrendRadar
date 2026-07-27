@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T18:36:03.689660+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-07-27T21:33:57.464035+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 86,
+      "match_count": 93,
       "titles": [
         {
           "title": "评论员谈台湾岛内20万人集会抗议",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 21时33分]"
         },
         {
           "title": "俄罗斯打到缺钱了吗",
@@ -89,18 +101,6 @@
           "time_info": "[00时52分 ~ 14时19分]"
         },
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 18时36分]"
-        },
-        {
           "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3139858",
           "source": "华尔街见闻-快讯",
@@ -141,6 +141,29 @@
           "time_info": "[00时52分 ~ 07时54分]"
         },
         {
+          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
+          "url": "https://www.zhihu.com/question/2064455331346962042",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 21时33分]"
+        },
+        {
+          "title": "日本作家东野圭吾去世，终年68岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33666828",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
+        },
+        {
           "title": "台湾新北4.8级地震 福建多地有震感",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%8C%974.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
           "source": "百度热搜",
@@ -163,39 +186,6 @@
           "time_info": "[14时19分 ~ 18时36分]"
         },
         {
-          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
-          "url": "https://www.zhihu.com/question/2064455331346962042",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 18时36分]"
-        },
-        {
-          "title": "日本作家东野圭吾去世，终年68岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33666828",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
-          "title": "台湾为何会爆发大规模抗议",
-          "url": "https://www.toutiao.com/trending/7666466531745857545/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
           "title": "台湾爆毒油事件,食安危机升温",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356545&amp;topic_name=%E5%8F%B0%E6%B9%BE%E7%88%86%E6%AF%92%E6%B2%B9%E4%BA%8B%E4%BB%B6%2C%E9%A3%9F%E5%AE%89%E5%8D%B1%E6%9C%BA%E5%8D%87%E6%B8%A9",
           "source": "贴吧",
@@ -203,8 +193,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
+        },
+        {
+          "title": "空调买不起,日本人硬扛高温",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356547&amp;topic_name=%E7%A9%BA%E8%B0%83%E4%B9%B0%E4%B8%8D%E8%B5%B7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A1%AC%E6%89%9B%E9%AB%98%E6%B8%A9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
         },
         {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
@@ -220,15 +221,16 @@
           "time_info": "[00时52分 ~ 06时52分]"
         },
         {
-          "title": "空调买不起,日本人硬扛高温",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356547&amp;topic_name=%E7%A9%BA%E8%B0%83%E4%B9%B0%E4%B8%8D%E8%B5%B7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A1%AC%E6%89%9B%E9%AB%98%E6%B8%A9",
+          "title": "日本爱豆猫月猫小妹离世",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356530&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%8C%AB%E6%9C%88%E7%8C%AB%E5%B0%8F%E5%A6%B9%E7%A6%BB%E4%B8%96",
           "source": "贴吧",
           "ranks": [
-            5
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 21时33分]"
         },
         {
           "title": "欧洲天然气价格一度跌8% 受美国暂停对伊朗空袭影响",
@@ -275,7 +277,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -305,6 +307,18 @@
           "time_info": "[00时52分 ~ 04时09分]"
         },
         {
+          "title": "台湾为何会爆发大规模抗议",
+          "url": "https://www.toutiao.com/trending/7666466531745857545/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
+        },
+        {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
           "url": "https://flash.jin10.com/detail/20260727003123877800",
           "source": "金十数据",
@@ -317,18 +331,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 04时09分]"
-        },
-        {
-          "title": "日本爱豆猫月猫小妹离世",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356530&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%8C%AB%E6%9C%88%E7%8C%AB%E5%B0%8F%E5%A6%B9%E7%A6%BB%E4%B8%96",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 18时36分]"
         },
         {
           "title": "俄罗斯外交部：7月26日，应伊朗方面提议，俄罗斯外交部长拉夫罗夫与伊朗外交部长阿拉格齐举行了电话会谈。",
@@ -517,6 +519,17 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
+          "title": "持刀强闯中使馆的日本男子被起诉",
+          "url": "https://news.ifeng.com/c/8v6Q9qhZoyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
+        },
+        {
           "title": "日本防相发表涉核狂言，朝中社：必须粉碎“战犯国的拥核野心”",
           "url": "https://news.ifeng.com/c/8v55GoLWnEL",
           "source": "凤凰网",
@@ -526,6 +539,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 14时19分]"
+        },
+        {
+          "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
+          "url": "https://www.zhihu.com/question/2065093746111112018",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
         },
         {
           "title": "据日经新闻与东京电视台的最新民调，日本首相高市早苗内阁的支持率较上月下降10个百分点，跌至58%；这是自她去年10月上任以来，支持率首次低于60%。",
@@ -541,6 +566,18 @@
           "time_info": "[00时52分 ~ 02时59分]"
         },
         {
+          "title": "越来越多中国人不去日本旅游",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
+        },
+        {
           "title": "日本为找稀土开始拆解废旧空调",
           "url": "https://www.douyin.com/hot/2585861",
           "source": "抖音",
@@ -553,26 +590,15 @@
           "time_info": "[01时56分 ~ 02时59分]"
         },
         {
-          "title": "持刀强闯中使馆的日本男子被起诉",
-          "url": "https://news.ifeng.com/c/8v6Q9qhZoyI",
+          "title": "47亿美元大桥通车，美国人却被告知“别来”，加拿大市长心酸",
+          "url": "https://news.ifeng.com/c/8v6LlVfpSqW",
           "source": "凤凰网",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
-          "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
-          "url": "https://www.zhihu.com/question/2065093746111112018",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时33分]"
         },
         {
           "title": "随着油价下跌，美国联邦基金期货上涨，12月合约上涨5个点。",
@@ -585,17 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时54分]"
-        },
-        {
-          "title": "47亿美元大桥通车，美国人却被告知“别来”，加拿大市长心酸",
-          "url": "https://news.ifeng.com/c/8v6LlVfpSqW",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "伊朗外交部长：在与欧盟高级代表卡拉斯和俄罗斯外长拉夫罗夫的通话中，我已明确表示，基辅那个不劳而获的家伙所做的一切绝不会不遭到回应。",
@@ -656,17 +671,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时56分]"
-        },
-        {
-          "title": "越来越多中国人不去日本旅游",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
@@ -777,7 +781,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -848,6 +852,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "美国6月扣除运输类耐用品订单环比初值 0.6%，预期 0.8%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3140338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "台湾证交所加权股价指数低开0.2%，报43,585.92点。",
           "url": "https://wallstreetcn.com/livenews/3139919",
           "source": "华尔街见闻-快讯",
@@ -868,6 +883,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "美国6月耐用品订单环比初值 0.3%，预期 1.8%，前值 -4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3140337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "美国6月扣除飞机非国防资本耐用品订单环比初值 0.9%，预期 0.7%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3140336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "台湾加权指数7月27日（周一）收盘下跌20.65点，跌幅0.05%，报43634.19点。",
@@ -892,6 +929,28 @@
           "time_info": "10时05分"
         },
         {
+          "title": "提醒：北京时间20:30，将公布美国6月耐用品订单初值。",
+          "url": "https://wallstreetcn.com/livenews/3140329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "驻日本大使馆发言人就日方公布起诉村田晃大消息答记者问",
+          "url": "https://flash.jin10.com/detail/20260727210001527800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "日本首相高市早苗：降低债务占GDP比重是财政管理的关键。",
           "url": "https://wallstreetcn.com/livenews/3139908",
           "source": "华尔街见闻-快讯",
@@ -903,13 +962,24 @@
           "time_info": "10时05分"
         },
         {
+          "title": "台风白海豚生成 或跨越万里奔袭日本",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%94%9F%E6%88%90+%E6%88%96%E8%B7%A8%E8%B6%8A%E4%B8%87%E9%87%8C%E5%A5%94%E8%A2%AD%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "Rocket Lab(RKLB.O)美股盘前涨4.5%，因公司获得与美国太空部队价值2.66亿美元的导弹防御合同。",
           "url": "https://flash.jin10.com/detail/20260727180540082800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -920,7 +990,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -942,7 +1012,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -953,7 +1023,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -986,7 +1056,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -997,7 +1067,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1008,7 +1078,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1022,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "日本在印度踩大坑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%8D%B0%E5%BA%A6%E8%B8%A9%E5%A4%A7%E5%9D%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
