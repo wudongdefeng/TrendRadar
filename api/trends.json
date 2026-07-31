@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T21:44:20.558239+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-07-31T23:56:28.583451+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 142,
+      "match_count": 160,
       "titles": [
         {
           "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
@@ -107,6 +107,36 @@
           "time_info": "[07时55分 ~ 16时37分]"
         },
         {
+          "title": "救援不力?日本商场爆炸多人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 23时56分]"
+        },
+        {
+          "title": "俄罗斯导弹偏航砸进波兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356664&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%BC%E5%BC%B9%E5%81%8F%E8%88%AA%E7%A0%B8%E8%BF%9B%E6%B3%A2%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            11,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 23时56分]"
+        },
+        {
           "title": "亚洲第6大陆第1餐厅好吃吗",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E6%B4%B2%E7%AC%AC6%E5%A4%A7%E9%99%86%E7%AC%AC1%E9%A4%90%E5%8E%85%E5%A5%BD%E5%90%83%E5%90%97",
           "source": "bilibili 热搜",
@@ -116,20 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 19时23分]"
-        },
-        {
-          "title": "救援不力?日本商场爆炸多人死亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 21时44分]"
         },
         {
           "title": "日本6月库存月率 2.3%，前值-1.1%。",
@@ -160,7 +176,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -198,18 +214,19 @@
           "time_info": "16时37分"
         },
         {
-          "title": "俄罗斯导弹偏航砸进波兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356664&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%BC%E5%BC%B9%E5%81%8F%E8%88%AA%E7%A0%B8%E8%BF%9B%E6%B3%A2%E5%85%B0",
+          "title": "日本国家情报局正式成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
           "source": "贴吧",
           "ranks": [
-            5,
-            11,
-            15,
-            18
+            9,
+            16,
+            20,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 21时44分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 23时56分]"
         },
         {
           "title": "日本6月零售销售 13.019万亿日元，前值13.447万亿日元。",
@@ -265,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "据媒体报道：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
+          "url": "https://wallstreetcn.com/livenews/3143357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
@@ -377,6 +405,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美国总统特朗普：不久之后，伊朗将不再具备某些军事能力。",
+          "url": "https://flash.jin10.com/detail/20260731234748398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3142645",
           "source": "华尔街见闻-快讯",
@@ -397,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "美国：5月石油出口创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3143355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "-0.1%！美国6月PCE物价指数六年来首次环比下降，同比涨幅显著收窄",
@@ -423,18 +473,44 @@
           "time_info": "[01时17分 ~ 06时09分]"
         },
         {
-          "title": "日本国家情报局正式成立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
-          "source": "贴吧",
+          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            16,
-            20,
-            23
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时34分 ~ 21时44分]"
+          "time_info": "[16时37分 ~ 23时56分]"
+        },
+        {
+          "title": "东京怕震,日本要建副首都",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 23时56分]"
+        },
+        {
+          "title": "泽连斯基：俄罗斯使用朝鲜导弹发动攻击",
+          "url": "https://news.ifeng.com/c/8vD67BJ4gCc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 23时56分]"
         },
         {
           "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
@@ -474,32 +550,6 @@
           "time_info": "[13时34分 ~ 19时23分]"
         },
         {
-          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 21时44分]"
-        },
-        {
-          "title": "东京怕震,日本要建副首都",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356673&amp;topic_name=%E4%B8%9C%E4%BA%AC%E6%80%95%E9%9C%87%2C%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BB%BA%E5%89%AF%E9%A6%96%E9%83%BD",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 21时44分]"
-        },
-        {
           "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
           "url": "https://www.cls.cn/detail/2442063",
           "source": "财联社热门",
@@ -509,17 +559,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 13时34分]"
-        },
-        {
-          "title": "泽连斯基：俄罗斯使用朝鲜导弹发动攻击",
-          "url": "https://news.ifeng.com/c/8vD67BJ4gCc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时44分]"
         },
         {
           "title": "日元汇率一小时内暴拉近500点 市场猜测日本政府再度干预汇市",
@@ -626,6 +665,18 @@
           "time_info": "[19时22分 ~ 19时23分]"
         },
         {
+          "title": "日本政府正式设立“国家情报局”",
+          "url": "https://www.douyin.com/hot/2591419",
+          "source": "抖音",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时56分]"
+        },
+        {
           "title": "美独立记者：南海不是美国的“棋”",
           "url": "https://www.toutiao.com/trending/7667774261440069659/",
           "source": "今日头条",
@@ -670,6 +721,17 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
+          "title": "外交部回应日本设立“国家情报局”",
+          "url": "https://www.toutiao.com/trending/7668650241578942502/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本6月零售销售年率 0.5%，预期3.10%，前值由5.30%修正为5.00%。",
           "url": "https://flash.jin10.com/detail/20260731075007456800",
           "source": "金十数据",
@@ -679,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "美国总统特朗普：我们与委内瑞拉关系很好。",
+          "url": "https://flash.jin10.com/detail/20260731234649317800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本6月工业产出月率初值 1.3%，预期1.00%，前值0.10%。",
@@ -709,9 +782,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "美国总统特朗普：希望国防公司迅速行动。",
+          "url": "https://flash.jin10.com/detail/20260731234550323800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本6月失业率 2.5%，预期 2.5%，前值 2.5%。",
@@ -736,6 +820,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "俄罗斯谷物出口商与生产商联盟：预计俄罗斯小麦供应缺口将达到3000万-3500万吨。",
+          "url": "https://wallstreetcn.com/livenews/3143352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "7月29日，李成钢国际贸易谈判代表兼副部长会见美国霍尼韦尔科技公司董事长兼首席执行官柯伟茂。",
           "url": "https://flash.jin10.com/detail/20260731184947728800",
           "source": "金十数据",
@@ -745,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗面临着困难，伊朗的情况非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260731234512179800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本7月东京CPI(除生鲜食品)同比 1.9%，预期 1.8%，前值 1.6%。",
@@ -863,7 +969,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -923,6 +1029,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "乌克兰总统泽连斯基：还与万斯讨论了俄罗斯战争对全球市场的影响。双方团队将保持联系，处理今天讨论的所有事项。",
+          "url": "https://flash.jin10.com/detail/20260731234225074800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.66%，创一年新高，前值6.58%。",
           "url": "https://wallstreetcn.com/livenews/3142572",
           "source": "华尔街见闻-快讯",
@@ -943,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "日元干预行情降温，高盛等机构：警惕日本再次出手",
+          "url": "https://wallstreetcn.com/livenews/3143344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本“国家情报局”正式设立",
@@ -978,6 +1106,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "乌克兰总统泽连斯基：俄罗斯的空袭仍在继续，空中防御，特别是（获得）爱国者系统拦截弹，仍然是我们的首要任务。",
+          "url": "https://flash.jin10.com/detail/20260731234206313800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "台湾台东县海域发生4.0级地震",
           "url": "https://wallstreetcn.com/livenews/3142594",
           "source": "华尔街见闻-快讯",
@@ -1011,6 +1150,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "乌克兰总统泽连斯基：与美国副总统万斯进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260731234105543800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国两年期国债收益率跌约2.9个基点",
           "url": "https://wallstreetcn.com/livenews/3142653",
           "source": "华尔街见闻-快讯",
@@ -1020,17 +1170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
-        },
-        {
-          "title": "日本政府正式设立“国家情报局”",
-          "url": "https://www.douyin.com/hot/2591419",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美国官员：对以色列将遵守条款非常有信心。",
@@ -1061,7 +1200,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1121,6 +1260,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美国总统特朗普称赞股市。",
+          "url": "https://flash.jin10.com/detail/20260731233620649800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3142562",
           "source": "华尔街见闻-快讯",
@@ -1160,7 +1310,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1226,7 +1376,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1253,13 +1403,24 @@
           "time_info": "19时23分"
         },
         {
+          "title": "美国批评“西班牙政府‘努力支持’移民”。",
+          "url": "https://wallstreetcn.com/livenews/3143333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "路透调查：分析师预计俄罗斯央行将在四季度将基准利率从当前的14.00%下调至13.50%（上次调查为下调至13.00%）。",
           "url": "https://flash.jin10.com/detail/20260731210100589800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1303,9 +1464,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "美国总统特朗普：不要将明尼苏达州的网络攻击归咎于伊朗。",
+          "url": "https://flash.jin10.com/detail/20260731233448921800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.80。 拍卖八周期国债，得标利率3.675%，投标倍数2.74。",
@@ -1446,9 +1618,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "受广泛回暖提振，美国消费者信心升至五个月高点，AI已成为消费者关注的一个“显著”因素",
+          "url": "https://wallstreetcn.com/livenews/3143326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国财长：日元似乎被“严重低估”",
@@ -1484,6 +1667,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "美国股市转跌，纳斯达克100指数完全回吐美股盘初1.8%的涨幅",
+          "url": "https://wallstreetcn.com/livenews/3143325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本央行：2026财年GDP预测为0.6%，此前预测为0.5%。 2027财年GDP预测为0.8%，此前预测为0.7%。 2028财年GDP预测为0.8%，此前预测为0.8%。",
           "url": "https://wallstreetcn.com/livenews/3142895",
           "source": "华尔街见闻-快讯",
@@ -1501,7 +1695,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1556,7 +1750,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1603,6 +1797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者现况指数终值 54.8，预期 54.6，初值 54.9。",
+          "url": "https://wallstreetcn.com/livenews/3143319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     }
