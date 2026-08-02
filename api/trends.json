@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T09:56:26.741074+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-08-02T13:20:34.344081+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 62,
+      "match_count": 72,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -90,11 +90,12 @@
           "ranks": [
             7,
             12,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 09时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 13时20分]"
         },
         {
           "title": "日本熊本地区发生4.7级地震",
@@ -103,11 +104,12 @@
           "ranks": [
             8,
             13,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 09时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 13时20分]"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -159,6 +161,18 @@
           "time_info": "[00时52分 ~ 08时02分]"
         },
         {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -185,6 +199,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 08时02分]"
+        },
+        {
+          "title": "俄罗斯当局称隔夜摧毁了635架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260802125550889800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
@@ -216,35 +241,13 @@
           "time_info": "[02时57分 ~ 08时02分]"
         },
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
           "title": "美国爱达荷州快餐店枪击事件枪手已死亡",
           "url": "https://flash.jin10.com/detail/20260802093024437800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3143644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -266,20 +269,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
         {
-          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3143643",
-          "source": "华尔街见闻-快讯",
+          "title": "霍尔木兹海峡航运受阻致日本二季度电价同比涨30%",
+          "url": "https://flash.jin10.com/detail/20260802123845073800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时20分"
         },
         {
           "title": "美国纽约州罗切斯特发生枪击事件 1人死亡",
@@ -295,15 +298,37 @@
           "time_info": "[04时07分 ~ 08时02分]"
         },
         {
+          "title": "越南人日本救灾反遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国移民和海关执法局骚乱、亲哈马斯抗议活动及其他激进运动，均属于一个包括古巴在内的协同网络的一部分。",
           "url": "https://flash.jin10.com/detail/20260802092929173800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "鲁比奥称美国的打击使伊朗更愿意谈判",
+          "url": "https://flash.jin10.com/detail/20260802123339825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
@@ -341,24 +366,24 @@
           "time_info": "08时02分"
         },
         {
+          "title": "“近30年来首次”？美国、日本联手干预",
+          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "据福克斯新闻：美国国务卿鲁比奥引用美国国务院报告称，古巴旨在利用激进组织对抗美国。",
           "url": "https://flash.jin10.com/detail/20260802092827992800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "日本熊本强震死亡人数升至38人",
-          "url": "https://wallstreetcn.com/livenews/3143641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -403,6 +428,18 @@
           "time_info": "[00时52分 ~ 02时57分]"
         },
         {
+          "title": "日本官员：日本财务大臣片山皋月预计将于周一宣布，美日两国就日元采取联合行动。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
           "url": "https://flash.jin10.com/detail/20260802010534825800",
           "source": "金十数据",
@@ -429,6 +466,18 @@
           "time_info": "[00时52分 ~ 02时57分]"
         },
         {
+          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3143643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
           "title": "据天空新闻：乌克兰总统泽连斯基感谢阿联酋总统在促进俄罗斯与乌克兰之间的囚犯交换行动中所做的持续外交努力。",
           "url": "https://flash.jin10.com/detail/20260802030429078800",
           "source": "金十数据",
@@ -440,6 +489,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时07分 ~ 08时02分]"
+        },
+        {
+          "title": "日本熊本强震死亡人数升至38人",
+          "url": "https://wallstreetcn.com/livenews/3143641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
         },
         {
           "title": "美国记者：南海仲裁是美炮制的闹剧",
@@ -466,6 +527,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 02时57分]"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时20分]"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -506,16 +579,51 @@
           "time_info": "[05时46分 ~ 08时02分]"
         },
         {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
+          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
+          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时02分 ~ 09时56分]"
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
+          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
+          "url": "https://wallstreetcn.com/livenews/3143639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
+        },
+        {
+          "title": "柯文哲妻子回应大陆游9天8夜花费",
+          "url": "https://news.ifeng.com/c/8vFFLrELxQt",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
@@ -565,37 +673,37 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
-          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
           "title": "日本官员：财务大臣周一将官宣日美协同行动遏制日元贬值，干预行动尚未结束",
           "url": "https://flash.jin10.com/detail/20260802091324168800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
         {
-          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
-          "url": "https://wallstreetcn.com/livenews/3143639",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯外交官：乌克兰是“非法武器贩运的主要枢纽”，西方国家提供的大量武器正通过“乌克兰枢纽”被转往他处。",
+          "url": "https://flash.jin10.com/detail/20260802122058090800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时20分"
+        },
+        {
+          "title": "俄罗斯外交官：乌克兰正将一些西方提供的武器转移到亚洲、中东和非洲的冲突地区。",
+          "url": "https://flash.jin10.com/detail/20260802122011992800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "日本熊本强震死亡人数升至38人",
@@ -604,9 +712,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "俄罗斯外交官：乌克兰助长了全球黑市武器交易。",
+          "url": "https://flash.jin10.com/detail/20260802122001478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国两名男子打架 狗为护主互相撕咬",
@@ -615,7 +734,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -626,31 +745,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
         {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
-          "source": "华尔街见闻",
+          "title": "美国西部遭遇高温热浪 多地山火风险加剧",
+          "url": "https://flash.jin10.com/detail/20260802121919078800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "柯文哲妻子回应大陆游9天8夜花费",
-          "url": "https://news.ifeng.com/c/8vFFLrELxQt",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "13时20分"
         },
         {
           "title": "专家：美国威胁轰炸伊朗能源基础设施或将加剧紧张局势",
@@ -659,7 +767,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -670,9 +778,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗军方官员表示，美国总统声称伊朗已要求停止袭击，这纯属无稽之谈，是企图勒索波斯湾统治者并向其施压的孤注一掷之举。无论他是继续侵略还是退缩，我们的部队都处于最高战备状态，并为任何可能性做好了准备。如果对抗不可避免，战场将决定一切，届时所有人都会明白谁掌握着权力，谁将拥有最终发言权。",
+          "url": "https://flash.jin10.com/detail/20260802112524436800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
@@ -703,7 +822,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -714,7 +833,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -725,7 +844,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -736,7 +855,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
