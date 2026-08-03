@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T01:44:30.860175+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-04T03:21:29.855984+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 33,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
@@ -15,41 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
         },
         {
-          "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
-          "url": "https://wallstreetcn.com/livenews/3144297",
-          "source": "华尔街见闻-快讯",
+          "title": "日本7人地震逃生后回商场被炸死",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7%E4%BA%BA%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E5%90%8E%E5%9B%9E%E5%95%86%E5%9C%BA%E8%A2%AB%E7%82%B8%E6%AD%BB%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
-          "url": "https://wallstreetcn.com/livenews/3144296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "乌克兰驻美国大使Olha Stefanishyna宣布辞职，来回应当前局势，但将继续为乌克兰服务。 8月3日稍早，乌克兰总统泽连斯基罢免了Stefanishyna的职务。",
-          "url": "https://wallstreetcn.com/livenews/3144295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
         },
         {
           "title": "凤凰直击日本熊本震区：神社刚修缮好，大殿塌了",
@@ -59,8 +38,52 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗法尔斯通讯社：伊朗将领礼萨伊表示，在美国停止袭击行动后，我方继续打击行动两天，以此让美方认清局势。",
+          "url": "https://wallstreetcn.com/livenews/3144324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国纽约州总检察长：特朗普的新关税措施范围过于宽泛，不顾法律要求绕过了针对具体国家开展的调查。特朗普最新关税措施只是替代了此前被美国最高法院否决的关税。",
+          "url": "https://flash.jin10.com/detail/20260804031319377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们拥有导弹，也具备自卫能力。 即使美国通过未经授权的航线派遣军舰进入霍尔木兹海峡，我们也将对其进行打击。 美国曾在（伊斯兰堡）谅解备忘录框架下接受伊朗关于霍尔木兹海峡的安排，但随后违反了该协议。 美国不仅违反了谅解备忘录，还在未先将争端提交至指定争端解决委员会的情况下发动了袭击。 在谅解备忘录遭违反后的17天战斗中，我们对美国实施了沉重打击。",
+          "url": "https://wallstreetcn.com/livenews/3144323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们没有攻击任何美国公民，但美国攻击了我们的国家。世界绝大多数国家都会说，美国是一个好战国家。",
+          "url": "https://flash.jin10.com/detail/20260804031059283800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "据路透社白宫记者：据悉，美国能源部也预计将于本周五举办一场聚焦劳动力发展的活动。该活动将包括美国全部14所获得认证的矿业院校代表参加，旨在提高公众对采矿业作为职业发展方向的认识，同时强调需要更多学生进入该领域。",
@@ -74,26 +97,188 @@
           "time_info": "01时44分"
         },
         {
-          "title": "日本7人地震逃生后回商场被炸死",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7%E4%BA%BA%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E5%90%8E%E5%9B%9E%E5%95%86%E5%9C%BA%E8%A2%AB%E7%82%B8%E6%AD%BB%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：在美国停止攻击后，我们又进行了两天的攻击，以便让他们理解局势。",
+          "url": "https://flash.jin10.com/detail/20260804031056334800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国财政部公布可交易债务融资预估。",
+          "url": "https://wallstreetcn.com/livenews/3144321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "法院文件显示，美国25个州提起诉讼，挑战特朗普最新关税措施。",
+          "url": "https://flash.jin10.com/detail/20260804031020118800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
+          "url": "https://wallstreetcn.com/livenews/3144297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+          "url": "https://www.toutiao.com/trending/7668995465958051347/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
+          "url": "https://wallstreetcn.com/livenews/3144296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "乌克兰驻美国大使Olha Stefanishyna宣布辞职，来回应当前局势，但将继续为乌克兰服务。 8月3日稍早，乌克兰总统泽连斯基罢免了Stefanishyna的职务。",
+          "url": "https://wallstreetcn.com/livenews/3144295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子等中国品牌",
+          "url": "https://www.douyin.com/hot/2595693",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
         },
         {
           "title": "媒体：台湾“维持现状”幻想正在破灭",
           "url": "https://www.toutiao.com/trending/7668732962887745572/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国硅谷富豪回应“克隆自己”争议",
+          "url": "https://news.ifeng.com/c/8vICc9Xnzq9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "日本人买中国车痛失国籍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "美国女子4年不洗头震惊理发师",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "七匹狼回应被美国制裁：没影响",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "离谱,日本职场比地震还狠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
+        },
+        {
+          "title": "日本灾区呼吁别送千纸鹤了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356725&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E5%88%AB%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时21分]"
         },
         {
           "title": "备忘录显示，花旗集团(C.N)聘请美国银行的Rohan Sen负责领导科技服务银行业务覆盖。",
@@ -107,26 +292,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国制裁洽洽瓜子等中国品牌",
-          "url": "https://www.douyin.com/hot/2595693",
-          "source": "抖音",
+          "title": "美国能源信息署（EIA）：根据每小时电网监测数据，美国得州电力可靠性委员会（ERCOT）小时峰值负荷于7月22日达到创纪录的91.1吉瓦（GW）。",
+          "url": "https://flash.jin10.com/detail/20260804030907194800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
-          "url": "https://www.toutiao.com/trending/7668995465958051347/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
         },
         {
           "title": "乌克兰驻美国大使奥尔加·斯特凡尼希娜被乌克兰总统泽连斯基免职。",
@@ -140,15 +314,37 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国硅谷富豪回应“克隆自己”争议",
-          "url": "https://news.ifeng.com/c/8vICc9Xnzq9",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：美国曾在（伊斯兰堡）谅解备忘录框架下接受伊朗关于霍尔木兹海峡的安排，但随后违反了该协议。美国不仅违反了谅解备忘录，还在未先将争端提交至指定争端解决委员会的情况下发动了袭击。在谅解备忘录遭违反后的17天战斗中，我们对美国实施了沉重打击。",
+          "url": "https://flash.jin10.com/detail/20260804030737627800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们拥有导弹，也具备自卫能力。即使美国通过未经授权的航线派遣军舰进入霍尔木兹海峡，我们也将对其进行打击。",
+          "url": "https://flash.jin10.com/detail/20260804030710581800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国原油期货收跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3144315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "波音(BA.N)股价上涨5.6%，波音737 Max 7获美国联邦航空管理局（FAA）认证。",
@@ -162,6 +358,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美国财政部上调7月-9月借款预估至7390亿美元",
+          "url": "https://flash.jin10.com/detail/20260804030638192800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "伊拉克真主党旅秘书长：我们坚守武装力量，并致力于发展、强化军备。 美国与沙特针对我方民众采取的行动危险且前所未有，或将推动地区局势迈入新阶段。",
           "url": "https://wallstreetcn.com/livenews/3144287",
           "source": "华尔街见闻-快讯",
@@ -171,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美银：若美联储说不清如何抗通胀方案美国国债就会重拾跌势",
+          "url": "https://wallstreetcn.com/livenews/3144313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "美国纽约州、其他23个州及哥伦比亚特区起诉特朗普政府，反对允许获取TANF私人信息的相关改革措施。",
@@ -195,15 +413,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
+          "url": "https://wallstreetcn.com/livenews/3144310",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
         },
         {
           "title": "美国中央司令部：截至8月3日，美国中央司令部已重新引导44艘商船航行、使2艘船只失去行动能力，并登临检查2艘船只。",
@@ -217,22 +435,44 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美国总统特朗普：我们原计划于昨日对伊朗发动打击，且那将是有史以来最猛烈的一次。",
+          "url": "https://wallstreetcn.com/livenews/3144309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司最好降低零售价格。 石油企业赚得盆满钵满，我不乐见此事。 雪佛龙、埃克森美孚赚得太多了。",
+          "url": "https://wallstreetcn.com/livenews/3144307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3144305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "历经数年延期，美国FAA终于批准最小型号波音737 Max投入飞行",
           "url": "https://wallstreetcn.com/livenews/3144277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "日本人买中国车痛失国籍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -261,20 +501,20 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美国总统特朗普宣称：对（美国和以色列）与伊朗冲突的解决方案推进得不错。",
+          "url": "https://wallstreetcn.com/livenews/3144302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "美国本田：七月电动汽车销量为38,169辆。",
           "url": "https://flash.jin10.com/detail/20260804001824695800",
           "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美国女子4年不洗头震惊理发师",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%904%E5%B9%B4%E4%B8%8D%E6%B4%97%E5%A4%B4%E9%9C%87%E6%83%8A%E7%90%86%E5%8F%91%E5%B8%88%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
           "ranks": [
             22
           ],
@@ -294,17 +534,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "离谱,日本职场比地震还狠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
           "url": "https://flash.jin10.com/detail/20260804001514489800",
           "source": "金十数据",
@@ -316,15 +545,26 @@
           "time_info": "01时44分"
         },
         {
-          "title": "七匹狼回应被美国制裁：没影响",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：（关于伊朗）我没有时间限制。",
+          "url": "https://flash.jin10.com/detail/20260804022501106800",
+          "source": "金十数据",
           "ranks": [
-            26
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "比亚迪攻入日本汽车腹地",
+          "url": "https://www.toutiao.com/trending/7669798854924963366/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "美国银行：相比欧盟市场，更青睐英国利率期货。 市场对英国央行加息前景的定价过高。",
@@ -341,17 +581,6 @@
           "title": "媒体援引消息人士报道称，美国总统特朗普预计周五在国务院出席一场矿业高管圆桌会议。",
           "url": "https://wallstreetcn.com/livenews/3144268",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "日本灾区呼吁别送千纸鹤了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356725&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E5%88%AB%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%E4%BA%86",
-          "source": "贴吧",
           "ranks": [
             28
           ],
