@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:43:54.657679+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-08-11T22:15:01.046137+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 137,
+      "match_count": 154,
       "titles": [
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[12时59分 ~ 22时15分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -101,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[12时59分 ~ 22时15分]"
         },
         {
           "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
@@ -192,6 +192,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "美国7月份全国现房中位房价为434,100美元，比2025年7月上涨2.0%。",
+          "url": "https://flash.jin10.com/detail/20260811220331391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "俄罗斯国防部：武装部队袭击了一个运输和物流中心“Kyiv-3”，该中心面积约50,000平方米。",
           "url": "https://flash.jin10.com/detail/20260811142528060800",
           "source": "金十数据",
@@ -203,15 +214,26 @@
           "time_info": "14时51分"
         },
         {
-          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3148075",
+          "title": "市场消息：美国总统特朗普谈及伊朗时表示，“如果我没有那样做，他们现在就已经拥有核武器了，而你们现在就要称呼他们为‘先生’了。”",
+          "url": "https://flash.jin10.com/detail/20260811220134990800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+          "url": "https://wallstreetcn.com/livenews/3148116",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时15分"
         },
         {
           "title": "托德·布兰奇宣誓就任美国司法部长",
@@ -242,9 +264,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美国国务院一名官员称，黎巴嫩与以色列谈判进程预计将于9月初在罗马恢复。",
+          "url": "https://flash.jin10.com/detail/20260811220032679800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国小企业乐观情绪升至接近一年来的最高水平",
@@ -253,7 +286,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -286,7 +319,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -334,6 +367,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "美国7月成屋销售总数年化 406万户，预期405万户，前值由409万户修正为413万户。",
+          "url": "https://flash.jin10.com/detail/20260811220002236800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3148113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
+          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 22时15分]"
         },
         {
           "title": "美国纽约市长马姆达尼的Pied-a-Terre税收方案暂时被法官拒绝。",
@@ -422,6 +488,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时49分]"
+        },
+        {
+          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3148075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时15分]"
         },
         {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
@@ -518,17 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
-          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 20时43分]"
         },
         {
           "title": "广岛长崎的昨天未必不会是日本的明天",
@@ -813,6 +880,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "美国7月成屋销售年化月率 -1.7%，预期-1%，前值由-2.40%修正为-1.4%。",
+          "url": "https://flash.jin10.com/detail/20260811220002234800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "涉及中国AI，日本自卫队极为担心",
           "url": "https://news.ifeng.com/c/8vUvXS11rLG",
           "source": "凤凰网",
@@ -857,6 +935,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "市场消息：加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+          "url": "https://flash.jin10.com/detail/20260811215827411800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "新加坡贸易官员：预计美国对新加坡出口商品加征12.5%关税不会对贸易造成影响。",
           "url": "https://flash.jin10.com/detail/20260811084116529800",
           "source": "金十数据",
@@ -888,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗人在会谈中和美方达成一致，却在媒体上否认，这是在“耍我们”。",
+          "url": "https://flash.jin10.com/detail/20260811215644799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "报道：新加坡数据中心运营商DayOne以保密形式提交50亿美元美国IPO申请",
@@ -932,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗经济正处于混乱状态。",
+          "url": "https://flash.jin10.com/detail/20260811215616874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "银都股份：公司境外子公司收到美国退回关税1159.99万美元",
@@ -1000,6 +1111,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，对伊朗的谈判风格感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20260811215605322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
           "url": "https://wallstreetcn.com/livenews/3147672",
           "source": "华尔街见闻-快讯",
@@ -1042,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，这场战争是为了防止伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215523547800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国国务卿卢比奥：美方正哥伦比亚发生的地震。",
@@ -1099,6 +1232,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，如果不打击伊朗，它就会获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215458970800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "据媒体援引美国国务院官员报道，黎巴嫩和以色列将于9月初在罗马举行下一轮会谈。",
           "url": "https://wallstreetcn.com/livenews/3147740",
           "source": "华尔街见闻-快讯",
@@ -1141,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称油价比拜登执政时期还要低。",
+          "url": "https://flash.jin10.com/detail/20260811215433247800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国7月NFIB中小企业乐观程度指数 99.8%，前值 97.4%。",
@@ -1193,7 +1348,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1251,6 +1406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "美国7月成屋销售总数年化将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260811215000000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
@@ -1402,7 +1568,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1427,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "市场消息：油轮动态数据显示，截至8月9日的四周内，俄罗斯原油出口量降至每日371万桶，为5月下旬以来的最低水平，也标志着此前乌克兰持续袭击俄罗斯炼油厂所导致的出口量激增效应正在消退。",
+          "url": "https://flash.jin10.com/detail/20260811214513679800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "特朗普称美国对伊朗有三种“策略”",
@@ -1468,7 +1645,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1501,7 +1678,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1548,6 +1725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗外长：伊朗让美国幻想破灭",
+          "url": "https://wallstreetcn.com/livenews/3148079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "伊朗：美国对制裁“病态依赖”",
