@@ -1,45 +1,12 @@
 {
-  "generated_at": "2026-08-12T02:50:16.197707+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-08-12T03:56:08.383416+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 42,
+      "match_count": 54,
       "titles": [
-        {
-          "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
-          "url": "https://flash.jin10.com/detail/20260812023232366800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
-          "url": "https://wallstreetcn.com/livenews/3148203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
-          "url": "https://flash.jin10.com/detail/20260812023119279800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
         {
           "title": "日本篡改历史被反噬了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2%E8%A2%AB%E5%8F%8D%E5%99%AC%E4%BA%86%23&t=31&band_rank=10&Refer=top",
@@ -49,30 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 02时50分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：由于​​附近发生火灾，斯波坎国际机场正在进行人员疏散。",
-          "url": "https://flash.jin10.com/detail/20260812022807544800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 03时56分]"
         },
         {
           "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
           "url": "https://news.ifeng.com/c/8vVSXRaklRS",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时56分]"
         },
         {
           "title": "美国等国无端指责中国7月进行的潜射洲际弹道导弹试射，中方驳斥",
@@ -82,8 +39,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时56分]"
+        },
+        {
+          "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
+          "url": "https://flash.jin10.com/detail/20260812023232366800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "美国两年期国债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3148224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
+          "url": "https://flash.jin10.com/detail/20260812023119279800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
@@ -93,8 +83,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 03时56分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：由于​​附近发生火灾，斯波坎国际机场正在进行人员疏散。",
+          "url": "https://flash.jin10.com/detail/20260812022807544800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         },
         {
           "title": "邱毅：大陆创造统一条件民进党很紧张",
@@ -102,11 +103,24 @@
           "source": "今日头条",
           "ranks": [
             21,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 03时56分]"
+        },
+        {
+          "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
+          "url": "https://wallstreetcn.com/livenews/3148203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时56分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：指标表明，美国劳动力市场稳定、但情况并不良好。 只要消费者（信心）是健康的，美国经济也会一样。 经济当前面临的最大问题在于通胀。",
@@ -234,9 +248,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "美国财长贝森特：欢迎Meta发布Muse Glimmer。",
+          "url": "https://wallstreetcn.com/livenews/3148218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3148217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国能源信息署（EIA）预计，德克萨斯州的电力负荷将在2027年增长6%，低于7月短期能源展望中预测的14%。",
@@ -259,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国芝加哥商业交易所集团（CME）将推出国家冰球联盟（NHL）冰球期货。",
+          "url": "https://wallstreetcn.com/livenews/3148214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国至8月11日3年期国债竞拍-得标利率配置百分比 18.31%，前值2.17%。",
@@ -294,6 +341,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
+          "url": "https://flash.jin10.com/detail/20260812030839607800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "美国至8月11日3年期国债竞拍-投标倍数 2.71，前值2.6。",
           "url": "https://flash.jin10.com/detail/20260812010250896800",
           "source": "金十数据",
@@ -316,6 +374,28 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国太空军盖特莱因上将：我们需要解决2027年“金穹顶”的资金问题。",
+          "url": "https://flash.jin10.com/detail/20260812030207660800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260812030104095800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
           "url": "https://flash.jin10.com/detail/20260812005943558800",
           "source": "金十数据",
@@ -325,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国军方：美国海军MH-60直升机向“维拉诺瓦”号货轮的机舱发射了两枚地狱火导弹。",
+          "url": "https://flash.jin10.com/detail/20260812030041467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
@@ -349,6 +440,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国军方：今天早些时候，中央司令部部队使悬挂巴拿马国旗的“维拉诺瓦”号货轮的转向装置失效。",
+          "url": "https://flash.jin10.com/detail/20260812025954706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
           "url": "https://flash.jin10.com/detail/20260812001111070800",
           "source": "金十数据",
@@ -358,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美国军方：截至当地时间8月11日，中央司令部已将55艘试图突破封锁的商船重新定向，使3艘不遵守规定的船只失去行动能力，并登船检查了2艘。",
+          "url": "https://flash.jin10.com/detail/20260812025858286800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
@@ -413,6 +526,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：斯波坎国际机场空中交通管制塔因建筑物火警警报而疏散，后经证实为误报。航班运行未受影响，机场继续开放运营。",
+          "url": "https://flash.jin10.com/detail/20260812025231074800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国太空军盖特莱因上将：“金穹顶”计划已成功完成两次测试。",
+          "url": "https://flash.jin10.com/detail/20260812025040942800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国为何对沙土巴协议无动于衷",
