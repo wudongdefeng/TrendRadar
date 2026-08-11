@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T13:53:52.133827+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-08-11T14:51:56.100988+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 104,
+      "match_count": 110,
       "titles": [
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 14时51分]"
         },
         {
           "title": "台湾不是国家不存在“国格”",
@@ -87,11 +87,12 @@
           "ranks": [
             18,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 14时51分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -107,15 +108,18 @@
           "time_info": "[00时44分 ~ 13时53分]"
         },
         {
-          "title": "美国又一个机构成为“反华急先锋”",
-          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
-          "source": "凤凰网",
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            9,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时51分]"
         },
         {
           "title": "据半岛电视台：美国国务院一位官员表示，在美国斡旋下举行的黎巴嫩与以色列谈判将于下月初在罗马继续进行。",
@@ -140,6 +144,28 @@
           "time_info": "09时03分"
         },
         {
+          "title": "市场消息：位于沃罗涅日州的俄罗斯网络零售商野莓（Wildberries）的物流中心内的货物基本完好无损。",
+          "url": "https://flash.jin10.com/detail/20260811142641233800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "俄罗斯国防部：武装部队袭击了一个运输和物流中心“Kyiv-3”，该中心面积约50,000平方米。",
+          "url": "https://flash.jin10.com/detail/20260811142528060800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "托德·布兰奇宣誓就任美国司法部长",
           "url": "https://flash.jin10.com/detail/20260811031910191800",
           "source": "金十数据",
@@ -149,6 +175,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "美国又一个机构成为“反华急先锋”",
+          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时51分]"
         },
         {
           "title": "奈飞(NFLX.O)：2026年美国广告承诺几乎翻倍。",
@@ -173,6 +211,18 @@
           "time_info": "02时44分"
         },
         {
+          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
+          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 14时51分]"
+        },
+        {
           "title": "美国上诉法院拒绝暂停针对Meta Platforms(META.O)、TikTok及其他公司的数千起社交媒体成瘾诉讼。",
           "url": "https://flash.jin10.com/detail/20260811000250709800",
           "source": "金十数据",
@@ -195,18 +245,16 @@
           "time_info": "03时49分"
         },
         {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
+          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
+          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            9,
             10,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时53分]"
+          "time_info": "[09时03分 ~ 14时51分]"
         },
         {
           "title": "美国纽约市长马姆达尼的Pied-a-Terre税收方案暂时被法官拒绝。",
@@ -258,18 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时49分]"
-        },
-        {
-          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
-          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时53分]"
         },
         {
           "title": "摩根士丹利：启动美国创新基础设施计划，计划在未来10年内促进约1.5万亿美元的资本筹集、融资、顾问及相关投资活动。",
@@ -392,16 +428,15 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
-          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
-          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
+          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
+          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
           "source": "凤凰网",
           "ranks": [
-            10,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时51分]"
         },
         {
           "title": "广岛长崎的昨天未必不会是日本的明天",
@@ -415,15 +450,16 @@
           "time_info": "[02时44分 ~ 04时33分]"
         },
         {
-          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
-          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
-          "source": "凤凰网",
+          "title": "中国车把日本车打成了奢侈品",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%8A%8A%E6%97%A5%E6%9C%AC%E8%BD%A6%E6%89%93%E6%88%90%E4%BA%86%E5%A5%A2%E4%BE%88%E5%93%81",
+          "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时53分]"
+          "time_info": "[13时53分 ~ 14时51分]"
         },
         {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
@@ -663,15 +699,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "中国车把日本车打成了奢侈品",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%8A%8A%E6%97%A5%E6%9C%AC%E8%BD%A6%E6%89%93%E6%88%90%E4%BA%86%E5%A5%A2%E4%BE%88%E5%93%81",
-          "source": "百度热搜",
+          "title": "日媒爆日本央行9月加息已摆上桌面，但高市的债务“火药桶”正在引燃",
+          "url": "https://flash.jin10.com/detail/20260811142038971800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "14时51分"
         },
         {
           "title": "涉及中国AI，日本自卫队极为担心",
@@ -834,7 +870,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1015,6 +1051,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "日本大量网帖否认核爆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%87%8F%E7%BD%91%E5%B8%96%E5%90%A6%E8%AE%A4%E6%A0%B8%E7%88%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
           "url": "https://flash.jin10.com/detail/20260811033643002800",
           "source": "金十数据",
@@ -1169,6 +1216,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "当地州长表示，俄罗斯奥伦堡州一家工业企业遭“敌方无人机”袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260811140324473800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美国投资级债券市场迎来19家发行人，直追2026年迄今峰值——1月5日当天有20家高评级债权人融资。",
           "url": "https://wallstreetcn.com/livenews/3147585",
           "source": "华尔街见闻-快讯",
@@ -1200,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.4%报45,120.72点。",
+          "url": "https://wallstreetcn.com/livenews/3147871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     },
