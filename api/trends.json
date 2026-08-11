@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-11T09:03:38.070909+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-08-11T11:27:41.296950+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 94,
+      "match_count": 100,
       "titles": [
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 09时03分]"
-        },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
@@ -31,6 +19,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 09时03分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 11时27分]"
         },
         {
           "title": "台湾不是国家不存在“国格”",
@@ -83,22 +84,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 11时27分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356987&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B6%E5%A5%B3%E9%97%B9%E6%8E%B0%2C%E4%B8%80%E5%8F%A5%E6%81%B6%E5%BF%83%E4%BC%A4%E9%80%8F%E5%BF%83",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 11时27分]"
         },
         {
           "title": "据半岛电视台：美国国务院一位官员表示，在美国斡旋下举行的黎巴嫩与以色列谈判将于下月初在罗马继续进行。",
@@ -118,7 +121,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -349,6 +352,19 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 11时27分]"
+        },
+        {
           "title": "广岛长崎的昨天未必不会是日本的明天",
           "url": "https://www.toutiao.com/trending/7672302329533730354/",
           "source": "今日头条",
@@ -358,6 +374,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时33分]"
+        },
+        {
+          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
+          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时27分]"
         },
         {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
@@ -396,18 +424,6 @@
           "time_info": "[03时49分 ~ 04时33分]"
         },
         {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时03分]"
-        },
-        {
           "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
           "url": "https://flash.jin10.com/detail/20260811044638936800",
           "source": "金十数据",
@@ -430,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
+          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时27分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
@@ -575,17 +603,6 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
-          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
           "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
           "url": "https://flash.jin10.com/detail/20260811031317951800",
           "source": "金十数据",
@@ -606,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "涉及中国AI，日本自卫队极为担心",
+          "url": "https://news.ifeng.com/c/8vUvXS11rLG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
@@ -647,7 +675,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -658,18 +686,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
-          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -707,6 +724,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "日媒：据悉日本央行将在9月加息以应对通胀风险",
+          "url": "https://flash.jin10.com/detail/20260811110026484800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "美国国务卿鲁比奥；美国正在关注哥伦比亚地震的灾情。",
           "url": "https://flash.jin10.com/detail/20260810234234932800",
           "source": "金十数据",
@@ -738,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "据日本时事通讯社：知情人士称，日本央行可能会在9月17日至18日举行的下次政策会议上考虑再次加息，以应对通胀加剧的风险。",
+          "url": "https://flash.jin10.com/detail/20260811105914552800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
@@ -834,9 +873,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -848,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "核爆81周年日本为何不敢点名美国",
+          "url": "https://www.toutiao.com/trending/7671866200909643795/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国7月平均气温刷新1895年以来最高纪录",
@@ -1079,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗：美国对制裁“病态依赖”",
+          "url": "https://www.toutiao.com/trending/7672205841336483846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -1093,7 +1165,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         }
