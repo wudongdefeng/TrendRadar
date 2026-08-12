@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:11:07.554333+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-08-12T11:58:05.209828+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
         {
           "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时52分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时52分 ~ 11时58分]"
         },
         {
           "title": "日本篡改历史被反噬了",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时58分]"
         },
         {
           "title": "邱毅：大陆创造统一条件民进党很紧张",
@@ -83,13 +83,47 @@
           "time_info": "[01时52分 ~ 05时37分]"
         },
         {
+          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
+          "url": "https://www.cls.cn/detail/2451863",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "美国7月CPI揭晓前夕 美联储官员又“放鹰”：通胀是当前最大问题",
+          "url": "https://www.cls.cn/detail/2451826",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时58分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用TikTok",
+          "url": "https://www.toutiao.com/trending/7672969055648615946/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
           "title": "美国总统特朗普：我不信任伊朗。",
           "url": "https://flash.jin10.com/detail/20260812090330266800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -133,7 +167,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -166,7 +200,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -199,7 +233,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -254,15 +288,16 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
-          "title": "美国7月CPI揭晓前夕 美联储官员又“放鹰”：通胀是当前最大问题",
-          "url": "https://www.cls.cn/detail/2451826",
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
           "source": "财联社热门",
           "ranks": [
-            6
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时58分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -337,6 +372,17 @@
           "time_info": "[03时56分 ~ 04时36分]"
         },
         {
+          "title": "日本武器出口，财界扮演什么角色？",
+          "url": "https://news.ifeng.com/c/8vWdp3xI41k",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
           "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
           "url": "https://wallstreetcn.com/livenews/3148167",
           "source": "华尔街见闻-快讯",
@@ -359,17 +405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时36分]"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
           "title": "据相关声明，美国商品期货交易委员会（CFTC）已要求预测平台Kalshi继续运营。",
@@ -580,7 +615,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -613,7 +648,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -624,7 +659,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -635,9 +670,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "乌克兰袭击俄罗斯炼油厂 俄罗斯首次从印度远程进口汽油",
+          "url": "https://flash.jin10.com/detail/20260812113428303800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美国能源信息署（EIA）预计，德克萨斯州的电力负荷将在2027年增长6%，低于7月短期能源展望中预测的14%。",
@@ -745,7 +791,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -822,9 +868,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "贝森特与高市早苗在日本央行问题上的分歧可能破坏日元反弹",
+          "url": "https://flash.jin10.com/detail/20260812111817174800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
@@ -899,7 +956,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -943,9 +1000,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "日本首相高市早苗内阁可能在9月中旬或之后改组，预计不太可能调整内阁官房长官、财务大臣和经济产业大臣等关键职位。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3148369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
@@ -1020,7 +1088,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1056,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "日本30年期国债收益率上行3个基点至3.98%。",
+          "url": "https://wallstreetcn.com/livenews/3148361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
@@ -1100,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "日本20年期国债收益率上行2.5个基点至3.71%。",
+          "url": "https://wallstreetcn.com/livenews/3148346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     }
