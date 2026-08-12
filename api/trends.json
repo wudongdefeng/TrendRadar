@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T22:16:06.737376+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2026-08-12T23:52:34.933229+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 183,
+      "match_count": 201,
       "titles": [
         {
           "title": "“空军一号”沦为诱饵，美国官员细思极恐",
@@ -33,6 +33,18 @@
           "time_info": "[01时52分 ~ 19时40分]"
         },
         {
+          "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
+          "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时52分]"
+        },
+        {
           "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
           "url": "https://www.cls.cn/detail/2451863",
           "source": "财联社热门",
@@ -43,6 +55,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时57分 ~ 17时03分]"
+        },
+        {
+          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
+          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时52分]"
         },
         {
           "title": "日本篡改历史被反噬了",
@@ -57,30 +81,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时52分 ~ 09时11分]"
-        },
-        {
-          "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
-          "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时16分]"
-        },
-        {
-          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
-          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时16分]"
         },
         {
           "title": "美国7月CPI揭晓前夕 美联储官员又“放鹰”：通胀是当前最大问题",
@@ -107,6 +107,17 @@
           "time_info": "[00时49分 ~ 09时11分]"
         },
         {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时52分]"
+        },
+        {
           "title": "美国等国无端指责中国7月进行的潜射洲际弹道导弹试射，中方驳斥",
           "url": "https://news.ifeng.com/c/8vVmVQhoXD1",
           "source": "凤凰网",
@@ -129,17 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时03分 ~ 20时49分]"
-        },
-        {
-          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
-          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时16分]"
         },
         {
           "title": "日本武器出口，财界扮演什么角色？",
@@ -165,6 +165,43 @@
           "time_info": "[09时10分 ~ 15时11分]"
         },
         {
+          "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
+          "url": "https://wallstreetcn.com/articles/3779297",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时52分]"
+        },
+        {
+          "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
+          "url": "https://wallstreetcn.com/articles/3779269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时52分]"
+        },
+        {
+          "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2452722",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时52分]"
+        },
+        {
           "title": "邱毅：大陆创造统一条件民进党很紧张",
           "url": "https://www.toutiao.com/trending/7672041569939767332/",
           "source": "今日头条",
@@ -179,39 +216,37 @@
           "time_info": "[01时52分 ~ 05时37分]"
         },
         {
-          "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2452722",
-          "source": "财联社热门",
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
-          "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
-          "url": "https://wallstreetcn.com/articles/3779269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时52分]"
         },
         {
-          "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
-          "url": "https://wallstreetcn.com/articles/3779297",
-          "source": "华尔街见闻",
+          "title": "普京：若西方国家扣押俄罗斯商船，俄方将予以对等回应",
+          "url": "https://news.ifeng.com/c/8vX6M3WTlqn",
+          "source": "凤凰网",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时52分]"
+        },
+        {
+          "title": "俄罗斯本土，遭遇“最致命袭击”",
+          "url": "https://news.ifeng.com/c/8vXC7SdnfWv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时52分]"
         },
         {
           "title": "美国政府设备重新允许使用TikTok",
@@ -270,6 +305,17 @@
           "time_info": "20时49分"
         },
         {
+          "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
           "url": "https://flash.jin10.com/detail/20260812023232366800",
           "source": "金十数据",
@@ -281,15 +327,16 @@
           "time_info": "02时50分"
         },
         {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时52分]"
         },
         {
           "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
@@ -347,17 +394,6 @@
           "time_info": "20时49分"
         },
         {
-          "title": "普京：若西方国家扣押俄罗斯商船，俄方将予以对等回应",
-          "url": "https://news.ifeng.com/c/8vX6M3WTlqn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时16分]"
-        },
-        {
           "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
           "url": "https://flash.jin10.com/detail/20260812042041712800",
           "source": "金十数据",
@@ -400,17 +436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
-        },
-        {
-          "title": "俄罗斯本土，遭遇“最致命袭击”",
-          "url": "https://news.ifeng.com/c/8vXC7SdnfWv",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时16分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：由于​​附近发生火灾，斯波坎国际机场正在进行人员疏散。",
@@ -468,15 +493,15 @@
           "time_info": "20时49分"
         },
         {
-          "title": "美国通胀数据并未解开华尔街的疑问 美债市场认为9月加息概率约五成",
-          "url": "https://wallstreetcn.com/livenews/3148669",
+          "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
+          "url": "https://wallstreetcn.com/livenews/3148697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时52分"
         },
         {
           "title": "美国两年期国债收益率跌超2个基点",
@@ -529,6 +554,18 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
+          "title": "美国通胀数据并未解开华尔街的疑问 美债市场认为9月加息概率约五成",
+          "url": "https://wallstreetcn.com/livenews/3148669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时52分]"
+        },
+        {
           "title": "博主：俄朝轮番亮剑打懵日本右翼",
           "url": "https://www.toutiao.com/trending/7673100953611947556/",
           "source": "今日头条",
@@ -565,6 +602,17 @@
           "time_info": "[20时48分 ~ 22时16分]"
         },
         {
+          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
+          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时52分]"
+        },
+        {
           "title": "美国在委内瑞拉废墟上操练霸权",
           "url": "https://www.toutiao.com/trending/7672306293503639578/",
           "source": "今日头条",
@@ -575,6 +623,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时40分 ~ 20时49分]"
+        },
+        {
+          "title": "普京穿军装在导弹巡洋舰上点名日本",
+          "url": "https://www.toutiao.com/trending/7673080386569797638/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时52分]"
         },
         {
           "title": "日本女主播直播时对黑人用歧视词汇",
@@ -608,17 +668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
-          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
-          "url": "https://www.cls.cn/detail/2452735",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -703,17 +752,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时36分]"
-        },
-        {
-          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
-          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
@@ -833,17 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "普京穿军装在导弹巡洋舰上点名日本",
-          "url": "https://www.toutiao.com/trending/7673080386569797638/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国至8月7日当周API投产原油量 3.4万桶/日，前值-11.2万桶/日。",
@@ -1041,6 +1068,17 @@
           "time_info": "20时49分"
         },
         {
+          "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。",
+          "url": "https://flash.jin10.com/detail/20260812232041196800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国7月CPI环比 0.1%，预期 0.1%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3148629",
           "source": "华尔街见闻-快讯",
@@ -1173,6 +1211,17 @@
           "time_info": "20时49分"
         },
         {
+          "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3148693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "台湾加权指数8月12日（周三）开盘上涨194.55点，涨幅0.43%，报45315.27点。",
           "url": "https://flash.jin10.com/detail/20260812090113428800",
           "source": "金十数据",
@@ -1261,6 +1310,17 @@
           "time_info": "20时49分"
         },
         {
+          "title": "据日经新闻：日本计划向波斯湾国家提供财政和技术支持，帮助它们重建在美伊战争中受损的基础设施，以确保该地区能源的稳定供应。",
+          "url": "https://flash.jin10.com/detail/20260812230935155800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国得州数据中心暂停后，电力需求预测被下调",
           "url": "https://wallstreetcn.com/livenews/3148272",
           "source": "华尔街见闻-快讯",
@@ -1270,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3148690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国至8月11日3年期国债竞拍-得标利率配置百分比 18.31%，前值2.17%。",
@@ -1292,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "美国8月7日当周EIA库欣地区原油库存变动 161.1万桶，前值 235.6万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国能源信息署在德克萨斯州州长宣布暂停新数据中心开发后，下调了对该州电力需求的预测。",
@@ -1338,6 +1420,28 @@
           "time_info": "20时49分"
         },
         {
+          "title": "市场消息：美国总统特朗普被起诉，因他计划出售快速获取旗下社交媒体“真相”帖子的权限。",
+          "url": "https://flash.jin10.com/detail/20260812230344213800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "美国8月7日当周EIA精炼厂设备利用率变化 -0.3%，预期 -0.4%，前值 -0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3148688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国至8月11日3年期国债竞拍-投标倍数 2.71，前值2.6。",
           "url": "https://flash.jin10.com/detail/20260812010250896800",
           "source": "金十数据",
@@ -1377,7 +1481,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1402,6 +1506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "美国8月7日当周EIA汽油库存变动 -96.8万桶，预期 -110万桶，前值 -164.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国至8月7日当周API取暖油库存 42.4万桶，前值-11.8万桶。",
@@ -1465,9 +1580,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国8月7日当周EIA原油库存变动 1742.3万桶，预期 -180万桶，前值 247.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国太空军盖特莱因上将：我们需要解决2027年“金穹顶”的资金问题。",
@@ -1501,6 +1627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "美国8月7日当周EIA精炼油库存变动 -1万桶，预期 -200万桶，前值 -347.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
@@ -1580,6 +1717,17 @@
           "time_info": "20时49分"
         },
         {
+          "title": "俄罗斯称其对敖德萨港内船只实施了打击。（国际文传电讯社）",
+          "url": "https://wallstreetcn.com/livenews/3148684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
           "url": "https://flash.jin10.com/detail/20260812005943558800",
           "source": "金十数据",
@@ -1646,6 +1794,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国布局AI供应链 巴拿马试点平台加速关键商品流通",
+          "url": "https://flash.jin10.com/detail/20260812225552486800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "日本7月货币存量M2同比 2.2%，前值 2.2%。",
           "url": "https://wallstreetcn.com/livenews/3148296",
           "source": "华尔街见闻-快讯",
@@ -1677,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "EIA报告：最新一周美国从委内瑞拉进口的原油量上升至2024年9月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260812225550695800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
@@ -1778,6 +1948,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国国家飓风中心：热带风暴“克里斯托巴尔”（Cristobal）在大西洋中部副热带海域形成。该风暴目前位于亚速尔群岛以西约880英里（1420公里）处，最大持续风速为45英里/小时（75公里/小时）。",
+          "url": "https://flash.jin10.com/detail/20260812225305034800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国太空军盖特莱因上将：“金穹顶”计划已成功完成两次测试。",
           "url": "https://flash.jin10.com/detail/20260812025040942800",
           "source": "金十数据",
@@ -1866,6 +2047,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "EIA报告：美国最新一周自加拿大进口原油量上升至2025年3月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260812225232463800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "日本30年期国债收益率上行3个基点至3.98%。",
           "url": "https://wallstreetcn.com/livenews/3148361",
           "source": "华尔街见闻-快讯",
@@ -1930,6 +2122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "乌克兰持续袭击能源设施 俄罗斯原油产量跌破配额",
+          "url": "https://flash.jin10.com/detail/20260812224906578800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "报道：俄罗斯黑海港口Novorossiysk粮食码头遭袭后暂停运营",
@@ -2004,7 +2207,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -2070,7 +2273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }
