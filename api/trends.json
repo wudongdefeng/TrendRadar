@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T01:51:56.549923+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-08-14T02:52:00.549064+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "俄罗斯历史课本里的中国",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
@@ -38,8 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
+          "url": "https://www.cls.cn/detail/2453838",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "美国地质勘探局：克马德克群岛发生5.4级地震。",
@@ -59,32 +71,58 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "美国30年期国债发行的中标收益率创2001年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3149265",
-          "source": "华尔街见闻-快讯",
+          "title": "美国原油期货结算价为每桶81.25美元，下跌2.02美元，跌幅2.43%。",
+          "url": "https://flash.jin10.com/detail/20260814023513124800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时52分"
         },
         {
-          "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
-          "url": "https://www.cls.cn/detail/2453838",
-          "source": "财联社热门",
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            3
+            27,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时52分]"
+        },
+        {
+          "title": "美国地质调查局：克马德克群岛地区发生5.4级地震。",
+          "url": "https://wallstreetcn.com/livenews/3149257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "加拿大萨斯喀彻温省省长：在8月19日关税截止日期临近之际，加拿大与美国之间的谈判在过去几周明显升温。 谈判中存在多个敏感议题，乳制品问题就是其中之一，但目前谈判进展令人鼓舞。 在加美贸易谈判中，双方需要保持更广泛目标，即审查并更新《美墨加协定》（CUSMA）。",
+          "url": "https://wallstreetcn.com/livenews/3149256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时52分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -99,39 +137,121 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "美国地质调查局：克马德克群岛地区发生5.4级地震。",
-          "url": "https://wallstreetcn.com/livenews/3149257",
+          "title": "美国30年期国债发行的中标收益率创2001年以来新高",
+          "url": "https://wallstreetcn.com/livenews/3149265",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
-        {
-          "title": "加拿大萨斯喀彻温省省长：在8月19日关税截止日期临近之际，加拿大与美国之间的谈判在过去几周明显升温。 谈判中存在多个敏感议题，乳制品问题就是其中之一，但目前谈判进展令人鼓舞。 在加美贸易谈判中，双方需要保持更广泛目标，即审查并更新《美墨加协定》（CUSMA）。",
-          "url": "https://wallstreetcn.com/livenews/3149256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时52分]"
         },
         {
           "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
           "url": "https://www.zhihu.com/question/2071169289697092854",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "“数字护照”发到巴拿马，美国的手伸得太长了",
+          "url": "https://news.ifeng.com/c/8vZCMgMo93p",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "普京驳斥日本南千岛群岛领土主张",
+          "url": "https://www.douyin.com/hot/2607763",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "选情告急，民进党再炒作“大陆介选”",
+          "url": "https://news.ifeng.com/c/8vYsRokDUdD",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "博主：日本经济深陷无解死局",
+          "url": "https://www.toutiao.com/trending/7673513687360998963/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时52分]"
+        },
+        {
+          "title": "普京首登“北方四岛”羞辱日本，俄日关系深跌",
+          "url": "https://news.ifeng.com/c/8vZF7rgKM48",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时52分]"
+        },
+        {
+          "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
+          "url": "https://flash.jin10.com/detail/20260814011024061800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时52分]"
         },
         {
           "title": "美国抵押贷款利率六周以来首次小幅下降",
@@ -146,48 +266,28 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "“数字护照”发到巴拿马，美国的手伸得太长了",
-          "url": "https://news.ifeng.com/c/8vZCMgMo93p",
-          "source": "凤凰网",
+          "title": "美国：成立新的无人机特遣部队，部队将使用来自美国及伙伴国的攻击无人机。",
+          "url": "https://wallstreetcn.com/livenews/3149261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时52分]"
         },
         {
-          "title": "普京驳斥日本南千岛群岛领土主张",
-          "url": "https://www.douyin.com/hot/2607763",
-          "source": "抖音",
+          "title": "美国30年期国债非竞争性投标金额为9540万美元。",
+          "url": "https://wallstreetcn.com/livenews/3149259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
-        {
-          "title": "选情告急，民进党再炒作“大陆介选”",
-          "url": "https://news.ifeng.com/c/8vYsRokDUdD",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
-        {
-          "title": "日本强烈抗议普京登上日俄争议岛屿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时52分]"
         },
         {
           "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
@@ -196,18 +296,6 @@
           "ranks": [
             14,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
-        },
-        {
-          "title": "博主：日本经济深陷无解死局",
-          "url": "https://www.toutiao.com/trending/7673513687360998963/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -226,16 +314,15 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
-          "source": "贴吧",
+          "title": "日本把人装进冰箱降温",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E4%BA%BA%E8%A3%85%E8%BF%9B%E5%86%B0%E7%AE%B1%E9%99%8D%E6%B8%A9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            19
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "time_info": "[02时51分 ~ 02时52分]"
         },
         {
           "title": "加拿大萨斯喀彻温省省长：在8月19日关税截止日期临近之际，加拿大与美国之间的谈判在过去几周明显升温。",
@@ -249,17 +336,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
-          "url": "https://flash.jin10.com/detail/20260814011024061800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
           "title": "俄罗斯太平洋舰队军演，日本急了",
           "url": "https://v.ifeng.com/c/8vYmNSHdxRh",
           "source": "凤凰网",
@@ -269,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "普京首登“北方四岛”羞辱日本，俄日关系深跌",
-          "url": "https://news.ifeng.com/c/8vZF7rgKM48",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
         },
         {
           "title": "美国房贷利率六周来首次小幅下降",
@@ -293,17 +358,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国：成立新的无人机特遣部队，部队将使用来自美国及伙伴国的攻击无人机。",
-          "url": "https://wallstreetcn.com/livenews/3149261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
           "title": "乌克兰向俄罗斯提出黑海民用目标停火提议",
           "url": "https://flash.jin10.com/detail/20260814001711676800",
           "source": "金十数据",
@@ -313,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国国家运输安全委员会（NTSB）：正进一步研判此次事件是否与2018年西南航空发动机故障等类似事故存在共通之处。此前检查记录显示，该发动机曾于今年5月接受例行检修，当时未发现任何异常。",
+          "url": "https://flash.jin10.com/detail/20260814021946760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "日本关东地区遭遇强降雨",
@@ -332,20 +397,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "美国30年期国债非竞争性投标金额为9540万美元。",
-          "url": "https://wallstreetcn.com/livenews/3149259",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国家运输安全委员会（NTSB）：7月瑞安航空航班紧急迫降事故的调查仍在进行中，调查人员已在涉事发动机附近发现了包括羽毛在内的鸟类残骸。",
+          "url": "https://flash.jin10.com/detail/20260814021925136800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时52分"
         },
         {
           "title": "美国至8月13日30年期国债竞拍-得标利率配置百分比12.10%，前值7.13%。",
@@ -354,7 +419,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -365,7 +430,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -376,9 +441,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美国股债相关性创30年来新高，达到互联网泡沫破裂前几年的水平",
+          "url": "https://wallstreetcn.com/livenews/3149269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "土耳其外交部长：（关于加沙停火谈判）土耳其期待美国对以色列施加必要压力，否则土耳其、卡塔尔和埃及将不得不在这一问题上采取激进措施，这是他们对国家、人民和巴勒斯坦人应尽的责任。",
+          "url": "https://flash.jin10.com/detail/20260814014706964800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "美国抵押贷款利率六周以来首次小幅下降。",
@@ -409,7 +496,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -420,7 +507,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -434,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "美国老师崩溃痛哭：高中生不会读写",
-          "url": "https://www.toutiao.com/trending/7673322961486495780/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
         },
         {
           "title": "惠誉：美国私募信贷违约率7月升至纪录新高",
