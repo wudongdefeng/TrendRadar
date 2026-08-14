@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T01:46:01.918383+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-08-15T02:42:50.772688+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -26,41 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
         },
         {
-          "title": "美国总统特朗普：经济表现好得令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
+          "url": "https://flash.jin10.com/detail/20260815023158928800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
-          "url": "https://flash.jin10.com/detail/20260815012635868800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
-          "url": "https://wallstreetcn.com/livenews/3149842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
@@ -74,38 +52,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "俄罗斯国防部：过去12小时内，俄防空系统在多个州及黑海、亚速海区域击落221架乌军固定翼无人机。",
-          "url": "https://flash.jin10.com/detail/20260815012237626800",
-          "source": "金十数据",
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。美国油气钻井平台数量上升至2025年3月以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3149838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
-          "url": "https://wallstreetcn.com/livenews/3149828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "time_info": "02时42分"
         },
         {
           "title": "台湾岛内出现有利于统一的三个变化",
@@ -113,11 +68,84 @@
           "source": "今日头条",
           "ranks": [
             7,
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
+          "url": "https://wallstreetcn.com/livenews/3149828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "time_info": "[00时42分 ~ 02时42分]"
+        },
+        {
+          "title": "美国总统特朗普：经济表现好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
+          "url": "https://flash.jin10.com/detail/20260815012635868800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "俄罗斯国防部：过去12小时内，俄防空系统在多个州及黑海、亚速海区域击落221架乌军固定翼无人机。",
+          "url": "https://flash.jin10.com/detail/20260815012237626800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
@@ -127,8 +155,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
+        },
+        {
+          "title": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。美国油气钻井平台数量上升至2025年3月以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3149838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "日本“和平塔”，压着从中国抢来的238块石头！",
@@ -138,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
         },
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -149,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
         },
         {
           "title": "81年前“日本投降矣！”",
@@ -160,8 +200,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时42分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -171,8 +211,80 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 02时42分]"
+        },
+        {
+          "title": "美国8月14日当周石油钻井数 455，前值 454。",
+          "url": "https://wallstreetcn.com/livenews/3149836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "美国8月14日当周天然气钻井数 128，前值 124。",
+          "url": "https://wallstreetcn.com/livenews/3149835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "美国8月14日当周总钻井数 593，前值 588。",
+          "url": "https://wallstreetcn.com/livenews/3149834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3149840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3149829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
@@ -181,29 +293,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国8月14日当周石油钻井数 455，前值 454。",
-          "url": "https://wallstreetcn.com/livenews/3149836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国8月14日当周天然气钻井数 128，前值 124。",
-          "url": "https://wallstreetcn.com/livenews/3149835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -214,18 +304,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国8月14日当周总钻井数 593，前值 588。",
-          "url": "https://wallstreetcn.com/livenews/3149834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -252,24 +331,13 @@
           "time_info": "00时42分"
         },
         {
-          "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
-          "url": "https://wallstreetcn.com/livenews/3149840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
           "title": "贝克休斯：美国油气钻井平台数量上升至2025年3月以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260815010525336800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -280,18 +348,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3149832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -302,7 +359,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -324,7 +381,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -335,18 +392,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
-          "url": "https://wallstreetcn.com/livenews/3149829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -379,7 +425,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -401,7 +447,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -423,7 +469,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -514,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国航母退回蒸汽弹射时代意味什么",
+          "url": "https://www.toutiao.com/trending/7673810109385936410/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
