@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T02:16:38.491927+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-17T03:15:30.446474+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "英媒：两国外交危机持续发酵之际 美国考虑制裁巴西最高法院法官",
@@ -14,9 +14,78 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
+          "url": "https://flash.jin10.com/detail/20260817025702745800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗？",
+          "url": "https://www.zhihu.com/question/2072370715114696836",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时15分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
+          "url": "https://flash.jin10.com/detail/20260817025637231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时15分]"
+        },
+        {
+          "title": "日本防相公然拜鬼,转头谈和平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357688&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%98%B2%E7%9B%B8%E5%85%AC%E7%84%B6%E6%8B%9C%E9%AC%BC%2C%E8%BD%AC%E5%A4%B4%E8%B0%88%E5%92%8C%E5%B9%B3",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时15分]"
+        },
+        {
+          "title": "美国老师气哭,高三生纯文盲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357613&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E6%B0%94%E5%93%AD%2C%E9%AB%98%E4%B8%89%E7%94%9F%E7%BA%AF%E6%96%87%E7%9B%B2",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时15分]"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -30,53 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时16分]"
-        },
-        {
-          "title": "乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗？",
-          "url": "https://www.zhihu.com/question/2072370715114696836",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时16分]"
-        },
-        {
-          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时16分]"
-        },
-        {
-          "title": "日本防相公然拜鬼,转头谈和平",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357688&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%98%B2%E7%9B%B8%E5%85%AC%E7%84%B6%E6%8B%9C%E9%AC%BC%2C%E8%BD%AC%E5%A4%B4%E8%B0%88%E5%92%8C%E5%B9%B3",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时16分]"
-        },
-        {
-          "title": "美国老师气哭,高三生纯文盲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357613&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E6%B0%94%E5%93%AD%2C%E9%AB%98%E4%B8%89%E7%94%9F%E7%BA%AF%E6%96%87%E7%9B%B2",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时16分]"
         },
         {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
@@ -151,15 +173,126 @@
           "time_info": "[00时15分 ~ 01时13分]"
         },
         {
+          "title": "西太平洋首次没有美国航母有何影响",
+          "url": "https://www.toutiao.com/trending/7674623195969752603/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时15分]"
+        },
+        {
+          "title": "日本共产党最新表态",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时15分]"
+        },
+        {
           "title": "据英国金融时报：随着一场外交危机可能将两国关系拖至数十年来最低点，美国政府已就对巴西最高法院一名法官实施新制裁一事进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260817013044418800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
+          "url": "https://flash.jin10.com/detail/20260817025315208800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国中央司令部指挥官布拉德·库珀：我赞扬“林肯”号的领导层挺身而出，将心理健康和船员韧性列为领导工作的优先事项。",
+          "url": "https://flash.jin10.com/detail/20260817024302084800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国中央司令部指挥官布拉德·库珀：我长期以来一直认为，心理健康是个人健康的一个方面，与身体健康和精神健康一样，需要我们给予关注。",
+          "url": "https://flash.jin10.com/detail/20260817024241759800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国中央司令部指挥官布拉德·库珀：这里有一个重要事实，在美国海军现役的11艘航空母舰中，“林肯”号目前的心理健康相关病例数量处于最低水平之一。",
+          "url": "https://flash.jin10.com/detail/20260817024208515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国中央司令部指挥官布拉德·库珀：最近在“亚伯拉罕·林肯”号航母上的经历令人“震撼”。我希望每一位美国人都能亲眼目睹船员们执行任务时的风采。",
+          "url": "https://flash.jin10.com/detail/20260817024112345800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "据半岛电视台：巴勒斯坦消息人士表示，库什纳向哈马斯领导层确认，美国拒绝任何旨在驱逐加沙地带居民的计划。",
+          "url": "https://flash.jin10.com/detail/20260817022227727800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "日本民众集会高喊：高市早苗下台",
+          "url": "https://www.toutiao.com/trending/7673450471734198291/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "相关发言人表示，加拿大负责对美贸易事务的部长多米尼克·勒布朗将于美东时间周日下午4点30分（北京时间次日凌晨4:30）与美国贸易代表格里尔举行视频会晤。",
+          "url": "https://flash.jin10.com/detail/20260817021757895800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "伊朗战争，正在掏空美国弹药库",
@@ -171,28 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "西太平洋首次没有美国航母有何影响",
-          "url": "https://www.toutiao.com/trending/7674623195969752603/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本共产党最新表态",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时16分"
         }
       ]
     }
