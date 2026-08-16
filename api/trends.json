@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T14:25:58.972286+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-08-16T15:24:43.093873+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -67,6 +67,18 @@
           "time_info": "[00时14分 ~ 10时17分]"
         },
         {
+          "title": "“日本几乎白送菲律宾5艘护卫舰，就是让菲在南海给中国找麻烦”",
+          "url": "https://news.ifeng.com/c/8vcmzyKyM4x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/articles/3779487",
           "source": "华尔街见闻",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 05时14分]"
-        },
-        {
-          "title": "“日本几乎白送菲律宾5艘护卫舰，就是让菲在南海给中国找麻烦”",
-          "url": "https://news.ifeng.com/c/8vcmzyKyM4x",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时25分]"
         },
         {
           "title": "国防部回应日本政要参拜靖国神社",
@@ -151,8 +151,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 15时24分]"
         },
         {
           "title": "塔利班喊话美国：回来吧，但有个条件",
@@ -205,11 +205,12 @@
             12,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 15时24分]"
         },
         {
           "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？",
@@ -236,11 +237,12 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 15时24分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -250,8 +252,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 15时24分]"
         },
         {
           "title": "美国弗吉尼亚州立大学发生枪击事件",
@@ -328,15 +330,17 @@
           "time_info": "06时13分"
         },
         {
-          "title": "日本民众质问：供奉战犯是什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%EF%BC%9A%E4%BE%9B%E5%A5%89%E6%88%98%E7%8A%AF%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
+          "title": "国防部就日本政要参拜靖国神社答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33789682",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            13,
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时17分 ~ 15时24分]"
         },
         {
           "title": "市场占有率超6成！中国车发现新大陆",
@@ -344,11 +348,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时24分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -433,17 +438,32 @@
           "time_info": "[05时14分 ~ 08时46分]"
         },
         {
-          "title": "国防部就日本政要参拜靖国神社答问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33789682",
-          "source": "澎湃新闻",
+          "title": "因地震影响，哥伦比亚请求美国暂停征收关税",
+          "url": "https://flash.jin10.com/detail/20260816120655503800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11,
-            9
+            3,
+            10,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时17分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时24分]"
+        },
+        {
+          "title": "阿富汗民众呼吁美国应尽快归还阿央行资产",
+          "url": "https://flash.jin10.com/detail/20260816115612857800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时24分]"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -451,11 +471,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时24分]"
         },
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
@@ -484,19 +505,6 @@
           "time_info": "[07时13分 ~ 10时17分]"
         },
         {
-          "title": "因地震影响，哥伦比亚请求美国暂停征收关税",
-          "url": "https://flash.jin10.com/detail/20260816120655503800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时25分]"
-        },
-        {
           "title": "美国中央司令部：最近一次访问期间，布拉德·库珀海军上将向林肯号全体船员发表了讲话，感谢他们展现出的巨大奉献精神和勇气。他还与一些初级军人会面，并为表现优异者颁奖。",
           "url": "https://flash.jin10.com/detail/20260816055608024800",
           "source": "金十数据",
@@ -508,6 +516,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时13分 ~ 10时17分]"
+        },
+        {
+          "title": "乌军内部成立由日本人组成的战斗分队，参与对俄作战",
+          "url": "https://news.ifeng.com/c/8vdFobQ74KZ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时24分]"
+        },
+        {
+          "title": "日本民众质问：供奉战犯是什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%EF%BC%9A%E4%BE%9B%E5%A5%89%E6%88%98%E7%8A%AF%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时24分]"
         },
         {
           "title": "美国中央司令部：在海上期间，布拉德·库珀海军上将是今年第二次与“亚伯拉罕·林肯”号航空母舰上的水兵和海军陆战队员进行了会面。",
@@ -523,29 +555,17 @@
           "time_info": "[07时13分 ~ 10时17分]"
         },
         {
-          "title": "阿富汗民众呼吁美国应尽快归还阿央行资产",
-          "url": "https://flash.jin10.com/detail/20260816115612857800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时25分]"
-        },
-        {
           "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
           "url": "https://flash.jin10.com/detail/20260816123425273800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时24分]"
         },
         {
           "title": "美国肯塔基州发生枪击事件致1死4伤",
@@ -588,6 +608,18 @@
           "time_info": "[08时45分 ~ 11时41分]"
         },
         {
+          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时24分]"
+        },
+        {
           "title": "日本人街头质疑南京大屠杀",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%A1%97%E5%A4%B4%E8%B4%A8%E7%96%91%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -599,18 +631,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "乌军内部成立由日本人组成的战斗分队，参与对俄作战",
-          "url": "https://news.ifeng.com/c/8vdFobQ74KZ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时25分]"
         },
         {
           "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
@@ -665,6 +685,19 @@
           "time_info": "[10时17分 ~ 12时27分]"
         },
         {
+          "title": "美国斡旋的停火协议，实则赋予了以色列“不受惩罚”地攻击黎巴嫩的权力",
+          "url": "https://flash.jin10.com/detail/20260816122130225800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时24分]"
+        },
+        {
           "title": "美国洛杉矶夜市东北特色拉满了",
           "url": "https://www.toutiao.com/trending/7673650141676503067/",
           "source": "今日头条",
@@ -677,16 +710,17 @@
           "time_info": "[08时45分 ~ 10时17分]"
         },
         {
-          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
-          "source": "澎湃新闻",
+          "title": "热身赛日本男篮88:68韩国男篮",
+          "url": "https://www.douyin.com/hot/2611486",
+          "source": "抖音",
           "ranks": [
-            15,
-            16
+            10,
+            21,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时25分]"
+          "time_info": "[13时21分 ~ 15时24分]"
         },
         {
           "title": "美国洛杉矶夜市 东北味拉满",
@@ -702,18 +736,6 @@
           "time_info": "[10时17分 ~ 12时27分]"
         },
         {
-          "title": "美国斡旋的停火协议，实则赋予了以色列“不受惩罚”地攻击黎巴嫩的权力",
-          "url": "https://flash.jin10.com/detail/20260816122130225800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
-        },
-        {
           "title": "媒体：认罪是日本唯一出路",
           "url": "https://www.toutiao.com/trending/7674027454981423167/",
           "source": "今日头条",
@@ -724,18 +746,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时27分]"
-        },
-        {
-          "title": "热身赛日本男篮88:68韩国男篮",
-          "url": "https://www.douyin.com/hot/2611486",
-          "source": "抖音",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
         },
         {
           "title": "俄罗斯外交部：美国与土耳其向基辅提供武器的潜在计划将削弱莫斯科与华盛顿、安卡拉的关系。",
@@ -839,6 +849,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国名将一天两次刷新50自世界纪录",
+          "url": "https://www.toutiao.com/trending/7674463545219842057/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "沙土巴抱团取暖对美国意味着什么",
           "url": "https://www.toutiao.com/trending/7674436162320076294/",
           "source": "今日头条",
@@ -848,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "美国大兵拍视频吐槽航母卫生间太脏",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%85%B5%E6%8B%8D%E8%A7%86%E9%A2%91%E5%90%90%E6%A7%BD%E8%88%AA%E6%AF%8D%E5%8D%AB%E7%94%9F%E9%97%B4%E5%A4%AA%E8%84%8F",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "韩方强烈敦促日本领导人正视历史",
@@ -878,7 +910,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
