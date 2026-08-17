@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:25:50.438664+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2026-08-17T21:34:05.654626+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 118,
+      "match_count": 130,
       "titles": [
         {
           "title": "乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗？",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 20时25分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 21时34分]"
         },
         {
           "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
@@ -71,28 +71,18 @@
           "time_info": "[00时14分 ~ 10时15分]"
         },
         {
-          "title": "小孩曾卓君卫冕美国CEO饿狼传说",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E7%BE%8E%E5%9B%BDCEO%E9%A5%BF%E7%8B%BC%E4%BC%A0%E8%AF%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 14时36分]"
-        },
-        {
           "title": "小孩的美国CEO卫冕之路",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E7%9A%84%E7%BE%8E%E5%9B%BDCEO%E5%8D%AB%E5%86%95%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             2,
-            25
+            25,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时34分]"
         },
         {
           "title": "欧盟又要对俄罗斯下手了",
@@ -102,19 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时25分]"
-        },
-        {
-          "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
-          "url": "https://flash.jin10.com/detail/20260817200146802800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 21时34分]"
         },
         {
           "title": "为什么我国人民接触不到俄罗斯的汽车？",
@@ -126,8 +105,52 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 21时34分]"
+        },
+        {
+          "title": "小孩曾卓君卫冕美国CEO饿狼传说",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E7%BE%8E%E5%9B%BDCEO%E9%A5%BF%E7%8B%BC%E4%BC%A0%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时36分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
+          "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
+          "url": "https://flash.jin10.com/detail/20260817200146802800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
+          "url": "https://flash.jin10.com/detail/20260817213146460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日本电力公司J-Power：将在北海道上之国町建设数据中心，将于2027年夏季开始对外出售其GPU数据中心算力。",
@@ -161,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
+          "url": "https://wallstreetcn.com/livenews/3150539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "英媒：两国外交危机持续发酵之际 美国考虑制裁巴西最高法院法官",
@@ -205,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "美国海军授予雷神公司价值229亿美元的合同，以生产“战斧”导弹。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3150501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
         },
         {
           "title": "美国林肯号航母到底有多脏",
@@ -420,6 +443,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "美国海军授予雷神公司价值229亿美元的合同，以生产“战斧”导弹。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3150501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时34分]"
+        },
+        {
           "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
           "url": "https://flash.jin10.com/detail/20260817025315208800",
           "source": "金十数据",
@@ -432,6 +467,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 06时12分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时34分]"
         },
         {
           "title": "美国中央司令部指挥官布拉德·库珀：我赞扬“林肯”号的领导层挺身而出，将心理健康和船员韧性列为领导工作的优先事项。",
@@ -486,6 +532,17 @@
           "time_info": "[03时15分 ~ 05时13分]"
         },
         {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时34分]"
+        },
+        {
           "title": "日本民众集会高喊：高市早苗下台",
           "url": "https://www.toutiao.com/trending/7673450471734198291/",
           "source": "今日头条",
@@ -532,6 +589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时13分]"
+        },
+        {
+          "title": "马来西亚总理明确表示台湾属于中国",
+          "url": "https://www.toutiao.com/trending/7674483090672287750/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
         },
         {
           "title": "日本10年国债收益率升至30年来最高",
@@ -689,6 +757,17 @@
           "time_info": "[00时15分 ~ 01时13分]"
         },
         {
+          "title": "记者：日本拿“海底稀土”忽悠美国",
+          "url": "https://www.toutiao.com/trending/7674937428540395027/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
           "title": "西太平洋首次没有美国航母有何影响",
           "url": "https://www.toutiao.com/trending/7674623195969752603/",
           "source": "今日头条",
@@ -734,24 +813,13 @@
           "time_info": "19时18分"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
           "title": "日本加息救得了日元吗？两笔巨额资金都在等答案！",
           "url": "https://flash.jin10.com/detail/20260817200021674800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -784,7 +852,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -850,7 +918,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -987,17 +1055,6 @@
           "time_info": "13时28分"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
           "title": "日本6月库存月率终值 2.8%，前值2.3%。",
           "url": "https://flash.jin10.com/detail/20260817123129955800",
           "source": "金十数据",
@@ -1051,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "摩根大通：将日本东证指数2026年底目标位从4,400点上调至4,600点。",
+          "url": "https://flash.jin10.com/detail/20260817211119103800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "超20万加拿大民众请愿驱逐美国大使",
@@ -1141,6 +1209,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
+          "url": "https://flash.jin10.com/detail/20260817210906330800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "为什么日本不愿放弃北方四岛？",
           "url": "https://www.zhihu.com/question/581878804",
           "source": "知乎",
@@ -1196,6 +1275,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "交易员：受需求强劲推动，10月交付的俄罗斯ESPO混合原油船货重新恢复较ICE布伦特原油升水。",
+          "url": "https://flash.jin10.com/detail/20260817210844572800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘变动不大，报45,841.17点。",
           "url": "https://wallstreetcn.com/livenews/3150138",
           "source": "华尔街见闻-快讯",
@@ -1205,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美国8月纽约联储制造业指数 20.6，预期 10，前值 15.6。",
+          "url": "https://wallstreetcn.com/livenews/3150516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日本第二季度实际GDP年化季率初值 1.1%，预期2%，前值由1.80%修正为1.9%。",
@@ -1257,9 +1358,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "伊朗高级官员表示：伊朗已决定将其政策从防御性转为“全面进攻性”。 向美国施压或依靠调解人达成持久和平并不现实。 伊朗已为美国全面履行谅解备忘录设定了数周的最后期限。 若外交途径失败，所有伊朗实体将准备在霍尔木兹海峡及该地区升级紧张局势。 伊朗设定的时间表将通过调解人传达给美国及地区各国。 伊朗不会无限期等待美国解除海上封锁。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3150514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "3名中法青年捐赠26份日本侵华资料",
@@ -1328,6 +1440,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "乌克兰军方：袭击了俄罗斯罗斯托夫州一家与导弹燃料生产有关的工厂。",
+          "url": "https://flash.jin10.com/detail/20260817210352699800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "伊朗称美国违反谅解备忘录 导致60天谈判期失去意义",
           "url": "https://wallstreetcn.com/livenews/3150341",
           "source": "华尔街见闻-快讯",
@@ -1359,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美国战争部（即国防部）：向NODA AI授予1亿美元合同，用于扩大联合部队自主力量的任务指挥能力。",
+          "url": "https://flash.jin10.com/detail/20260817210213960800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日本前外汇主管呼吁“连环加息”，直至利率突破2%",
