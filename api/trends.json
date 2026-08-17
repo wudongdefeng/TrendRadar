@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T21:34:05.654626+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-08-17T22:19:17.109358+08:00",
+  "total_titles_processed": 1995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 130,
+      "match_count": 138,
       "titles": [
         {
           "title": "乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗？",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时19分]"
         },
         {
           "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
@@ -78,11 +78,12 @@
             1,
             2,
             25,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时19分]"
         },
         {
           "title": "欧盟又要对俄罗斯下手了",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 22时19分]"
         },
         {
           "title": "为什么我国人民接触不到俄罗斯的汽车？",
@@ -102,11 +103,24 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 22时19分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "小孩曾卓君卫冕美国CEO饿狼传说",
@@ -120,15 +134,16 @@
           "time_info": "[13时27分 ~ 14时36分]"
         },
         {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 22时19分]"
         },
         {
           "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
@@ -148,7 +163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -186,17 +201,6 @@
           "time_info": "14时36分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
-          "url": "https://wallstreetcn.com/livenews/3150539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "英媒：两国外交危机持续发酵之际 美国考虑制裁巴西最高法院法官",
           "url": "https://flash.jin10.com/detail/20260817014558970800",
           "source": "金十数据",
@@ -206,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "日本软银集团投资2亿美元到初创公司Gravis Robotics。",
+          "url": "https://wallstreetcn.com/livenews/3150558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "以色列总理发言人：以色列总理内塔尼亚胡会见了美国特使库什纳、马尔登诺夫和布莱尔。",
@@ -250,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国8月NAHB房产市场指数 35，预期 33，前值 34。",
+          "url": "https://wallstreetcn.com/livenews/3150555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "《龙餐馆》原型：美国士兵常打酱油喝",
@@ -382,6 +408,18 @@
           "time_info": "[18时23分 ~ 19时18分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
+          "url": "https://wallstreetcn.com/livenews/3150539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
           "title": "高市的路口遥拜 日本的路口之忧",
           "url": "https://www.toutiao.com/trending/7674818383682322438/",
           "source": "今日头条",
@@ -469,15 +507,28 @@
           "time_info": "[03时15分 ~ 06时12分]"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
           "ranks": [
-            7
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 22时19分]"
+        },
+        {
+          "title": "马来西亚总理明确表示台湾属于中国",
+          "url": "https://www.toutiao.com/trending/7674483090672287750/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时25分 ~ 21时34分]"
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "美国中央司令部指挥官布拉德·库珀：我赞扬“林肯”号的领导层挺身而出，将心理健康和船员韧性列为领导工作的优先事项。",
@@ -532,17 +583,6 @@
           "time_info": "[03时15分 ~ 05时13分]"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 21时34分]"
-        },
-        {
           "title": "日本民众集会高喊：高市早苗下台",
           "url": "https://www.toutiao.com/trending/7673450471734198291/",
           "source": "今日头条",
@@ -589,17 +629,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时13分]"
-        },
-        {
-          "title": "马来西亚总理明确表示台湾属于中国",
-          "url": "https://www.toutiao.com/trending/7674483090672287750/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
         },
         {
           "title": "日本10年国债收益率升至30年来最高",
@@ -824,6 +853,17 @@
           "time_info": "20时25分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（8月14日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3150552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "日本第22轮核污染水排海总量近8000吨",
           "url": "https://flash.jin10.com/detail/20260817184049397800",
           "source": "金十数据",
@@ -1044,6 +1084,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "美国8月NAHB房产市场指数 35，预期33，前值34。",
+          "url": "https://flash.jin10.com/detail/20260817220002204800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "日本6月第三产业活动指数月率 -0.2%，前值1.10%。",
           "url": "https://flash.jin10.com/detail/20260817123142315800",
           "source": "金十数据",
@@ -1116,7 +1167,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1215,7 +1266,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1281,9 +1332,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
+        },
+        {
+          "title": "美国白宫：特朗普政府和TrumpRx使处方药价格正在大幅下降，承诺已兑现。",
+          "url": "https://flash.jin10.com/detail/20260817215345128800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报45,841.17点。",
@@ -1303,7 +1365,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1317,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "美国能源部长赖特：美国在天然气产量方面处于全球领先地位。得益于特朗普总统推动的“美国能源主导”议程，我们将在未来几十年继续保持领先地位。",
+          "url": "https://flash.jin10.com/detail/20260817215308369800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士表示，库什纳向哈马斯领导层确认，美国拒绝任何旨在驱逐加沙地带居民的计划。",
@@ -1369,9 +1442,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
+        },
+        {
+          "title": "据CNN：美国特使库什纳敦促内塔尼亚胡推进特朗普支持的加沙停火计划，“不要制造障碍”<br/>。",
+          "url": "https://flash.jin10.com/detail/20260817215058439800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "3名中法青年捐赠26份日本侵华资料",
@@ -1394,6 +1478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "美国8月NAHB房产市场指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260817215000000800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "相关发言人表示，加拿大负责对美贸易事务的部长多米尼克·勒布朗将于美东时间周日下午4点30分（北京时间次日凌晨4:30）与美国贸易代表格里尔举行视频会晤。",
@@ -1446,7 +1541,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1490,7 +1585,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
