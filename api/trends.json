@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T10:29:58.417204+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-08-19T11:41:45.335313+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 108,
+      "match_count": 118,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时33分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[02时33分 ~ 11时41分]"
         },
         {
           "title": "日本正式实施高端机床出口管制新规，这意味着什么？",
@@ -86,11 +86,25 @@
             28,
             14,
             18,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 08时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 11时41分]"
         },
         {
           "title": "日本地震灾区有人假扮自卫队洗劫民宅",
@@ -148,17 +162,15 @@
           "time_info": "02时33分"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
+          "title": "墨西哥经济部长：我与美国贸易代表格里尔举行了会晤，商讨即将进行的《美墨加协定》新一轮谈判以及301条款相关调查事宜。会议富有成效。我会随时向大家通报后续进展。",
+          "url": "https://flash.jin10.com/detail/20260819113149313800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            5,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 10时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "据相关声明：利比里亚同意接收至多1200名来自美国的第三国遣返人员。",
@@ -170,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "日本成为全球长端利率困境的样本",
+          "url": "https://flash.jin10.com/detail/20260819113132414800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国财政部：美国发布新的委内瑞拉相关制裁措施。",
@@ -403,6 +426,19 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
+          "title": "美国加征的关税即将生效，美加贸易磋商为何却被“牛奶和酒”卡住？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33804905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 11时41分]"
+        },
+        {
           "title": "美国财政部对两名国际刑事法院人员实施制裁",
           "url": "https://wallstreetcn.com/livenews/3151312",
           "source": "华尔街见闻-快讯",
@@ -428,16 +464,15 @@
           "time_info": "[08时43分 ~ 10时29分]"
         },
         {
-          "title": "美国加征的关税即将生效，美加贸易磋商为何却被“牛奶和酒”卡住？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33804905",
-          "source": "澎湃新闻",
+          "title": "日本大使被叫去挨骂，25分钟脸色铁青",
+          "url": "https://news.ifeng.com/c/8vi2UmbQZ5Z",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 10时29分]"
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 11时41分]"
         },
         {
           "title": "美国至8月14日当周API成品油进口 -35.4万桶/日，前值19.6万桶/日。",
@@ -512,6 +547,17 @@
           "time_info": "[04时14分 ~ 05时16分]"
         },
         {
+          "title": "美国发布新制裁名单，1人为日本籍",
+          "url": "https://news.ifeng.com/c/8vhnHEG2Y4R",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 11时41分]"
+        },
+        {
           "title": "美国至8月14日当周API库欣原油库存 -143.8万桶，前值157.1万桶。",
           "url": "https://flash.jin10.com/detail/20260819044348894800",
           "source": "金十数据",
@@ -546,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "“日本若执意卷入台湾问题，我们就把国仇家恨一并清算”",
+          "url": "https://news.ifeng.com/c/8vi6N6Zikux",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 11时41分]"
         },
         {
           "title": "美国能源副部长豪斯特维特：目前约一半的委内瑞拉石油产量正出口到美国。",
@@ -688,17 +745,6 @@
           "time_info": "[08时43分 ~ 08时44分]"
         },
         {
-          "title": "日本大使被叫去挨骂，25分钟脸色铁青",
-          "url": "https://news.ifeng.com/c/8vi2UmbQZ5Z",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
           "title": "日本东证指数跌幅扩大至2.1%。",
           "url": "https://wallstreetcn.com/livenews/3151385",
           "source": "华尔街见闻-快讯",
@@ -708,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国的贸易谈判取得“实质性进展”。 贸易谈判“仍有重要工作要做”。",
+          "url": "https://wallstreetcn.com/livenews/3151464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国财政部：美国发布与国际刑事法院相关的新制裁措施。",
@@ -743,15 +800,15 @@
           "time_info": "06时14分"
         },
         {
-          "title": "美国发布新制裁名单，1人为日本籍",
-          "url": "https://news.ifeng.com/c/8vhnHEG2Y4R",
-          "source": "凤凰网",
+          "title": "美国宣布制裁日本籍国际刑事法院院长",
+          "url": "https://wallstreetcn.com/livenews/3151462",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时41分"
         },
         {
           "title": "市场消息：乌克兰武装部队在俄罗斯别尔哥罗德地区发动空袭，造成一人死亡，三人受伤。",
@@ -785,17 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "“日本若执意卷入台湾问题，我们就把国仇家恨一并清算”",
-          "url": "https://news.ifeng.com/c/8vi6N6Zikux",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         },
         {
           "title": "美国叙利亚问题特使汤姆·巴拉克：这凸显了建立以色列、叙利亚和土耳其三国参与的冲突降级机制的必要性，我们正在积极为此努力。",
@@ -947,7 +993,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -983,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美国贸易代表办公室：美加协议将包括所有美国商品的市场准入。",
+          "url": "https://wallstreetcn.com/livenews/3151450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯总统普京称，俄罗斯与缅甸讨论碳氢化合物生产。",
@@ -1024,7 +1081,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1128,6 +1185,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "加拿大总理卡尼：在过去几周，加拿大与美国进行了密集讨论，以解决悬而未决的贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260819111623051800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "美国至8月18日6周国债竞拍-得标利率配置百分比 37.04%，前值2.86%。",
           "url": "https://flash.jin10.com/detail/20260818233305608800",
           "source": "金十数据",
@@ -1137,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国的谈判已取得重大进展，但仍需完成重要工作。",
+          "url": "https://flash.jin10.com/detail/20260819111606912800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国至8月18日6周国债竞拍-投标倍数 2.97，前值2.93。",
@@ -1161,6 +1240,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "加拿大总理卡尼：美国已同意推迟根据1930年《美国关税法》第338条对一系列加拿大商品征收50%关税的实施，直至8月21日结束。",
+          "url": "https://flash.jin10.com/detail/20260819111603555800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3151279",
           "source": "华尔街见闻-快讯",
@@ -1172,6 +1262,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "国台办批民进党当局出卖台湾利益",
+          "url": "https://www.toutiao.com/trending/7675154124788154387/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "美国至8月18日6周国债竞拍-得标利率 3.645%，前值3.67%。",
           "url": "https://flash.jin10.com/detail/20260818233247129800",
           "source": "金十数据",
@@ -1181,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "特朗普：推迟对加拿大加征50%关税三天时间。 加拿大与美国之间已有协议，等待文件最终敲定。 Keystone XL输油管道或将重新运作。",
+          "url": "https://wallstreetcn.com/livenews/3151437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
@@ -1211,7 +1323,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1233,7 +1345,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1244,7 +1356,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
