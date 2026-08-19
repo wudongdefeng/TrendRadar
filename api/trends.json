@@ -1,49 +1,52 @@
 {
-  "generated_at": "2026-08-19T08:44:06.255475+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-08-19T10:29:58.417204+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 100,
+      "match_count": 108,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
           "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 08时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时29分]"
         },
         {
           "title": "涉及中国，美国防部：8月31日之前必须提交",
           "url": "https://news.ifeng.com/c/8vhYjbFCZRL",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时33分 ~ 08时44分]"
-        },
-        {
-          "title": "马来西亚总理明确表态：台湾是中国的一部分，毋庸置疑",
-          "url": "https://news.ifeng.com/c/8vhG7CB8bHc",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 08时44分]"
+          "appearance_count": 10,
+          "time_info": "[02时33分 ~ 10时29分]"
         },
         {
           "title": "日本正式实施高端机床出口管制新规，这意味着什么？",
           "url": "https://www.zhihu.com/question/2069052566969885450",
           "source": "知乎",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时29分]"
+        },
+        {
+          "title": "马来西亚总理明确表态：台湾是中国的一部分，毋庸置疑",
+          "url": "https://news.ifeng.com/c/8vhG7CB8bHc",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
@@ -129,7 +132,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -143,6 +146,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 10时29分]"
         },
         {
           "title": "据相关声明：利比里亚同意接收至多1200名来自美国的第三国遣返人员。",
@@ -173,21 +189,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 08时44分]"
         },
         {
           "title": "美国外交官：土耳其可以合理回应以色列空袭",
@@ -412,6 +416,30 @@
           "time_info": "[04时14分 ~ 06时14分]"
         },
         {
+          "title": "美国宣布：制裁赤根智子",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%88%B6%E8%A3%81%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 10时29分]"
+        },
+        {
+          "title": "美国加征的关税即将生效，美加贸易磋商为何却被“牛奶和酒”卡住？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33804905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 10时29分]"
+        },
+        {
           "title": "美国至8月14日当周API成品油进口 -35.4万桶/日，前值19.6万桶/日。",
           "url": "https://flash.jin10.com/detail/20260819044429384800",
           "source": "金十数据",
@@ -625,28 +653,6 @@
           "time_info": "[08时43分 ~ 08时44分]"
         },
         {
-          "title": "美国加征的关税即将生效，美加贸易磋商为何却被“牛奶和酒”卡住？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33804905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
-        },
-        {
-          "title": "美国宣布：制裁赤根智子",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%88%B6%E8%A3%81%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
-        },
-        {
           "title": "数据中心反对声浪渐成美国选举敏感议题，华尔街担忧美股面临回调风险",
           "url": "https://wallstreetcn.com/livenews/3151224",
           "source": "华尔街见闻-快讯",
@@ -682,13 +688,24 @@
           "time_info": "[08时43分 ~ 08时44分]"
         },
         {
+          "title": "日本大使被叫去挨骂，25分钟脸色铁青",
+          "url": "https://news.ifeng.com/c/8vi2UmbQZ5Z",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "日本东证指数跌幅扩大至2.1%。",
           "url": "https://wallstreetcn.com/livenews/3151385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -726,6 +743,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美国发布新制裁名单，1人为日本籍",
+          "url": "https://news.ifeng.com/c/8vhnHEG2Y4R",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "市场消息：乌克兰武装部队在俄罗斯别尔哥罗德地区发动空袭，造成一人死亡，三人受伤。",
           "url": "https://flash.jin10.com/detail/20260819005845958800",
           "source": "金十数据",
@@ -759,6 +787,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "“日本若执意卷入台湾问题，我们就把国仇家恨一并清算”",
+          "url": "https://news.ifeng.com/c/8vi6N6Zikux",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "美国叙利亚问题特使汤姆·巴拉克：这凸显了建立以色列、叙利亚和土耳其三国参与的冲突降级机制的必要性，我们正在积极为此努力。",
           "url": "https://flash.jin10.com/detail/20260819033257354800",
           "source": "金十数据",
@@ -787,7 +826,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -886,7 +925,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -900,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "委内瑞拉与两家美国公司签署协议，推动提高石油产量",
+          "url": "https://flash.jin10.com/detail/20260819095022270800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "阿联酋与美国两国总统通电话，讨论双边合作及地区局势",
@@ -919,7 +969,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -968,6 +1018,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "媒体：日本打机床牌是“自戕式豪赌”",
+          "url": "https://www.toutiao.com/trending/7674773751012425766/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "据国际文传电讯社：俄罗斯总统普京称，俄罗斯与缅甸讨论炼油厂建设。",
           "url": "https://flash.jin10.com/detail/20260818234105981800",
           "source": "金十数据",
@@ -1007,7 +1068,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -1144,6 +1205,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "台湾证交所加权股价指数盘初下跌2.1%至44,367.36点。",
+          "url": "https://wallstreetcn.com/livenews/3151397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "日本关键稀土进口为何暴跌八成",
           "url": "https://www.toutiao.com/trending/7675283722286927423/",
           "source": "今日头条",
@@ -1153,6 +1225,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "日本6月核心机械订单同比增16.9%",
+          "url": "https://www.toutiao.com/trending/7674923043567403051/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "美股跌完日韩接力下挫：韩国启动侧车机制，日本芯片股被卷入美债风暴",
+          "url": "https://flash.jin10.com/detail/20260819093836668800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
