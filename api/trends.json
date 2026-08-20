@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T00:24:26.405688+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-21T01:21:18.981186+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "今年申请美国大学的国际生人数下降大约1.6万，降幅10%。（彭博）",
@@ -30,26 +30,39 @@
           "time_info": "00时24分"
         },
         {
-          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.65%，连续两周回落；前值6.67%。",
-          "url": "https://wallstreetcn.com/livenews/3152501",
+          "title": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+          "url": "https://wallstreetcn.com/livenews/3152525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
         },
         {
           "title": "俄乌战场正变为日本大型军事试验场",
           "url": "https://www.toutiao.com/trending/7675061879219175466/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.65%，连续两周回落；前值6.67%。",
+          "url": "https://wallstreetcn.com/livenews/3152501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "贝森特大举干预美国长债市场 华尔街共识最大受害者将是美元",
@@ -59,19 +72,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "日本旅游业凉了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%87%89%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "“中方称难以接待”，日本关西工商界访华延期",
@@ -81,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "安踏徐阳 迁居美国",
@@ -92,19 +106,98 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
           "url": "https://www.cls.cn/detail/2459793",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "日本为什么收紧高端机床出口管制",
+          "url": "https://www.toutiao.com/trending/7676091971609300523/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
+          "url": "https://www.toutiao.com/trending/7676091719460326921/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "纯坏!日本灾区遭假兵偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358990&amp;topic_name=%E7%BA%AF%E5%9D%8F%21%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E9%81%AD%E5%81%87%E5%85%B5%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "日本女高中生 薅老头",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%20%E8%96%85%E8%80%81%E5%A4%B4&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "诺基亚回应退出中国大陆市场",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "美财政部加码回购稳债市，美国房贷利率连降两周",
+          "url": "https://flash.jin10.com/detail/20260821004239330800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国支持的联盟考虑对坦桑尼亚镍矿投资5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3152520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国圣路易联储主席穆萨莱姆（2028年FOMC票委）：冲击与顽固的需求造成通胀偏高。 基础通胀处于2.5%-3%，这太高了。",
@@ -140,15 +233,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "日本为什么收紧高端机床出口管制",
-          "url": "https://www.toutiao.com/trending/7676091971609300523/",
-          "source": "今日头条",
+          "title": "美国联合航空(UAL.O)：完成全球最大飞行员培训设施一期扩建工程，第二阶段扩展将于明年开始，预计2030年投入运营。",
+          "url": "https://flash.jin10.com/detail/20260821003141510800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
         },
         {
           "title": "美国圣路易联储主席穆萨莱姆（2028年FOMC票委）：资本竞争正在影响债券市场。（CNBC）",
@@ -160,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "【美财长：24日举行新闻发布会阐述针对伊朗的行动】8月20日，美国财政部长贝森特表示，他将于24日举行新闻发布会，具体阐述美国针对伊朗的行动计划。贝森特称，“我们掌握非对称信息，我不确定为什么石油问题会成为关注焦点，如果我们施加最大程度的经济压力，那就意味着不太可能爆发大规模的军事冲突。”美国总统特朗普19日警告称，任何向伊朗提供“任何形式生命线”的国家都将面临经济后果。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3152510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国财长贝森特：企业发行长期债券，这很有意思。 如果我是企业高管，我会关注收益率曲线的中段（belly）。 企业投资将促进生产力增长。 很多公司债发行都是与收益率无关的。",
@@ -217,17 +321,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
-          "url": "https://www.toutiao.com/trending/7676091719460326921/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
           "title": "美国至8月20日4周国债竞拍-得标利率配置百分比 14.61%，前值79.23%。",
           "url": "https://flash.jin10.com/detail/20260820233322139800",
           "source": "金十数据",
@@ -242,17 +335,6 @@
           "title": "美国财长贝森特：美元一直都非常稳定。 美元正重返两个月之前的水平。 将继续维持强势美元政策。",
           "url": "https://wallstreetcn.com/livenews/3152481",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "纯坏!日本灾区遭假兵偷家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358990&amp;topic_name=%E7%BA%AF%E5%9D%8F%21%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E9%81%AD%E5%81%87%E5%85%B5%E5%81%B7%E5%AE%B6",
-          "source": "贴吧",
           "ranks": [
             21
           ],
@@ -316,6 +398,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "机构：申请美国大学的外国学生出现近十年来最大降幅",
+          "url": "https://wallstreetcn.com/livenews/3152502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
           "title": "美国财长贝森特：（特朗普政府）将恢复2025年那样的关税收入，甚至收入更多。 由于关税退款，赤字暂时恶化。 “很有可能”财政赤字已经见顶。 我与美国管理和预算办公室（OMB）已受命推进财政整固工作。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3152476",
           "source": "华尔街见闻-快讯",
@@ -327,26 +420,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "日本女高中生 薅老头",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%20%E8%96%85%E8%80%81%E5%A4%B4&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "诺基亚回应退出中国大陆市场",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%B8%82%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "美国中央司令部：截至8月20日，已迫使67艘商船改道，使3艘船只失去行动能力，并登临检查2艘船只，以确保其遵守相关要求。",
+          "url": "https://flash.jin10.com/detail/20260821000826890800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "金晨孟佳美国合照",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%AD%9F%E4%BD%B3%E7%BE%8E%E5%9B%BD%E5%90%88%E7%85%A7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "日本网友家里摆满中国东西",
