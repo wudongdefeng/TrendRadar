@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T01:21:18.981186+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-21T02:26:16.955068+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 40,
+      "match_count": 54,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "俄乌战场正变为日本大型军事试验场",
+          "url": "https://www.toutiao.com/trending/7675061879219175466/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "今年申请美国大学的国际生人数下降大约1.6万，降幅10%。（彭博）",
@@ -30,27 +43,60 @@
           "time_info": "00时24分"
         },
         {
-          "title": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
-          "url": "https://wallstreetcn.com/livenews/3152525",
-          "source": "华尔街见闻-快讯",
+          "title": "美国太平洋司令部：美方根据目前评估认为，有关事件不会对美国人员、美国领土或地区盟友构成直接威胁。美国仍将继续致力于保卫本土及地区盟友。",
+          "url": "https://flash.jin10.com/detail/20260821015320939800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国太平洋司令部：已注意到近期导弹发射活动，正与盟友和伙伴保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260821015300462800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时26分"
         },
         {
-          "title": "俄乌战场正变为日本大型军事试验场",
-          "url": "https://www.toutiao.com/trending/7675061879219175466/",
-          "source": "今日头条",
+          "title": "据日经新闻：随着东南亚市场疲软削弱长期以来的销售支撑，三菱汽车正将战略重心转向美国和澳大利亚市场。",
+          "url": "https://flash.jin10.com/detail/20260821014915662800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "马斯克转帖一张预测美国政府债务规模在2030年将达到50万亿美元的图片，并配文道：精确无误（附带笑哭表情）。",
+          "url": "https://wallstreetcn.com/livenews/3152542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "贝森特大举干预美国长债市场 华尔街共识最大受害者将是美元",
+          "url": "https://www.cls.cn/detail/2459542",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.65%，连续两周回落；前值6.67%。",
@@ -65,15 +111,28 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
-          "title": "贝森特大举干预美国长债市场 华尔街共识最大受害者将是美元",
-          "url": "https://www.cls.cn/detail/2459542",
-          "source": "财联社热门",
+          "title": "安踏徐阳 迁居美国",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E8%B8%8F%E5%BE%90%E9%98%B3%20%E8%BF%81%E5%B1%85%E7%BE%8E%E5%9B%BD&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+          "url": "https://wallstreetcn.com/livenews/3152525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时26分]"
         },
         {
           "title": "日本旅游业凉了",
@@ -81,11 +140,24 @@
           "source": "微博",
           "ranks": [
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
+          "url": "https://www.toutiao.com/trending/7676091719460326921/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "“中方称难以接待”，日本关西工商界访华延期",
@@ -95,19 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "安踏徐阳 迁居美国",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E8%B8%8F%E5%BE%90%E9%98%B3%20%E8%BF%81%E5%B1%85%E7%BE%8E%E5%9B%BD&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
@@ -118,30 +179,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "日本为什么收紧高端机床出口管制",
           "url": "https://www.toutiao.com/trending/7676091971609300523/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
-          "url": "https://www.toutiao.com/trending/7676091719460326921/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "纯坏!日本灾区遭假兵偷家",
@@ -151,8 +202,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "日本女高中生 薅老头",
@@ -163,8 +214,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "诺基亚回应退出中国大陆市场",
@@ -174,8 +225,20 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "美国支持的联盟考虑对坦桑尼亚镍矿投资5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3152520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时26分]"
         },
         {
           "title": "美财政部加码回购稳债市，美国房贷利率连降两周",
@@ -184,20 +247,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
         {
-          "title": "美国支持的联盟考虑对坦桑尼亚镍矿投资5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3152520",
+          "title": "高房贷利率施压，美国住房可负担性指标近三年来首次恶化",
+          "url": "https://flash.jin10.com/detail/20260821014717691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国住房可负担性指标自2023年以来首次恶化",
+          "url": "https://wallstreetcn.com/livenews/3152539",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国发布新的一般许可证，授权为卢克石油国际有限公司的出售谈判及签订或有合同以及相关维护活动进行交易。",
+          "url": "https://wallstreetcn.com/livenews/3152537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国支持财团拟投5亿美元开发坦桑尼亚大型镍矿",
+          "url": "https://flash.jin10.com/detail/20260821013300536800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国圣路易联储主席穆萨莱姆（2028年FOMC票委）：冲击与顽固的需求造成通胀偏高。 基础通胀处于2.5%-3%，这太高了。",
@@ -209,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国商品期货交易委员会寻求公众意见，拟取消掉期执行机构在允许交易中必须提供订单簿的要求。",
+          "url": "https://flash.jin10.com/detail/20260821013052422800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.640%，投标倍数2.84。 拍卖八周期国债，得标利率3.655%，投标倍数3.06。",
@@ -239,9 +346,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "LVMH支持的L Catterton将收购日本投资顾问Financial Standard。 交易金额未披露，据信规模达数十亿日元。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3152530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国圣路易联储主席穆萨莱姆（2028年FOMC票委）：资本竞争正在影响债券市场。（CNBC）",
@@ -261,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -277,6 +395,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "零售公司业绩显示 美国消费者仍在花钱 但高物价下更看重性价比",
+          "url": "https://flash.jin10.com/detail/20260821011845023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美国财长贝森特回应美债回购的规模能有多大，称：将视条件而定。 24小时内的任何波动都是噪音而已。 试图让疲软的市场恢复平衡。",
           "url": "https://wallstreetcn.com/livenews/3152484",
           "source": "华尔街见闻-快讯",
@@ -286,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰一定会回应俄罗斯的大规模袭击，回应将采用远程打击方式。",
+          "url": "https://flash.jin10.com/detail/20260821011832225800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国财长贝森特：南非主办的二十国集团（G20）会议“跑题了”。 我们在G20释放的信息是，全球经济增长是出路。 （美国）可以通过增长来应对债务问题。",
@@ -332,6 +472,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "据华尔街日报：知情人士透露，美国EverBank正寻求出售。",
+          "url": "https://flash.jin10.com/detail/20260821011604190800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美国财长贝森特：美元一直都非常稳定。 美元正重返两个月之前的水平。 将继续维持强势美元政策。",
           "url": "https://wallstreetcn.com/livenews/3152481",
           "source": "华尔街见闻-快讯",
@@ -363,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国财政部：美国发布新的一般许可证，授权就出售俄罗斯卢克石油国际有限公司（Lukoil International GmbH）进行谈判、签署附条件合同，以及开展相关维护活动。",
+          "url": "https://flash.jin10.com/detail/20260821011315651800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国财长贝森特：下周一将围绕“伊朗计划”举行新闻发布会。",
@@ -404,7 +566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -426,7 +588,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -437,7 +599,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
