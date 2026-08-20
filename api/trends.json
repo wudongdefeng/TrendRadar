@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T15:34:09.251267+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-08-20T16:28:20.839489+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 154,
+      "match_count": 164,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 15时34分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 16时28分]"
         },
         {
           "title": "美国防部被曝正评估从中东撤军",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 16时28分]"
         },
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -77,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时19分 ~ 15时34分]"
+          "appearance_count": 17,
+          "time_info": "[01时19分 ~ 16时28分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -114,11 +114,37 @@
             7,
             10,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时19分 ~ 15时34分]"
+          "appearance_count": 17,
+          "time_info": "[01时19分 ~ 16时28分]"
+        },
+        {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 16时28分]"
+        },
+        {
+          "title": "上万日本人上街抗议，要求高市马上下台",
+          "url": "https://news.ifeng.com/c/8vjhUbjFNIT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 16时28分]"
         },
         {
           "title": "日本民众排队5小时买中国相机",
@@ -137,30 +163,6 @@
           "time_info": "[01时19分 ~ 11时39分]"
         },
         {
-          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
-          "url": "https://www.cls.cn/detail/2458963",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 15时34分]"
-        },
-        {
-          "title": "上万日本人上街抗议，要求高市马上下台",
-          "url": "https://news.ifeng.com/c/8vjhUbjFNIT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 15时34分]"
-        },
-        {
           "title": "日本国宝级女演员岸惠子去世",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D%E7%BA%A7%E5%A5%B3%E6%BC%94%E5%91%98%E5%B2%B8%E6%83%A0%E5%AD%90%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -168,11 +170,12 @@
             25,
             15,
             4,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时28分]"
         },
         {
           "title": "专家谈中韩能否合力制衡日本",
@@ -244,7 +247,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -315,17 +318,6 @@
           "time_info": "13时23分"
         },
         {
-          "title": "外交部回应美国宣布对伊朗实施“毁灭性经济行动”",
-          "url": "https://wallstreetcn.com/livenews/3152167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
           "title": "消息人士：美加贸易协议预计将把美国对加拿大汽车的最高关税税率削减至15%。",
           "url": "https://flash.jin10.com/detail/20260820031045243800",
           "source": "金十数据",
@@ -348,6 +340,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "中国台湾第二季度经常帐 584.9亿美元，前值625.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260820162036514800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国一女子直接在警车前吸食冰毒",
           "url": "https://www.toutiao.com/trending/7675196276580958217/",
           "source": "今日头条",
@@ -359,6 +362,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 04时22分]"
+        },
+        {
+          "title": "上万日本人上街抗议 要求高市下台",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E6%8A%97%E8%AE%AE+%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时28分]"
         },
         {
           "title": "3名中国籍男子在日本抢走约200万日元",
@@ -381,6 +396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "伊朗战争打光美国弹药？真正的危机在于战略困局",
+          "url": "https://flash.jin10.com/detail/20260820161707908800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美元可能成为美国增加国债回购的最大输家",
+          "url": "https://wallstreetcn.com/livenews/3152200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "博主：美国财政部开始下场救市了",
@@ -408,6 +445,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时44分 ~ 12时29分]"
+        },
+        {
+          "title": "美国女子体验无人机送货“翻车”",
+          "url": "https://www.toutiao.com/trending/7675939817934602290/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "美国财政部宣布扩大长期名义国债回购规模，带动 30 年期收益率快速回落，能够扭转本轮全球债市抛售吗？",
@@ -471,6 +521,18 @@
           "time_info": "[01时20分 ~ 03时19分]"
         },
         {
+          "title": "外交部回应美国宣布对伊朗实施“毁灭性经济行动”",
+          "url": "https://wallstreetcn.com/livenews/3152167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时28分]"
+        },
+        {
           "title": "富国：美国扩大回购是“豪赌”短端利率会走低",
           "url": "https://wallstreetcn.com/livenews/3151947",
           "source": "华尔街见闻-快讯",
@@ -515,18 +577,6 @@
           "ranks": [
             25,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 15时34分]"
-        },
-        {
-          "title": "美国女子体验无人机送货“翻车”",
-          "url": "https://www.toutiao.com/trending/7675939817934602290/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -616,17 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 11时39分]"
-        },
-        {
-          "title": "上万日本人上街抗议 要求高市下台",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E6%8A%97%E8%AE%AE+%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "贝森特成为数十年来最积极干预市场的美国财长",
@@ -807,6 +846,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "越南副总理将于8月24‑28日访问美国，同期将开展贸易谈判。",
+          "url": "https://flash.jin10.com/detail/20260820161629669800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "据日经新闻，日本五大商社之一伊藤忠商事宣布进军数据中心开发领域，计划2030年前投入数千亿日元，在东京圈、大阪及九州等地建设约10座数据中心，并出租给美国科技巨头等企业。 每座设施供电能力约50兆瓦，每年将有1至2个项目落地运营。伊藤忠将自主获取土地并负责建设，后续计划出售给第三方以盘活资产。 此外，伊藤忠或与坐拥大量土地及电力资源的JR东日本展开合作，以解决选址与供电难题。日本数据中心相关服务市场规模预计2030年达5.65万亿日元，较2025年增长约30%，三菱商事等大型商社亦在加速布局该赛道。",
           "url": "https://wallstreetcn.com/livenews/3151945",
           "source": "华尔街见闻-快讯",
@@ -846,7 +896,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1038,6 +1088,28 @@
           "time_info": "11时39分"
         },
         {
+          "title": "美国财政部强力干预长债下，美元或沦为政策“牺牲品”",
+          "url": "https://flash.jin10.com/detail/20260820161229653800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
+          "url": "https://www.cls.cn/detail/2459142",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "伊朗将军纳赫迪：美国未能实现“推翻伊朗政权”和“分裂伊朗”的战争目标，后续行动已失去战略方向。伊朗当前重点是恢复威慑力，防止对手再次发动攻击。",
           "url": "https://flash.jin10.com/detail/20260820005329680800",
           "source": "金十数据",
@@ -1115,6 +1187,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "40万亿美元“债务大山”！一文读懂：美国是如何走到这一步的？",
+          "url": "https://www.cls.cn/detail/2459059",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "俄罗斯对乌克兰基辅的袭击造成两人死亡，六人受伤。",
           "url": "https://flash.jin10.com/detail/20260820062247428800",
           "source": "金十数据",
@@ -1143,7 +1226,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1407,7 +1490,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1550,7 +1633,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1586,6 +1669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "如何看待美国出手救美债",
+          "url": "https://www.toutiao.com/trending/7675981539355659785/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国总统特朗普：（关于加拿大贸易）农民将不需要支付关税。",
@@ -1627,7 +1721,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1663,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "中国台湾7月外销订单年率 61.9%，预期54.6%，前值59.40%。",
+          "url": "https://flash.jin10.com/detail/20260820160006435800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国商品期货交易委员会主席：明天我将在会议上就后续监管路径公布更多细节。",
@@ -1751,6 +1856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "日本拟研发潜射高超声速导弹",
+          "url": "https://www.toutiao.com/trending/7674926525603135507/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "日本20年期国债收益率下降7.5个基点，报3.700%。",
