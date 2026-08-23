@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-24T01:14:05.061234+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-08-24T02:17:20.535052+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
           "url": "https://wallstreetcn.com/articles/3780052",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "美国明尼阿波利斯联储主席卡什卡利：并没有迹象表明美国国债市场功能失调。 难以了解债券收益率（出现波动）的主要驱动因素。 收益率上涨并没有让美联储的工作变得更加艰难。 如何降低（美国联邦政府的）债务是国会山的事。 并没有感受到“通胀朝着目标回落”的信心。（CBS）",
@@ -26,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "美国主导的联盟会终结吗",
@@ -52,6 +53,17 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
+          "title": "据日经亚洲：日本通过公私合作基金向核聚变和回收初创企业提供1.25亿美元支持。",
+          "url": "https://flash.jin10.com/detail/20260824020353688800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
           "title": "又一家！美国法律AI公司放弃美国模型，转用Kimi K3",
           "url": "https://news.ifeng.com/c/8vo3EquEZjj",
           "source": "凤凰网",
@@ -59,32 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 01时14分]"
-        },
-        {
-          "title": "部分日本民众集会 抗议高市政府危险动向",
-          "url": "https://flash.jin10.com/detail/20260823235533411800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
-        },
-        {
-          "title": "美联储卡什卡利：美国国债市场仍在正常运作",
-          "url": "https://flash.jin10.com/detail/20260823235453155800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "达利欧：美国3年内或现债务危机，建议配置黄金降低投资风险",
@@ -94,19 +82,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹？",
           "url": "https://www.zhihu.com/question/2074785102589072121",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "深度剖析美国航空产业发展",
@@ -114,11 +103,38 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时17分]"
+        },
+        {
+          "title": "部分日本民众集会 抗议高市政府危险动向",
+          "url": "https://flash.jin10.com/detail/20260823235533411800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
+        },
+        {
+          "title": "美联储卡什卡利：美国国债市场仍在正常运作",
+          "url": "https://flash.jin10.com/detail/20260823235453155800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "日本北海道近海23日发生6.0级地震。（新华社）",
@@ -128,8 +144,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "俄罗斯总统普京：乌克兰针对俄罗斯开展的为期40天的“影响力行动”未能影响局势，俄军仍在继续推进。",
@@ -137,11 +153,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -151,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "伊朗议会议长发文嘲讽：美国对伊朗施加经济压力的计划最终会反噬美国自身",
@@ -160,11 +177,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
@@ -174,8 +192,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "美国国家飓风中心：热带风暴伊塞尔（Iselle）在墨西哥海域形成。",
@@ -183,23 +201,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
-        },
-        {
-          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
-          "url": "https://flash.jin10.com/detail/20260823221349760800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响？",
@@ -209,8 +216,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 02时17分]"
         },
         {
           "title": "印度进口俄罗斯原油创新高",
@@ -218,6 +225,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
+        },
+        {
+          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
+          "url": "https://flash.jin10.com/detail/20260823221349760800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
