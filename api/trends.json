@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T11:46:42.139950+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-08-24T12:37:03.515073+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -66,11 +66,12 @@
             25,
             18,
             15,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 12时37分]"
         },
         {
           "title": "美国明尼阿波利斯联储主席卡什卡利：并没有迹象表明美国国债市场功能失调。 难以了解债券收益率（出现波动）的主要驱动因素。 收益率上涨并没有让美联储的工作变得更加艰难。 如何降低（美国联邦政府的）债务是国会山的事。 并没有感受到“通胀朝着目标回落”的信心。（CBS）",
@@ -119,11 +120,12 @@
           "url": "https://www.toutiao.com/trending/7676802611013730346/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时37分]"
         },
         {
           "title": "日本北海道近海23日发生6.0级地震。（新华社）",
@@ -186,7 +188,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -200,6 +202,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "美国政客开始和以色列“划清界限”",
+          "url": "https://news.ifeng.com/c/8vpHaufdVOv",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时37分]"
         },
         {
           "title": "部分日本民众集会 抗议高市政府危险动向",
@@ -343,18 +357,6 @@
           "time_info": "[05时14分 ~ 06时13分]"
         },
         {
-          "title": "美国政客开始和以色列“划清界限”",
-          "url": "https://news.ifeng.com/c/8vpHaufdVOv",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时46分]"
-        },
-        {
           "title": "台湾艺人疑因涉嫌损坏日本文物被捕",
           "url": "https://www.toutiao.com/trending/7677142562092089363/",
           "source": "今日头条",
@@ -466,13 +468,24 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "美国27岁选美冠军被剥夺冠军头衔",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD27%E5%B2%81%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B%E8%A2%AB%E5%89%A5%E5%A4%BA%E5%86%A0%E5%86%9B%E5%A4%B4%E8%A1%94",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
           "title": "伊朗研究员：德黑兰视美国制裁与封锁为战争行为",
           "url": "https://flash.jin10.com/detail/20260824112239023800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -508,6 +521,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
+        },
+        {
+          "title": "今夜2点 美国对伊“最严制裁”将至",
+          "url": "https://flash.jin10.com/detail/20260824121626289800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "壳牌已就其美国化工资产出售事项收到潜在买家的兴趣，交易规模可能达到80亿美元。壳牌已吸引包括埃克森美孚和利安德巴塞尔在内的潜在竞购方兴趣。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3153641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "加拿大预计与美国的贸易战可能持续到中期选举之后",
@@ -554,6 +589,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "日本拍卖10年期国债，认购倍数3.51。",
+          "url": "https://wallstreetcn.com/livenews/3153635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "荷兰国际：金价亚洲时段上涨 美国财政前景担忧提供支撑",
           "url": "https://flash.jin10.com/detail/20260824094946566800",
           "source": "金十数据",
@@ -587,13 +633,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "壳牌寻求低价出售美国化工资产 吸引埃克森美孚等竞购方",
+          "url": "https://flash.jin10.com/detail/20260824121156113800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "期权市场异动、美国再动经济制裁叠加沃什讲话，美元本周命悬一线？",
           "url": "https://flash.jin10.com/detail/20260824110625214800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -629,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
+        },
+        {
+          "title": "据英国金融时报：壳牌(SHEL.N)已就其美国化工资产出售事项收到潜在买家的兴趣，交易规模可能达到80亿美元。壳牌已吸引包括埃克森美孚和利安德巴塞尔在内的潜在竞购方兴趣。",
+          "url": "https://flash.jin10.com/detail/20260824120344057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美媒：俄罗斯正悄然备战新一轮军事动员",
