@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-27T05:31:13.576623+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-08-27T10:27:49.399301+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 63,
+      "match_count": 74,
       "titles": [
         {
-          "title": "为什么《欢迎来龙餐馆》让台湾同胞如此有感？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33851362",
-          "source": "澎湃新闻",
+          "title": "美国7月PCE物价指数同比涨3.7%，消费支出意外停滞，美联储按兵不动获空间",
+          "url": "https://wallstreetcn.com/articles/3780362",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
         },
         {
           "title": "一边对峙一边求对话！日本官房长官：对华政策方针未变",
@@ -53,26 +54,28 @@
           "time_info": "[00时11分 ~ 05时31分]"
         },
         {
-          "title": "美国7月PCE物价指数同比涨3.7%，消费支出意外停滞，美联储按兵不动获空间",
-          "url": "https://wallstreetcn.com/articles/3780362",
-          "source": "华尔街见闻",
+          "title": "为什么《欢迎来龙餐馆》让台湾同胞如此有感？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33851362",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
         },
         {
           "title": "台湾童星徐杰去世",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%AB%A5%E6%98%9F%E5%BE%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
         },
         {
           "title": "美国芝商所因技术问题启动国债市场备用系统",
@@ -84,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "三个讽刺视频，把日本人不愿面对的现实戳破了",
+          "url": "https://news.ifeng.com/c/8vv9PuNSD9A",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：近几个月来，在美国和以色列对伊朗发动军事行动后，卡塔尔为帮助防止地区紧张局势升级作出了值得肯定的努力。",
@@ -130,6 +144,19 @@
           "time_info": "00时11分"
         },
         {
+          "title": "胰腺癌治疗迎来重大突破！美国FDA批准Revolution新药 患者中位生存期几乎翻倍",
+          "url": "https://www.cls.cn/detail/2465534",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 10时27分]"
+        },
+        {
           "title": "为什么 50 国在联合国反对俄罗斯？",
           "url": "https://www.zhihu.com/question/2075754349884600817",
           "source": "知乎",
@@ -159,9 +186,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "俄罗斯远东化工项目火灾致中国公民 6 死 9 失联，事故是怎么发生的？目前情况如何？",
+          "url": "https://www.zhihu.com/question/2075725643338211879",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "台湾童星徐杰因肝病去世",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%AB%A5%E6%98%9F%E5%BE%90%E6%9D%B0%E5%9B%A0%E8%82%9D%E7%97%85%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "美国LNG运输船绕行合恩角，避开巴拿马运河航线",
@@ -175,6 +224,66 @@
           "time_info": "02时51分"
         },
         {
+          "title": "汪东城邀请台湾青年来上海看看，“南京路我可以从街头逛到街尾”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33852189",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
+        },
+        {
+          "title": "美国保险业爆出大雷：210亿美金遭暗箱操作，华尔街大鳄的体育帝国摇摇欲坠",
+          "url": "https://wallstreetcn.com/articles/3780298",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
+        },
+        {
+          "title": "瓶子君滑跪:以后只喷日本人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360298&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E6%BB%91%E8%B7%AA%3A%E4%BB%A5%E5%90%8E%E5%8F%AA%E5%96%B7%E6%97%A5%E6%9C%AC%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
+        },
+        {
+          "title": "用GPT要签字,日本技术哥麻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360400&amp;topic_name=%E7%94%A8GPT%E8%A6%81%E7%AD%BE%E5%AD%97%2C%E6%97%A5%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%93%A5%E9%BA%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
+        },
+        {
+          "title": "笑话!美国拿卖血卡中国脖子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360244&amp;topic_name=%E7%AC%91%E8%AF%9D%21%E7%BE%8E%E5%9B%BD%E6%8B%BF%E5%8D%96%E8%A1%80%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 10时27分]"
+        },
+        {
           "title": "美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子",
           "url": "https://news.ifeng.com/c/8vuYrEyiE2x",
           "source": "凤凰网",
@@ -186,28 +295,18 @@
           "time_info": "[00时11分 ~ 05时31分]"
         },
         {
-          "title": "汪东城邀请台湾青年来上海看看，“南京路我可以从街头逛到街尾”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33852189",
-          "source": "澎湃新闻",
+          "title": "俄罗斯火灾致中国公民6死9失联",
+          "url": "https://www.douyin.com/hot/2624672",
+          "source": "抖音",
           "ranks": [
-            9,
+            10,
+            16,
+            17,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
-        },
-        {
-          "title": "美国保险业爆出大雷：210亿美金遭暗箱操作，华尔街大鳄的体育帝国摇摇欲坠",
-          "url": "https://wallstreetcn.com/articles/3780298",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
+          "time_info": "[00时11分 ~ 10时27分]"
         },
         {
           "title": "中期选举临近，机构警示监管审批已成为美国AI基建的首要瓶颈",
@@ -219,67 +318,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
-        },
-        {
-          "title": "瓶子君滑跪:以后只喷日本人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360298&amp;topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E6%BB%91%E8%B7%AA%3A%E4%BB%A5%E5%90%8E%E5%8F%AA%E5%96%B7%E6%97%A5%E6%9C%AC%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
-        },
-        {
-          "title": "用GPT要签字,日本技术哥麻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360400&amp;topic_name=%E7%94%A8GPT%E8%A6%81%E7%AD%BE%E5%AD%97%2C%E6%97%A5%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%93%A5%E9%BA%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
-        },
-        {
-          "title": "笑话!美国拿卖血卡中国脖子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360244&amp;topic_name=%E7%AC%91%E8%AF%9D%21%E7%BE%8E%E5%9B%BD%E6%8B%BF%E5%8D%96%E8%A1%80%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时31分]"
-        },
-        {
-          "title": "胰腺癌治疗迎来重大突破！美国FDA批准Revolution新药 患者中位生存期几乎翻倍",
-          "url": "https://www.cls.cn/detail/2465534",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 05时31分]"
-        },
-        {
-          "title": "俄罗斯火灾致中国公民6死9失联",
-          "url": "https://www.douyin.com/hot/2624672",
-          "source": "抖音",
-          "ranks": [
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时11分 ~ 05时31分]"
         },
         {
@@ -335,7 +373,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -349,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：需要关注物价上行风险。 将基准物价趋势稳定在2%附近至关重要。 日本央行应根据经济状况继续加息。 及时加息将有助于避免未来进行骤然加息。 日本央行将在每次会议上进行切实深入的讨论。 根据经济和物价状况调整货币宽松程度是合适的。 加息的时机和节奏将取决于经济前景能否实现。 如果物价趋势高于2%，需要关注物价上行风险；对上行风险的关注程度将高于以往。 汇率、人工智能（AI）及中东局势属于经济前景面临的风险因素。 货币政策讨论更加侧重于未来前景与风险。 汇率对消费者价格的最大影响通常体现在六个月后。",
+          "url": "https://wallstreetcn.com/livenews/3155686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "市场消息：俄罗斯总统普京据悉计划升级乌克兰局势，认为谈判毫无成果。",
@@ -412,7 +461,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -445,9 +494,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美国柴油库存问题或引起连锁反应",
+          "url": "https://flash.jin10.com/detail/20260827100820820800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "美国能源部长：华盛顿更倾向于与伊朗进行外交对话，但“如有必要”，将摧毁德黑兰的核设施。",
@@ -459,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "澳洲航空高管表示，过去六个月美国航线表现“非常令人满意”。",
+          "url": "https://flash.jin10.com/detail/20260827100302356800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "OpenAI：已签署覆盖美国16个州的通用协议，加州另行签订单独协议",
@@ -481,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：应及时加息避免通胀大幅上升",
+          "url": "https://flash.jin10.com/detail/20260827100136091800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "墨西哥总统辛鲍姆：我已经收到参加二十国集团（G20）会议的邀请，我们正研究是否前往（轮值主席国美国）。 不会在（对方）大选期间前往巴西。",
@@ -538,6 +620,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "澳洲航空高管表示，澳大利亚至美国的出境需求强劲，同时入境需求也表现良好，市场正在复苏。",
+          "url": "https://flash.jin10.com/detail/20260827100056216800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "据日经新闻：Terra Charge计划到2033财年在日本全国运营一个拥有2500个NACS充电桩的充电网络。",
           "url": "https://flash.jin10.com/detail/20260826233149745800",
           "source": "金十数据",
@@ -547,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美媒：美国柴油库存降至历史同期最低水平",
+          "url": "https://flash.jin10.com/detail/20260827100029258800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加9.5万桶，彭博用户预计增加200万桶、分析师预期增加139.280万桶，之前一周增长440.5万桶。 全美汽油库存创2012年以来季节性新低。 东海岸馏分燃料油库存降至2022年5月以来的最低水平，并创季节性历史新低。 中西部炼油厂处理量创历史新高。 全美炼油厂利用率创2018年9月以来最高水平。",
@@ -599,7 +703,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -670,6 +774,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "日本央行副行长冰见野良三：中东冲突不太可能导致日本经济出现显著下滑。",
+          "url": "https://flash.jin10.com/detail/20260827095601913800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美国8月21日当周EIA原油库存变动 9.5万桶，前值 440.5万桶。",
           "url": "https://wallstreetcn.com/livenews/3155416",
           "source": "华尔街见闻-快讯",
@@ -690,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至46,311.69点。",
+          "url": "https://wallstreetcn.com/livenews/3155657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "俄罗斯火灾致中国公民6死9失联",
