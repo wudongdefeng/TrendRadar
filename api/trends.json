@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T10:38:44.398697+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-08-30T16:44:51.038648+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "美加关系持续恶化，加拿大开始从美国顶尖高校挖墙脚",
@@ -19,6 +19,17 @@
           "time_info": "[02时03分 ~ 07时45分]"
         },
         {
+          "title": "加拿大，开始卡美国脖子了",
+          "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 16时44分]"
+        },
+        {
           "title": "美国无预兆公开新型导弹有何意图",
           "url": "https://www.toutiao.com/trending/7679460950591671862/",
           "source": "今日头条",
@@ -30,15 +41,18 @@
           "time_info": "[02时03分 ~ 05时25分]"
         },
         {
-          "title": "加拿大，开始卡美国脖子了",
-          "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
-          "source": "凤凰网",
+          "title": "长鑫存储起诉美国国防部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33973280",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            9,
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 16时44分]"
         },
         {
           "title": "委内瑞拉临时总统：与美国石油协议为期25年，目标是将产量提升至150万桶/日",
@@ -47,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -61,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "日本首次向印度派战机，冲着中国？",
+          "url": "https://news.ifeng.com/c/8w0aTpzDmd2",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "伊朗革命卫队官员：美国发动战争并非因为伊朗铀浓缩",
@@ -80,20 +105,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
         {
-          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
-          "url": "https://wallstreetcn.com/livenews/3157324",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
+          "url": "https://news.ifeng.com/c/8vzTN7zYmIF",
+          "source": "凤凰网",
           "ranks": [
-            3
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 16时44分]"
         },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
@@ -113,9 +138,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "这三天请假难度堪比美国签证",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%89%E5%A4%A9%E8%AF%B7%E5%81%87%E9%9A%BE%E5%BA%A6%E5%A0%AA%E6%AF%94%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "乌克兰每天要用千架无人机打击俄罗斯",
@@ -125,20 +161,6 @@
             5,
             11,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 10时38分]"
-        },
-        {
-          "title": "长鑫存储起诉美国国防部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33973280",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -157,15 +179,17 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
-          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
-          "url": "https://news.ifeng.com/c/8vzTN7zYmIF",
-          "source": "凤凰网",
+          "title": "阿联酋将在美国指其涉伊朗关联后对银行Banque Misr展开调查",
+          "url": "https://wallstreetcn.com/livenews/3157314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1,
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 10时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 16时44分]"
         },
         {
           "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
@@ -174,18 +198,6 @@
           "ranks": [
             1,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时38分]"
-        },
-        {
-          "title": "阿联酋将在美国指其涉伊朗关联后对银行Banque Misr展开调查",
-          "url": "https://wallstreetcn.com/livenews/3157314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -202,6 +214,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时45分]"
+        },
+        {
+          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3157311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 16时44分]"
         },
         {
           "title": "芬兰总统：俄罗斯不会攻击北约",
@@ -228,16 +253,16 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
-          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3157311",
+          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
+          "url": "https://wallstreetcn.com/livenews/3157324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            15
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时38分]"
+          "time_info": "[10时38分 ~ 16时44分]"
         },
         {
           "title": "日本外汇干预规模创历史新高",
@@ -304,17 +329,6 @@
           "time_info": "[02时03分 ~ 10时38分]"
         },
         {
-          "title": "莫斯科，又飞来美国军机",
-          "url": "https://news.ifeng.com/c/8vzGvoqcJnX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
-        },
-        {
           "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
           "url": "https://m.thepaper.cn/newsDetail_forward_33973384",
           "source": "澎湃新闻",
@@ -324,8 +338,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 16时44分]"
+        },
+        {
+          "title": "莫斯科，又飞来美国军机",
+          "url": "https://news.ifeng.com/c/8vzGvoqcJnX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时25分 ~ 10时38分]"
+          "time_info": "[02时03分 ~ 07时45分]"
         },
         {
           "title": "伊朗外长阿拉格齐：我方情报显示，有人大肆操纵能源市场。 美国政府部分势力利用易受蒙蔽的媒体影响价格以谋取私利，同时让美国总统深陷一场必败的战争。 亲以色列势力也凭借美化的评估报告鼓吹战争。 美国消费者承受着实实在在的最终代价。",
@@ -401,6 +426,18 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
+          "title": "战火烧进俄罗斯人的购物车，俄乌冲突逼近临界点？",
+          "url": "https://news.ifeng.com/c/8w0GWkFMN4K",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 16时44分]"
+        },
+        {
           "title": "媒体：日本加速准备多种“偷袭”手段",
           "url": "https://www.toutiao.com/trending/7678291069088170022/",
           "source": "今日头条",
@@ -435,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2076965570528941102",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 16时44分]"
         },
         {
           "title": "伊朗外交部副部长：如果美国不履行其承诺，我们不急于开放霍尔木兹海峡。",
@@ -490,7 +538,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -506,17 +554,6 @@
           "time_info": "07时45分"
         },
         {
-          "title": "战火烧进俄罗斯人的购物车，俄乌冲突逼近临界点？",
-          "url": "https://news.ifeng.com/c/8w0GWkFMN4K",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "美国消息人士向阿拉伯电视台透露：与埃尔比勒方面的谅解备忘录将于9月30日到期，不会延期。<br/>伊朗库尔德方面消息人士透露：埃尔比勒与华盛顿之间的谅解备忘录不再延期，并不意味着双方合作结束。",
           "url": "https://flash.jin10.com/detail/20260830004203466800",
           "source": "金十数据",
@@ -526,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "国乒危?樊振东爆冷输日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361345&amp;topic_name=%E5%9B%BD%E4%B9%92%E5%8D%B1%3F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%88%86%E5%86%B7%E8%BE%93%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
@@ -545,18 +593,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2076965570528941102",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -589,7 +626,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -622,7 +659,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -655,7 +692,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -669,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国防部表示，俄罗斯军队已开始准备对乌克兰的能源基础设施发起大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260830151352128800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "日本女排爆冷无缘亚锦赛决赛",
