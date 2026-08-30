@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T07:45:38.716298+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-08-30T10:38:44.398697+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 46,
+      "match_count": 58,
       "titles": [
         {
           "title": "美加关系持续恶化，加拿大开始从美国顶尖高校挖墙脚",
@@ -30,26 +30,26 @@
           "time_info": "[02时03分 ~ 05时25分]"
         },
         {
-          "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
-          "url": "https://flash.jin10.com/detail/20260830061456302800",
+          "title": "加拿大，开始卡美国脖子了",
+          "url": "https://news.ifeng.com/c/8w0Hagm7Yim",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "委内瑞拉临时总统：与美国石油协议为期25年，目标是将产量提升至150万桶/日",
+          "url": "https://flash.jin10.com/detail/20260830100811178800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "阿联酋将在美国指其涉伊朗关联后对银行Banque Misr展开调查",
-          "url": "https://wallstreetcn.com/livenews/3157314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "10时38分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队陆军指挥官库尔米表示，伊朗人民不惧怕任何强权。在为期12天的战争中，美国提出停火请求并来到谈判桌前，但随后却亲自掀翻了谈判桌。",
@@ -63,17 +63,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "芬兰总统：俄罗斯不会攻击北约",
-          "url": "https://flash.jin10.com/detail/20260830061026825800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "伊朗革命卫队官员：美国发动战争并非因为伊朗铀浓缩",
           "url": "https://flash.jin10.com/detail/20260830012821984800",
           "source": "金十数据",
@@ -83,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据华尔街日报：美国将以35%的股份参与委内瑞拉大亨贝坦科特的石油项目。",
+          "url": "https://flash.jin10.com/detail/20260830095546811800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
+          "url": "https://wallstreetcn.com/livenews/3157324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
@@ -96,15 +107,15 @@
           "time_info": "02时03分"
         },
         {
-          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3157311",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉临时总统罗德里格斯：与美国的能源协议将为期25年，协议旨在将产量提高至每日150万桶。委内瑞拉保留对其资源的主权。",
+          "url": "https://flash.jin10.com/detail/20260830095514563800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "10时38分"
         },
         {
           "title": "乌克兰每天要用千架无人机打击俄罗斯",
@@ -112,11 +123,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
+        },
+        {
+          "title": "长鑫存储起诉美国国防部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33973280",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
         },
         {
           "title": "伊拉克总理安全顾问卡西姆·阿拉吉：伊拉克寻求成为伊朗和美国之间的“桥梁”。",
@@ -131,6 +157,41 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
+          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
+          "url": "https://news.ifeng.com/c/8vzTN7zYmIF",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
+        },
+        {
+          "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
+          "url": "https://flash.jin10.com/detail/20260830061456302800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
+          "title": "阿联酋将在美国指其涉伊朗关联后对银行Banque Misr展开调查",
+          "url": "https://wallstreetcn.com/livenews/3157314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社引述以色列媒体“Kan”：沙特曾试图说服美国对也门胡塞武装采取军事行动，但华盛顿拒绝了利雅得的请求。",
           "url": "https://flash.jin10.com/detail/20260830044248337800",
           "source": "金十数据",
@@ -141,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时45分]"
+        },
+        {
+          "title": "芬兰总统：俄罗斯不会攻击北约",
+          "url": "https://flash.jin10.com/detail/20260830061026825800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
         },
         {
           "title": "特朗普改名“美国湖”，加拿大亮出“安大略湖”招牌针锋相对",
@@ -155,6 +228,31 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
+          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3157311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
+          "title": "日本外汇干预规模创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3157297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
+        },
+        {
           "title": "美国国家飓风中心：卡里娜的强度已接近飓风级别，继续向更有利环境移动。",
           "url": "https://flash.jin10.com/detail/20260830043333483800",
           "source": "金十数据",
@@ -167,40 +265,43 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
-          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
-          "url": "https://news.ifeng.com/c/8vzTN7zYmIF",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
-        },
-        {
-          "title": "长鑫存储起诉美国国防部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33973280",
+          "title": "委内瑞拉证实同美国达成石油合作协议：将开发17个战略油田",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33971245",
           "source": "澎湃新闻",
           "ranks": [
-            11,
             9,
-            6
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
         },
         {
-          "title": "日本外汇干预规模创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3157297",
+          "title": "日本多家企业联合成立开发联盟，共同研发面向工业场景机器人的人工智能技术。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3157294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            13
+            10,
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
+        },
+        {
+          "title": "俄罗斯延长柴油出口禁令，乌克兰加大对俄攻击力度",
+          "url": "https://wallstreetcn.com/livenews/3157293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 10时38分]"
         },
         {
           "title": "莫斯科，又飞来美国军机",
@@ -214,41 +315,17 @@
           "time_info": "[02时03分 ~ 07时45分]"
         },
         {
-          "title": "委内瑞拉证实同美国达成石油合作协议：将开发17个战略油田",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33971245",
+          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33973384",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            11,
-            10
+            20,
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
-        },
-        {
-          "title": "日本多家企业联合成立开发联盟，共同研发面向工业场景机器人的人工智能技术。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3157294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
-        },
-        {
-          "title": "俄罗斯延长柴油出口禁令，乌克兰加大对俄攻击力度",
-          "url": "https://wallstreetcn.com/livenews/3157293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时45分]"
+          "time_info": "[05时25分 ~ 10时38分]"
         },
         {
           "title": "伊朗外长阿拉格齐：我方情报显示，有人大肆操纵能源市场。 美国政府部分势力利用易受蒙蔽的媒体影响价格以谋取私利，同时让美国总统深陷一场必败的战争。 亲以色列势力也凭借美化的评估报告鼓吹战争。 美国消费者承受着实实在在的最终代价。",
@@ -286,6 +363,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时45分]"
+        },
+        {
+          "title": "马斯克：（美国）天然气涡轮机生产存在瓶颈因素。 瓶颈在于叶片和导叶的铸造 自主铸造可将天然气涡轮机交付周期缩短数月。",
+          "url": "https://wallstreetcn.com/livenews/3157308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
         },
         {
           "title": "伊朗总统称“若霍尔木兹海峡重开，美国必须履行其义务”，军方强调“船只未经协调不得通过”",
@@ -360,18 +449,6 @@
           "time_info": "[05时25分 ~ 07时45分]"
         },
         {
-          "title": "俄罗斯首次使用增程型“伊斯坎德尔”弹道导弹袭击基辅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33973384",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时45分]"
-        },
-        {
           "title": "伊朗外交部副部长：我们已明确美国应采取哪些步骤才能重返谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20260830033709718800",
           "source": "金十数据",
@@ -402,20 +479,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
         {
-          "title": "马斯克：（美国）天然气涡轮机生产存在瓶颈因素。 瓶颈在于叶片和导叶的铸造 自主铸造可将天然气涡轮机交付周期缩短数月。",
-          "url": "https://wallstreetcn.com/livenews/3157308",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国家航空航天局：美国国家航空航天局与SpaceX调整Crew-13发射日期，以解决龙飞船推进系统的氧化剂泄漏问题。",
+          "url": "https://flash.jin10.com/detail/20260830093952704800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "10时38分"
         },
         {
           "title": "SK海力士：对在美国投资持开放态度",
@@ -424,9 +501,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "战火烧进俄罗斯人的购物车，俄乌冲突逼近临界点？",
+          "url": "https://news.ifeng.com/c/8w0GWkFMN4K",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "美国消息人士向阿拉伯电视台透露：与埃尔比勒方面的谅解备忘录将于9月30日到期，不会延期。<br/>伊朗库尔德方面消息人士透露：埃尔比勒与华盛顿之间的谅解备忘录不再延期，并不意味着双方合作结束。",
@@ -451,6 +539,28 @@
           "time_info": "02时03分"
         },
         {
+          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
+          "url": "https://flash.jin10.com/detail/20260830085947271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2076965570528941102",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台：一段流传的视频显示，随着美国封锁持续，伊朗阿巴斯港的沙希德·拉贾伊港一片空旷。",
           "url": "https://flash.jin10.com/detail/20260830002546837800",
           "source": "金十数据",
@@ -471,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "牛弹琴：加拿大开始卡美国脖子了",
+          "url": "https://www.toutiao.com/trending/7679607943955746310/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "伊朗外长：日本民众应要求日本政府就美国罪行作出交代",
@@ -495,6 +616,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "普京：俄罗斯在全球煤炭市场占据领先地位",
+          "url": "https://flash.jin10.com/detail/20260830081029760800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "以国家安全总局证实以总理长子在美国曾遭安全威胁",
           "url": "https://flash.jin10.com/detail/20260830030519124800",
           "source": "金十数据",
@@ -515,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20260830080535253800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "市场消息：美国全国广播公司（NBC）的新闻团队在约旦河西岸遭到以色列定居者持棍棒袭击和殴打。",
