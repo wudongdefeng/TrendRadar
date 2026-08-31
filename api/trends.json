@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T08:04:17.830075+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-31T14:27:49.257998+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 49,
+      "match_count": 64,
       "titles": [
         {
           "title": "日本向多地发布最高级别警报",
@@ -53,6 +53,28 @@
           "time_info": "05时46分"
         },
         {
+          "title": "热心送零食,遭日本同事背地嘲讽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361543&amp;topic_name=%E7%83%AD%E5%BF%83%E9%80%81%E9%9B%B6%E9%A3%9F%2C%E9%81%AD%E6%97%A5%E6%9C%AC%E5%90%8C%E4%BA%8B%E8%83%8C%E5%9C%B0%E5%98%B2%E8%AE%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "本周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
+          "url": "https://wallstreetcn.com/articles/3780528",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国国家飓风中心：未来48小时内，北美湾区附近的风暴有50%的可能性形成气旋。",
           "url": "https://flash.jin10.com/detail/20260831015229239800",
           "source": "金十数据",
@@ -62,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "英伟达CEO黄仁勋：人工智能正在推动制造业回流美国，让这个在经历数十年产业外迁后重新实现工业化。人工智能正在创造新的需求，推动对老化电网和可持续能源的投资，而这些投资由市场力量驱动，而非依靠补贴。",
@@ -103,9 +136,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3780669",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "日本7月库存月率 0.5%，前值2.8%。",
@@ -114,7 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -130,6 +174,19 @@
           "time_info": "05时46分"
         },
         {
+          "title": "圆脸谈美国血浆产业",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%9B%BD%E8%A1%80%E6%B5%86%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 14时27分]"
+        },
+        {
           "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
           "url": "https://wallstreetcn.com/livenews/3157398",
           "source": "华尔街见闻-快讯",
@@ -142,16 +199,30 @@
           "time_info": "[02时18分 ~ 05时46分]"
         },
         {
-          "title": "圆脸谈美国血浆产业",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%9B%BD%E8%A1%80%E6%B5%86%E4%BA%A7%E4%B8%9A",
+          "title": "深度剖析美国血浆产业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E7%BE%8E%E5%9B%BD%E8%A1%80%E6%B5%86%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            25,
-            5
+            7,
+            14,
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 08时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时27分]"
+        },
+        {
+          "title": "国乒危?樊振东爆冷输日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361345&amp;topic_name=%E5%9B%BD%E4%B9%92%E5%8D%B1%3F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%88%86%E5%86%B7%E8%BE%93%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时27分]"
         },
         {
           "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
@@ -159,30 +230,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时04分]"
-        },
-        {
-          "title": "深度剖析美国血浆产业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E7%BE%8E%E5%9B%BD%E8%A1%80%E6%B5%86%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时04分]"
-        },
-        {
-          "title": "国乒危?樊振东爆冷输日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361345&amp;topic_name=%E5%9B%BD%E4%B9%92%E5%8D%B1%3F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%88%86%E5%86%B7%E8%BE%93%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -218,9 +265,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国大峡谷突发山洪，1人死亡15人下落不明，地貌被严重改变",
+          "url": "https://news.ifeng.com/c/8w2EiYux9D9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "据BNO新闻：官员称，美国亚利桑那州大峡谷国家公园发生山洪后，至少有20人失联。",
@@ -234,13 +292,24 @@
           "time_info": "05时46分"
         },
         {
+          "title": "大宗商品相对美国“从未如此便宜”！华尔街“正在达成共识”：硬资产“挤压”",
+          "url": "https://wallstreetcn.com/articles/3780674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "日本7月工业产出年率初值 4.1%，预期3.40%，前值4.90%。",
           "url": "https://flash.jin10.com/detail/20260831075149359800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -251,7 +320,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -262,7 +331,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -273,9 +342,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低0.4%报46,128.47点。",
+          "url": "https://wallstreetcn.com/livenews/3157600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "日本7月大型零售商销售同比 1.4%，前值 -1%。",
@@ -284,7 +364,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -295,7 +375,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -306,9 +386,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "高市内阁支持率跌至上台以来新低，通胀、日元贬值、历史态度、防卫扩张多重矛盾叠加，如何看待日本政策走向？",
+          "url": "https://www.zhihu.com/question/2077150944618402582",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "伊朗革命卫队称，美国对拉腊克岛的袭击将遭到“回应和惩罚”。",
@@ -328,7 +419,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -350,7 +441,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -372,7 +463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -383,7 +474,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -394,9 +485,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "印度石油天然气公司高管：美国财政部外国资产控制办公室(OFAC)允许印度石油天然气公司在委内瑞拉的资产继续运营。",
+          "url": "https://flash.jin10.com/detail/20260831140355173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "据日经新闻：迅销计划在十年内将日本优衣库旗舰店数量翻倍至约20家。",
@@ -416,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -443,13 +545,46 @@
           "time_info": "05时46分"
         },
         {
+          "title": "日本樱岛火山今天多次喷发",
+          "url": "https://www.toutiao.com/trending/7680023217003872777/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "费大厨开到美国 辣椒炒肉210元一份",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%BC%80%E5%88%B0%E7%BE%8E%E5%9B%BD+%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89210%E5%85%83%E4%B8%80%E4%BB%BD",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "日本东证指数日内转涨，现涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3157587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国财长贝森特：近期日元走势“基本得到控制”。 预计日本央行行长植田和男在首相高市早苗的支持下，将在货币政策上“做出正确抉择”。 （被问及日本央行是否应更激进地加息时表示）我不会告诉他们该怎么做。但我想说，我认为“安倍经济学”——这一旨在刺激通胀的计划——可能已经走到了尽头。",
           "url": "https://wallstreetcn.com/livenews/3157447",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -460,9 +595,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本7月新屋开工同比 8.19%，预期 9%，前值 18.6%。",
+          "url": "https://wallstreetcn.com/livenews/3157584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国科技记者古尔曼：AirPods和计划中的家庭安防设备中的摄像头将无法录制可观看的视频。它们将传输信息给AI系统，以便分析周围环境。",
@@ -471,9 +617,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "日本7月新屋开工年化户数 77.4万户，预期 77.9万户，前值 78.6万户。",
+          "url": "https://wallstreetcn.com/livenews/3157583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国官员对半岛电视台表示：已完成霍尔木兹海峡国际航道的扫雷工作。",
@@ -509,13 +666,24 @@
           "time_info": "05时46分"
         },
         {
+          "title": "美国大峡谷山洪致20余人失联",
+          "url": "https://www.douyin.com/hot/2629930",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国反恐近20年有效吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%8F%8D%E6%81%90%E8%BF%9120%E5%B9%B4%E6%9C%89%E6%95%88%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -537,7 +705,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
