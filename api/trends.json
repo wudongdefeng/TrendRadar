@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T02:16:30.951884+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-03T05:29:30.655993+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
         },
         {
           "title": "普京：日本的态度让我惊讶",
@@ -26,8 +26,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "泽连斯基称“乌克兰开始封锁俄罗斯领空”，普京回应",
+          "url": "https://news.ifeng.com/c/8w5q5sT9B2c",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "美国航母来了，泰国心情很复杂",
+          "url": "https://news.ifeng.com/c/8w5FR489RDW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
         },
         {
           "title": "美国和委内瑞拉签署石油项目协议",
@@ -46,17 +68,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "泽连斯基称“乌克兰开始封锁俄罗斯领空”，普京回应",
-          "url": "https://news.ifeng.com/c/8w5q5sT9B2c",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,17 +118,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美国航母来了，泰国心情很复杂",
-          "url": "https://news.ifeng.com/c/8w5FR489RDW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
           "title": "美国商务部长卢特尼克：加拿大自由党借贸易战为其选举争取筹码。",
           "url": "https://flash.jin10.com/detail/20260903014844964800",
           "source": "金十数据",
@@ -129,6 +129,18 @@
           "time_info": "02时16分"
         },
         {
+          "title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录",
+          "url": "https://wallstreetcn.com/articles/3780923",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
           "title": "美国银行副总裁时代广场被刺身亡",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
           "source": "bilibili 热搜",
@@ -136,8 +148,124 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "美国银行副总裁在纽约时代广场被刺身亡",
+          "url": "https://news.ifeng.com/c/8w5CmzoSzFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？",
+          "url": "https://www.zhihu.com/question/2078117316865402416",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "国航回应“美国地勤不拔油管扯爆飞机油箱”",
+          "url": "https://news.ifeng.com/c/8w63t4Ss1CL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "沈有忠妄称大陆相关规定对两岸交流有负面影响，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991881",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "无效救灾,日本千纸鹤讨人嫌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361838&amp;topic_name=%E6%97%A0%E6%95%88%E6%95%91%E7%81%BE%2C%E6%97%A5%E6%9C%AC%E5%8D%83%E7%BA%B8%E9%B9%A4%E8%AE%A8%E4%BA%BA%E5%AB%8C",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "博主：日本正在为高市的强硬买单",
+          "url": "https://www.toutiao.com/trending/7680931961082220068/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "32岁美国银行副总裁时代广场被刺身亡",
+          "url": "https://www.toutiao.com/trending/7680610446210711615/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "学生党向往日本教育遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361736&amp;topic_name=%E5%AD%A6%E7%94%9F%E5%85%9A%E5%90%91%E5%BE%80%E6%97%A5%E6%9C%AC%E6%95%99%E8%82%B2%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
+        },
+        {
+          "title": "大漠叔叔日本皇宫找中国文物",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%BC%A0%E5%8F%94%E5%8F%94%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%AB%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 05时29分]"
         },
         {
           "title": "美国财政部长贝森特：我知道日本方面打算怎么做。",
@@ -162,44 +290,11 @@
           "time_info": "02时16分"
         },
         {
-          "title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录",
-          "url": "https://wallstreetcn.com/articles/3780923",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
           "title": "美国商务部长卢特尼克：芯片关税旨在提升美国芯片产量。",
           "url": "https://flash.jin10.com/detail/20260903014548415800",
           "source": "金十数据",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国银行副总裁在纽约时代广场被刺身亡",
-          "url": "https://news.ifeng.com/c/8w5CmzoSzFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -217,6 +312,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美股七巨头收盘播报｜周三（9月2日），美国科技股七巨头（Magnificent 7）指数涨0.87%，报226.71点，美股早盘持续上涨，随后高位窄幅震荡。 “超大”市值科技股指数涨0.58%，报445.95点。",
+          "url": "https://wallstreetcn.com/livenews/3159468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国商务部长卢特尼克：Anthropic已经与本届政府解决分歧。",
           "url": "https://flash.jin10.com/detail/20260903014300868800",
           "source": "金十数据",
@@ -228,22 +334,22 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美国司法部长布兰奇：美国司法部正与X合作，追踪本周试图攻击数十万X用户的网络犯罪分子。",
+          "url": "https://flash.jin10.com/detail/20260903044038759800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国商务部长卢特尼克：Anthropic与总统特朗普消除分歧。",
           "url": "https://wallstreetcn.com/livenews/3159404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "国航回应“美国地勤不拔油管扯爆飞机油箱”",
-          "url": "https://news.ifeng.com/c/8w63t4Ss1CL",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -294,15 +400,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？",
-          "url": "https://www.zhihu.com/question/2078117316865402416",
-          "source": "知乎",
+          "title": "美国芝加哥商业交易所集团（CME Group）：美国天然气期货流通合约创历史新高。 9月1日当天，基准Henery Hub天然气期货未平仓合约达到180.7万手，突破2024年11月所创历史最高记录180.1万手合约。",
+          "url": "https://wallstreetcn.com/livenews/3159464",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国财长贝森特：我知道日本计划做什么。",
@@ -349,26 +455,26 @@
           "time_info": "02时16分"
         },
         {
-          "title": "沈有忠妄称大陆相关规定对两岸交流有负面影响，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991881",
-          "source": "澎湃新闻",
+          "title": "美国商务部长卢特尼克：二十国集团（G20）成员国围绕科学技术原则达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3159461",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时29分"
         },
         {
-          "title": "无效救灾,日本千纸鹤讨人嫌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361838&amp;topic_name=%E6%97%A0%E6%95%88%E6%95%91%E7%81%BE%2C%E6%97%A5%E6%9C%AC%E5%8D%83%E7%BA%B8%E9%B9%A4%E8%AE%A8%E4%BA%BA%E5%AB%8C",
-          "source": "贴吧",
+          "title": "据美国证券交易委员会（SEC）文件显示，微软(MSFT.O)将在2027财年报告两个业务部门，包括代理商与基础设施、设备与消费者。",
+          "url": "https://flash.jin10.com/detail/20260903043336241800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国能源部长：与委内瑞拉签署的协议对委内瑞拉人民的和平与繁荣至关重要。",
@@ -393,15 +499,26 @@
           "time_info": "02时16分"
         },
         {
-          "title": "博主：日本正在为高市的强硬买单",
-          "url": "https://www.toutiao.com/trending/7680931961082220068/",
+          "title": "美国商务部长卢特尼克：G20成员就科技原则达成一致。",
+          "url": "https://flash.jin10.com/detail/20260903043203803800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "俄罗斯人拿人民币在黑河夜市疯狂扫货",
+          "url": "https://www.toutiao.com/trending/7680032340908408868/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国财政部长贝森特：人工智能公司对社区的声音充耳不闻。",
@@ -470,17 +587,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "学生党向往日本教育遭群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361736&amp;topic_name=%E5%AD%A6%E7%94%9F%E5%85%9A%E5%90%91%E5%BE%80%E6%97%A5%E6%9C%AC%E6%95%99%E8%82%B2%E9%81%AD%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
           "title": "美国财政部长贝森特：由于700亿美元的关税退款，今年的预算缺口有所扩大。",
           "url": "https://flash.jin10.com/detail/20260903012253708800",
           "source": "金十数据",
@@ -514,33 +620,11 @@
           "time_info": "02时16分"
         },
         {
-          "title": "32岁美国银行副总裁时代广场被刺身亡",
-          "url": "https://www.toutiao.com/trending/7680610446210711615/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
           "title": "据Politico：美国参议院共和党领袖图恩表示，数据中心应该“自给自足”。",
           "url": "https://flash.jin10.com/detail/20260903011859859800",
           "source": "金十数据",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "大漠叔叔日本皇宫找中国文物",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%BC%A0%E5%8F%94%E5%8F%94%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%AB%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
