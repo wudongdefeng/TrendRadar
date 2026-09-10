@@ -1,55 +1,47 @@
 {
-  "generated_at": "2026-09-11T00:47:47.442217+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-09-11T03:23:32.294814+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 33,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
           "url": "https://wallstreetcn.com/articles/3781506",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "相关官员：美国联邦航空管理局（FAA）局长布莱恩·贝德福德（Bryan Bedford）周四与航空公司首席执行官会面，讨论利用软件系统减少航班延误的计划。",
-          "url": "https://flash.jin10.com/detail/20260911002430260800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "日本梅毒暴发与三个一有关",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
         },
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2479913",
           "source": "财联社热门",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
+        },
+        {
+          "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
+          "url": "https://www.cls.cn/detail/2479967",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
         },
         {
           "title": "冰岛准备永久停止捕鲸，压力给到挪威和日本",
@@ -57,6 +49,50 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
+        },
+        {
+          "title": "扎哈罗娃怒斥日本：你们应该跪下道歉，我保证会送你们一朵菊花",
+          "url": "https://news.ifeng.com/c/8wJ6ILaTA6v",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
+        },
+        {
+          "title": "伊朗拦截1艘美国无人水面艇",
+          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国财政部围绕制裁伊朗相关制裁发布声明：本次行动针对真主党旅和真主党。",
+          "url": "https://wallstreetcn.com/livenews/3163446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "相关官员：美国联邦航空管理局（FAA）局长布莱恩·贝德福德（Bryan Bedford）周四与航空公司首席执行官会面，讨论利用软件系统减少航班延误的计划。",
+          "url": "https://flash.jin10.com/detail/20260911002430260800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,28 +110,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
-          "url": "https://www.cls.cn/detail/2479967",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "扎哈罗娃怒斥日本：你们应该跪下道歉，我保证会送你们一朵菊花",
-          "url": "https://news.ifeng.com/c/8wJ6ILaTA6v",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
           "title": "尽管EIA库存报告显示汽油库存意外增加，美国汽油期货基本持平，现涨4.96%。",
           "url": "https://flash.jin10.com/detail/20260911001747852800",
           "source": "金十数据",
@@ -105,6 +119,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国扩大对沙特行动的情报和目标锁定支持。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3163441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "日本梅毒暴发与三个一有关",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
+        },
+        {
+          "title": "青霉素短缺,日本梅毒迅速扩散",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时23分]"
         },
         {
           "title": "英伟达被点名调查！美国AI行业交易将迎来更严审查",
@@ -151,6 +199,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国原油期货收涨至102美元上方，取暖油期货站上5美元",
+          "url": "https://wallstreetcn.com/livenews/3163437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "据俄新社：俄罗斯国防部表示，俄罗斯军队在乌克兰切尔诺莫尔斯克港击中一艘货船。",
           "url": "https://flash.jin10.com/detail/20260911001440853800",
           "source": "金十数据",
@@ -195,6 +254,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "日本正在把全球“拖下水”",
+          "url": "https://wallstreetcn.com/articles/3781459",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "房地美：美国抵押贷款利率上升至6.76%，为2025年6月以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260911001142998800",
           "source": "金十数据",
@@ -206,6 +276,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国财政部金融犯罪执法网络（FinCEN）：发布举报人公告，寻求有关支持伊朗非法融资活动的线索。",
+          "url": "https://flash.jin10.com/detail/20260911023652537800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "美国9月4日当周EIA汽油库存变动 126.9万桶，前值 -117.3万桶。",
           "url": "https://wallstreetcn.com/livenews/3163378",
           "source": "华尔街见闻-快讯",
@@ -215,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
+          "url": "https://flash.jin10.com/detail/20260911023629410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国9月4日当周EIA精炼厂设备利用率变化 -0.2%，前值 0.6%。",
@@ -237,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
+          "url": "https://flash.jin10.com/detail/20260911023604444800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国9月4日当周EIA精炼油库存变动 208.7万桶，前值 79.6万桶。",
@@ -272,6 +375,61 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国官员：伊朗石油卸货量降至每日90万桶，低于战争前的每日140万桶。",
+          "url": "https://flash.jin10.com/detail/20260911023417697800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国官员：过去30天，伊朗石油装载量约为每日20万桶，低于1月/2月的每日180万桶。",
+          "url": "https://flash.jin10.com/detail/20260911023409732800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国官员：过去一周，水上运输中的伊朗或疑似伊朗原油平均为1.1亿桶，而战争前为1.8亿桶。",
+          "url": "https://flash.jin10.com/detail/20260911023351284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国官员将宣布环孢子虫病（cyclosporiasis）疫情结束。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3163426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国财政部网站发布新一轮伊朗相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260911023310762800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3163371",
           "source": "华尔街见闻-快讯",
@@ -283,20 +441,42 @@
           "time_info": "00时47分"
         },
         {
+          "title": "日本百岁老人开拖拉机不慎侧翻身亡",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E5%BC%80%E6%8B%96%E6%8B%89%E6%9C%BA%E4%B8%8D%E6%85%8E%E4%BE%A7%E7%BF%BB%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶102.48美元，上涨6.43美元，涨幅6.69%。",
+          "url": "https://flash.jin10.com/detail/20260911023047460800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "随着战争创造需求，美国一种关键中质含硫原油价格飙升",
+          "url": "https://wallstreetcn.com/livenews/3163423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "金十数据整理：美国当周EIA数据最值一览",
           "url": "https://flash.jin10.com/detail/20260911000407943800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "青霉素短缺,日本梅毒迅速扩散",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
-          "source": "贴吧",
           "ranks": [
             19
           ],
@@ -369,6 +549,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗拦截一艘美国无人水面艇",
+          "url": "https://wallstreetcn.com/livenews/3163418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
+          "url": "https://flash.jin10.com/detail/20260911021724069800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "报道：德鲁肯米勒称美国借贷成本仍“有点低”",
+          "url": "https://wallstreetcn.com/livenews/3163414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国国防部首席技术官驳斥Anthropic研究员的AI风险警告",
+          "url": "https://wallstreetcn.com/livenews/3163411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     }
