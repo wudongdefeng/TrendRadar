@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-10T07:42:46.844402+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-09-10T10:16:06.927396+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 55,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
           "url": "https://original.ifeng.com/c/8wHN09cxCTv",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
         },
         {
           "title": "美国指责中国AI公司蒸馏美企，外交部回应",
@@ -58,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -69,9 +70,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国总统特朗普：我请求你们让我们完成这项工作。我们将共同把两年的复苏转变为250年的领先。",
+          "url": "https://flash.jin10.com/detail/20260910100017564800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "俄罗斯石油公司LukOil在Komandirshorskoye油田开始生产石油。",
@@ -94,6 +106,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34037416",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
+        },
+        {
+          "title": "卡尼强硬回应：别忘了加拿大诞生于“对抗美国侵略”",
+          "url": "https://news.ifeng.com/c/8wHcoHlPNgO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
+        },
+        {
+          "title": "164:1，为何就美国反对？",
+          "url": "https://original.ifeng.com/c/8wHfq6FelEV",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
+        },
+        {
+          "title": "日本大使恒河泡澡讨好印度",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363233&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%81%92%E6%B2%B3%E6%B3%A1%E6%BE%A1%E8%AE%A8%E5%A5%BD%E5%8D%B0%E5%BA%A6",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
+        },
+        {
+          "title": "日本漫画家炒股18年终回本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363252&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%82%92%E8%82%A118%E5%B9%B4%E7%BB%88%E5%9B%9E%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
+        },
+        {
+          "title": "韩国用日本碑当地基惹怒日方",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363131&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%94%A8%E6%97%A5%E6%9C%AC%E7%A2%91%E5%BD%93%E5%9C%B0%E5%9F%BA%E6%83%B9%E6%80%92%E6%97%A5%E6%96%B9",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 10时16分]"
         },
         {
           "title": "泽连斯基开始求美国为乌克兰止损",
@@ -121,18 +203,6 @@
           "time_info": "[02时13分 ~ 07时42分]"
         },
         {
-          "title": "美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34037416",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
-        },
-        {
           "title": "台教授：现在轮到美国要弯道超车了",
           "url": "https://www.toutiao.com/trending/7683478830803369993/",
           "source": "今日头条",
@@ -146,15 +216,16 @@
           "time_info": "[02时13分 ~ 07时42分]"
         },
         {
-          "title": "卡尼强硬回应：别忘了加拿大诞生于“对抗美国侵略”",
-          "url": "https://news.ifeng.com/c/8wHcoHlPNgO",
-          "source": "凤凰网",
+          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
+          "url": "https://www.cls.cn/detail/2478653",
+          "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
+          "time_info": "[05时27分 ~ 10时16分]"
         },
         {
           "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
@@ -163,17 +234,6 @@
           "ranks": [
             18,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
-        },
-        {
-          "title": "164:1，为何就美国反对？",
-          "url": "https://original.ifeng.com/c/8wHfq6FelEV",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -193,37 +253,26 @@
           "time_info": "[02时13分 ~ 07时42分]"
         },
         {
-          "title": "日本大使恒河泡澡讨好印度",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363233&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E6%81%92%E6%B2%B3%E6%B3%A1%E6%BE%A1%E8%AE%A8%E5%A5%BD%E5%8D%B0%E5%BA%A6",
-          "source": "贴吧",
+          "title": "“1890年美国就想用关税吞并我们”，加拿大总理发表全国动员应战讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34036556",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
         },
         {
-          "title": "日本漫画家炒股18年终回本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363252&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E7%82%92%E8%82%A118%E5%B9%B4%E7%BB%88%E5%9B%9E%E6%9C%AC",
-          "source": "贴吧",
+          "title": "栾念调职去美国的原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E8%B0%83%E8%81%8C%E5%8E%BB%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
-        },
-        {
-          "title": "韩国用日本碑当地基惹怒日方",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363131&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%94%A8%E6%97%A5%E6%9C%AC%E7%A2%91%E5%BD%93%E5%9C%B0%E5%9F%BA%E6%83%B9%E6%80%92%E6%97%A5%E6%96%B9",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
         },
         {
           "title": "SiriAI支持中文但首发无缘中国大陆",
@@ -236,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 05时27分]"
+        },
+        {
+          "title": "日本暴发梅毒疫情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
         },
         {
           "title": "伊朗第一副总统：美国无权就伊朗核计划进行道德说教。",
@@ -271,6 +331,28 @@
           "time_info": "05时27分"
         },
         {
+          "title": "美国总统特朗普：（谈到美国在委内瑞拉的行动时表示）650亿桶石油是我们的。",
+          "url": "https://flash.jin10.com/detail/20260910095726902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大想达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3162911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "为什么感觉台湾的卤肉饭远没有大陆的「台湾卤肉饭」好吃，这中间差异在哪里？",
           "url": "https://www.zhihu.com/question/315917158",
           "source": "知乎",
@@ -282,26 +364,26 @@
           "time_info": "02时13分"
         },
         {
+          "title": "日本央行审议委员增一行：必须关注日元疲软对通胀的影响。 中东冲突或将推高潜在通胀。",
+          "url": "https://wallstreetcn.com/livenews/3162910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "美国管道巨头Energy Transfer拟将主要上市地从纽约转至得州",
           "url": "https://flash.jin10.com/detail/20260910064214024800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
-          "url": "https://www.cls.cn/detail/2478653",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "07时42分"
         },
         {
           "title": "美国至9月4日当周API库欣原油库存 -33.1万桶，前值15万桶。",
@@ -313,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普提议将新墨西哥州改名为“新美国”，引发现场欢呼",
+          "url": "https://flash.jin10.com/detail/20260910095605991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "美国至9月4日当周API投产原油量 -19.6万桶/日，前值29.4万桶/日。",
@@ -337,6 +430,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "日本央行审议委员增一行：需要将价格走势控制在2%以内，物价趋势非常接近2%。 日本经济已全面进入通胀状态。 关注油价、人工智能需求和外汇走势，以确定加息步伐。 鉴于宽松的金融环境，将继续加息。 需要更多升息才能完成货币政策正常化。",
+          "url": "https://wallstreetcn.com/livenews/3162904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "美国至9月4日当周API成品油进口 -5.9万桶/日，前值-22.6万桶/日。",
           "url": "https://flash.jin10.com/detail/20260910044611808800",
           "source": "金十数据",
@@ -346,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国总统特朗普重申提议将新墨西哥州改名为“新美国州”。",
+          "url": "https://flash.jin10.com/detail/20260910095446018800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "美国至9月4日当周API原油进口 40.6万桶，前值24.2万桶。",
@@ -398,7 +513,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -412,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌1%，至46,709.58点。",
+          "url": "https://wallstreetcn.com/livenews/3162897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "美国国务卿鲁比奥获厄瓜多尔总统丹尼尔·诺沃亚授予红十字勋章。",
@@ -453,9 +579,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在崩溃，它几十年来一直是中东的霸凌者，但现在不再是了。我们正处于美国的黄金时代。",
+          "url": "https://flash.jin10.com/detail/20260910094951600800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "日本20年期国债收益率上升5个基点至3.75%。 日本30年期国债收益率上升2个基点至3.975%。 日本10年期国债收益率上升4.5个基点至2.925%。",
+          "url": "https://wallstreetcn.com/livenews/3162894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "路透调查：62%的经济学家预计，日本央行将在2027年第二季度把利率至少上调至1.75%（此前调查预期最终利率为1.50%）。",
@@ -464,7 +612,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -478,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "日本央行审议委员增一行：在考虑日本央行资产负债表的理想规模时，讨论日本政府债券的到期区间将变得更加重要。",
+          "url": "https://flash.jin10.com/detail/20260910094852012800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "俄罗斯：打击乌克兰港口Mykolaiv Port的货物枢纽。",
@@ -508,7 +667,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -524,15 +683,37 @@
           "time_info": "02时13分"
         },
         {
+          "title": "日本央行审议委员增一行：近期没有迹象表明加息影响了企业对资金的需求，但对企业投资是否过热感到担忧。",
+          "url": "https://flash.jin10.com/detail/20260910094659772800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "美国能源部长Wright：委内瑞拉石油产量到2027年年底将翻倍。 企业将宣布更多与委内瑞拉相关的协议。",
           "url": "https://wallstreetcn.com/livenews/3162827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们应该把霍尔木兹海峡改名为“特朗普海峡”。",
+          "url": "https://flash.jin10.com/detail/20260910094643551800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "美国能源部长Wright：通过霍尔木兹海峡输送的石油略微低于1100万桶/日。 （波斯湾地区）通过管道输送的石油为单日300万-500万桶。",
@@ -541,9 +722,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普在美国共和党全国代表大会上发表主旨演讲：就当我的名字出现在今年11月的选票上吧。",
+          "url": "https://wallstreetcn.com/livenews/3162887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国国务卿鲁比奥的谎言无法取代事实。安萨尔真主组织（胡塞武装）是一个独立行动者，会自行作出决定；既不会接受任何人的指令，也不是任何其他人的代理人。",
@@ -552,9 +744,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "PGIM：利率上升推高日本地产交易成本 投资策略更加严格",
+          "url": "https://flash.jin10.com/detail/20260910094633432800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "美国国务卿鲁比奥称，自己目前没有计划参加2028年总统竞选，但不排除未来参选的可能性。",
@@ -563,9 +766,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们将在与伊朗的战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260910094616443800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "Renaissance的Matt Kennedy：SpaceX美国IPO为Anthropic（潜在的IPO）铺平道路。",
@@ -599,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "台湾证交所加权股价指数低开0.1%，报47,130.96点。",
+          "url": "https://wallstreetcn.com/livenews/3162882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
