@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T08:43:10.574330+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-09-11T13:28:19.583998+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 87,
+      "match_count": 99,
       "titles": [
         {
           "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
@@ -16,21 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
-        },
-        {
-          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2479913",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 13时28分]"
         },
         {
           "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
@@ -40,6 +27,31 @@
             5,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗拦截1艘美国无人水面艇",
+          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 13时28分]"
+        },
+        {
+          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2479913",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -68,26 +80,38 @@
           "time_info": "[00时47分 ~ 08时43分]"
         },
         {
-          "title": "伊朗拦截1艘美国无人水面艇",
-          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 08时43分]"
-        },
-        {
           "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
           "url": "https://wallstreetcn.com/articles/3781481",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时28分]"
+        },
+        {
+          "title": "美国民主党：若赢得中期选举，或弹劾防长",
+          "url": "https://news.ifeng.com/c/8wKHq0HZWpL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "据Flightradar24：航班追踪信息显示，美国联合航空(UAL.O)UA915航班（华盛顿—巴黎）在下降过程中挂出7700紧急代码。",
+          "url": "https://flash.jin10.com/detail/20260911125843769800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国财政部围绕制裁伊朗相关制裁发布声明：本次行动针对真主党旅和真主党。",
@@ -99,6 +123,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "青霉素短缺,日本梅毒迅速扩散",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 13时28分]"
         },
         {
           "title": "相关官员：美国联邦航空管理局（FAA）局长布莱恩·贝德福德（Bryan Bedford）周四与航空公司首席执行官会面，讨论利用软件系统减少航班延误的计划。",
@@ -118,7 +154,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -151,7 +187,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -189,6 +225,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "辛鲍姆喊话美国：别在中期选举中利用墨西哥",
+          "url": "https://news.ifeng.com/c/8wK1FD6yakx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "尽管EIA库存报告显示汽油库存意外增加，美国汽油期货基本持平，现涨4.96%。",
           "url": "https://flash.jin10.com/detail/20260911001747852800",
           "source": "金十数据",
@@ -220,17 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "青霉素短缺,日本梅毒迅速扩散",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "日本梅毒暴发与三个一有关",
@@ -277,19 +313,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时28分]"
         },
         {
           "title": "如何看待日本梅毒患者数量居高不下，受辉瑞影响目前青霉素短缺？分析称这与社会「三个一」有关，如何理解？",
           "url": "https://www.zhihu.com/question/2081325661914929014",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时28分]"
         },
         {
           "title": "俄罗斯称有权使用核武器",
@@ -336,6 +373,28 @@
           "time_info": "06时07分"
         },
         {
+          "title": "日本央行下周加息25个基点几成定局，真正的悬念变成“之后加多快”",
+          "url": "https://flash.jin10.com/detail/20260911124030991800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+          "url": "https://wallstreetcn.com/articles/3781519",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国最新一周国内原油产量创下历史新高。",
           "url": "https://flash.jin10.com/detail/20260911001540965800",
           "source": "金十数据",
@@ -353,7 +412,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -391,6 +450,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "韩国总理：美国的战略投资谈判必须实现互利共赢和商业回报。",
+          "url": "https://flash.jin10.com/detail/20260911123134176800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少39.1万桶，彭博用户预计减少11.1万桶、分析师预期下降127.183万桶，之前一周下降445.0万桶。",
           "url": "https://wallstreetcn.com/livenews/3163380",
           "source": "华尔街见闻-快讯",
@@ -408,9 +478,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "韩国总理：正在与美国就战略投资项目进行谈判，进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260911123128422800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国9月4日当周EIA库欣地区原油库存变动 -68.4万桶，前值 8万桶。",
@@ -441,7 +522,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -507,9 +588,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "美国官员称，沙特王储穆罕默德·本·萨勒曼周四两次就胡塞武装问题致电特朗普。萨勒曼敦促美国打击胡塞武装，但遭特朗普拒绝。美国官员称，美国没有计划干预胡塞组织。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3163648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
@@ -584,7 +676,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -644,6 +736,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "欧洲央行加息 25BP，美国 8 月 PPI 略超预期，美联储 9 月加息概率升至 70%，如何解读这组宏观数据？",
+          "url": "https://www.zhihu.com/question/2081481648965797508",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "美国官员：过去30天，伊朗石油装载量约为每日20万桶，低于1月/2月的每日180万桶。",
           "url": "https://flash.jin10.com/detail/20260911023409732800",
           "source": "金十数据",
@@ -672,7 +775,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -804,7 +907,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -875,6 +978,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "据英国金融时报：欧盟寻求批准使用被冻结的俄罗斯资产的新途径。",
+          "url": "https://flash.jin10.com/detail/20260911120743461800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "辛鲍姆喊话美国：别在中期选举中利用墨西哥",
           "url": "https://wallstreetcn.com/livenews/3163484",
           "source": "华尔街见闻-快讯",
@@ -886,13 +1000,24 @@
           "time_info": "06时07分"
         },
         {
+          "title": "知情人士：日本央行准备在下周的政策会议上加息，最有可能加息25个基点。 日本央行或释放准备加快加息步伐的信号，但对终端利率及后续加息时机暂无预设观点。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3163627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "特朗普表示，相信共和党有很大机会赢得美国中期选举。",
           "url": "https://flash.jin10.com/detail/20260911075704546800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -903,7 +1028,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -925,7 +1050,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -939,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "德媒：美国正在拆毁造福世界的秩序",
+          "url": "https://www.toutiao.com/trending/7683763914330177582/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国国防部首席技术官驳斥Anthropic研究员的AI风险警告",
@@ -969,7 +1105,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         }
