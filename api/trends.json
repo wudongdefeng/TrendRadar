@@ -1,412 +1,99 @@
 {
-  "generated_at": "2026-09-11T22:44:55.279597+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-09-12T02:02:28.158475+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 135,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
-          "url": "https://wallstreetcn.com/articles/3781506",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 18时17分]"
-        },
-        {
-          "title": "伊朗拦截1艘美国无人水面艇",
-          "url": "https://news.ifeng.com/c/8wJoPOwElX7",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时23分 ~ 18时17分]"
-        },
-        {
-          "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
-          "url": "https://www.cls.cn/detail/2479967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 13时28分]"
-        },
-        {
-          "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
-          "url": "https://wallstreetcn.com/articles/3781481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时42分 ~ 22时44分]"
-        },
-        {
-          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2479913",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
-        },
-        {
-          "title": "冰岛准备永久停止捕鲸，压力给到挪威和日本",
-          "url": "https://news.ifeng.com/c/8wJVOS2esyy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
-        },
-        {
-          "title": "扎哈罗娃怒斥日本：你们应该跪下道歉，我保证会送你们一朵菊花",
-          "url": "https://news.ifeng.com/c/8wJ6ILaTA6v",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 08时43分]"
-        },
-        {
-          "title": "美国民主党：若赢得中期选举，或弹劾防长",
-          "url": "https://news.ifeng.com/c/8wKHq0HZWpL",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时17分]"
-        },
-        {
-          "title": "辛鲍姆喊话美国：别在中期选举中利用墨西哥",
-          "url": "https://news.ifeng.com/c/8wK1FD6yakx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时17分]"
-        },
-        {
-          "title": "中方上调日本公民赴华签证费",
-          "url": "https://news.ifeng.com/c/8wKka1CD9pj",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "据Flightradar24：航班追踪信息显示，美国联合航空(UAL.O)UA915航班（华盛顿—巴黎）在下降过程中挂出7700紧急代码。",
-          "url": "https://flash.jin10.com/detail/20260911125843769800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国财政部围绕制裁伊朗相关制裁发布声明：本次行动针对真主党旅和真主党。",
-          "url": "https://wallstreetcn.com/livenews/3163446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "青霉素短缺,日本梅毒迅速扩散",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 13时28分]"
-        },
         {
           "title": "美国8月核心CPI同比2.4%创五年半来最低水平，环比0.3%超预期、为4个月来最大涨幅",
           "url": "https://wallstreetcn.com/articles/3781591",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "相关官员：美国联邦航空管理局（FAA）局长布莱恩·贝德福德（Bryan Bedford）周四与航空公司首席执行官会面，讨论利用软件系统减少航班延误的计划。",
-          "url": "https://flash.jin10.com/detail/20260911002430260800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "日经225指数日内跌幅扩大至2%。 日本东证指数跌幅扩大至2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3163556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯对对话持开放态度，寻求三方会谈。（国际文传通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3164026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据华尔街日报：五角大楼正洽谈向AI云计算初创公司FluidStack提供约50亿美元贷款，以加强美国数据中心供应链。",
-          "url": "https://flash.jin10.com/detail/20260911054339367800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国财长贝森特：我们将走向能源供应冲击的“另外一侧”。",
-          "url": "https://wallstreetcn.com/livenews/3163508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "日本10年期国债收益率上升5.5个基点至2.965%。",
-          "url": "https://wallstreetcn.com/livenews/3163554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "02时02分"
         },
         {
           "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
           "url": "https://wallstreetcn.com/articles/3781549",
           "source": "华尔街见闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "日本内阁官房长官称有必要设对外情报机构",
+          "url": "https://news.ifeng.com/c/8wLLobANmk2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫官员：俄罗斯官员将出席下周在美国得州休斯顿举行的二十国集团（G20）能源会议。",
+          "url": "https://wallstreetcn.com/livenews/3164080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
+          "url": "https://www.cls.cn/detail/2481229",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国 8 月 CPI 同比增长 3.4%，市场预期到年底前美联储将加息两次，如何解读？",
+          "url": "https://www.zhihu.com/question/2081457838543597642",
+          "source": "知乎",
+          "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "02时02分"
         },
         {
           "title": "“伊朗发了一条消息，嘲讽美国”",
           "url": "https://news.ifeng.com/c/8wKuxrz593c",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "EIA库存报告显示柴油库存意外增加后，美国柴油期货涨幅收窄，现涨4.8%。",
-          "url": "https://flash.jin10.com/detail/20260911001834647800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国财长贝森特：（关于美国财政部今日进行的国债回购操作）投资者并未要求持有期限更长的债务获得额外溢价。由于我们只会在价格便宜时买入，因此回购规模没有达到我此前所说的数量。",
-          "url": "https://flash.jin10.com/detail/20260911054141490800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
-          "url": "https://wallstreetcn.com/livenews/3163507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "尽管EIA库存报告显示汽油库存意外增加，美国汽油期货基本持平，现涨4.96%。",
-          "url": "https://flash.jin10.com/detail/20260911001747852800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国财长贝森特：我们拥有全球表现最佳的债券市场。",
-          "url": "https://flash.jin10.com/detail/20260911053950001800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国扩大对沙特行动的情报和目标锁定支持。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3163441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "日本的梅毒到底严重到什么地步",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%A2%85%E6%AF%92%E5%88%B0%E5%BA%95%E4%B8%A5%E9%87%8D%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 22时44分]"
-        },
-        {
-          "title": "日本梅毒暴发与三个一有关",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
-          "url": "https://wallstreetcn.com/articles/3781496",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 18时17分]"
-        },
-        {
-          "title": "日本正在把全球“拖下水”",
-          "url": "https://wallstreetcn.com/articles/3781459",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 08时43分]"
-        },
-        {
-          "title": "日本百岁老人开拖拉机不慎侧翻身亡",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E5%BC%80%E6%8B%96%E6%8B%89%E6%9C%BA%E4%B8%8D%E6%85%8E%E4%BE%A7%E7%BF%BB%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 08时43分]"
-        },
-        {
-          "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
-          "url": "https://wallstreetcn.com/articles/3781519",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 22时44分]"
-        },
-        {
-          "title": "如何看待日本梅毒患者数量居高不下，受辉瑞影响目前青霉素短缺？分析称这与社会「三个一」有关，如何理解？",
-          "url": "https://www.zhihu.com/question/2081325661914929014",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时42分 ~ 13时28分]"
+          "time_info": "02时02分"
         },
         {
           "title": "日本的梅毒到底严重到什么地步",
@@ -416,1098 +103,349 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 22时44分]"
-        },
-        {
-          "title": "中国驻日本大使馆：调整对日签证规费",
-          "url": "https://www.cls.cn/detail/2480558",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 22时44分]"
-        },
-        {
-          "title": "《孤独的美食家》里的日本小馆，为什么喜欢把座位直接设在厨房前？",
-          "url": "https://www.zhihu.com/question/2073047511502267101",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 22时44分]"
-        },
-        {
-          "title": "俄罗斯称有权使用核武器",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E6%9C%89%E6%9D%83%E4%BD%BF%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
-        },
-        {
-          "title": "英伟达被点名调查！美国AI行业交易将迎来更严审查",
-          "url": "https://www.cls.cn/detail/2479385",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国8月CPI基本符合预期 国际油价大幅回落 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2481177",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "尽管美国能源信息署（EIA）库存报告显示美国周度原油库存降幅小于预期，但美国原油期货和布伦特原油期货价格变动不大。",
-          "url": "https://flash.jin10.com/detail/20260911001643634800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国财长贝森特：下周一将对一家大型银行实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260911053747635800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "日本央行下周加息25个基点几成定局，真正的悬念变成“之后加多快”",
-          "url": "https://flash.jin10.com/detail/20260911124030991800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国最新一周国内原油产量创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260911001540965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "日本30年期国债收益率上升5个基点，至4.055%。日本10年期国债收益率上升5.5个基点，达到2.965%。",
-          "url": "https://flash.jin10.com/detail/20260911082049786800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.76%，创2025年6月以来新高；前值6.71%。",
-          "url": "https://wallstreetcn.com/livenews/3163381",
+          "title": "美国9月11日当周石油钻井数 450，前值 449。",
+          "url": "https://wallstreetcn.com/livenews/3164076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国原油期货收涨至102美元上方，取暖油期货站上5美元",
-          "url": "https://wallstreetcn.com/livenews/3163437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
           "title": "台湾博主造谣迪士尼后秒怂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363662&amp;topic_name=%E5%8F%B0%E6%B9%BE%E5%8D%9A%E4%B8%BB%E9%80%A0%E8%B0%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%90%8E%E7%A7%92%E6%80%82",
           "source": "贴吧",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+          "url": "https://wallstreetcn.com/articles/3781519",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国8月CPI基本符合预期 国际油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2481177",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫官员：俄罗斯官员将于下周出席在休斯顿举行的G20能源会议。",
+          "url": "https://flash.jin10.com/detail/20260912012022544800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国9月11日当周总钻井数 591，前值 588。",
+          "url": "https://wallstreetcn.com/livenews/3164075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国9月11日当周天然气钻井数 132，前值 130。",
+          "url": "https://wallstreetcn.com/livenews/3164074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "中方上调日本公民赴华签证费用，外交部：根据对等原则作出安排",
           "url": "https://m.thepaper.cn/newsDetail_forward_34050270",
           "source": "澎湃新闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据俄新社：俄罗斯国防部表示，俄罗斯军队在乌克兰切尔诺莫尔斯克港击中一艘货船。",
-          "url": "https://flash.jin10.com/detail/20260911001440853800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "韩国总理：美国的战略投资谈判必须实现互利共赢和商业回报。",
-          "url": "https://flash.jin10.com/detail/20260911123134176800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少39.1万桶，彭博用户预计减少11.1万桶、分析师预期下降127.183万桶，之前一周下降445.0万桶。",
-          "url": "https://wallstreetcn.com/livenews/3163380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "日本8月国内企业商品物价指数环比 -0.2%，预期 0%，前值 0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3163549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "美国与地图的故事",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%9C%B0%E5%9B%BE%E7%9A%84%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "韩国总理：正在与美国就战略投资项目进行谈判，进展顺利。",
-          "url": "https://flash.jin10.com/detail/20260911123128422800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国消费者信心连续第二个月下降 一年期通胀预期上升",
-          "url": "https://flash.jin10.com/detail/20260911220239117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国9月4日当周EIA库欣地区原油库存变动 -68.4万桶，前值 8万桶。",
-          "url": "https://wallstreetcn.com/livenews/3163379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "周四（9月10日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报225.67点，整体低开高走。 “超大”市值科技股指数跌0.75%，报449.62点，跳空低开之后低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3163501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "日本8月国内企业商品物价指数同比 7.6%，预期 7.4%，前值 7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3163548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "日本呼吁孕妇优先用梅毒“救命药”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%AD%95%E5%A6%87%E4%BC%98%E5%85%88%E7%94%A8%E6%A2%85%E6%AF%92%E2%80%9C%E6%95%91%E5%91%BD%E8%8D%AF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "房地美：美国抵押贷款利率上升至6.76%，为2025年6月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260911001142998800",
+          "title": "贝克休斯：美国能源公司在四周内首次增加钻井平台。",
+          "url": "https://flash.jin10.com/detail/20260912010618472800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国财政部金融犯罪执法网络（FinCEN）：发布举报人公告，寻求有关支持伊朗非法融资活动的线索。",
-          "url": "https://flash.jin10.com/detail/20260911023652537800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "据Axios网站：美国众议院共和党领导层计划于下周将《纳税人保护法案》提交众议院审议，该法案旨在防止数据中心快速扩张推高美国居民电费。",
-          "url": "https://flash.jin10.com/detail/20260911053140111800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "巴克莱：将美国联合航空(UAL.O)目标价从175美元下调至160美元。",
-          "url": "https://flash.jin10.com/detail/20260911174437418800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国9月4日当周EIA汽油库存变动 126.9万桶，前值 -117.3万桶。",
-          "url": "https://wallstreetcn.com/livenews/3163378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "日本三季度BSI大型制造业信心指数 7.6，前值 -1.8。",
-          "url": "https://wallstreetcn.com/livenews/3163547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "美国官员称，沙特王储穆罕默德·本·萨勒曼周四两次就胡塞武装问题致电特朗普。萨勒曼敦促美国打击胡塞武装，但遭特朗普拒绝。美国官员称，美国没有计划干预胡塞组织。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3163648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
-          "url": "https://flash.jin10.com/detail/20260911023629410800",
+          "title": "美国至9月11日当周总钻井总数 591口，前值588口。",
+          "url": "https://flash.jin10.com/detail/20260912010225610800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "据彭博亿万富豪指数显示，LVMH集团创始人阿尔诺跌出全球十大富豪榜，全球最富有者排名首次由美国科技富豪全面占据。",
-          "url": "https://flash.jin10.com/detail/20260911052714585800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国9月一年期通胀率预期初值 4.6%，预期4.2%，前值4.00%。",
-          "url": "https://flash.jin10.com/detail/20260911220003489800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国9月4日当周EIA精炼厂设备利用率变化 -0.2%，前值 0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3163377",
+          "title": "德国两年期国债收益率跌超4个基点，本周累涨超24个基点，投资者权衡国际油价走势、美国CPI数据",
+          "url": "https://wallstreetcn.com/livenews/3164071",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国能源信息署（EIA）：美国炼油厂最新一周原油净输入量上升至2019年8月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260911000937338800",
+          "title": "美国至9月11日当周天然气钻井总数 132口，前值130口。",
+          "url": "https://flash.jin10.com/detail/20260912010208835800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
-          "url": "https://flash.jin10.com/detail/20260911023604444800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "美国9月五至十年期通胀率预期初值 3.4%，预期3.3%，前值3.30%。",
-          "url": "https://flash.jin10.com/detail/20260911220003488800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国9月4日当周EIA精炼油库存变动 208.7万桶，前值 79.6万桶。",
-          "url": "https://wallstreetcn.com/livenews/3163376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "Kalshi获美国CFTC批准上线黄金白银永续合约，扩大期货产品版图",
-          "url": "https://wallstreetcn.com/livenews/3163560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（9月10日，美国CPI出炉的前夜）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3164015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国最新一周自尼日利亚进口原油量上升至2025年7月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260911000920354800",
+          "title": "美国至9月11日当周石油钻井总数 450口，前值449口。",
+          "url": "https://flash.jin10.com/detail/20260912010142650800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国柴油价格首次站上6美元 美国通胀压力再添新风险",
-          "url": "https://flash.jin10.com/detail/20260911052523154800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国9月密歇根大学预期指数初值 45.8，预期50.5，前值51.5。",
-          "url": "https://flash.jin10.com/detail/20260911220002375800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国9月4日当周EIA原油库存变动 -39.1万桶，前值 -445万桶。",
-          "url": "https://wallstreetcn.com/livenews/3163375",
+          "title": "报道：美国权衡如何利用《国防生产法》提升炼油产能",
+          "url": "https://wallstreetcn.com/livenews/3164069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "加拿大总理卡尼：正在研究美国针对加拿大的新贸易措施。 美国最新针对加拿大的贸易措施力度温和。 我们随时准备与美方坐下来谈判。",
-          "url": "https://wallstreetcn.com/livenews/3163496",
+          "title": "美国参议院Warren发函给财政部长贝森特，质询他“俄罗斯外长为何出席了近期在美国主办的二十国集团（G20）会议”。",
+          "url": "https://wallstreetcn.com/livenews/3164068",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国官员：伊朗石油卸货量降至每日90万桶，低于战争前的每日140万桶。",
-          "url": "https://flash.jin10.com/detail/20260911023417697800",
-          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国9月密歇根大学现况指数初值 50.9，预期51.3，前值51.9。",
-          "url": "https://flash.jin10.com/detail/20260911220002357800",
+          "title": "美国至9月11日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260912005000002800",
           "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "02时02分"
         },
         {
-          "title": "欧洲央行加息 25BP，美国 8 月 PPI 略超预期，美联储 9 月加息概率升至 70%，如何解读这组宏观数据？",
-          "url": "https://www.zhihu.com/question/2081481648965797508",
+          "title": "白宫考虑动用《国防生产法》扩大美国炼油能力",
+          "url": "https://flash.jin10.com/detail/20260912004905087800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "俄罗斯总统普京会见了埃及总统塞西。",
+          "url": "https://flash.jin10.com/detail/20260912004625146800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国可以设法从（总统特朗普提议的）5000美元现金支票中“创收”。 这笔（财政）开销不会依赖税收。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3164064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "为什么打到现在，伊朗还有能力反击美国？",
+          "url": "https://www.zhihu.com/question/2017262320611508261",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国官员：过去30天，伊朗石油装载量约为每日20万桶，低于1月/2月的每日180万桶。",
-          "url": "https://flash.jin10.com/detail/20260911023409732800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "美国9月密歇根大学消费者信心指数初值 47.8，预期51，前值51.7。",
-          "url": "https://flash.jin10.com/detail/20260911220002274800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国官员：过去一周，水上运输中的伊朗或疑似伊朗原油平均为1.1亿桶，而战争前为1.8亿桶。",
-          "url": "https://flash.jin10.com/detail/20260911023351284800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "日本10年期国债收益率上升5.5个基点，至2.965%。",
-          "url": "https://flash.jin10.com/detail/20260911080410108800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：（美国）对德黑兰施加的压力已达到“危险”阶段。",
-          "url": "https://flash.jin10.com/detail/20260911215958670800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国官员将宣布环孢子虫病（cyclosporiasis）疫情结束。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3163426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "美国财政部网站发布新一轮伊朗相关制裁。",
-          "url": "https://flash.jin10.com/detail/20260911023310762800",
-          "source": "金十数据",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3163371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "大幅上调日本公民赴华签证规费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%B0%83%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81%E8%A7%84%E8%B4%B9%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶102.48美元，上涨6.43美元，涨幅6.69%。",
-          "url": "https://flash.jin10.com/detail/20260911023047460800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "随着战争创造需求，美国一种关键中质含硫原油价格飙升",
-          "url": "https://wallstreetcn.com/livenews/3163423",
+          "title": "埃及寻求从俄罗斯、乌克兰获取稳定的谷物供应。（国际文传电讯社）",
+          "url": "https://wallstreetcn.com/livenews/3164063",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "OpenAI因“严重关切”而被美国参议员质询Astra模型",
-          "url": "https://wallstreetcn.com/livenews/3163491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国密歇根大学消费者信心调查主任Joanne Hsu在一份声明中表示：本月对特朗普政府经济政策的看法恶化了约10%，且仍远低于2026年2月的水平，即伊朗冲突爆发前夕。 值得注意的是，即使是通常支持现任政府经济政策的共和党人，其好感度也出现了明显下降。",
-          "url": "https://wallstreetcn.com/livenews/3164008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国8月CPI加息预期升温",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD8%E6%9C%88CPI%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E5%8D%87%E6%B8%A9&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "金十数据整理：美国当周EIA数据最值一览",
-          "url": "https://flash.jin10.com/detail/20260911000407943800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "加拿大总理卡尼：美国最新针对加拿大的贸易措施影响有限。",
-          "url": "https://flash.jin10.com/detail/20260911051340416800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国密歇根大学消费者信心调查结果显示：自2023年以来，首次有大多数消费者预计，随着美联储采取行动遏制通胀，未来一年的利率将会上升。 9月份，消费者对未来一年经济的看法恶化至2022年7月以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3164007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
-          "url": "https://flash.jin10.com/detail/20260911000146366800",
+          "title": "据路透：消息人士称，白宫正在考虑如何利用《国防生产法》扩大美国炼油能力，以应对燃料价格飙升。",
+          "url": "https://flash.jin10.com/detail/20260912004112774800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "日本考虑补贴国防装备生产。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3163820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国至9月4日当周EIA蒸馏燃油产量引伸需求数据 523.49万桶/日，前值512.53万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260911000120819800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.775%，投标倍数2.81。 拍卖八周期国债，得标利率3.845%，投标倍数2.82。",
-          "url": "https://wallstreetcn.com/livenews/3163367",
+          "title": "俄罗斯二季度GDP初值同比增长1.3%，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3164057",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国财长贝森特解释自己日前的“我是庄家”之说，称：当我说我是庄家时，我并不是在挑战别人来找我。 但我是在试图说明我拥有更优越的信息，并且我正在努力给市场提供良好的框架，这样他们就不会恐慌。",
-          "url": "https://wallstreetcn.com/livenews/3163535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "美国至9月4日当周EIA车用汽油总产量引伸需求数据 942.27万桶/日，前值985.73万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260911000110353800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国芝加哥商业交易所集团（CME Group）将于12月7日推出CME证券清算服务，旨在提升美国国债市场的清算能力、选择多样性及资本效率。",
-          "url": "https://wallstreetcn.com/livenews/3163366",
+          "title": "美国第二季度家庭净资产创纪录环比增加12.803万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3164056",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "02时02分"
         },
         {
-          "title": "Robinson要求美国最高法院审查体育预测市场裁决",
-          "url": "https://wallstreetcn.com/livenews/3163486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国9月密歇根大学消费者信心指数初值 47.8，预期 51，前值 51.7。",
-          "url": "https://wallstreetcn.com/livenews/3164004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美国至9月4日当周EIA原油产量引伸需求数据 2082.7万桶/日，前值2126.8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260911000058736800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国负责也门事务的高级外交官尼尔·霍普会见也门政府外长阿芙拉·祖巴，重申美国支持也门政府，并讨论加强外交合作与地区安全。",
-          "url": "https://flash.jin10.com/detail/20260911050011455800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗拦截一艘美国无人水面艇",
-          "url": "https://wallstreetcn.com/livenews/3163418",
+          "title": "美国农业部（USDA）：预计美国期末棉花库存360万捆，分析师预期379万捆，USDA之前预计400万捆。",
+          "url": "https://wallstreetcn.com/livenews/3164054",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国9月密歇根大学消费者预期指数初值 45.8，预期 51，前值 51.5。",
-          "url": "https://wallstreetcn.com/livenews/3164003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据英国金融时报：欧盟寻求批准使用被冻结的俄罗斯资产的新途径。",
-          "url": "https://flash.jin10.com/detail/20260911120743461800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "辛鲍姆喊话美国：别在中期选举中利用墨西哥",
-          "url": "https://wallstreetcn.com/livenews/3163484",
+          "title": "美国二季度家庭净值变动 128034亿美元，前值 1130亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3164055",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "02时02分"
         },
         {
-          "title": "知情人士：日本央行准备在下周的政策会议上加息，最有可能加息25个基点。 日本央行或释放准备加快加息步伐的信号，但对终端利率及后续加息时机暂无预设观点。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3163627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美国9月密歇根大学5年通胀预期初值 3.4，预期 3.3，前值 3.3。",
-          "url": "https://wallstreetcn.com/livenews/3164002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "特朗普表示，相信共和党有很大机会赢得美国中期选举。",
-          "url": "https://flash.jin10.com/detail/20260911075704546800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "澳大利亚三年期国债收益率涨16.59个基点，在悉尼盘初刷新2011年5月份以来最高位至5.0170%。 隔夜，美国两年期国债收益率一度涨15个基点。",
-          "url": "https://wallstreetcn.com/livenews/3163531",
+          "title": "美国农业部（USDA）：预计美国期末小麦总库存7.1777亿蒲式耳，分析师预期71.777亿蒲式耳，USDA之前预计71.7亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3164053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "02时02分"
         },
         {
-          "title": "日本2026年临时国会会期预计为69天。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3163810",
-          "source": "华尔街见闻-快讯",
+          "title": "美国CPI公布后美股拉升",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI%E5%85%AC%E5%B8%83%E5%90%8E%E7%BE%8E%E8%82%A1%E6%8B%89%E5%8D%87&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国9月密歇根大学1年通胀预期初值 4.6，预期 4.2，前值 4。",
-          "url": "https://wallstreetcn.com/livenews/3164001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
-          "url": "https://flash.jin10.com/detail/20260911021724069800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "日本第三季度BSI大型非制造业信心指数 4.2，前值-0.5。",
-          "url": "https://flash.jin10.com/detail/20260911075550412800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "报道：德鲁肯米勒称美国借贷成本仍“有点低”",
-          "url": "https://wallstreetcn.com/livenews/3163414",
+          "title": "美国农业部（USDA）：预计美国期末玉米库存15.10877亿蒲式耳，分析师预期15.108亿蒲式耳，USDA之前预计16.53亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3164052",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时02分"
         },
         {
-          "title": "美国9月密歇根大学消费者现况指数初值 50.9，预期 51.6，前值 51.9。",
-          "url": "https://wallstreetcn.com/livenews/3164000",
+          "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期2.9137亿蒲式耳，USDA之前预计3.20亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3164051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "德媒：美国正在拆毁造福世界的秩序",
-          "url": "https://www.toutiao.com/trending/7683763914330177582/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "02时02分"
         },
         {
-          "title": "中方回应上调日本公民赴华签证费",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E8%B0%83%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国国防部首席技术官驳斥Anthropic研究员的AI风险警告",
-          "url": "https://wallstreetcn.com/livenews/3163411",
+          "title": "知名策略师认为美国中期选举前汽油价格达到5美元的风险“极高”",
+          "url": "https://wallstreetcn.com/livenews/3164049",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "美国两年期国债收益率涨15个基点，报4.58%，创2024年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3163479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "IEA进一步下调俄罗斯石油产量预期，因乌克兰持续袭击能源设施",
-          "url": "https://wallstreetcn.com/livenews/3163804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国贸易和发展署（USTDA）署长哈迪（Thomas Hardy）：USTDA正在完成一份关于钴加工设施的最终报告，该设施旨在升级菲律宾的关键矿产精炼能力，同时该机构正在完成拟议中的苏比克-克拉克-巴丹加斯-马尼拉（Subic-Clark-Batangas-Manila）铁路的可行性研究。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3163526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "俄罗斯启动5G网络商用服务",
-          "url": "https://wallstreetcn.com/livenews/3163995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "02时02分"
         }
       ]
     }
