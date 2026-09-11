@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T06:07:57.879976+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-09-11T08:43:10.574330+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 70,
+      "match_count": 87,
       "titles": [
         {
           "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "冰岛准备永久停止捕鲸，压力给到挪威和日本",
@@ -51,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "扎哈罗娃怒斥日本：你们应该跪下道歉，我保证会送你们一朵菊花",
@@ -62,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
         },
         {
           "title": "伊朗拦截1艘美国无人水面艇",
@@ -73,8 +75,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 08时43分]"
+        },
+        {
+          "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 06时07分]"
+          "time_info": "[08时42分 ~ 08时43分]"
         },
         {
           "title": "美国财政部围绕制裁伊朗相关制裁发布声明：本次行动针对真主党旅和真主党。",
@@ -99,13 +112,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "日经225指数日内跌幅扩大至2%。 日本东证指数跌幅扩大至2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3163556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "据华尔街日报：五角大楼正洽谈向AI云计算初创公司FluidStack提供约50亿美元贷款，以加强美国数据中心供应链。",
           "url": "https://flash.jin10.com/detail/20260911054339367800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -116,9 +140,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "日本10年期国债收益率上升5.5个基点至2.965%。",
+          "url": "https://wallstreetcn.com/livenews/3163554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "EIA库存报告显示柴油库存意外增加后，美国柴油期货涨幅收窄，现涨4.8%。",
@@ -138,7 +173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -149,7 +184,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -171,7 +206,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -187,6 +222,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "青霉素短缺,日本梅毒迅速扩散",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时43分]"
+        },
+        {
           "title": "日本梅毒暴发与三个一有关",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -199,26 +245,16 @@
           "time_info": "[00时47分 ~ 03时23分]"
         },
         {
-          "title": "青霉素短缺,日本梅毒迅速扩散",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363425&amp;topic_name=%E9%9D%92%E9%9C%89%E7%B4%A0%E7%9F%AD%E7%BC%BA%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E8%BF%85%E9%80%9F%E6%89%A9%E6%95%A3",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 06时07分]"
-        },
-        {
           "title": "日本正在把全球“拖下水”",
           "url": "https://wallstreetcn.com/articles/3781459",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 06时07分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 08时43分]"
         },
         {
           "title": "日本百岁老人开拖拉机不慎侧翻身亡",
@@ -226,11 +262,45 @@
           "source": "百度热搜",
           "ranks": [
             18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 08时43分]"
+        },
+        {
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 08时43分]"
+        },
+        {
+          "title": "如何看待日本梅毒患者数量居高不下，受辉瑞影响目前青霉素短缺？分析称这与社会「三个一」有关，如何理解？",
+          "url": "https://www.zhihu.com/question/2081325661914929014",
+          "source": "知乎",
+          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 06时07分]"
+          "time_info": "[08时42分 ~ 08时43分]"
+        },
+        {
+          "title": "俄罗斯称有权使用核武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E6%9C%89%E6%9D%83%E4%BD%BF%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 08时43分]"
         },
         {
           "title": "英伟达被点名调查！美国AI行业交易将迎来更严审查",
@@ -261,7 +331,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -275,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "日本30年期国债收益率上升5个基点，至4.055%。日本10年期国债收益率上升5.5个基点，达到2.965%。",
+          "url": "https://flash.jin10.com/detail/20260911082049786800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.76%，创2025年6月以来新高；前值6.71%。",
@@ -321,6 +402,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "日本8月国内企业商品物价指数环比 -0.2%，预期 0%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3163549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "美国9月4日当周EIA库欣地区原油库存变动 -68.4万桶，前值 8万桶。",
           "url": "https://wallstreetcn.com/livenews/3163379",
           "source": "华尔街见闻-快讯",
@@ -338,9 +430,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "日本8月国内企业商品物价指数同比 7.6%，预期 7.4%，前值 7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3163548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "日本呼吁孕妇优先用梅毒“救命药”",
@@ -382,7 +485,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -396,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "日本三季度BSI大型制造业信心指数 7.6，前值 -1.8。",
+          "url": "https://wallstreetcn.com/livenews/3163547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
@@ -415,7 +529,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -464,6 +578,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "Kalshi获美国CFTC批准上线黄金白银永续合约，扩大期货产品版图",
+          "url": "https://wallstreetcn.com/livenews/3163560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国最新一周自尼日利亚进口原油量上升至2025年7月以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260911000920354800",
           "source": "金十数据",
@@ -481,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -503,7 +628,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -539,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "日本10年期国债收益率上升5.5个基点，至2.965%。",
+          "url": "https://flash.jin10.com/detail/20260911080410108800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "美国官员将宣布环孢子虫病（cyclosporiasis）疫情结束。（华盛顿邮报）",
@@ -602,7 +738,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -624,7 +760,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -662,6 +798,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国财长贝森特解释自己日前的“我是庄家”之说，称：当我说我是庄家时，我并不是在挑战别人来找我。 但我是在试图说明我拥有更优越的信息，并且我正在努力给市场提供良好的框架，这样他们就不会恐慌。",
+          "url": "https://wallstreetcn.com/livenews/3163535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "美国至9月4日当周EIA车用汽油总产量引伸需求数据 942.27万桶/日，前值985.73万桶/日。",
           "url": "https://flash.jin10.com/detail/20260911000110353800",
           "source": "金十数据",
@@ -690,7 +837,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -712,7 +859,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -734,9 +881,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普表示，相信共和党有很大机会赢得美国中期选举。",
+          "url": "https://flash.jin10.com/detail/20260911075704546800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "澳大利亚三年期国债收益率涨16.59个基点，在悉尼盘初刷新2011年5月份以来最高位至5.0170%。 隔夜，美国两年期国债收益率一度涨15个基点。",
+          "url": "https://wallstreetcn.com/livenews/3163531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "加拿大总理卡尼：在最近几天与美国总统特朗普聊了几次。",
@@ -748,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "日本第三季度BSI大型非制造业信心指数 4.2，前值-0.5。",
+          "url": "https://flash.jin10.com/detail/20260911075550412800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "报道：德鲁肯米勒称美国借贷成本仍“有点低”",
@@ -778,9 +958,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美国贸易和发展署（USTDA）署长哈迪（Thomas Hardy）：USTDA正在完成一份关于钴加工设施的最终报告，该设施旨在升级菲律宾的关键矿产精炼能力，同时该机构正在完成拟议中的苏比克-克拉克-巴丹加斯-马尼拉（Subic-Clark-Batangas-Manila）铁路的可行性研究。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3163526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     }
