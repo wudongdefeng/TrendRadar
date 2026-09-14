@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-15T04:05:40.417480+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-15T07:38:32.060999+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 26,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
+          "url": "https://wallstreetcn.com/articles/3781667",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 07时38分]"
+        },
         {
           "title": "伊朗总统佩泽希齐扬：美国因为找不到我们的最高领袖，便开始散布关于他健康状况的谣言。最高领袖身体完全健康，最终决定由他做出。",
           "url": "https://flash.jin10.com/detail/20260915035356605800",
@@ -30,17 +42,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
-          "url": "https://wallstreetcn.com/articles/3781667",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
           "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
           "url": "https://news.ifeng.com/c/8wPtYgPuyUB",
           "source": "凤凰网",
@@ -52,26 +53,27 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国加州州长纽森排除2028年对决哈里斯：她若参选总统我就放弃角逐",
+          "url": "https://wallstreetcn.com/livenews/3165089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
           "url": "https://wallstreetcn.com/articles/3781665",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：我们反对以色列和美国的暴行。",
-          "url": "https://flash.jin10.com/detail/20260915033354715800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 07时38分]"
         },
         {
           "title": "日本滨冈核电站被查出大量数据造假，多名高管请辞",
@@ -79,6 +81,39 @@
           "source": "凤凰网",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 07时38分]"
+        },
+        {
+          "title": "日本警察车内偷情女下属",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364147&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E8%BD%A6%E5%86%85%E5%81%B7%E6%83%85%E5%A5%B3%E4%B8%8B%E5%B1%9E",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 07时38分]"
+        },
+        {
+          "title": "甲骨文：美国法院关于空气质量的命令并不涵盖数据中心",
+          "url": "https://wallstreetcn.com/livenews/3165088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们反对以色列和美国的暴行。",
+          "url": "https://flash.jin10.com/detail/20260915033354715800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,6 +131,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：伊朗无法与美国谈判，因为华盛顿从未兑现其承诺。伊朗的要求与此前保持一致。",
           "url": "https://wallstreetcn.com/livenews/3165020",
           "source": "华尔街见闻-快讯",
@@ -107,15 +153,26 @@
           "time_info": "04时05分"
         },
         {
-          "title": "日本警察车内偷情女下属",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364147&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E8%BD%A6%E5%86%85%E5%81%B7%E6%83%85%E5%A5%B3%E4%B8%8B%E5%B1%9E",
-          "source": "贴吧",
+          "title": "市场消息：美国司法部长布兰奇将于明日在白宫举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260915063609010800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美国钨企获美战争部4.5亿美元入股 股价盘中一度暴涨55%创新高",
+          "url": "https://www.cls.cn/detail/2482873",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "伊朗总统佩泽希齐扬： 所谓伊朗正在谋求核武器的说法纯属谎言，就如同美国制造的其他谎言一样；这些指控不过是袭击伊朗的借口。",
@@ -173,6 +230,39 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国白宫人工智能顾问萨克斯：像Anthropic首席执行官兼联合创始人达里奥·阿莫代伊这样的科技领袖有责任确保其产品安全。如果他们无法控制自己所构建的东西，就应该“让位”。",
+          "url": "https://flash.jin10.com/detail/20260915062329150800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "为什么打到现在，伊朗还有能力反击美国？",
+          "url": "https://www.zhihu.com/question/2017262320611508261",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "周二亚太盘初，WTI原油期货高开0.7%，伊朗说没有与美国对话，伊朗革命卫队称一艘油轮试图穿越海峡时触雷爆炸。",
+          "url": "https://wallstreetcn.com/livenews/3165077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美国银行CEO Brian Moynihan：投行团队做得很好。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3165011",
           "source": "华尔街见闻-快讯",
@@ -182,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "OpenAI顶级游说专家Lehane周一会见了美国国会山的议员们。 Lehane还打算会见（国会山的）领导层。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3165076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "台湾东海大学教授陈以爱加盟复旦大学",
@@ -206,6 +307,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国参议院共和党成员McConnell：今天将进行（我自己康复以来的首次）参议院投票。",
+          "url": "https://wallstreetcn.com/livenews/3165074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "伊朗总统：即便是那些对伊朗国内现状不满、遭遇困境、持有不同意见的民众，也捍卫了伊朗的领土完整，并抗议美国的侵略。 有大量旅居海外的伊朗人选择回到伊朗。",
           "url": "https://wallstreetcn.com/livenews/3165008",
           "source": "华尔街见闻-快讯",
@@ -215,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国空军部长称美拥有“在轨”太空控制武器",
+          "url": "https://wallstreetcn.com/livenews/3165073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "美国银行CEO Brian Moynihan：审慎部署人工智能（AI），采取必要的管控措施。 听到人工智能企业认真对待（管控）相关问题，令人感到鼓舞。（彭博电视）",
@@ -237,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国10年期国债期货下跌6个点，30年期国债期货下跌9个点。",
+          "url": "https://flash.jin10.com/detail/20260915060254910800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们与地区国家没有矛盾，但反对美国在该地区设立基地。美国既拿走石油收入，又挑拨各国相互争斗。",
@@ -272,6 +406,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国参议员麦康奈尔：今天，我将在6月严重摔倒后首次参加参议院投票。",
+          "url": "https://flash.jin10.com/detail/20260915060213128800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美国众议院关键民主党人反对成立AI特别委员会",
           "url": "https://wallstreetcn.com/livenews/3165002",
           "source": "华尔街见闻-快讯",
@@ -283,6 +428,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国参议院少数党领袖舒默：即使当前拥有一位“高智商总统”，我们也不能对人工智能的危险视而不见。现在发出的警告信号，比以往任何时候都更加明显。",
+          "url": "https://flash.jin10.com/detail/20260915054306076800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美国好市多上调机油产品价格并限购",
+          "url": "https://flash.jin10.com/detail/20260915054252958800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美国向委内瑞拉国家石油公司（PDVSA）颁发委内瑞拉52C号通用许可证。",
           "url": "https://wallstreetcn.com/livenews/3165000",
           "source": "华尔街见闻-快讯",
@@ -292,6 +459,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国空军部长称美拥有“在轨”太空控制武器",
+          "url": "https://flash.jin10.com/detail/20260915054009692800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "报道：五角大楼副部长将向美国议员解释为何需要1.5万亿美元国防预算",
+          "url": "https://wallstreetcn.com/livenews/3165062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     }
