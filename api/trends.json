@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-24T08:09:06.425397+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-09-24T13:41:45.887276+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 65,
+      "match_count": 92,
       "titles": [
         {
           "title": "习近平离京对美国进行国事访问",
           "url": "https://m.thepaper.cn/newsDetail_forward_34133139",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 13时41分]"
         },
         {
           "title": "习近平离京对美国进行国事访问",
@@ -25,11 +26,23 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 13时41分]"
+        },
+        {
+          "title": "习近平抵达华盛顿对美国进行国事访问",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时09分]"
+          "time_info": "[05时55分 ~ 13时41分]"
         },
         {
           "title": "妄称对中国的“外交胜利”？日本网民：不对",
@@ -43,17 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时09分]"
-        },
-        {
-          "title": "习近平抵达华盛顿对美国进行国事访问",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 08时09分]"
         },
         {
           "title": "习近平离京对美国进行国事访问",
@@ -100,6 +102,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "视频丨习近平抵达华盛顿对美国进行国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34138791",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "习近平离京对美国进行国事访问",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE",
           "source": "bilibili 热搜",
@@ -122,15 +135,83 @@
           "time_info": "05时56分"
         },
         {
+          "title": "波兰军方：波兰空军已结束与俄罗斯对乌克兰袭击相关的行动；未记录到空域违规行为。",
+          "url": "https://flash.jin10.com/detail/20260924132238239800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "日本99岁老人不工作就没饭吃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365195&amp;topic_name=%E6%97%A5%E6%9C%AC99%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%8D%E5%B7%A5%E4%BD%9C%E5%B0%B1%E6%B2%A1%E9%A5%AD%E5%90%83",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 13时41分]"
+        },
+        {
+          "title": "美国梦碎,金牌讲师回国创业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365152&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%A2%8E%2C%E9%87%91%E7%89%8C%E8%AE%B2%E5%B8%88%E5%9B%9E%E5%9B%BD%E5%88%9B%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 13时41分]"
+        },
+        {
+          "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+          "url": "https://wallstreetcn.com/articles/3782421",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "日本30年期国债收益率上升5.5个基点，至4.125%。",
           "url": "https://flash.jin10.com/detail/20260924080201503800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "俄罗斯罗斯托夫州州长：该地区一处石油储存设施遭无人机袭击后，行政办公建筑受损。",
+          "url": "https://flash.jin10.com/detail/20260924132213481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "俄罗斯国防部：打击了乌克兰的防御设施、物流中心以及乌克兰军方使用的舰艇。",
+          "url": "https://flash.jin10.com/detail/20260924132140962800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "格陵兰岛问题三方协议签了，允许美国扩大在当地军事存在",
@@ -142,6 +223,50 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时09分]"
+        },
+        {
+          "title": "国羽女团横扫日本时隔12年摘金",
+          "url": "https://www.toutiao.com/trending/7687987965264478262/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "1962年后首次，美国总统亲赴机场迎接释放何种讯息？",
+          "url": "https://news.ifeng.com/c/8wfsKZ7PZr1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "日媒称日本青年把吃饭变成「可取消项目」，近四成人每周至少跳过一餐，为啥这会成为一种潮流？会影响健康吗？",
+          "url": "https://www.zhihu.com/question/2086174076758746059",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "美国法官发布命令，阻止美国总统特朗普对CNN、MS NOW和美国政治新闻网站Politico的禁令。",
+          "url": "https://wallstreetcn.com/livenews/3170074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "日本男团3比0晋级决赛",
@@ -168,26 +293,16 @@
           "time_info": "[02时05分 ~ 08时09分]"
         },
         {
-          "title": "日本99岁老人不工作就没饭吃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365195&amp;topic_name=%E6%97%A5%E6%9C%AC99%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%8D%E5%B7%A5%E4%BD%9C%E5%B0%B1%E6%B2%A1%E9%A5%AD%E5%90%83",
-          "source": "贴吧",
+          "title": "习近平抵达华盛顿对美国进行国事访问",
+          "url": "https://www.cls.cn/detail/2491746",
+          "source": "财联社热门",
           "ranks": [
-            21
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时09分]"
-        },
-        {
-          "title": "美国梦碎,金牌讲师回国创业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365152&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%A2%8E%2C%E9%87%91%E7%89%8C%E8%AE%B2%E5%B8%88%E5%9B%9E%E5%9B%BD%E5%88%9B%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时09分]"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时41分]"
         },
         {
           "title": "沃尔玛中国、山姆中国首席采购官双双换人，美国山姆高管空降执掌山姆采购，这次人事调整释放了哪些战略信号？",
@@ -200,6 +315,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 05时56分]"
+        },
+        {
+          "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
+          "url": "https://wallstreetcn.com/articles/3782392",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时41分]"
         },
         {
           "title": "日本亚运会电竞场馆随便得像网吧",
@@ -225,17 +352,6 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
-          "url": "https://wallstreetcn.com/articles/3782392",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
           "title": "国乒男团晋级决赛将战日本队",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F",
           "source": "百度热搜",
@@ -245,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 05时56分]"
+        },
+        {
+          "title": "高市的“空气挥手”，暴露日本的困局",
+          "url": "https://news.ifeng.com/c/8wfzp3U5tTo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "英国收紧伊朗银行制裁 加入美国对伊经济施压行动",
@@ -264,7 +391,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -275,18 +402,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "习近平抵达华盛顿对美国进行国事访问",
-          "url": "https://www.cls.cn/detail/2491746",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -297,7 +413,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -319,7 +435,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -335,6 +451,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "美国70亿美元押注阿根廷：关键矿产争夺战转向南美",
+          "url": "https://flash.jin10.com/detail/20260924130807218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "【特朗普总统抵达机场，迎接习近平主席到访】当地时间9月23日下午，国家主席习近平乘专机将抵达美国首都华盛顿。美国总统特朗普来到安德鲁斯空军基地，迎接习近平主席到访。（央视）",
           "url": "https://wallstreetcn.com/livenews/3169875",
           "source": "华尔街见闻-快讯",
@@ -346,6 +473,28 @@
           "time_info": "05时56分"
         },
         {
+          "title": "习近平抵达华盛顿对美国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3782410",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34138752",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "乌克兰地区州长：俄罗斯空袭乌克兰东部顿涅茨克州奥列克桑德里夫卡造成5人死亡、6人受伤。",
           "url": "https://flash.jin10.com/detail/20260924011034073800",
           "source": "金十数据",
@@ -355,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国法官发布命令，阻止美国总统特朗普对CNN、MS NOW和美国政治新闻网站Politico的禁令。",
+          "url": "https://flash.jin10.com/detail/20260924130248015800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "据悉数十家美国炼油企业和商业团体致信特朗普，敦促其拒绝任何实施柴油出口禁令的措施。",
@@ -385,9 +545,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "林诗栋：日本队的厚度当今最强",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%98%9F%E7%9A%84%E5%8E%9A%E5%BA%A6%E5%BD%93%E4%BB%8A%E6%9C%80%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国5年期国债收益率升破5% 为2007年以来首次",
@@ -407,7 +578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -421,6 +592,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "日本10年期国债收益率上行10个基点至3.075%，创1996年以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3170064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+          "url": "https://www.cls.cn/detail/2491811",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国至9月23日5年期国债竞拍-投标倍数 2.21，前值2.37。",
@@ -500,6 +693,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "日本国债收益率全线上行，5年期和10年期收益率领涨",
+          "url": "https://wallstreetcn.com/livenews/3170059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国驻联合国大使：我们强烈谴责任何扩大俄乌冲突的企图。",
           "url": "https://flash.jin10.com/detail/20260924010112186800",
           "source": "金十数据",
@@ -522,6 +726,28 @@
           "time_info": "05时56分"
         },
         {
+          "title": "欧洲复兴开发银行：随着俄罗斯空袭增加，乌克兰经济前景“显著恶化”，接近“停滞”。",
+          "url": "https://flash.jin10.com/detail/20260924130031393800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "如何看待日本艺人水桥舞 (美依礼芽) 离婚一事?",
+          "url": "https://www.zhihu.com/question/2085362088189477868",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国超低硫柴油期货跌超5%，此前消息称特朗普政府正考虑实施为期90天的柴油出口禁令。",
           "url": "https://flash.jin10.com/detail/20260924005911756800",
           "source": "金十数据",
@@ -531,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "中国队战胜日本夺羽毛球女子团体金牌",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A4%BA%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%AD%90%E5%9B%A2%E4%BD%93%E9%87%91%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "英国财政大臣希利：今天与美国财长贝森特进行通话，讨论了如何加大对伊朗的施压力度，以及如何共同努力推动两国经济增长。",
@@ -550,9 +787,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "日本10年期国债收益率升至1996年以来最高 全球抛售加深",
+          "url": "https://flash.jin10.com/detail/20260924125524896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "为什么最近美国白蛾泛滥了，树上密密麻麻全是毛毛虫？它有啥危害，怎样才能清除？",
+          "url": "https://www.zhihu.com/question/2085837080613971866",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美国联邦航空管理局负责人贝德福德表示，在审查特朗普“凯旋门”的过程中不存在政治干预。",
@@ -572,9 +831,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "波兰军方称，因应俄罗斯对乌克兰的袭击，波兰正在进行预防性空中行动。",
+          "url": "https://flash.jin10.com/detail/20260924125350260800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "日本软银集团将通过发行高级票据融资大约111亿美元，久期为2030-2034年。",
@@ -583,7 +853,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -621,6 +891,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "日本球迷直言希望王曼昱取胜",
+          "url": "https://www.toutiao.com/trending/7687878989981564982/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "据Politico：五位知情人士表示，美国准备实施为期90天的柴油出口禁令。",
           "url": "https://flash.jin10.com/detail/20260924005240067800",
           "source": "金十数据",
@@ -649,9 +930,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "SMBC日兴证券：日本央行或每四至五个月加息一次",
+          "url": "https://flash.jin10.com/detail/20260924124310840800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "国乒男团晋级决赛将战日本队",
@@ -687,13 +979,24 @@
           "time_info": "05时56分"
         },
         {
+          "title": "日本5年期国债收益率上升9.0个基点，创下2.365%的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260924122201993800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国纽约AI底层算力初创公司Modal Labs正洽谈新一轮融资，估值约150亿美元。",
           "url": "https://wallstreetcn.com/livenews/3169909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
