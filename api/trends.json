@@ -1,35 +1,12 @@
 {
-  "generated_at": "2026-09-27T07:16:45.321864+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-09-27T10:42:22.772310+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 42,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "王毅谈习近平主席对美国进行国事访问",
-          "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
-          "url": "https://wallstreetcn.com/livenews/3171006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
-        },
         {
           "title": "日本亚组委道歉",
           "url": "https://www.cls.cn/detail/2493269",
@@ -40,8 +17,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
+        },
+        {
+          "title": "王毅谈习近平主席对美国进行国事访问",
+          "url": "https://news.ifeng.com/c/8wjqLP4n0jh",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
+          "url": "https://wallstreetcn.com/livenews/3171006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "伊拉克总理办公室：伊拉克正与美国谈判，请求为部分伊拉克机场免除针对伊朗航空公司的限制措施。",
@@ -49,22 +51,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
-          "title": "伊朗总统：不再信任同美国的对话",
-          "url": "https://wallstreetcn.com/livenews/3171008",
-          "source": "华尔街见闻-快讯",
+          "title": "美军铺红毯让日本网民破防",
+          "url": "https://www.toutiao.com/trending/7688878050255077427/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 07时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
@@ -89,15 +92,48 @@
           "time_info": "01时31分"
         },
         {
-          "title": "美国将下调汽车燃油经济性要求，油耗与排放或上升",
-          "url": "https://flash.jin10.com/detail/20260927061638434800",
-          "source": "金十数据",
+          "title": "上海美国商会会长称中美关系降为在华企业第二大挑战",
+          "url": "https://wallstreetcn.com/livenews/3171018",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗选手打赢张本冲日本教练面前庆祝",
+          "url": "https://www.toutiao.com/trending/7689024369510796863/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "台湾社会要读懂中美元首这次会晤意义",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%A4%BE%E4%BC%9A%E8%A6%81%E8%AF%BB%E6%87%82%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BF%99%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%8F%E4%B9%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "日本乒乓男团前脚 3-2 胜国乒，后脚被林诗栋阿拉米扬淘汰无缘男单四强，为啥会这样？日本乒乓实力到底如何？",
+          "url": "https://www.zhihu.com/question/2087229213245797773",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
@@ -111,16 +147,96 @@
           "time_info": "01时31分"
         },
         {
+          "title": "伊朗说不会在既定条件上向美国让步",
+          "url": "https://wallstreetcn.com/livenews/3171016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "目前在美国纽约出席联合国相关会议的伊朗外长阿拉格齐及其随行代表团计划于下周二返回伊朗。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3170998",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
+        },
+        {
+          "title": "伊朗总统：不再信任同美国的对话",
+          "url": "https://wallstreetcn.com/livenews/3171008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "time_info": "[04时25分 ~ 10时42分]"
+        },
+        {
+          "title": "中美八项成果为何未提台湾问题",
+          "url": "https://www.toutiao.com/trending/7689774212667850806/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "邓亚萍谈日本男单全军覆没：兴奋过头",
+          "url": "https://www.toutiao.com/trending/7690020058327961134/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "上海美国商会会长：中美关系降为在华企业第二大挑战",
+          "url": "https://flash.jin10.com/detail/20260927100352515800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "东京哗然：日本在中美面前原来如此卑微",
+          "url": "https://news.ifeng.com/c/8wkBkzwthaa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
+        },
+        {
+          "title": "美国将下调汽车燃油经济性要求，油耗与排放或上升",
+          "url": "https://flash.jin10.com/detail/20260927061638434800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 10时42分]"
         },
         {
           "title": "大陆学生赴台交流被女间谍主动接近",
@@ -135,15 +251,17 @@
           "time_info": "[04时25分 ~ 07时16分]"
         },
         {
-          "title": "东京哗然：日本在中美面前原来如此卑微",
-          "url": "https://news.ifeng.com/c/8wkBkzwthaa",
-          "source": "凤凰网",
+          "title": "美国罕见超规格接待在日引巨大关注",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%95%E8%A7%81%E8%B6%85%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E5%85%B3%E6%B3%A8",
+          "source": "百度热搜",
           "ranks": [
-            6
+            16,
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "美国总统特朗普重申，伊朗不可以拥有核武器。",
@@ -151,11 +269,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "乌克兰称袭击俄罗斯南部伊尔斯基炼油厂",
@@ -163,23 +282,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
-        },
-        {
-          "title": "美国罕见超规格接待在日引巨大关注",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BD%95%E8%A7%81%E8%B6%85%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E5%85%B3%E6%B3%A8",
-          "source": "百度热搜",
-          "ranks": [
             16,
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "张本智和爆冷不敌伊朗老将，日本队无缘亚运会乒乓球男单四强",
@@ -190,30 +298,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "六连冠!国乒女团横扫日本夺金",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&amp;topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "国乒男团憾负日本无缘金牌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365636&amp;topic_name=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E6%86%BE%E8%B4%9F%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E9%87%91%E7%89%8C",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "王毅谈习近平主席对美国进行国事访问",
@@ -221,11 +331,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 10时42分]"
         },
         {
           "title": "美国总统特朗普：批准了新的燃油经济性标准，废除了拜登的电动汽车强制令。",
@@ -299,13 +410,46 @@
           "time_info": "[01时31分 ~ 04时25分]"
         },
         {
+          "title": "邓亚萍谈日本男单全军覆没",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E4%BA%9A%E8%90%8D%E8%B0%88%E6%97%A5%E6%9C%AC%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗外长：不会在既定条件上向美国让步",
+          "url": "https://flash.jin10.com/detail/20260927094308854800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇——中共中央政治局委员、外交部长王毅谈习近平主席对美国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3782586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我们看到了美国总统针对伊朗提议的初步反应，但调解方尚未向我们传达任何信息。我们正等待调解方传达确切意见，并将据此做出决定。",
           "url": "https://flash.jin10.com/detail/20260927051404628800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -327,9 +471,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20260927093627622800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "https://www.cls.cn/detail/2493153",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：与德国外长瓦德富尔的会晤未产生任何新进展。",
@@ -349,7 +515,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -360,9 +526,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有有史以来最出色的财务数据，而假新闻媒体却拒绝报道。",
+          "url": "https://flash.jin10.com/detail/20260927090047076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "伊拉克表示已就美元现钞运输与美国达成共识",
@@ -393,7 +570,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -404,7 +581,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -418,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "台风“杜鹃”已致日本12人遇难3人下落不明",
+          "url": "https://flash.jin10.com/detail/20260927084103239800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬表示，美国总统称伊朗为“恐怖分子”，然而真正的“恐怖分子”是美国和以色列，伊朗是受害者。",
@@ -448,9 +636,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "伊朗选手冲日本教练面前疯狂庆祝",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%80%89%E6%89%8B%E5%86%B2%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E9%9D%A2%E5%89%8D%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据华尔街日报：美国联邦航空管理局（FAA）一位高级官员表示，该局正在调查一起软件异常情况，并评估其是否会导致不安全的飞行状况。",
@@ -462,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：如果共和党获胜，所有成年人将获得5000美元红利，而民主党做不到这一点。",
+          "url": "https://flash.jin10.com/detail/20260927081513348800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：西方试图对俄罗斯造成战略性失败，但无济于事。",
