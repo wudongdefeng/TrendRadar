@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T14:09:22.515206+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-09-28T22:45:56.847890+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 72,
+      "match_count": 88,
       "titles": [
         {
           "title": "大熊猫“平平”“福双”抵达美国",
@@ -80,11 +80,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 14时09分]"
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 22时45分]"
         },
         {
           "title": "大熊猫“平平”“福双”抵达美国",
@@ -122,6 +123,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 05时45分]"
+        },
+        {
+          "title": "美国要禁止柴油出口？",
+          "url": "https://news.ifeng.com/c/8wmNoOWEKxz",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 22时45分]"
+        },
+        {
+          "title": "本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
+          "url": "https://wallstreetcn.com/articles/3782598",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 22时45分]"
+        },
+        {
+          "title": "日本男子被300公斤猪压死",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365967&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB300%E5%85%AC%E6%96%A4%E7%8C%AA%E5%8E%8B%E6%AD%BB",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 22时45分]"
         },
         {
           "title": "日本央行会议纪要：一名成员表示，日本央行必须加快加息步伐，因为如果通胀风险实现，将对经济造成巨大损害。",
@@ -168,17 +206,6 @@
           "time_info": "08时09分"
         },
         {
-          "title": "本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
-          "url": "https://wallstreetcn.com/articles/3782598",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "特朗普表示，美国将在与伊朗的军事和经济战中获胜，伊朗通胀率已达318%，并预计战争将“很快”结束、油价将下跌。",
           "url": "https://flash.jin10.com/detail/20260928050519436800",
           "source": "金十数据",
@@ -207,32 +234,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
         {
-          "title": "日本男子被300公斤猪压死",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365967&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB300%E5%85%AC%E6%96%A4%E7%8C%AA%E5%8E%8B%E6%AD%BB",
-          "source": "贴吧",
+          "title": "俄罗斯方面任命的卢甘斯克地区负责人表示，卢甘斯克地区遭袭，造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260928223244950800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 14时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
-          "title": "美国要禁止柴油出口？",
-          "url": "https://news.ifeng.com/c/8wmNoOWEKxz",
-          "source": "凤凰网",
+          "title": "美国9月达拉斯联储商业活动指数 9.8，预期 7.8，前值 11.6。",
+          "url": "https://wallstreetcn.com/livenews/3171613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "王曼昱蒯曼横扫日本组合夺冠",
+          "url": "https://www.douyin.com/hot/2671089",
+          "source": "抖音",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "22时45分"
         },
         {
           "title": "日本央行会议纪要：多位成员表示，日本央行正逐步转向一个需要关注将基础通胀稳定在2%附近的阶段，而不是寻求推动通胀上升。",
@@ -392,6 +429,18 @@
           "time_info": "[02时47分 ~ 05时45分]"
         },
         {
+          "title": "薛剑：日本在反华厌华方面获世界冠军",
+          "url": "https://www.toutiao.com/trending/7689569251342107145/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 22时45分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争很快就会结束，届时油价将下跌。 昨晚我们从霍尔木兹海峡抽取了创纪录数量的石油。",
           "url": "https://wallstreetcn.com/livenews/3171062",
           "source": "华尔街见闻-快讯",
@@ -462,6 +511,28 @@
           "time_info": "05时45分"
         },
         {
+          "title": "美国9月达拉斯联储制造业原材料支付价格指数 52.2，前值44.1。",
+          "url": "https://flash.jin10.com/detail/20260928223152559800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "中国驻大阪总领事：日本如今在反华厌华方面已荣获特殊的世界冠军",
+          "url": "https://news.ifeng.com/c/8wmuTHbymse",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国总统特朗普再次在社媒放出图片，将霍尔木兹海峡称为“特朗普海峡”。",
           "url": "https://flash.jin10.com/detail/20260928043250399800",
           "source": "金十数据",
@@ -473,13 +544,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "美国9月达拉斯联储制造业装船指数 24.8，前值14.1。",
+          "url": "https://flash.jin10.com/detail/20260928223144999800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "张本智和：中国赛前训练长日本训练少",
           "url": "https://www.toutiao.com/trending/7689993692433793060/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -495,6 +577,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美国9月达拉斯联储制造业就业指数 15.1，前值8。",
+          "url": "https://flash.jin10.com/detail/20260928223133574800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "日本央行前高官：日本央行10月或连续第二个月加息",
           "url": "https://flash.jin10.com/detail/20260928075950415800",
           "source": "金十数据",
@@ -506,13 +599,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美国9月达拉斯联储制成品价格指数 27.6，前值22.7。",
+          "url": "https://flash.jin10.com/detail/20260928223124083800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "日本，食品涨价潮来了",
           "url": "https://news.ifeng.com/c/8wmOcbqvlku",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -539,13 +643,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美国9月达拉斯联储新订单指数 30.7，前值22。",
+          "url": "https://flash.jin10.com/detail/20260928223110392800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "俄罗斯明确反对日本“入常”， 日本右翼破防",
           "url": "https://www.cls.cn/detail/2493440",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -561,15 +676,37 @@
           "time_info": "02时48分"
         },
         {
+          "title": "美国9月达拉斯联储制造业产出指数 29.5，前值16.1。",
+          "url": "https://flash.jin10.com/detail/20260928223102591800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "王曼昱蒯曼将与日本组合争冠",
           "url": "https://www.toutiao.com/trending/7690160411320270899/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "美国币圈华人女高管自杀",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B8%81%E5%9C%88%E5%8D%8E%E4%BA%BA%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%87%AA%E6%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "乌克兰总统泽连斯基：就在今天，仅在基辅，俄罗斯的自杀式无人机就‘击中’了两所幼儿园、两所学校、一栋住宅楼、一家汽车修理厂、数个仓库以及通信设施。",
@@ -592,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "美国9月达拉斯联储商业活动指数 9.8，预期8.2，前值11.6。",
+          "url": "https://flash.jin10.com/detail/20260928223017909800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "日本央行会议纪要：一名成员表示，必须关注长期通胀预期是否会稳定在2%左右。",
@@ -649,6 +797,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（9月25日）担保隔夜融资利率（SOFR）报3.90%，之前一天报3.88%。 上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。",
+          "url": "https://wallstreetcn.com/livenews/3171598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "日本央行会议纪要：多位成员表示，家庭和企业的中长期通胀预期正在上升。",
           "url": "https://flash.jin10.com/detail/20260928075406438800",
           "source": "金十数据",
@@ -677,7 +836,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -732,7 +891,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -759,6 +918,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美国代表将不会出席会议。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3171591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "日本8月企业服务价格指数年率 3.7%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260928075022031800",
           "source": "金十数据",
@@ -768,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "俄罗斯计划将柴油出口禁令延长至10月。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3171589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "伊朗Press TV：伊朗陆军发言人雷扎·阿克里米尼亚准将警告说，美国任何对伊朗的再次侵略都将引发伊朗更强有力的、更广泛的、更果断的回应。",
@@ -781,13 +962,24 @@
           "time_info": "02时48分"
         },
         {
+          "title": "伊朗称已就美国航班限制措施提出申诉",
+          "url": "https://wallstreetcn.com/livenews/3171587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "乌克兰武装力量总参谋部：过去一天俄罗斯部队损失人员2090人，损失1辆坦克、8辆装甲战车、49套火炮系统、2套多管火箭炮系统、2套防空系统、12套无人地面机器人系统、1382架无人航空器、490辆车辆以及7件特种装备。",
           "url": "https://flash.jin10.com/detail/20260928132604212800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -803,17 +995,6 @@
           "time_info": "08时09分"
         },
         {
-          "title": "薛剑：日本在反华厌华方面获世界冠军",
-          "url": "https://www.toutiao.com/trending/7689569251342107145/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "特朗普：美国和古巴会达成协议，美方“不需要动用军队”",
           "url": "https://wallstreetcn.com/livenews/3171053",
           "source": "华尔街见闻-快讯",
@@ -823,6 +1004,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "奇瑞董事长称特别崇拜保时捷",
+          "url": "https://www.toutiao.com/trending/7690492681142734386/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     }
