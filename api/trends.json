@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T03:57:41.889724+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-01T07:21:47.137177+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "贸易近七成都靠中国，蒙古却把“空中门户”继续交给日本",
@@ -15,8 +15,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
+          "url": "https://wallstreetcn.com/articles/3782841",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "普京：俄罗斯不会满世界跑去“乞讨”，不像有些国家",
+          "url": "https://news.ifeng.com/c/8wqd1xFlOId",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：已要求司法部长研究美联储报告。",
@@ -41,39 +75,6 @@
           "time_info": "03时57分"
         },
         {
-          "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
-          "url": "https://wallstreetcn.com/articles/3782841",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "普京：俄罗斯不会满世界跑去“乞讨”，不像有些国家",
-          "url": "https://news.ifeng.com/c/8wqd1xFlOId",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
           "title": "美国法官裁定，准许派拉蒙天舞完成对华纳兄弟的收购。",
           "url": "https://wallstreetcn.com/livenews/3173136",
           "source": "华尔街见闻-快讯",
@@ -92,8 +93,77 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "美国8月PCE通胀低于预期、消费强劲 10月加息预期降温",
+          "url": "https://www.cls.cn/detail/2496630",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "中国香港选手遭日本运动员冲撞，身体撞墙、多次摔倒",
+          "url": "https://news.ifeng.com/c/8wqcCx0wo6v",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "“花费23年1.7万亿美元，美国把伊拉克留给了伊朗”",
+          "url": "https://news.ifeng.com/c/8wqTlvagUOQ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "美国为何给人工智能改名",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%BB%99%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%B9%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "日本运动员“冲撞”中国香港运动员",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E2%80%9C%E5%86%B2%E6%92%9E%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%BF%90%E5%8A%A8%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 07时21分]"
+        },
+        {
+          "title": "美联储Kashkari：看好AI，也认为与（美国通胀）风险相关。",
+          "url": "https://wallstreetcn.com/livenews/3173198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时57分"
+          "time_info": "07时21分"
         },
         {
           "title": "美国国家航空航天局、加拿大航天局与德国航空航天中心签署意向声明。 启动研究，探索如何在月球种植作物。",
@@ -101,17 +171,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美国8月PCE通胀低于预期、消费强劲 10月加息预期降温",
-          "url": "https://www.cls.cn/detail/2496630",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,17 +188,6 @@
           "time_info": "03时57分"
         },
         {
-          "title": "中国香港选手遭日本运动员冲撞，身体撞墙、多次摔倒",
-          "url": "https://news.ifeng.com/c/8wqcCx0wo6v",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
           "title": "美国国防部长赫格塞思：马斯克、美国前众议院议长金里奇和国防科技公司Anduril创始人卢基将领导五角大楼这一新项目。",
           "url": "https://flash.jin10.com/detail/20261001033803494800",
           "source": "金十数据",
@@ -151,15 +199,15 @@
           "time_info": "03时57分"
         },
         {
-          "title": "“花费23年1.7万亿美元，美国把伊拉克留给了伊朗”",
-          "url": "https://news.ifeng.com/c/8wqTlvagUOQ",
-          "source": "凤凰网",
+          "title": "美国内政部长Burgum：如果欧洲释放精炼燃料储备（柴油储备），可能会压低（柴油）价格。 如果欧洲自愿释放柴油库存，将会（给美国市场）带来帮助。",
+          "url": "https://wallstreetcn.com/livenews/3173193",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时57分"
+          "time_info": "07时21分"
         },
         {
           "title": "美国最大电网运营商PJM International LLC.暂停关于新数据中心电力拍卖的计划。",
@@ -184,22 +232,22 @@
           "time_info": "03时57分"
         },
         {
+          "title": "CCC级债务自2023年爆发美国银行业危机以来首次陷入困境",
+          "url": "https://wallstreetcn.com/livenews/3173190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国法官签署命令，允许派拉蒙(PSKY.O)完成对华纳兄弟探索公司(WBD.O)的收购交易。",
           "url": "https://flash.jin10.com/detail/20261001032752067800",
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "美国为何给人工智能改名",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%BB%99%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%B9%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -250,6 +298,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "美国商务部与韩国政府宣布对“Star项目”（Project Star）进行战略投资。该项目位于美国得克萨斯州恩西纳尔，由Related Companies与NextEra Energy共同开发，总投资规模达223亿美元，将建设能源基础设施园区。",
+          "url": "https://flash.jin10.com/detail/20261001061945922800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "白宫：韩国将投资美国的能源。 韩国计划向美国重大能源项目投资数十亿美元，包括一项关键的阿拉斯加液化天然气（LNG）项目。 这些投资将创造数千个就业岗位，并有助于降低美国人的能源成本。",
           "url": "https://wallstreetcn.com/livenews/3173119",
           "source": "华尔街见闻-快讯",
@@ -283,6 +342,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "Anthropic PBC的CEO Amodei在美国白宫（周二的会议期间）被英伟达CEO黄仁勋问等人问及诸多警告。 高管们质问Amodei为何在公开场合表现得如此极端。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3173180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国总统特朗普赞赏礼来制药、Merck、辉瑞制药的投资。",
           "url": "https://wallstreetcn.com/livenews/3173115",
           "source": "华尔街见闻-快讯",
@@ -292,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "美国公诉人针对派拉蒙天舞与华纳兄弟探索（PSKY-WBD）的反垄断官司“永远都不会延误”。",
+          "url": "https://wallstreetcn.com/livenews/3173179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "邓亚萍：国人没法接受我们输日本队",
@@ -338,6 +419,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "美国能源部长Wright：将听取来自欧洲的新柴油供应公告。",
+          "url": "https://wallstreetcn.com/livenews/3173176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国总统特朗普谈及伊拉克：当年他们（小布什政府时期美国官员）遣散了伊拉克所有人员，包括士兵、将军、警察。 伊拉克陷入无人治理的局面，ISIS就此崛起。 我们的做法会截然不同。 我们吸取了当年在伊拉克犯下的愚蠢错误的教训。",
           "url": "https://wallstreetcn.com/livenews/3173110",
           "source": "华尔街见闻-快讯",
@@ -349,15 +441,26 @@
           "time_info": "03时57分"
         },
         {
-          "title": "日本运动员“冲撞”中国香港运动员",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E2%80%9C%E5%86%B2%E6%92%9E%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%BF%90%E5%8A%A8%E5%91%98",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：美国完全控制着霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3173174",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时57分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国总统特朗普谈及出台柴油出口禁令的可能性，声称：正在研究。",
+          "url": "https://wallstreetcn.com/livenews/3173173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国纽约州长寻求免除纽约地铁和公交车采购的10亿美元关税",
