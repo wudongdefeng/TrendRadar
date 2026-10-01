@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T11:16:31.593495+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-10-01T18:36:42.905948+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 59,
+      "match_count": 77,
       "titles": [
         {
           "title": "统计口径修改后，美国8月核心PCE物价指数同比涨3%，低于预期",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 18时36分]"
         },
         {
           "title": "普京：俄罗斯不会满世界跑去“乞讨”，不像有些国家",
@@ -48,11 +49,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 18时36分]"
         },
         {
           "title": "日本谋求“入常”，俄罗斯回应",
@@ -61,7 +63,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -83,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -105,9 +107,53 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "债市风暴延续！欧美国债收益率飙升，纳指期货抹去涨幅，欧股大跌，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "拉夫罗夫：俄罗斯如何回答“没有西方怎么办”",
+          "url": "https://news.ifeng.com/c/8wrwU9rFGj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "跟着亚运探秘日本最贵关东煮",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%9A%E8%BF%90%E6%8E%A2%E7%A7%98%E6%97%A5%E6%9C%AC%E6%9C%80%E8%B4%B5%E5%85%B3%E4%B8%9C%E7%85%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "日本跌出中国游客十大旅游目的地之列，去年曾是榜首",
+          "url": "https://news.ifeng.com/c/8ws8OUcHk8Z",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美国8月核心PCE通胀数据意外低于预期，但美联储官员密集释放鹰派信号，重申需压制通胀；伊朗收到美方对七天提案的回复，今日将进行讨论……当前现货金银多头占比维持高位，美油买卖信号接近持平，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -116,7 +162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -137,11 +183,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 18时36分]"
         },
         {
           "title": "中国香港选手遭日本运动员冲撞，身体撞墙、多次摔倒",
@@ -167,6 +214,18 @@
           "time_info": "[03时57分 ~ 07时21分]"
         },
         {
+          "title": "亚运会状况百出，日本名古屋市长向运动员和相关人员公开致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34180780",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 18时36分]"
+        },
+        {
           "title": "“花费23年1.7万亿美元，美国把伊拉克留给了伊朗”",
           "url": "https://news.ifeng.com/c/8wqTlvagUOQ",
           "source": "凤凰网",
@@ -190,6 +249,18 @@
           "time_info": "[03时57分 ~ 07时21分]"
         },
         {
+          "title": "商务部：延长对美国相关做法措施贸易壁垒调查期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34180554",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 18时36分]"
+        },
+        {
           "title": "日本运动员“冲撞”中国香港运动员",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E2%80%9C%E5%86%B2%E6%92%9E%E2%80%9D%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%BF%90%E5%8A%A8%E5%91%98",
           "source": "百度热搜",
@@ -208,9 +279,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "日本自卫官持刀闯中使馆案首次庭审，凶犯辩称动机是“神托梦”",
+          "url": "https://original.ifeng.com/c/8ws4mZJTVyH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美联储Kashkari：看好AI，也认为与（美国通胀）风险相关。",
@@ -235,15 +317,15 @@
           "time_info": "03时57分"
         },
         {
-          "title": "亚运会状况百出，日本名古屋市长向运动员和相关人员公开致歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34180780",
-          "source": "澎湃新闻",
+          "title": "欧盟寻求统一立场 此前美国要求欧洲国家释放柴油储备",
+          "url": "https://wallstreetcn.com/livenews/3173332",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "18时36分"
         },
         {
           "title": "美国国防部长赫格塞思：美国主要军事基地将实现自主发电。",
@@ -263,7 +345,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -290,13 +372,35 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国女死刑犯“打了两针还没死”，行刑被迫中止",
+          "url": "https://news.ifeng.com/c/8wroPUNB8mm",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，伊朗、日本外长通话讨论与美国的谈判。",
+          "url": "https://wallstreetcn.com/livenews/3173329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "中方对日本首相称呼发生变化",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%A7%B0%E5%91%BC%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -312,13 +416,24 @@
           "time_info": "03时57分"
         },
         {
+          "title": "美国9月挑战者企业裁员人数同比 -19.9%，前值 -38.5%。",
+          "url": "https://wallstreetcn.com/livenews/3173328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "告别无休止滑屏约会：新加坡试点官方算法配对，婚介机构在日本重获青睐",
           "url": "https://m.thepaper.cn/newsDetail_forward_34178172",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -329,7 +444,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -367,6 +482,28 @@
           "time_info": "03时57分"
         },
         {
+          "title": "官方消息称，俄罗斯别尔哥罗德地区发生乌克兰无人机爆炸事件，造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20261001173952094800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "克里姆林宫：（关于与美国的经济合作）我们相信现在可以共同合作，实现互利。",
+          "url": "https://flash.jin10.com/detail/20261001173935316800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "美国国防部长赫格塞思：马杜罗说，“我就在这儿，有本事来抓我。”于是我们去了。",
           "url": "https://flash.jin10.com/detail/20261001032244221800",
           "source": "金十数据",
@@ -378,15 +515,15 @@
           "time_info": "03时57分"
         },
         {
-          "title": "商务部：延长对美国相关做法措施贸易壁垒调查期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34180554",
-          "source": "澎湃新闻",
+          "title": "克里姆林宫：德米特里耶夫向俄罗斯总统普京报告与美国的接触结果，俄美对话仍在继续。",
+          "url": "https://flash.jin10.com/detail/20261001173924456800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时57分"
+          "time_info": "18时36分"
         },
         {
           "title": "据Axios：美国卫生与公众服务部启动加速临床试验项目。",
@@ -398,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "克里姆林宫：（关于德米特里耶夫在美国的会谈）不幸的是，美国将联合经济项目的实现与乌克兰问题的解决挂钩。",
+          "url": "https://flash.jin10.com/detail/20261001173917778800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美国总统特朗普：如果我治理委内瑞拉，我会做与被我掳走的总统马杜罗完全相同的事。",
@@ -420,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯致北约的信函是在欧洲迅速增兵的背景下发出的。",
+          "url": "https://flash.jin10.com/detail/20261001173904493800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "白宫：韩国将投资美国的能源。 韩国计划向美国重大能源项目投资数十亿美元，包括一项关键的阿拉斯加液化天然气（LNG）项目。 这些投资将创造数千个就业岗位，并有助于降低美国人的能源成本。",
@@ -450,7 +609,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -464,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯致北约的关于准备使用核武器的信函不应被视为对抗性举动，俄罗斯希望确保加里宁格勒的安全。",
+          "url": "https://flash.jin10.com/detail/20261001173829056800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "Anthropic PBC的CEO Amodei在美国白宫（周二的会议期间）被英伟达CEO黄仁勋问等人问及诸多警告。 高管们质问Amodei为何在公开场合表现得如此极端。（华尔街日报）",
@@ -483,7 +653,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -516,9 +686,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "日本拉面店因煮了14年汤底发酵歇业",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E5%9B%A0%E7%85%AE%E4%BA%8614%E5%B9%B4%E6%B1%A4%E5%BA%95%E5%8F%91%E9%85%B5%E6%AD%87%E4%B8%9A&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "邓亚萍：国人没法接受我们输日本队",
@@ -538,9 +719,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "美国挑战者公司首席营收官Andy Challenger：虽然今年的招聘计划有所增加，但我们并没有看到假日季常见的招聘热潮，这表明企业采取了非常谨慎的态度。",
+          "url": "https://flash.jin10.com/detail/20261001173610724800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美国总统特朗普：加拿大已经利用了美国许多年。",
@@ -626,7 +818,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -659,9 +851,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "日本计划斥资1400亿美元推动AI数据中心建设。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3173310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }
