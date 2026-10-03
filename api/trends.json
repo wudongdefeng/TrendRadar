@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03T07:28:37.165922+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-10-03T11:03:28.976678+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
         },
         {
           "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
         },
         {
           "title": "日媒：美国和日本想在这里部署反舰导弹，或激怒中方",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
         },
         {
           "title": "苹果(AAPL.O)敦促使用美国AT&T网络的iPhone 18 Pro Max用户下载系统更新。",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -69,9 +69,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日本正调整信息传达以反制再通胀政策观点",
+          "url": "https://flash.jin10.com/detail/20261003102617193800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：9月29日当周，投机者所持COMEX黄金净多头头寸下降6,916手合约，至124,418手合约，创最近逾两个月新低。",
@@ -107,15 +118,15 @@
           "time_info": "03时42分"
         },
         {
-          "title": "美国克利夫兰联储主席Hammack：FOMC在（10月份）货币政策会议之前还有时间来评估数据。 “在月底的会议之前，我们仍会获得大量信息，因此有充足时间就合适的政策立场作出决定，以确保我们同时履行双重使命。” “在充分就业这一使命方面，我认为我们的表现相当不错。我真正担心的是通胀方面。我们在通胀使命上已经偏离目标超过五年半，因此，将通胀重新降至2%的目标至关重要。”",
-          "url": "https://wallstreetcn.com/livenews/3173832",
-          "source": "华尔街见闻-快讯",
+          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
+          "url": "https://news.ifeng.com/c/8wui8KprllQ",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "11时03分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至9月29日当周，日元净多头头寸为55,440份合约；欧元净空头头寸为-63,256份合约；英镑净空头头寸为-91,075份合约；瑞士法郎净空头头寸为-24,617份合约。",
@@ -129,6 +140,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "二十国集团贸易部长会议在美国密尔沃基举行",
+          "url": "https://wallstreetcn.com/livenews/3173849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至9月29日当周，投机者削减CBOT美国2年期国债期货净空头头寸115,041份合约，至792,024份；投机者增加CBOT美国10年期国债期货净空头头寸88,863份合约，至900,615份；投机者增加CBOT美国5年期国债期货净空头头寸114,848份合约，至995,701份。",
           "url": "https://flash.jin10.com/detail/20261003033144759800",
           "source": "金十数据",
@@ -140,6 +162,18 @@
           "time_info": "03时42分"
         },
         {
+          "title": "美国克利夫兰联储主席Hammack：FOMC在（10月份）货币政策会议之前还有时间来评估数据。 “在月底的会议之前，我们仍会获得大量信息，因此有充足时间就合适的政策立场作出决定，以确保我们同时履行双重使命。” “在充分就业这一使命方面，我认为我们的表现相当不错。我真正担心的是通胀方面。我们在通胀使命上已经偏离目标超过五年半，因此，将通胀重新降至2%的目标至关重要。”",
+          "url": "https://wallstreetcn.com/livenews/3173832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 11时03分]"
+        },
+        {
           "title": "释新闻｜美国一死囚被注射致命药物后仍存活，失败原因何在？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34191567",
           "source": "澎湃新闻",
@@ -148,8 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -160,8 +194,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
         },
         {
           "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
@@ -172,8 +206,70 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
+        },
+        {
+          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
+          "url": "https://www.cls.cn/detail/2497213",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
+        },
+        {
+          "title": "最后一台发动机也趴了，日本“隼鸟2”东拼西凑继续飞",
+          "url": "https://news.ifeng.com/c/8wtqRX8RimQ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
+        },
+        {
+          "title": "美国一死刑犯注射后仍存活",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AD%BB%E5%88%91%E7%8A%AF%E6%B3%A8%E5%B0%84%E5%90%8E%E4%BB%8D%E5%AD%98%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
+        },
+        {
+          "title": "加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34180094",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时03分]"
+        },
+        {
+          "title": "经济学家警告：若美国实施柴油出口禁令，英国通胀率或达5%",
+          "url": "https://wallstreetcn.com/livenews/3173829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 11时03分]"
         },
         {
           "title": "董路：国足这么踢日本可能要输0-15",
@@ -188,39 +284,16 @@
           "time_info": "[03时42分 ~ 07时28分]"
         },
         {
-          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
-          "url": "https://www.cls.cn/detail/2497213",
-          "source": "财联社热门",
+          "title": "高通向美国证券交易委员会（SEC）提交招股说明书，拟最多再发售2500万股普通股。",
+          "url": "https://wallstreetcn.com/livenews/3173817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10
+            15,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
-        },
-        {
-          "title": "最后一台发动机也趴了，日本“隼鸟2”东拼西凑继续飞",
-          "url": "https://news.ifeng.com/c/8wtqRX8RimQ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
-        },
-        {
-          "title": "美国一死刑犯注射后仍存活",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AD%BB%E5%88%91%E7%8A%AF%E6%B3%A8%E5%B0%84%E5%90%8E%E4%BB%8D%E5%AD%98%E6%B4%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 11时03分]"
         },
         {
           "title": "日本亚运会为什么状况百出",
@@ -229,18 +302,6 @@
           "ranks": [
             18,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 07时28分]"
-        },
-        {
-          "title": "加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34180094",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -269,17 +330,6 @@
           "time_info": "03时42分"
         },
         {
-          "title": "经济学家警告：若美国实施柴油出口禁令，英国通胀率或达5%",
-          "url": "https://wallstreetcn.com/livenews/3173829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至9月29日当周，COMEX白银投机者削减净多头头寸5,278份合约，至7,738份；COMEX黄金投机者削减净多头头寸6,916份合约，至124,418份；COMEX铜投机者削减净多头头寸3,940份合约，至78,709份。",
           "url": "https://flash.jin10.com/detail/20261003033059148800",
           "source": "金十数据",
@@ -297,9 +347,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261003093325664800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至9月29日当周，股票基金投机者增加标普500 CME净空头头寸575份合约，至355,697份；股票基金经理削减标普500 CME净多头头寸33,658份合约，至901,255份。",
@@ -313,6 +374,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "日本财务大臣片山皋月：日本政府在外汇储备构成方面的透明度是有限的。",
+          "url": "https://flash.jin10.com/detail/20261003092610957800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "黑客入侵驶往美国油轮的推进系统",
           "url": "https://wallstreetcn.com/livenews/3173794",
           "source": "华尔街见闻-快讯",
@@ -322,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国 9 月非农就业人数增加 2.9 万人，大幅低于预期，对美联储决策和全球市场有何影响？",
+          "url": "https://www.zhihu.com/question/2089459225881847418",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "OpenAI聘请曾担任过美国总统特朗普AI官员的Thomas Lind。（The Information）",
@@ -341,7 +424,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -357,6 +440,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "日本财务大臣片山皋月：自联合外汇干预以来，外汇趋势已发生一定变化。",
+          "url": "https://flash.jin10.com/detail/20261003090624268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "美国食品药品管理局（FDA）结束与冰山生菜相关的环孢子菌调查。",
           "url": "https://wallstreetcn.com/livenews/3173790",
           "source": "华尔街见闻-快讯",
@@ -368,6 +462,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "美国司法部不会重启对鲍威尔的刑事调查",
           "url": "https://flash.jin10.com/detail/20261003031335943800",
           "source": "金十数据",
@@ -377,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国和日本一致认为，双方始终准备对外汇波动采取果断行动，这一点非常重要。",
+          "url": "https://flash.jin10.com/detail/20261003090611620800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查",
@@ -412,24 +528,13 @@
           "time_info": "03时42分"
         },
         {
-          "title": "高通向美国证券交易委员会（SEC）提交招股说明书，拟最多再发售2500万股普通股。",
-          "url": "https://wallstreetcn.com/livenews/3173817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "金十提示：美国总统特朗普结束在白宫的讲话。",
           "url": "https://flash.jin10.com/detail/20261003040539767800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -445,15 +550,37 @@
           "time_info": "03时42分"
         },
         {
+          "title": "美国暂停驻巴西大使馆和领事馆服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34192666",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "美国总统特朗普：（关于柴油）欧洲做出了重大贡献，我们也是如此。",
           "url": "https://flash.jin10.com/detail/20261003040409893800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "董路：国足踢日本可能要输0比15",
+          "url": "https://www.toutiao.com/trending/7692258172211613234/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "美国芝加哥商业交易所集团（CME Group）：暂停推出全天候10桶原油期货合约的计划。 若不开展进一步尽职调查就推出能源全天候交易，可能会带来额外风险，对此存在担忧。 希望美国商品期货交易委员会（CFTC）解决 “不公平现象”，重建公平竞争环境。",
@@ -462,7 +589,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -495,7 +622,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -506,7 +633,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -517,7 +644,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -539,7 +666,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -561,7 +688,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -572,7 +699,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -583,7 +710,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -594,7 +721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -616,7 +743,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -627,7 +754,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
