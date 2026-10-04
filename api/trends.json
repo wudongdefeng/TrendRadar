@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T08:17:01.833292+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-10-04T14:33:36.080488+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 26,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 14时33分]"
         },
         {
           "title": "“一国两制”台湾方案在岛内引热议",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            28
+            28,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 14时33分]"
         },
         {
           "title": "“一国两制”台湾方案在岛内引热议",
@@ -41,6 +43,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时16分 ~ 08时17分]"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗议会议长卡利巴夫表示，霍尔木兹海峡在伊朗的条件得到满足之前不会重新开放，美国不能再“拖延时间”。",
+          "url": "https://flash.jin10.com/detail/20261004142140619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "南美洲“最重要选举”今日开启：巴西大选决定“左右路线”，卢拉团队指责美国干预，华尔街押小博索纳罗",
+          "url": "https://wallstreetcn.com/articles/3782970",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
+          "url": "https://www.cls.cn/detail/2497213",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 14时33分]"
+        },
+        {
+          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
+          "url": "https://www.cls.cn/detail/2497367",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 14时33分]"
         },
         {
           "title": "德国陆军地面部队指挥官：欧洲必须以能够成功作战的力量应对俄罗斯的威胁。莫斯科正在努力扩展其军事能力，我们正在以切实的方式见证这一点。",
@@ -104,30 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 08时17分]"
-        },
-        {
-          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
-          "url": "https://www.cls.cn/detail/2497367",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
-          "url": "https://www.cls.cn/detail/2497213",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
         },
         {
           "title": "日本人遭遇餐桌危机",
@@ -224,6 +249,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "网传俄罗斯一实验室助理打破试管后感染鼠疫死亡，近 200 人被纳入医学观察，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2089822273524057209",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "直指红海咽喉！沙特被曝或发动10万也门士兵攻打胡塞武装，美国情报支持",
           "url": "https://wallstreetcn.com/articles/3782946",
           "source": "华尔街见闻",
@@ -233,6 +269,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "“印度不找美国，就得靠中国”",
+          "url": "https://news.ifeng.com/c/8wwb4IX3xwM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美国小女孩外出玩耍直接带回一只猞猁",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%96%E5%87%BA%E7%8E%A9%E8%80%8D%E7%9B%B4%E6%8E%A5%E5%B8%A6%E5%9B%9E%E4%B8%80%E5%8F%AA%E7%8C%9E%E7%8C%81&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "一国两制台湾方案在岛内引热议",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%8F%B0%E6%B9%BE%E6%96%B9%E6%A1%88%E5%9C%A8%E5%B2%9B%E5%86%85%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "日本向美方提出抗议",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "梅德韦杰夫：俄罗斯绝不会牺牲与伊朗的关系",
+          "url": "https://flash.jin10.com/detail/20261004114818802800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美媒：美国将伊朗联合国大会代表团两名成员驱逐出境",
+          "url": "https://wallstreetcn.com/livenews/3173912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯对欧洲的混合攻击旨在进行分裂，削弱欧洲对乌克兰的支持。",
@@ -268,6 +370,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "黑河早市火了 俄罗斯“常态化串门”",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E6%B2%B3%E6%97%A9%E5%B8%82%E7%81%AB%E4%BA%86+%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E5%B8%B8%E6%80%81%E5%8C%96%E4%B8%B2%E9%97%A8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰将对俄罗斯的空袭做出回应，并将目标对准炼油厂。",
           "url": "https://flash.jin10.com/detail/20261004000236199800",
           "source": "金十数据",
@@ -277,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美国中期选举最新格局：众议院偏向民主党",
+          "url": "https://flash.jin10.com/detail/20261004101329068800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯对乌克兰城市的袭击正值莫斯科无法在战场上实现其目标之际。",
@@ -301,6 +425,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "澳大利亚财长：美国对伊战争是经济灾难，推高全球通胀",
+          "url": "https://flash.jin10.com/detail/20261004095453575800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20261004094516723800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "据悉伊朗正在审议通过卡塔尔转交的美国新提案",
           "url": "https://flash.jin10.com/detail/20261003225844455800",
           "source": "金十数据",
@@ -310,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美媒：美国将伊朗联合国大会代表团两名成员驱逐出境",
+          "url": "https://flash.jin10.com/detail/20261004092611226800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     }
