@@ -1,284 +1,66 @@
 {
-  "generated_at": "2026-10-04T20:58:58.906134+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-10-05T01:18:19.233745+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 61,
+      "match_count": 23,
       "titles": [
         {
-          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497348",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 20时58分]"
-        },
-        {
-          "title": "南美洲“最重要选举”今日开启：巴西大选决定“左右路线”，卢拉团队指责美国干预，华尔街押小博索纳罗",
-          "url": "https://wallstreetcn.com/articles/3782970",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 20时58分]"
-        },
-        {
-          "title": "“一国两制”台湾方案在岛内引热议",
-          "url": "https://www.toutiao.com/trending/7691613605808668682/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            28,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 14时33分]"
-        },
-        {
-          "title": "“一国两制”台湾方案在岛内引热议",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E2%80%9D%E5%8F%B0%E6%B9%BE%E6%96%B9%E6%A1%88%E5%9C%A8%E5%B2%9B%E5%86%85%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：伊朗议会议长卡利巴夫表示，霍尔木兹海峡在伊朗的条件得到满足之前不会重新开放，美国不能再“拖延时间”。",
-          "url": "https://flash.jin10.com/detail/20261004142140619800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯副总理诺瓦克表示，俄罗斯和沙特阿拉伯将于10月12日在利雅得讨论石油市场形势及2026-2027年的预测。",
-          "url": "https://flash.jin10.com/detail/20261004204001063800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：全球石油市场形势依然剧烈波动。",
-          "url": "https://wallstreetcn.com/livenews/3173964",
+          "title": "美国白宫国家经济委员会主任哈塞特：我们尊重沃什与委员一起投票支持提高利率的决定。 鲍威尔该离开了。 虽然不同意加息，但尊重沃什出于正确原因所做的决定。",
+          "url": "https://wallstreetcn.com/livenews/3173973",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
-          "url": "https://www.cls.cn/detail/2497367",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 20时58分]"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯副总理诺瓦克表示，欧佩克+联合部长级监督委员会（JMMC）指出全球石油市场波动性较大，供应短缺。",
-          "url": "https://flash.jin10.com/detail/20261004203800750800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美国总统特朗普：很高兴宣布，出色的律师约翰·科尔（John Coale），也是我极为成功的白俄罗斯事务特使，将成为我提名的新任“总统人质事务特使”，并拥有大使级别。",
-          "url": "https://flash.jin10.com/detail/20261004202632827800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "日本人参观南京大屠杀遇难同胞纪念馆",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E8%A7%82%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E7%BA%AA%E5%BF%B5%E9%A6%86&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
           "title": "2027 年泰晤士大学排名出炉，清华首次超越欧洲大陆所有高校，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2088679331371530086",
           "source": "知乎",
           "ranks": [
-            5
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
-          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
-          "url": "https://www.cls.cn/detail/2497213",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 14时33分]"
-        },
-        {
-          "title": "德国陆军地面部队指挥官：欧洲必须以能够成功作战的力量应对俄罗斯的威胁。莫斯科正在努力扩展其军事能力，我们正在以切实的方式见证这一点。",
-          "url": "https://flash.jin10.com/detail/20261004013613211800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "日本央行加息、特朗普警告都没用？对冲基金重新做空日元",
-          "url": "https://wallstreetcn.com/articles/3782958",
+          "title": "南美洲“最重要选举”今日开启：巴西大选决定“左右路线”，卢拉团队指责美国干预，华尔街押小博索纳罗",
+          "url": "https://wallstreetcn.com/articles/3782970",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "日本将召集第222届临时国会",
+          "url": "https://flash.jin10.com/detail/20261005000733820800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
-          "title": "拉脱维亚总理库尔贝尔格斯：我们坚定认为，与俄罗斯的任何经济联系都会削弱我们，而俄罗斯会利用这一点。",
-          "url": "https://flash.jin10.com/detail/20261004012641774800",
-          "source": "金十数据",
+          "title": "台当局危险驱离大陆渔船致船只受损",
+          "url": "https://www.toutiao.com/trending/7692759919883193902/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            21,
-            26
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "亚运男足颁奖只有日本队笑不出来",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E9%A2%81%E5%A5%96%E5%8F%AA%E6%9C%89%E6%97%A5%E6%9C%AC%E9%98%9F%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "美国国务院：强烈敦促埃塞俄比亚和厄立特里亚尊重邻国的主权和领土完整。双方保持最大克制，重返对话与合作。",
-          "url": "https://flash.jin10.com/detail/20261004051754221800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 08时17分]"
-        },
-        {
-          "title": "日本人遭遇餐桌危机",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%81%AD%E9%81%87%E9%A4%90%E6%A1%8C%E5%8D%B1%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "美国各界热议“要不要对中国车开放”",
-          "url": "https://news.ifeng.com/c/8wvQA3H2ThP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "日本亚运会出了哪些状况",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%8A%B6%E5%86%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "美国财长贝森特：本周伊朗海上在途石油将归零。",
-          "url": "https://wallstreetcn.com/livenews/3173890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 08时17分]"
-        },
-        {
-          "title": "美国国务院：埃塞俄比亚与厄立特里亚之间日益加剧的跨境紧张局势可能会影响整个地区。",
-          "url": "https://flash.jin10.com/detail/20261004051730004800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 08时17分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "网传俄罗斯一实验室助理打破试管后感染鼠疫死亡，近 200 人被纳入医学观察，有哪些信息值得关注？",
@@ -288,98 +70,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 20时58分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
-          "title": "美国航空航天局（NASA）与SpaceX(SPCX.O)确定，Crew-12乘组最早将于10月7日撤离空间站。",
-          "url": "https://flash.jin10.com/detail/20261004034739444800",
+          "title": "据沙特媒体哈达斯援引以色列媒体报道称，3000名美国士兵在以色列部署，以防新的冲突爆发。美军士兵在以色列的任务包括防空系统、飞行员、支援团队和后勤服务。",
+          "url": "https://flash.jin10.com/detail/20261004234440903800",
           "source": "金十数据",
           "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 08时17分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：美国国防部长赫格塞思表示，特朗普总统给予伊朗一切机会，并保留所有选项。伊朗必须做出正确的决定，改变其方向。对抗伊朗的任务与以往战争不同，不会无休止地持续下去。",
-          "url": "https://flash.jin10.com/detail/20261004031532526800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 08时17分]"
-        },
-        {
-          "title": "俄罗斯导弹打击导致乌钢铁厂停产",
-          "url": "https://www.douyin.com/hot/2679322",
-          "source": "抖音",
-          "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "01时18分"
         },
         {
-          "title": "日本197人专案组连夜抓捕驻日美士兵",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "直指红海咽喉！沙特被曝或发动10万也门士兵攻打胡塞武装，美国情报支持",
-          "url": "https://wallstreetcn.com/articles/3782946",
-          "source": "华尔街见闻",
+          "title": "俄罗斯副总理诺瓦克：全球石油市场形势依然剧烈波动。",
+          "url": "https://wallstreetcn.com/livenews/3173964",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "“印度不找美国，就得靠中国”",
-          "url": "https://news.ifeng.com/c/8wwb4IX3xwM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "美国小女孩外出玩耍直接带回一只猞猁",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%96%E5%87%BA%E7%8E%A9%E8%80%8D%E7%9B%B4%E6%8E%A5%E5%B8%A6%E5%9B%9E%E4%B8%80%E5%8F%AA%E7%8C%9E%E7%8C%81&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "民进党危险驱离大陆渔船 媒体发声",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E5%8D%B1%E9%99%A9%E9%A9%B1%E7%A6%BB%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9+%E5%AA%92%E4%BD%93%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
           "title": "日本外务大臣召见美国大使，提出抗议",
@@ -388,317 +102,163 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
-          "title": "德国总理默茨：如果德国停止对乌克兰的援助，俄罗斯对德国的攻击将不会停止。",
-          "url": "https://flash.jin10.com/detail/20261004200048503800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "一国两制台湾方案在岛内引热议",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%8F%B0%E6%B9%BE%E6%96%B9%E6%A1%88%E5%9C%A8%E5%B2%9B%E5%86%85%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=10&Refer=top",
+          "title": "高市早苗称已向美国提出强烈抗议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E5%B7%B2%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "01时18分"
         },
         {
-          "title": "德国总理默茨：俄罗斯旨在打击乌克兰人的士气。",
-          "url": "https://flash.jin10.com/detail/20261004200043080800",
-          "source": "金十数据",
+          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
+          "url": "https://www.cls.cn/detail/2497367",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "日本向美方提出抗议",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "01时18分"
         },
         {
           "title": "AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲",
           "url": "https://www.cls.cn/detail/2497590",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "梅德韦杰夫：俄罗斯绝不会牺牲与伊朗的关系",
-          "url": "https://flash.jin10.com/detail/20261004114818802800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "01时18分"
         },
         {
-          "title": "德国总理默茨：呼吁俄罗斯参与和平谈判。",
-          "url": "https://flash.jin10.com/detail/20261004200037755800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美媒：美国将伊朗联合国大会代表团两名成员驱逐出境",
-          "url": "https://wallstreetcn.com/livenews/3173912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：对俄罗斯每天升级局势的欲望感到惊讶。",
-          "url": "https://flash.jin10.com/detail/20261004200034170800",
-          "source": "金十数据",
+          "title": "日本197人专案组连夜抓捕驻日美士兵",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
-          "title": "外媒爆美国“驱逐”伊朗外交官员，伊朗最新回应",
-          "url": "https://wallstreetcn.com/livenews/3173947",
-          "source": "华尔街见闻-快讯",
+          "title": "美国能源部长赖特：柴油价格应该不久就会跌至每加仑6美元以下。",
+          "url": "https://flash.jin10.com/detail/20261004224437118800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
-          "title": "乌克兰总统泽连斯基：俄罗斯对欧洲的混合攻击旨在进行分裂，削弱欧洲对乌克兰的支持。",
-          "url": "https://flash.jin10.com/detail/20261004000501288800",
+          "title": "美国国家飓风中心：飓风“瑞秋”强度进一步小幅增强。",
+          "url": "https://flash.jin10.com/detail/20261004223600507800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "01时18分"
         },
         {
-          "title": "乌克兰总统泽连斯基：俄罗斯总统普京希望尽可能削弱乌克兰的韧性。",
-          "url": "https://flash.jin10.com/detail/20261004200014227800",
+          "title": "美国能源部长赖特：从霍尔木兹海峡运出的能源供应继续增加。",
+          "url": "https://flash.jin10.com/detail/20261004223434391800",
           "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "日本男星看秀被体味熏到捂鼻子",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%98%9F%E7%9C%8B%E7%A7%80%E8%A2%AB%E4%BD%93%E5%91%B3%E7%86%8F%E5%88%B0%E6%8D%82%E9%BC%BB%E5%AD%90&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
           "title": "通胀冲击历史性升温，日本民众餐桌承压",
           "url": "https://m.thepaper.cn/newsDetail_forward_34197229",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "名嘴：“台独”若踩红线大陆绝不留情",
-          "url": "https://www.toutiao.com/trending/7691457863743045651/",
-          "source": "今日头条",
-          "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "01时18分"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰严重依赖航空力量击落俄罗斯喷气式无人机，需要20毫米的弹药。",
-          "url": "https://flash.jin10.com/detail/20261004000408355800",
+          "title": "美国白宫国家经济委员会主任哈塞特：鲍威尔该离开了。",
+          "url": "https://flash.jin10.com/detail/20261004221909404800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "01时18分"
         },
         {
-          "title": "黑河早市火了 俄罗斯“常态化串门”",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E6%B2%B3%E6%97%A9%E5%B8%82%E7%81%AB%E4%BA%86+%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E5%B8%B8%E6%80%81%E5%8C%96%E4%B8%B2%E9%97%A8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰将对俄罗斯的空袭做出回应，并将目标对准炼油厂。",
-          "url": "https://flash.jin10.com/detail/20261004000236199800",
+          "title": "美国白宫国家经济委员会主任哈塞特：我们尊重沃什与民众一起投票支持提高利率的决定。",
+          "url": "https://flash.jin10.com/detail/20261004221902549800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "01时18分"
         },
         {
-          "title": "美国中期选举最新格局：众议院偏向民主党",
-          "url": "https://flash.jin10.com/detail/20261004101329068800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "俄罗斯国防部：防空部队一天内击落了1222架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20261004190812220800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯对乌克兰城市的袭击正值莫斯科无法在战场上实现其目标之际。",
-          "url": "https://flash.jin10.com/detail/20261004000149184800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰不会攻击俄罗斯的平民目标。",
-          "url": "https://flash.jin10.com/detail/20261004000118159800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "澳大利亚财长：美国对伊战争是经济灾难，推高全球通胀",
-          "url": "https://flash.jin10.com/detail/20261004095453575800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20261004094516723800",
+          "title": "高利率正在挤压美国消费者的消费能力",
+          "url": "https://flash.jin10.com/detail/20261004214545700800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "01时18分"
         },
         {
-          "title": "据悉伊朗正在审议通过卡塔尔转交的美国新提案",
-          "url": "https://flash.jin10.com/detail/20261003225844455800",
-          "source": "金十数据",
+          "title": "外媒爆美国“驱逐”伊朗外交官员，伊朗最新回应",
+          "url": "https://wallstreetcn.com/livenews/3173947",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "01时18分"
         },
         {
-          "title": "美媒：美国将伊朗联合国大会代表团两名成员驱逐出境",
-          "url": "https://flash.jin10.com/detail/20261004092611226800",
+          "title": "美国白宫国家经济委员会主任哈塞特：抵押贷款利率必须降下来。",
+          "url": "https://flash.jin10.com/detail/20261004211720370800",
           "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "美国开始流行打麻将",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E6%89%93%E9%BA%BB%E5%B0%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         },
         {
-          "title": "美国国家情报总监出任白宫AI事务主管",
-          "url": "https://wallstreetcn.com/livenews/3173931",
-          "source": "华尔街见闻-快讯",
+          "title": "江苏惊现日本小镰仓",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E6%83%8A%E7%8E%B0%E6%97%A5%E6%9C%AC%E5%B0%8F%E9%95%B0%E4%BB%93&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时18分"
         }
       ]
     }
