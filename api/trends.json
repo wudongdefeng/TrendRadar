@@ -1,314 +1,143 @@
 {
-  "generated_at": "2026-10-06T23:35:38.390106+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-10-07T04:41:56.337354+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 80,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
-          "url": "https://www.cls.cn/detail/2498089",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 23时35分]"
-        },
-        {
-          "title": "美国总统特朗普就迪拜航空飞机事故表态：我认为伊朗应对此事负责。",
-          "url": "https://wallstreetcn.com/livenews/3174236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.945%，投标倍数2.78。",
-          "url": "https://wallstreetcn.com/livenews/3174526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "外交部：美方应慎重处理台湾问题",
-          "url": "https://www.toutiao.com/trending/7692548830365122610/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：（关于迪拜航空事件）认为伊朗应对此负责。",
-          "url": "https://flash.jin10.com/detail/20261006033131154800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "日本30年期国债收益率上涨1个基点，至4.24%的历史新高。",
-          "url": "https://flash.jin10.com/detail/20261006084620075800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国至10月6日6周国债竞拍-得标利率配置百分比 65.4%，前值68.26%。",
-          "url": "https://flash.jin10.com/detail/20261006233305401800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普谈及英国境内美军安全：“我认为是安全的”。",
-          "url": "https://flash.jin10.com/detail/20261006033103045800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "日本5年期国债收益率上涨3个基点，至2.39%。",
-          "url": "https://flash.jin10.com/detail/20261006084446778800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国至10月6日6周国债竞拍-得标利率 3.945%，前值3.97%。",
-          "url": "https://flash.jin10.com/detail/20261006233241779800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：曾经认为英国境内（对美军）存在威胁。 知道是谁构成威胁。 若伊朗在英国部署作战无人机，将付出惨重代价。",
-          "url": "https://wallstreetcn.com/livenews/3174234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：宣布降低油价的又一举措。 签署行政令，放宽免税柴油仅限非道路用途的限制。 该行政令将允许任何人购买免税柴油。",
-          "url": "https://wallstreetcn.com/livenews/3174296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：柴油的问题在于俄罗斯的炼油厂受到冲击。",
-          "url": "https://flash.jin10.com/detail/20261006033003532800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国至10月6日6周国债竞拍-投标倍数 2.78，前值2.82。",
-          "url": "https://flash.jin10.com/detail/20261006233222418800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "余承东：已基本摆脱对美国技术依赖，华为折叠屏比苹果起步更早",
-          "url": "https://wallstreetcn.com/livenews/3174367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国总统特朗普：将考虑在立陶宛建立基地。",
-          "url": "https://flash.jin10.com/detail/20261006032936508800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普谈沙特和胡塞武装冲突：一切都会好起来的。",
-          "url": "https://wallstreetcn.com/livenews/3174232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普声称：法国当下的情况完全就是失控的大规模移民问题。 这无关学校，而是伊斯兰势力想要接管这个曾经伟大的国家。",
-          "url": "https://wallstreetcn.com/livenews/3174522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
         {
           "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
           "url": "https://wallstreetcn.com/articles/3783051",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，宣称：霍尔木兹海峡属于美国。",
+          "url": "https://wallstreetcn.com/livenews/3174634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
+          "url": "https://www.cls.cn/detail/2498089",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的无人机制造能力很快将不复存在。",
+          "url": "https://flash.jin10.com/detail/20261007042558724800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）最大的问题是没有人知道谁在掌控这个国家。",
+          "url": "https://flash.jin10.com/detail/20261007042548574800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：我们仍然需要了结伊朗问题。 伊朗的无人机制造能力很快就会消失。 最大的问题是没人知道现在是谁在掌权。 俄乌冲突正越来越接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3174632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们还得把这事了结。",
+          "url": "https://flash.jin10.com/detail/20261007042411843800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3174631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "日本开始第24轮核污染水排海",
           "url": "https://www.douyin.com/hot/2682729",
           "source": "抖音",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
-          "title": "美国数据中心抵制声浪愈演愈烈？高盛：到2027年增长前景基本不变",
-          "url": "https://www.cls.cn/detail/2497898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 23时35分]"
-        },
-        {
-          "title": "瞒妻子投资亏超1亿美元，美国CEO崩溃枪杀妻子后自杀",
-          "url": "https://news.ifeng.com/c/8wydQVxWrY6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 16时21分]"
-        },
-        {
-          "title": "日本农相放话“不支持我的市政预算全被砍”，遭舆论猛批",
-          "url": "https://news.ifeng.com/c/8wyYrRD24au",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 09时04分]"
-        },
-        {
-          "title": "日本罕见1天3次向美国强烈抗议",
-          "url": "https://www.toutiao.com/trending/7692950590237756937/",
+          "title": "外交部：美方应慎重处理台湾问题",
+          "url": "https://www.toutiao.com/trending/7692548830365122610/",
           "source": "今日头条",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：我们会帮助他们。",
-          "url": "https://flash.jin10.com/detail/20261006032820327800",
+          "title": "美国总统特朗普：俄乌冲突接近结束。",
+          "url": "https://flash.jin10.com/detail/20261007042208455800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普被问及是否对与伊朗直接对话持开放态度，声称：是的。",
-          "url": "https://wallstreetcn.com/livenews/3174231",
-          "source": "华尔街见闻-快讯",
+          "title": "美国数据中心抵制声浪愈演愈烈？高盛：到2027年增长前景基本不变",
+          "url": "https://www.cls.cn/detail/2497898",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "俄罗斯天然气富集的西西伯利亚地区悬赏击落无人机",
-          "url": "https://wallstreetcn.com/livenews/3174519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "04时41分"
         },
         {
           "title": "最新报告：美国对华AI领先优势降至3%，历史最低",
@@ -317,130 +146,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：（关于俄罗斯瘟疫研究所工作人员死亡）我们正在密切关注此事。",
-          "url": "https://flash.jin10.com/detail/20261006032811738800",
+          "title": "美国至10月2日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20261007042000002800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：炼油厂不足才是问题（汽油价格）所在。 将帮助农民解决柴油问题。",
-          "url": "https://wallstreetcn.com/livenews/3174230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：与塞尔维亚保持着非常好的关系。",
-          "url": "https://wallstreetcn.com/livenews/3174229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "日本央行审议委员佐藤（Sato）：赞同分阶段调整利率的政策。 个人消费动能并不强劲。 希望评估消费、收入的动向。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3174515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗在英国部署了作战无人机，他们将付出惨重代价。",
-          "url": "https://flash.jin10.com/detail/20261006032733044800",
-          "source": "金十数据",
+          "title": "沈伯洋建议台湾社区提供毒品遭批",
+          "url": "https://www.toutiao.com/trending/7693131000370577417/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "日本央行佐藤绫野：赞成循序渐进调整利率，但担忧消费疲弱",
-          "url": "https://flash.jin10.com/detail/20261006232807384800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：不急于启动与加拿大的贸易谈判。",
-          "url": "https://wallstreetcn.com/livenews/3174228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：（关于从英国转移飞机）我们面临威胁。",
-          "url": "https://flash.jin10.com/detail/20261006032717144800",
+          "title": "据日经新闻：台积电(TSM.N)及其他台湾芯片企业加大在美国和东南亚的AI支出。",
+          "url": "https://flash.jin10.com/detail/20261007041538019800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国国防部首席技术官迈克尔：过去发生的人工智能事件是可以通过实验室预防的。",
-          "url": "https://flash.jin10.com/detail/20261006232752377800",
-          "source": "金十数据",
+          "title": "美国总统特朗普谈及伊朗：我们必须收尾，问题在于采取何种方式。 很快你们就会知道我们将如何了结伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3174625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国中期选举追踪：高油价影响蔓延 共和党选情吃紧",
-          "url": "https://www.cls.cn/detail/2497690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "英航一客机飞往美国途中7分钟内急坠8230米，宣布紧急状态返航",
-          "url": "https://news.ifeng.com/c/8wzhAd6DTc2",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "04时41分"
         },
         {
           "title": "油价上涨、司机短缺，美国学生没校车坐了",
@@ -449,449 +201,158 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：（关于从英国转移飞机）我们知道发出威胁的人。",
-          "url": "https://flash.jin10.com/detail/20261006032716511800",
+          "title": "美国总统特朗普：美国将在马里兰州新建的国防造船厂中持有40%的股份。",
+          "url": "https://flash.jin10.com/detail/20261007041421719800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国国防部首席技术官迈克尔：（谈及人工智能工作组）需确保企业负起责任。",
-          "url": "https://flash.jin10.com/detail/20261006232638189800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "创30余年新高 美国宾州麻疹病例破千",
-          "url": "https://wallstreetcn.com/livenews/3174358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国总统特朗普：（关于巴西选举）预计将非常胶着。",
-          "url": "https://flash.jin10.com/detail/20261006032554207800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日日本央行行长植田和男将发表讲话，2026年诺贝尔物理学奖将公布。",
-          "url": "https://flash.jin10.com/detail/20261006082239392800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：法国正在发生的事，无异于失控的大规模移民。这与学校无关，这是伊斯兰想要接管一个曾经伟大的国家。",
-          "url": "https://flash.jin10.com/detail/20261006232532178800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：（关于沙特与胡塞）一切都会好起来的。",
-          "url": "https://flash.jin10.com/detail/20261006032409645800",
-          "source": "金十数据",
+          "title": "外交部：美方应慎重处理台湾问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34205627",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "市场消息：美国民主党参议员沃伦呼吁司法部和联邦贸易委员会密切审查食品行业交易。",
-          "url": "https://flash.jin10.com/detail/20261006232500054800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：已决定自行投放广告并自掏腰包，同时使用我为Maga Inc.筹集的资金。",
-          "url": "https://wallstreetcn.com/livenews/3174286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "为何日本的铁轨坚持不和世界统一？一直用窄轨，有什么好处？",
-          "url": "https://www.zhihu.com/question/10602213310",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：将协助农民解决柴油问题。",
-          "url": "https://flash.jin10.com/detail/20261006032308803800",
+          "title": "据日经新闻：日本半导体设备制造商TOWA计划建设芯片制造设备工厂，以强化日本半导体供应链。",
+          "url": "https://flash.jin10.com/detail/20261007040643304800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国国防部首席技术官迈克尔：（谈及人工智能工作组）这关乎未来风险。人们应该知道人工智能可以为他们服务。",
-          "url": "https://flash.jin10.com/detail/20261006232437374800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "北约拟以无人机和AI应对“可能的俄罗斯袭击”",
-          "url": "https://wallstreetcn.com/livenews/3174507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：很快将前往爱荷华州。",
-          "url": "https://flash.jin10.com/detail/20261006032228488800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国国防部首席技术官迈克尔：希望有超过五家主要承包商。",
-          "url": "https://flash.jin10.com/detail/20261006232407537800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）始终欢迎直接对话。",
-          "url": "https://flash.jin10.com/detail/20261006032210652800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国国防部首席技术官迈克尔：（谈及国防科技初创企业Anduril合同）这没什么异常。",
-          "url": "https://flash.jin10.com/detail/20261006232357921800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：我们与塞尔维亚的关系非常好。",
-          "url": "https://flash.jin10.com/detail/20261006032132652800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "市场消息：美国民主党参议员沃伦就三项拟议的食品行业交易质询司法部和联邦贸易委员会。",
-          "url": "https://flash.jin10.com/detail/20261006232311421800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（10月5日）担保隔夜融资利率（SOFR）报3.89%，之前一天报3.88%。 上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。",
-          "url": "https://wallstreetcn.com/livenews/3174503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国总统特朗普：认为有具体威胁促使我们从英国基地撤回轰炸机。",
-          "url": "https://flash.jin10.com/detail/20261006032121598800",
-          "source": "金十数据",
+          "title": "8架B-1B轰炸机为何从英国撤回美国",
+          "url": "https://www.toutiao.com/trending/7693541988309667371/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "日本10年期国债收益率上涨3个基点，至3.115%。",
-          "url": "https://flash.jin10.com/detail/20261006080323226800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：（关于加拿大）没有急于恢复贸易谈判。",
-          "url": "https://flash.jin10.com/detail/20261006032045982800",
+          "title": "美国总统特朗普：不久你就会知道我们如何解决伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20261007040549135800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "日本2年期国债收益率上涨2个基点，至1.925%。",
-          "url": "https://flash.jin10.com/detail/20261006080227903800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国财长贝森特声称：伊朗9月对油轮的装货量为零。",
-          "url": "https://wallstreetcn.com/livenews/3174215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国科技股七巨头指数涨约1.1%，与英伟达创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3174279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：炼油厂不足是个问题。",
-          "url": "https://flash.jin10.com/detail/20261006031926509800",
+          "title": "美国总统特朗普：（关于伊朗）我们必须收尾，问题在于如何收尾。",
+          "url": "https://flash.jin10.com/detail/20261007040544431800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国黄石公园羚羊峡谷充满“乡音”",
-          "url": "https://www.toutiao.com/trending/7693380069078597668/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美国总统特朗普：我将在大约一个半星期后前往密歇根州。",
-          "url": "https://flash.jin10.com/detail/20261006031748810800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司Spacex寻求在美国佛罗里达州修建天然气管道。",
-          "url": "https://wallstreetcn.com/livenews/3174213",
+          "title": "俄罗斯交通部：悬挂利比里亚国旗的阿芙拉型油轮 “Aframax Rio” 在俄罗斯黑海沿岸起火，船上 23 名船员已全部获救，无人员伤亡。 阿芙拉型油轮 “Aframax Rio” 遭无人艇袭击。 火势减弱后，俄罗斯消防人员具备扑灭大火的条件。",
+          "url": "https://wallstreetcn.com/livenews/3174611",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普签署红色染料柴油的相关的命令，允许所有人购买免税的红色染料柴油。",
-          "url": "https://flash.jin10.com/detail/20261006075957547800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "04时41分"
         },
         {
-          "title": "路透社/益普索调查显示，在美国中期选举中，西班牙裔登记选民支持民主党的可能性是支持共和党的两倍。",
-          "url": "https://flash.jin10.com/detail/20261006031554361800",
-          "source": "金十数据",
+          "title": "美国总统特朗普谈及派拉蒙与华纳合并：这是一次很棒的合并，很高兴这笔交易获批。",
+          "url": "https://wallstreetcn.com/livenews/3174610",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：今晚我将签署命令，免除非公路要求，允许任何人购买免税的红色染料柴油。",
-          "url": "https://flash.jin10.com/detail/20261006075651824800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "路透社/益普索调查显示，只有24%的西班牙裔美国人对美国总统特朗普的工作表现表示认可，这是他任期内的最低支持率。",
-          "url": "https://flash.jin10.com/detail/20261006031546965800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "日本对美国抗议有用吗",
-          "url": "https://www.toutiao.com/trending/7692994178204290570/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "路透社/益普索调查显示，美国总统特朗普的支持率维持在32%的历史低点。",
-          "url": "https://flash.jin10.com/detail/20261006031522695800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：战争很快就会结束，物价也将急剧下降。人们可能会说：“先生，求你了，（价格）降得实在太快了！”",
-          "url": "https://flash.jin10.com/detail/20261006074841310800",
-          "source": "金十数据",
+          "title": "外交部：美方应慎重处理台湾问题",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E7%BE%8E%E6%96%B9%E5%BA%94%E6%85%8E%E9%87%8D%E5%A4%84%E7%90%86%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "04时41分"
         },
         {
-          "title": "美国纽约州宣布针对麻疹疫情进入灾难紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3174269",
+          "title": "美国总统特朗普：强势美元是不错的。 美元走强意味着没有通胀。 你们可以认为，强势美元让价格下降。",
+          "url": "https://wallstreetcn.com/livenews/3174607",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "04时41分"
         },
         {
-          "title": "韩国外交部长官赵显：韩国政府已向美国德州电力项目投入24亿美元",
-          "url": "https://wallstreetcn.com/livenews/3174340",
+          "title": "美国总统特朗普：重申伊朗局势非常糟糕。 重申石油持续通过霍尔木兹海峡对外输送。 重申“一旦战争结束，油价将下跌”。",
+          "url": "https://wallstreetcn.com/livenews/3174606",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "04时41分"
         },
         {
-          "title": "伊拉克送走美军能摆脱美国影响吗",
-          "url": "https://www.toutiao.com/trending/7693539393054707246/",
-          "source": "今日头条",
+          "title": "美国总统特朗普称其超级政治行动委员会将为支持特朗普的广告买单，而非由纳税人出资。",
+          "url": "https://flash.jin10.com/detail/20261007034024622800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月6日）纽约尾盘，彭博电动汽车价格回报指数涨1.68%，报3207.35点，亚太早盘持续上涨、北京时间10:00以来高位持稳。 目前，成分股中，Ecopro BM Co. Ltd.涨11.4%，Posco Future M株式会社收涨超9.4%，L&F收涨超8.9%，三星SDI收涨8.7%，奇瑞汽车H股收涨7.95%，LG新能源涨5.12%表现第六。",
+          "url": "https://wallstreetcn.com/livenews/3174615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     }
