@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T08:37:30.487812+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-10-08T14:53:23.254578+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅",
@@ -19,13 +19,24 @@
           "time_info": "[04时25分 ~ 08时37分]"
         },
         {
+          "title": "日本央行大阪分行行长：该地区的大型企业和出口商正受益于日元疲软，而规模较小、以服务为主的企业则更容易受到日元疲软不利影响的冲击。",
+          "url": "https://flash.jin10.com/detail/20261008143805369800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国公开称愿意帮俄解决“大问题”，私下发外交照会施压",
           "url": "https://news.ifeng.com/c/8x2zEo7tPvm",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -41,6 +52,28 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国总统特朗普表示，他希望将自己位于佛罗里达州的一处高尔夫球场改造成总统度假胜地，供继任者在绿茵场上度过宁静的周末。他将其形容为“某种形式的戴维营”，并指出该场地已具备接待总统及各国领导人所需的许多安保设施。",
+          "url": "https://flash.jin10.com/detail/20261008143746033800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "俄罗斯鼠疫研究机构员工死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366451&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "杜克能源与美国北卡罗来纳州达成协议，协议包含针对大负荷客户的独立电价，保护普通用户免于承担数据中心相关成本。 数据中心需预先支付电网接入费用。",
           "url": "https://wallstreetcn.com/livenews/3174983",
           "source": "华尔街见闻-快讯",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "李胜峰：世界已改变 台湾要回家了",
+          "url": "https://www.toutiao.com/trending/7693469053826924582/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "一文梳理：俄罗斯真的暴发鼠疫？究竟发生了什么？",
@@ -69,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -80,9 +124,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
+        },
+        {
+          "title": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
+          "url": "https://wallstreetcn.com/articles/3783110",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 14时53分]"
         },
         {
           "title": "日本前外相：中日关系恶化责任在日本",
@@ -121,18 +178,6 @@
           "time_info": "[04时25分 ~ 08时37分]"
         },
         {
-          "title": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
-          "url": "https://wallstreetcn.com/articles/3783110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 08时37分]"
-        },
-        {
           "title": "俄罗斯现不明原因肺炎死亡病例",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -143,6 +188,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 08时37分]"
+        },
+        {
+          "title": "朝媒警告美国：台湾问题纯属中国内政",
+          "url": "https://www.toutiao.com/trending/7693983038581211675/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 14时53分]"
         },
         {
           "title": "比起核电站，美国人为什么更反感数据中心？",
@@ -156,15 +213,48 @@
           "time_info": "04时25分"
         },
         {
+          "title": "日经225指数收盘下跌1.4%，报69,042.11点。 日本东证指数收跌1.5%，报4,091.46点。 韩国首尔综指收跌2.6%，报6625.93点。",
+          "url": "https://wallstreetcn.com/livenews/3175222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "日本30年期国债收益率下跌2.5个基点，至4.185%。",
           "url": "https://flash.jin10.com/detail/20261008081144708800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
+        },
+        {
+          "title": "美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善",
+          "url": "https://wallstreetcn.com/articles/3783123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "注射死刑失败，美国女囚昏迷6日后苏醒，张口问了两个问题",
+          "url": "https://news.ifeng.com/c/8x3QDBdlBam",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国海洋能源管理局（MMA）：墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产。",
@@ -184,7 +274,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -217,7 +307,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -239,9 +329,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
+        },
+        {
+          "title": "俄罗斯“鼠疫事件”",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9C%E9%BC%A0%E7%96%AB%E4%BA%8B%E4%BB%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "据CNBC：美国情报总监兼人工智能事务主管克莱顿：美国正与20至25家人工智能公司展开对话。",
@@ -261,7 +362,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -283,7 +384,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -294,7 +395,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -327,7 +428,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -338,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -349,7 +450,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -360,9 +461,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
+        },
+        {
+          "title": "岩屋毅：中日关系恶化责任全在日本",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%A9%E5%B1%8B%E6%AF%85%EF%BC%9A%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E6%81%B6%E5%8C%96%E8%B4%A3%E4%BB%BB%E5%85%A8%E5%9C%A8%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "日本8月未季调经常帐 40620亿日元，预期31946亿日元，前值29889亿日元。",
@@ -371,7 +483,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -382,7 +494,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -393,7 +505,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -407,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "俄罗斯官方将研究员死因定性为不明病因肺炎，为啥外界会联系到「鼠疫」？网传四种感染来源的说法哪种更合理？",
+          "url": "https://www.zhihu.com/question/2091484309827712122",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "据Axios网站：美国总统特朗普将于当地时间周四参加AI会议。",
@@ -426,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -448,7 +571,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -481,7 +604,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -503,7 +626,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -519,17 +642,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "朝媒警告美国：台湾问题纯属中国内政",
-          "url": "https://www.toutiao.com/trending/7693983038581211675/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
           "title": "WTI 11月原油期货收跌1.16美元，跌幅超过1.29%，报88.28美元/桶，逼近9月3日收盘位88.03美元、8月13日收跌至79.07美元。日线图上，美国原油期货50日均线已经上移至86.49美元。 布伦特12月原油期货收跌0.38美元，跌幅将近0.38%，报100.20美元/桶。 中东Abu Dhabi Murban原油期货涨0.19%，报106.39美元/桶。 NYMEX 11月天然气期货收报3.2030美元/百万英热单位。 NYMEX 11月汽油期货收报3.2342美元/加仑，NYMEX 11月取暖油期货收报4.6227美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3174956",
           "source": "华尔街见闻-快讯",
@@ -539,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "当地华人谈俄罗斯不明肺炎",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E8%B0%88%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
