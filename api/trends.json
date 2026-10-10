@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T11:31:56.544924+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-10-10T18:18:32.187693+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 85,
+      "match_count": 102,
       "titles": [
         {
           "title": "“在美国造出首个原型机的时间，中国可能已迭代三版了”",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8x64PgzVXEo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 18时18分]"
         },
         {
           "title": "美国海啸预警系统：在地震后，巴拿马部分海岸可能出现1至3米高的海啸波。",
@@ -47,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -63,6 +64,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "消息人士：美国已停止对伊拉克军队的军事训练",
+          "url": "https://flash.jin10.com/detail/20261010174854139800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：（特朗普）给普京的礼物不会带来和平，也不会给文明世界带来任何好处。 允许俄罗斯出售石油产品，就是在投资一场必须结束、而非拖延的冲突。 如果俄罗斯停止摧毁我们的能源基础设施，乌克兰就不会再纵火袭击俄罗斯炼油厂。 这正是我们向美国提议的那类协议，我们相信美国有足够实力促成这样的妥协。",
           "url": "https://wallstreetcn.com/livenews/3176420",
           "source": "华尔街见闻-快讯",
@@ -72,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "俄罗斯真的鼠疫泄露了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E7%9C%9F%E7%9A%84%E9%BC%A0%E7%96%AB%E6%B3%84%E9%9C%B2%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "市场消息：美国贸易代表格里尔将于10月16日访问得州仪器位于犹他州莱海的工厂。",
@@ -91,7 +114,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -102,7 +125,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -113,7 +136,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -146,7 +169,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -162,15 +185,17 @@
           "time_info": "03时56分"
         },
         {
-          "title": "为什么美国人嗜甜如命却发明了美式咖啡？",
-          "url": "https://www.zhihu.com/question/694696677",
-          "source": "知乎",
+          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
+          "url": "https://www.cls.cn/detail/2500977",
+          "source": "财联社热门",
           "ranks": [
-            5
+            8,
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 18时18分]"
         },
         {
           "title": "花旗预计贝森特下月可能削减美国长债标售甚至取消20年期发行",
@@ -190,11 +215,24 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时56分 ~ 11时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时56分 ~ 18时18分]"
+        },
+        {
+          "title": "为什么美国人嗜甜如命却发明了美式咖啡？",
+          "url": "https://www.zhihu.com/question/694696677",
+          "source": "知乎",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 18时18分]"
         },
         {
           "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
@@ -210,6 +248,18 @@
           "time_info": "[03时56分 ~ 11时31分]"
         },
         {
+          "title": "美国柴油价格较美伊开战前上涨70% 俄将提前解除柴油出口禁令 | 环球市场",
+          "url": "https://www.cls.cn/detail/2500999",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 18时18分]"
+        },
+        {
           "title": "美国AI热潮，让老百姓租不起房子了",
           "url": "https://news.ifeng.com/c/8x5GxUoMWHY",
           "source": "凤凰网",
@@ -219,18 +269,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 11时31分]"
-        },
-        {
-          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
-          "url": "https://www.cls.cn/detail/2500977",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时31分]"
         },
         {
           "title": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”",
@@ -268,16 +306,15 @@
           "time_info": "[03时56分 ~ 07时45分]"
         },
         {
-          "title": "美国柴油价格较美伊开战前上涨70% 俄将提前解除柴油出口禁令 | 环球市场",
-          "url": "https://www.cls.cn/detail/2500999",
-          "source": "财联社热门",
+          "title": "油轮运费创六十年新高：从美国运一船油到中国，比发射火箭还贵！",
+          "url": "https://wallstreetcn.com/articles/3783314",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 11时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，CBOT美国5年期国债期货投机者净空头头寸增加167,830份合约，至1,163,531份；CBOT美国10年期国债期货投机者净空头头寸削减4,134份合约，至896,481份。",
@@ -308,7 +345,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -322,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "如何看待俄罗斯网络巨头 Yandex 数据中心因乌克兰无人机袭击而停运？还有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2091899479041499728",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，原油投机者WTI净多头头寸削减19,516份合约，至111,635份。",
@@ -407,7 +455,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -434,6 +482,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法。",
+          "url": "https://flash.jin10.com/detail/20261010171236095800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：10月6日当周，COMEX黄金投机多头净头寸减少9599手合约，至114820手合约。",
           "url": "https://wallstreetcn.com/livenews/3176413",
           "source": "华尔街见闻-快讯",
@@ -443,6 +502,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "AI开始撕裂全球经济：美国收割红利，欧洲深陷泥潭！",
+          "url": "https://www.cls.cn/detail/2501154",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "高市早苗：美国这么干，我深感忧虑",
+          "url": "https://news.ifeng.com/c/8x6xGHOiMjB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，CME标普500股票基金投机者净空头头寸增加41,003份合约，至396,700份。",
@@ -478,6 +559,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京在通话中对美国总统特朗普部分关于缓解乌克兰冲突的提议表示“理解”。",
+          "url": "https://flash.jin10.com/detail/20261010170618244800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "英国政府就美俄柴油交易表态：英国将通过英国有史以来最严苛的制裁机制，持续对俄罗斯施加压力。 英国将继续与国际伙伴密切合作，确保乌克兰获得其所需的军事与财政支持。",
           "url": "https://wallstreetcn.com/livenews/3176459",
           "source": "华尔街见闻-快讯",
@@ -509,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "梅赛德斯-奔驰美国公司召回30,064辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3176525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "当种田游戏遇上恐怖游戏，日本《夜回》制作组的新作《静谧田园》杂交出了个什么样的游戏，会不会两头不沾？",
@@ -550,7 +653,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -575,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国国家飓风中心：因后热带气旋“Isaias”，突发洪水风险持续。预计Isaias今天减弱速度缓慢，并将在周日消散。",
+          "url": "https://flash.jin10.com/detail/20261010164934504800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "白宫：基思·桑德林正式宣誓就任美国劳工部长。",
@@ -610,6 +724,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "据国际文传电讯社：俄罗斯国防部表示其部队控制了乌克兰哈尔科夫地区的两个定居点。",
+          "url": "https://flash.jin10.com/detail/20261010164736860800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "Anthropic PBC的AI产品向美国费城警方发出虚假建议。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3176455",
           "source": "华尔街见闻-快讯",
@@ -619,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
+          "url": "https://wallstreetcn.com/livenews/3176522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：电话通话持续了1.5小时。",
@@ -660,7 +796,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -671,7 +807,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -698,6 +834,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "乌克兰、美国和欧洲国家提前结束迈阿密会谈",
+          "url": "https://wallstreetcn.com/livenews/3176520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告知美国总统特朗普，俄罗斯将考虑何时恢复和平谈判。",
           "url": "https://flash.jin10.com/detail/20261010051551456800",
           "source": "金十数据",
@@ -707,6 +854,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "据日本共同社：日本计划于11月在东京与越南举行峰会，讨论能源和安全问题。",
+          "url": "https://flash.jin10.com/detail/20261010162912871800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "轮奸案揭开美国藤校特权黑幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%AE%E5%A5%B8%E6%A1%88%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E8%97%A4%E6%A0%A1%E7%89%B9%E6%9D%83%E9%BB%91%E5%B9%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "俄罗斯总统普京特使迪米特里耶夫：俄罗斯与美国在柴油和能源方面的合作将惠及全球。",
@@ -748,7 +917,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -781,7 +950,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -814,7 +983,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -828,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国放宽对俄柴油贸易制裁释放何信号",
+          "url": "https://www.toutiao.com/trending/7694950771602755108/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国国家飓风中心（NHC）：热带风暴天气开始向墨西哥湾北部沿岸陆地区域蔓延。",
@@ -880,7 +1060,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -902,7 +1082,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -913,7 +1093,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -924,7 +1104,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -935,9 +1115,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "梅赛德斯-奔驰美国公司召回30064辆汽车",
+          "url": "https://flash.jin10.com/detail/20261010155541716800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国地质调查局（USGS）：巴拿马Pitaloza Arriba西南偏西12公里发生7.7级地震。",
