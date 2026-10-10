@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T07:45:28.686051+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-10-10T11:31:56.544924+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 65,
+      "match_count": 85,
       "titles": [
         {
           "title": "“在美国造出首个原型机的时间，中国可能已迭代三版了”",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普：俄罗斯将立即向美国供应柴油",
+          "url": "https://news.ifeng.com/c/8x64PgzVXEo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国海啸预警系统：在地震后，巴拿马部分海岸可能出现1至3米高的海啸波。",
@@ -30,15 +41,15 @@
           "time_info": "03时56分"
         },
         {
-          "title": "花旗预计贝森特下月可能削减美国长债标售甚至取消20年期发行",
-          "url": "https://wallstreetcn.com/livenews/3176475",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国土安全部长：受飓风“伊萨亚斯”影响，已批准佛罗里达州和阿拉巴马州进入紧急状态。",
+          "url": "https://flash.jin10.com/detail/20261010105421569800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "11时31分"
         },
         {
           "title": "美国总统特朗普：因大型风暴将缺席阿拉巴马大学对阵佐治亚大学的比赛，将转赴田纳西州助选。",
@@ -74,6 +85,39 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国国家飓风中心：预计“伊萨亚斯”将继续减弱，但即使在转为后热带气旋后，仍预计在周六期间向内陆深处持续产生阵风。",
+          "url": "https://flash.jin10.com/detail/20261010104814434800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美国国土安全部部长：受飓风“伊萨亚斯”影响，已批准佛罗里达州和阿拉巴马州进入紧急状态。",
+          "url": "https://wallstreetcn.com/livenews/3176501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美国佛罗里达州应急管理局：北佛罗里达地区全境警报生效，涵盖山洪、风暴潮、强风和龙卷风预警。",
+          "url": "https://flash.jin10.com/detail/20261010104121561800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：10月6日当周，投机客将芝加哥期货交易所（CBOT）美国10年期国债期货的净空头头寸削减4134手，至896,481手。 投机者将芝加哥期货交易所（CBOT）美国5年期国债期货的净空头头寸增加167,830手，至1,163,531手。 投机者将芝加哥期货交易所（CBOT）美国超长期国债期货净空头头寸削减50,097手，至276,339手。 投机者在截至10月6日当周将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少67,063手，至119,812手。",
           "url": "https://wallstreetcn.com/livenews/3176418",
           "source": "华尔街见闻-快讯",
@@ -96,6 +140,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国佛罗里达州应急管理局：飓风“艾萨亚斯”以二级强度在德斯廷附近登陆。居民在飓风登陆后应继续就地避难。",
+          "url": "https://flash.jin10.com/detail/20261010103954773800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：10月6日当周，瑞郎净空头头寸为-23,740手合约。 英镑净空头持仓为-97611手合约。 欧元净空头头寸为99,332手合约。 日元净多头持仓为62325手合约。",
           "url": "https://wallstreetcn.com/livenews/3176417",
           "source": "华尔街见闻-快讯",
@@ -107,15 +162,75 @@
           "time_info": "03时56分"
         },
         {
+          "title": "为什么美国人嗜甜如命却发明了美式咖啡？",
+          "url": "https://www.zhihu.com/question/694696677",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "花旗预计贝森特下月可能削减美国长债标售甚至取消20年期发行",
+          "url": "https://wallstreetcn.com/livenews/3176475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 11时31分]"
+        },
+        {
           "title": "俄罗斯鼠疫研究机构员工死亡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366451&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 11时31分]"
+        },
+        {
+          "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34218258",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 11时31分]"
+        },
+        {
+          "title": "美国AI热潮，让老百姓租不起房子了",
+          "url": "https://news.ifeng.com/c/8x5GxUoMWHY",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
+          "url": "https://www.cls.cn/detail/2500977",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时56分 ~ 07时45分]"
+          "time_info": "[07时45分 ~ 11时31分]"
         },
         {
           "title": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”",
@@ -142,18 +257,6 @@
           "time_info": "[03时56分 ~ 07时45分]"
         },
         {
-          "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34218258",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 07时45分]"
-        },
-        {
           "title": "中国太重要，日本半导体封装材料大厂不到半年再度扩产苏州",
           "url": "https://news.ifeng.com/c/8x5GyRLhhBI",
           "source": "凤凰网",
@@ -165,15 +268,16 @@
           "time_info": "[03时56分 ~ 07时45分]"
         },
         {
-          "title": "美国AI热潮，让老百姓租不起房子了",
-          "url": "https://news.ifeng.com/c/8x5GxUoMWHY",
-          "source": "凤凰网",
+          "title": "美国柴油价格较美伊开战前上涨70% 俄将提前解除柴油出口禁令 | 环球市场",
+          "url": "https://www.cls.cn/detail/2500999",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时56分 ~ 07时45分]"
+          "time_info": "[07时45分 ~ 11时31分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，CBOT美国5年期国债期货投机者净空头头寸增加167,830份合约，至1,163,531份；CBOT美国10年期国债期货投机者净空头头寸削减4,134份合约，至896,481份。",
@@ -193,9 +297,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国国家飓风中心：“西蒙”已成为强飓风，保护生命和财产的准备工作应接近完成。",
+          "url": "https://flash.jin10.com/detail/20261010103917457800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：10月6日当周，比特币净多头头寸为2540手合约。",
@@ -226,7 +341,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -248,7 +363,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -259,18 +374,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
-          "url": "https://www.cls.cn/detail/2500977",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -297,6 +401,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "普京：俄愿向美国及全球市场供应石油",
+          "url": "https://www.toutiao.com/trending/7694755997117661705/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，CME标普500股票基金经理净多头头寸增加3,101份合约，至904,356份。",
           "url": "https://flash.jin10.com/detail/20261010033113207800",
           "source": "金十数据",
@@ -314,7 +429,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -352,17 +467,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "美国柴油价格较美伊开战前上涨70% 俄将提前解除柴油出口禁令 | 环球市场",
-          "url": "https://www.cls.cn/detail/2500999",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至10月6日当周，四大NYMEX、ICE市场天然气投机者净空头头寸增加30,679份合约，至111,835份。",
           "url": "https://flash.jin10.com/detail/20261010033029487800",
           "source": "金十数据",
@@ -380,7 +484,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -413,7 +517,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -424,7 +528,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -438,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美国放松对俄柴油贸易制裁，特朗普称俄将向美国及全球市场提供超过 30 万吨柴油，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2092139736043348513",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国航空航天局（NASA）征集美国业界商业空间站方案。",
@@ -457,7 +572,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -490,7 +605,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -501,7 +616,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -512,7 +627,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -534,9 +649,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "日本美滨核电站3号机组反应堆重启",
+          "url": "https://wallstreetcn.com/livenews/3176487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "俄罗斯鼠疫新闻为何广泛流传",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E6%96%B0%E9%97%BB%E4%B8%BA%E4%BD%95%E5%B9%BF%E6%B3%9B%E6%B5%81%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普欢迎俄罗斯参与伊朗问题的解决。",
@@ -545,7 +682,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -567,7 +704,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -589,7 +726,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -600,9 +737,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普：纽约本不该让企业迁往得州。 炼油商和零售商应开始降价。 美国已削减逾100万个联邦职位。",
+          "url": "https://wallstreetcn.com/livenews/3176483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "俄罗斯总统普京特使迪米特里耶夫：俄罗斯总统普京与美国总统特朗普刚刚进行了成功的电话交谈。",
@@ -622,9 +770,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美财长：美国国债已攀升至约41万亿美元规模",
+          "url": "https://wallstreetcn.com/livenews/3176481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国发布一般许可证，授权与俄罗斯原产柴油燃料的销售、交付、卸货和进口相关的交易，期限至2027年4月7日。",
@@ -644,9 +803,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261010094450039800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "俄罗斯常驻联合国代表涅边贾：乌克兰防空系统效率低下导致悲剧发生，而基辅却将责任归咎于俄罗斯。",
@@ -655,7 +825,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -677,7 +847,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -699,9 +869,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国在吸引全球资金 中国如何应对",
+          "url": "https://www.toutiao.com/trending/7694693932646534710/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国总统特朗普：刚刚听说了一些关于美国驻希腊大使的消息。",
@@ -710,9 +891,53 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国国家飓风中心：飓风“伊萨亚斯”在佛罗里达州德斯廷附近登陆，危及生命的风暴潮正冲击墨西哥湾沿岸。",
+          "url": "https://flash.jin10.com/detail/20261010093308331800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美国总统特朗普：诺贝尔和平奖永远失去了公信力。该奖已经被一小撮反民主、反文明的激进意识形态者彻底抹黑。",
+          "url": "https://flash.jin10.com/detail/20261010092801234800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普与普京达成的柴油协议被指违反俄罗斯制裁法",
+          "url": "https://wallstreetcn.com/livenews/3176479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "蓝营人士批“青鸟出征”撕裂台湾社会",
+          "url": "https://www.toutiao.com/trending/7694483462006341651/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国地质调查局（USGS）：巴拿马Pitaloza Arriba西南偏西12公里发生7.7级地震。",
