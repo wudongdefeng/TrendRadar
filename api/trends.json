@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-11T04:24:44.041960+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-10-11T08:02:02.383183+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 27,
+      "match_count": 47,
       "titles": [
         {
           "title": "油轮运费创六十年新高：从美国运一船油到中国，比发射火箭还贵！",
           "url": "https://wallstreetcn.com/articles/3783314",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "离谱,日本拉面店一锅汤熬14年",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "美国大模型Claude自主向警方提交虚假凶杀案线索",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "国防部批日本“新型军国主义”",
@@ -47,20 +48,66 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 08时02分]"
         },
         {
-          "title": "伊朗外交部发言人：美国人民真正的敌人是本国好战统治集团",
-          "url": "https://flash.jin10.com/detail/20261011035429103800",
+          "title": "美国公布了六代机哪些新消息",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E4%BA%86%E5%85%AD%E4%BB%A3%E6%9C%BA%E5%93%AA%E4%BA%9B%E6%96%B0%E6%B6%88%E6%81%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
+        },
+        {
+          "title": "美国有可能加入沙特对胡塞打击行动",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8A%A0%E5%85%A5%E6%B2%99%E7%89%B9%E5%AF%B9%E8%83%A1%E5%A1%9E%E6%89%93%E5%87%BB%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "释新闻丨从制裁个人到制裁整个机构，美国对国际刑事法院的打击为何升级？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34226081",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "沙特民航局：利雅得哈立德国王国际机场遭袭造成4名沙特公民死亡，8名外籍居民死亡，包括2名孟加拉国公民、1名美国公民、1名埃及公民、1名约旦公民、1名叙利亚公民、1名巴勒斯坦公民和1名苏丹公民。",
+          "url": "https://flash.jin10.com/detail/20261011055315654800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "飓风“伊萨亚斯”已致美国4人死亡，超62万用户断电",
+          "url": "https://wallstreetcn.com/livenews/3176566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "对俄柴油制裁解除不到24小时，一艘油轮似已满载柴油驶向美国",
@@ -74,16 +121,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美国公布了六代机哪些新消息",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E4%BA%86%E5%85%AD%E4%BB%A3%E6%9C%BA%E5%93%AA%E4%BA%9B%E6%96%B0%E6%B6%88%E6%81%AF",
-          "source": "bilibili 热搜",
+          "title": "俄罗斯根据特朗普与普京的协议，部分解除柴油出口禁令",
+          "url": "https://wallstreetcn.com/livenews/3176563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "高市早苗：美国这么干，我深感忧虑",
@@ -93,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "AI开始撕裂全球经济：美国收割红利，欧洲深陷泥潭！",
@@ -102,11 +148,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国人民真正的敌人是本国好战统治集团",
+          "url": "https://flash.jin10.com/detail/20261011035429103800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "time_info": "[04时24分 ~ 08时02分]"
         },
         {
           "title": "美国为何想要开直播处决一名死囚",
@@ -114,11 +173,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "美国国债已攀升至约 41 万亿美元规模，会带来哪些影响？财长称将推出财政整顿计划，可能有哪些手段？",
@@ -128,8 +188,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "新闻蒸馏器｜万斯说不会看，议员称令人作呕，美国直播枪决计划争议何在？",
@@ -137,11 +197,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "国防部：日本必须履行二战战败国义务",
@@ -149,11 +210,70 @@
           "source": "今日头条",
           "ranks": [
             26,
-            14
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 08时02分]"
+        },
+        {
+          "title": "美国能源部批准调拨最多400万桶原油战储 以应对墨西哥湾恶劣天气",
+          "url": "https://flash.jin10.com/detail/20261011031438863800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时03分 ~ 04时24分]"
+          "time_info": "[04时24分 ~ 08时02分]"
+        },
+        {
+          "title": "美国能源部：最新一轮战略石油储备释放旨在缓解美国风暴造成的供应中断。",
+          "url": "https://flash.jin10.com/detail/20261011030732711800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 08时02分]"
+        },
+        {
+          "title": "市场消息：美国能源部批准从战略石油储备中紧急调换最多400万桶原油，以应对墨西哥湾地区恶劣天气造成的供应中断。相关企业将于2027年归还所借原油，并额外偿还一定数量的原油作为补偿。",
+          "url": "https://flash.jin10.com/detail/20261011030601807800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 08时02分]"
+        },
+        {
+          "title": "台湾民众街头举五星红旗高喊要统一",
+          "url": "https://www.toutiao.com/trending/7694447021717094442/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "日本乐天热销雪糕挤出红色异物是血",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B9%90%E5%A4%A9%E7%83%AD%E9%94%80%E9%9B%AA%E7%B3%95%E6%8C%A4%E5%87%BA%E7%BA%A2%E8%89%B2%E5%BC%82%E7%89%A9%E6%98%AF%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "梅赛德斯-奔驰美国公司召回30,064辆汽车",
@@ -167,6 +287,17 @@
           "time_info": "[00时03分 ~ 04时24分]"
         },
         {
+          "title": "美国总统特朗普：我认为法国总统马克龙最近不太高兴。",
+          "url": "https://flash.jin10.com/detail/20261011050909657800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
           "url": "https://wallstreetcn.com/articles/3783298",
           "source": "华尔街见闻",
@@ -178,37 +309,70 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美国能源部批准调拨最多400万桶原油战储 以应对墨西哥湾恶劣天气",
-          "url": "https://flash.jin10.com/detail/20261011031438863800",
+          "title": "美国总统特朗普：（谈加拿大）加拿大从来没有给予我们应有的尊重。他们认为自己理所当然地享有某些东西。但他们并没有这种特权。我们不需要他们拥有的任何东西。",
+          "url": "https://flash.jin10.com/detail/20261011050259483800",
           "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国能源部：最新一轮战略石油储备释放旨在缓解美国风暴造成的供应中断。",
-          "url": "https://flash.jin10.com/detail/20261011030732711800",
+          "title": "美国总统特朗普：这太不可思议了。我可以说出最愚蠢的话，而你们却鼓掌。",
+          "url": "https://flash.jin10.com/detail/20261011044834911800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "08时02分"
         },
         {
-          "title": "市场消息：美国能源部批准从战略石油储备中紧急调换最多400万桶原油，以应对墨西哥湾地区恶劣天气造成的供应中断。相关企业将于2027年归还所借原油，并额外偿还一定数量的原油作为补偿。",
-          "url": "https://flash.jin10.com/detail/20261011030601807800",
+          "title": "特朗普：美国有可能加入沙特对胡塞武装的打击行动",
+          "url": "https://wallstreetcn.com/livenews/3176567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：我此前考虑改名大西洋或太平洋。我们可以称它为“特朗普洋”（Trump Ocean）或者“美洲洋”（Ocean of the Americas）。",
+          "url": "https://flash.jin10.com/detail/20261011044032435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗可能会在选举前采取更多行动，他们认为这些行动会伤害我们，但我们能够迅速结束这件事。",
+          "url": "https://flash.jin10.com/detail/20261011043639240800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在考虑将霍尔木兹海峡重新命名为“特朗普海峡”。",
+          "url": "https://flash.jin10.com/detail/20261011043605753800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国柴油价格较美伊开战前上涨70% 俄将提前解除柴油出口禁令 | 环球市场",
@@ -228,9 +392,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我们可以很快结束这件事。他们根本不知道我一直对他们多好。",
+          "url": "https://flash.jin10.com/detail/20261011043522483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）他们是一个疯狂的国家。他们自己也知道这一点。我一直这么告诉他们。我说：“你们这些家伙简直疯了。”他们确实如此。",
+          "url": "https://flash.jin10.com/detail/20261011043246261800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "俄罗斯宣布部分解除柴油出口禁令",
@@ -239,9 +425,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "英国前首相约翰逊：美国现在解除对俄罗斯燃料的制裁令人作呕，而将油价上涨归咎于乌克兰更是显然荒谬。油价上涨显然始于霍尔木兹海峡关闭。白宫似乎决心迫使美国司机为普京的“屠杀”买单。这种做法不会奏效，我怀疑它对燃料价格也不会产生多大影响。",
+          "url": "https://flash.jin10.com/detail/20261011043112569800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：我很快将会抵达田纳西州。",
@@ -250,9 +447,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格低于拜登执政时期的水平，我们还阻止了伊朗获得核武器。",
+          "url": "https://flash.jin10.com/detail/20261011042758835800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "俄罗斯政府：在特朗普与普京达成协议后，部分解除柴油出口禁令。",
@@ -261,9 +469,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普正在田纳西州克拉克斯维尔集会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20261011042751523800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "据Axios：两名美国官员和一名以色列官员表示，美国并未要求以色列在选举前率先对伊朗发动袭击。（金十注：此前有媒体报道称，美国在过去两周曾敦促以色列单独对伊朗发动军事打击，希望以色列赶在本国10月27日选举前率先打击伊朗，从而避免美国直接采取军事行动影响11月3日中期选举。）",
@@ -272,9 +491,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美国内政部长伯格姆：“气候变化”运动的根基已被彻底动摇。在美国总统特朗普的领导下，美国不再将自身工业的未来押注于依赖天气条件的能源。我们正在为经济增长、制造业发展和美国实力的提升提供能源动力。",
+          "url": "https://flash.jin10.com/detail/20261011041338147800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "英伟达据悉洽谈收购美国AI初创公司Reflection AI",
@@ -283,7 +513,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -294,7 +524,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -305,7 +535,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
