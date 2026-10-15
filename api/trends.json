@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-10-16T04:46:05.140942+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-16T07:28:32.498817+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 36,
+      "match_count": 50,
       "titles": [
-        {
-          "title": "丹麦：没给美国开特权",
-          "url": "https://news.ifeng.com/c/8xFSTji8A1c",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时46分]"
-        },
         {
           "title": "通胀全面超预期！美国9月PPI同比上涨6.3%，创四年来最高纪录，核心涨幅扩大至5%",
           "url": "https://wallstreetcn.com/articles/3783717",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时28分]"
+        },
+        {
+          "title": "丹麦：没给美国开特权",
+          "url": "https://news.ifeng.com/c/8xFSTji8A1c",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时28分]"
         },
         {
           "title": "克宫批基辅：与美国促和背道而驰",
@@ -37,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 04时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 07时28分]"
         },
         {
           "title": "俄柴油进入美国市场，时间定了",
@@ -52,13 +54,24 @@
           "time_info": "[01时31分 ~ 01时32分]"
         },
         {
+          "title": "据华尔街日报：消息人士称，美国商务部长卢特尼克反对大幅削减针对墨西哥产汽车、钢铁和铝产品的关税，导致美墨关税协议谈判陷入停滞。<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20261016072114249800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "周四（10月15日），黄金ETF收涨1.79%，美国国债20+年ETF、罗素2000指数ETF涨1.37%，美国房地产ETF涨1.21%，道指ETF涨1.08%，巴克莱美国可转债ETF、美国投资级公司债ETF至多涨0.91%，欧元做多、通胀债券指数ETF、标普500 ETF、日元做多、农产品基金至多涨0.49%。",
           "url": "https://wallstreetcn.com/livenews/3179697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -72,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普：我将于10月22日和11月1日前往爱荷华州，为共和党候选人助选。",
+          "url": "https://flash.jin10.com/detail/20261016071947269800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国司法部起诉加利福尼亚州，要求阻止涉嫌非公民的投票。",
@@ -91,7 +115,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -114,19 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时46分]"
-        },
-        {
-          "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
-          "url": "https://www.cls.cn/detail/2506125",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时28分]"
         },
         {
           "title": "日本人是如何看待中国料理的？",
@@ -137,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时28分]"
         },
         {
           "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
@@ -147,6 +160,17 @@
           "ranks": [
             20,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时28分]"
+        },
+        {
+          "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
+          "url": "https://www.cls.cn/detail/2506125",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -197,6 +221,28 @@
           "time_info": "01时32分"
         },
         {
+          "title": "【早报】“美国茅台”，创历史新高；黄金、白银、原油齐涨；“易中天”发布重要公告；多只科技龙头股，计划回购股份",
+          "url": "https://www.cls.cn/detail/2506278",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查",
+          "url": "https://wallstreetcn.com/livenews/3179733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国国防部：美国国防部长赫格塞思支持美国总统特朗普关于不进行直播枪决的决定。",
           "url": "https://flash.jin10.com/detail/20261016005245519800",
           "source": "金十数据",
@@ -214,7 +260,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -228,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "贝莱德CEO Larry Fink警告：AI基建已成美国经济支柱，暂停数据中心建设将触发衰退",
+          "url": "https://wallstreetcn.com/articles/3783674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国财政部：美国将古巴国际商业银行列入制裁名单。",
@@ -247,7 +304,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -269,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -291,7 +348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -313,7 +370,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -324,7 +381,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -340,15 +397,70 @@
           "time_info": "01时32分"
         },
         {
+          "title": "日本有识之士：谨防日本重回战前状态",
+          "url": "https://www.toutiao.com/trending/7696958463120867378/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "市场消息：日本推迟敲定3.5%国防开支目标。",
+          "url": "https://flash.jin10.com/detail/20261016063133896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：目前金融条件大致处于中性水平，尽管借贷成本上升，科技等领域的投资仍在全速推进。 我目前并不觉得金融条件正在对经济形成约束。",
+          "url": "https://wallstreetcn.com/livenews/3179720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：截至10月14日当周，货币市场基金总规模减少404.6亿美元，降至7.92万亿美元。",
           "url": "https://flash.jin10.com/detail/20261016034035809800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国10年期国债收益率周四跌约13个基点",
+          "url": "https://wallstreetcn.com/livenews/3179719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国俄勒冈州本德市一所小学发生枪击事件，造成三名儿童和一名成年人遇难。警方消息称枪手已被击毙。",
+          "url": "https://flash.jin10.com/detail/20261016062721888800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.92万亿美元。",
@@ -357,7 +469,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -373,13 +485,24 @@
           "time_info": "01时32分"
         },
         {
+          "title": "OpenAI ：推出Rosalind学术计划，符合条件的高校实验室可免费使用GPT-Rosalind。 Rosalind学术计划的数据默认不会用于模型训练。 Rosalind学术计划提供最多30个Business Standard免费席位，有效期12个月。首期Rosalind学术计划不含API访问权限。 Rosalind学术计划目前面向美国高校的学术实验室开放。",
+          "url": "https://wallstreetcn.com/livenews/3179713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "据福克斯新闻：英国国防大臣表示，未在与美国国防部长赫格塞思的会议中讨论星链服务中断的原因。",
           "url": "https://flash.jin10.com/detail/20261016033027059800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -395,6 +518,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "俄罗斯罗斯托夫地区州长表示，无人机袭击了工业设施。",
+          "url": "https://flash.jin10.com/detail/20261016060649402800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "日本官员：全球政策制定者认为金融不稳定风险并不迫在眉睫",
           "url": "https://wallstreetcn.com/livenews/3179611",
           "source": "华尔街见闻-快讯",
@@ -404,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国民主党参议员马克·凯利：特朗普购买了500万美元的SpaceX债券，随后两天就宣布了影响SpaceX的重大太空政策变化。他还能有多明显的腐败？",
+          "url": "https://flash.jin10.com/detail/20261016055835391800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：听到更多美国低收入群体受通胀困扰的反馈。 民间见闻信息（轶事传闻）可提供重要的经济参考依据。",
+          "url": "https://wallstreetcn.com/livenews/3179708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
