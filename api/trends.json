@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T15:44:01.975758+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-10-16T20:54:03.686094+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 75,
+      "match_count": 100,
       "titles": [
         {
           "title": "通胀全面超预期！美国9月PPI同比上涨6.3%，创四年来最高纪录，核心涨幅扩大至5%",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 15时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 20时54分]"
         },
         {
           "title": "丹麦：没给美国开特权",
@@ -30,6 +31,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 07时28分]"
+        },
+        {
+          "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
+          "url": "https://www.zhihu.com/question/2094346221913690254",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 20时54分]"
         },
         {
           "title": "克宫批基辅：与美国促和背道而驰",
@@ -87,17 +100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 15时44分]"
-        },
-        {
-          "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
-          "url": "https://www.zhihu.com/question/2094346221913690254",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "日本误报称发生9.9级地震",
@@ -178,6 +180,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "土耳其能源部长：与俄罗斯诺瓦泰克董事长讨论了液化天然气领域的合作可能性。",
+          "url": "https://flash.jin10.com/detail/20261016204504405800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国司法部起诉加利福尼亚州，要求阻止涉嫌非公民的投票。",
           "url": "https://flash.jin10.com/detail/20261016010145051800",
           "source": "金十数据",
@@ -195,7 +208,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -228,9 +241,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "德国外交部长：由于俄罗斯在黑海的战争行为，食品供应岌岌可危。",
+          "url": "https://flash.jin10.com/detail/20261016204258289800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
@@ -281,6 +305,28 @@
           "time_info": "[10时24分 ~ 15时44分]"
         },
         {
+          "title": "专家：日本全境都在解放军射程范围内",
+          "url": "https://www.toutiao.com/trending/7696406162242535433/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "外交部：日本政客需要补补课",
+          "url": "https://news.ifeng.com/c/8xGr6Eb1AY7",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "美媒眼馋：中国造出了美国人喜欢的车",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%9C%BC%E9%A6%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E4%BA%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%96%9C%E6%AC%A2%E7%9A%84%E8%BD%A6",
           "source": "百度热搜",
@@ -290,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "离美国中选不到3周，超100封“白粉末信件”搅动政坛",
+          "url": "https://news.ifeng.com/c/8xGswLadRP8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美国肯德基将改用可口可乐",
@@ -303,6 +360,28 @@
           "time_info": "[15时43分 ~ 15时44分]"
         },
         {
+          "title": "红海成“风暴眼”：胡塞武装施压美国沙特，欧盟增派军舰护航运输",
+          "url": "https://www.cls.cn/detail/2506617",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "肯德基美国门店将改用可口可乐",
+          "url": "https://www.douyin.com/hot/2697732",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "美媒：中国造出了美国人喜欢的车",
           "url": "https://www.toutiao.com/trending/7696926689994162217/",
           "source": "今日头条",
@@ -312,6 +391,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "日本气象厅鞠躬道歉",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "日本误报9.9级地震",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美国为何非得买俄罗斯柴油",
@@ -386,9 +487,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周五在佛罗里达举行集会。",
+          "url": "https://flash.jin10.com/detail/20261016204224344800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美财政部公开喊话：日本已摆脱通缩环境，日元及货币政策必须调整",
@@ -397,7 +509,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -452,7 +564,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -496,9 +608,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美国9月进口价格指数同比 8.1%，预期 8.2%，前值 7%。",
+          "url": "https://wallstreetcn.com/livenews/3180276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国国务院官员：美国国务卿鲁比奥敦促黎巴嫩与以色列军队之间建立直接的军方沟通渠道，以避免冲突升级。",
@@ -518,9 +641,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美国9月进口价格指数(除汽油)环比 0.8%，预期 0.6%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3180275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "日本就俄军演提出外交抗议",
@@ -567,6 +701,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "美国9月出口价格指数环比 2.2%，预期 0.9%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3180274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国财政部：美国发布一项涉伊朗通用许可证，允许逐步终止涉及国际投资与金融开发银行的交易。",
           "url": "https://flash.jin10.com/detail/20261016004201266800",
           "source": "金十数据",
@@ -587,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国9月出口价格指数同比 11.6%，预期 9.6%，前值 8.6%。",
+          "url": "https://wallstreetcn.com/livenews/3180273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国财政部网站发布新一轮与伊朗相关的制裁。",
@@ -611,6 +767,50 @@
           "time_info": "04时46分"
         },
         {
+          "title": "伊朗军队发言人阿克拉米尼亚：随着我们的作战计划推进，未来几天美国军舰将被迫撤离到更远的地方。",
+          "url": "https://flash.jin10.com/detail/20261016203948943800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美国9月进口价格指数环比 1.1%，预期 1%，前值 0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3180272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "伊朗军队发言人阿克拉米尼亚：美国军舰目前已撤离至距离伊朗海岸500多公里（311英里）以外的海域。",
+          "url": "https://flash.jin10.com/detail/20261016203933705800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国9月进口和出口价格指数。",
+          "url": "https://wallstreetcn.com/livenews/3180271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国通信工人工会（CWA）：动视（Activision）旗下质量保证（QA）员工投票授权举行罢工。",
           "url": "https://flash.jin10.com/detail/20261016034840288800",
           "source": "金十数据",
@@ -628,7 +828,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -661,9 +861,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "白宫新闻秘书扎卡里亚谈通胀：我呼吁美国人保持耐心。",
+          "url": "https://flash.jin10.com/detail/20261016203204697800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "市场消息：日本推迟敲定3.5%国防开支目标。",
@@ -677,6 +888,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "受天气温和、需求预期偏低影响，美国天然气期货价格扩大跌幅，下跌5%。",
+          "url": "https://flash.jin10.com/detail/20261016203109511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack：目前金融条件大致处于中性水平，尽管借贷成本上升，科技等领域的投资仍在全速推进。 我目前并不觉得金融条件正在对经济形成约束。",
           "url": "https://wallstreetcn.com/livenews/3179720",
           "source": "华尔街见闻-快讯",
@@ -686,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "日本央行行长植田和男：一直在关注日元走弱和中东局势对通胀的影响。 将继续调整宽松程度。 将通胀稳定在2%水平正变得愈发重要。 将关注汇率、人工智能及中东局势对物价趋势的影响。 自阿什维尔以来未与美国财长贝森特交谈过。 今后将专注于巩固2%通胀目标。 不能容忍潜在通胀进一步高于2%。 潜在通胀已相当接近2%，标志着政策转向。 与美联储主席沃什就多项议题交换了意见。 没有证据表明中性利率处于任何特定水平附近。",
+          "url": "https://wallstreetcn.com/livenews/3180261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国投资公司协会（ICI）：截至10月14日当周，货币市场基金总规模减少404.6亿美元，降至7.92万亿美元。",
@@ -721,6 +954,39 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美国9月出口物价指数年率 11.6%，预期9.50%，前值8.60%。",
+          "url": "https://flash.jin10.com/detail/20261016203026824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美国9月进口物价指数年率 8.1%，预期8.10%，前值7.00%。",
+          "url": "https://flash.jin10.com/detail/20261016203025254800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美国9月出口物价指数月率 2.2%，预期1%，前值由0.60%修正为1.2%。",
+          "url": "https://flash.jin10.com/detail/20261016203004329800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.92万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3179673",
           "source": "华尔街见闻-快讯",
@@ -741,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "美国9月进口物价指数月率 1.1%，预期0.8%，前值由0.70%修正为0.5%。",
+          "url": "https://flash.jin10.com/detail/20261016203004290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "IMF预测日本GDP明年或降至全球第6",
