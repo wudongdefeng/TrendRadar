@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T03:08:06.327707+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-10-19T06:06:34.536521+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "日本出现取消吃饭现象",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 06时06分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 06时06分]"
         },
         {
           "title": "日本流行“取消吃饭”",
@@ -57,11 +57,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "据英国金融时报：美国驻欧盟大使普兹德警告称，若欧盟限制非欧盟企业获取频谱资源，布鲁塞尔将面临“毁灭性”报复。",
@@ -81,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -97,6 +98,19 @@
           "time_info": "00时16分"
         },
         {
+          "title": "日本流行“取消吃饭”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
+        },
+        {
           "title": "据半岛电视台：俄罗斯外长拉夫罗夫称，乌克兰总统泽连斯基不想进行谈判，并多次破坏谈判。",
           "url": "https://flash.jin10.com/detail/20261018234315549800",
           "source": "金十数据",
@@ -108,18 +122,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "日本流行“取消吃饭”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
-        },
-        {
           "title": "肯德基倒戈,美国门店换可口可乐",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&amp;topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90",
           "source": "贴吧",
@@ -127,8 +129,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "日本误报9.9级地震,民众炸锅",
@@ -138,8 +140,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时06分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
@@ -149,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 06时06分]"
         },
         {
           "title": "国家市场监督管理总局副局长潘晓东会见中国美国商会会长何迈可一行",
@@ -160,8 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 06时06分]"
         },
         {
           "title": "日本猪瘟疫情扩散 今年累计处置约2万头猪",
@@ -171,8 +173,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 06时06分]"
+        },
+        {
+          "title": "日本GDP或将降至全球第六意味着什么",
+          "url": "https://www.toutiao.com/trending/7697909098766929444/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 06时06分]"
         },
         {
           "title": "日本又跪又献花就是不忏悔",
@@ -197,24 +211,13 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "日本GDP或将降至全球第六意味着什么",
-          "url": "https://www.toutiao.com/trending/7697909098766929444/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
-        },
-        {
           "title": "俄罗斯外交部：俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
           "url": "https://flash.jin10.com/detail/20261019023026655800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -236,7 +239,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -247,9 +250,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "据叙利亚阿拉伯通讯社（SANA）：土耳其将获得俄罗斯柴油供应的部分份额，同时计划建造第二个黑海天然气平台。",
+          "url": "https://flash.jin10.com/detail/20261019052738180800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "海合会呼吁伊朗与美国重返对话",
+          "url": "https://flash.jin10.com/detail/20261019052431128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "伊拉克境内亲伊朗组织：6架美国无人机侵犯伊拉克领空",
+          "url": "https://flash.jin10.com/detail/20261019052349443800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "美国财长贝森特：（回应泽连斯基关于星链限速的表述）特朗普和鲁比奥都表示，特朗普政府没有任何人下达过这样的命令。我认为，泽连斯基提出这样的指控是非常鲁莽的。",
@@ -269,7 +305,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
