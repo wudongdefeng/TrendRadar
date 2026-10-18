@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T10:17:03.864667+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-10-18T15:36:17.660957+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "日本学者：德国官员不可能给希特勒扫墓",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 15时36分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
@@ -36,11 +36,38 @@
           "ranks": [
             3,
             8,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 15时36分]"
+        },
+        {
+          "title": "肯德基倒戈,美国门店换可口可乐",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&amp;topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 15时36分]"
+        },
+        {
+          "title": "日本误报9.9级地震,民众炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367427&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 10时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 15时36分]"
         },
         {
           "title": "俄罗斯国防部：今天在全国多地及黑海区域击落30架乌克兰无人机。",
@@ -54,28 +81,59 @@
           "time_info": "01时40分"
         },
         {
-          "title": "肯德基倒戈,美国门店换可口可乐",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&amp;topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90",
-          "source": "贴吧",
+          "title": "超强台风蔷琵正向台湾以东靠近",
+          "url": "https://www.douyin.com/hot/2701063",
+          "source": "抖音",
           "ranks": [
-            10,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 10时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
-          "title": "日本误报9.9级地震,民众炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367427&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
+          "url": "https://wallstreetcn.com/articles/3783849",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 10时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "俄罗斯电商平台Ozon：圣彼得堡一处物流枢纽在无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20261018144710162800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "日本一副市长被3吨重太鼓台压死",
+          "url": "https://www.toutiao.com/trending/7697776554033709099/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "俄罗斯VK公司：位于列宁格勒州的一处数据中心遭到无人机袭击，但各项服务目前均正常运行，用户使用未受影响。",
+          "url": "https://flash.jin10.com/detail/20261018144430428800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
@@ -162,6 +220,30 @@
           "time_info": "[01时40分 ~ 07时40分]"
         },
         {
+          "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
+          "url": "https://wallstreetcn.com/articles/3783841",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 15时36分]"
+        },
+        {
+          "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+          "url": "https://wallstreetcn.com/articles/3783840",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 15时36分]"
+        },
+        {
           "title": "据俄新社：俄罗斯莫斯科市长表示，25架飞往莫斯科的无人机被摧毁。",
           "url": "https://flash.jin10.com/detail/20261018041958290800",
           "source": "金十数据",
@@ -199,17 +281,6 @@
           "time_info": "[01时40分 ~ 05时54分]"
         },
         {
-          "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
-          "url": "https://wallstreetcn.com/articles/3783840",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
           "title": "美国总统特朗普：你知道我们从委内瑞拉拿走了多少钱吗？我们从委内瑞拉拿走的资金高达数千亿美元。",
           "url": "https://flash.jin10.com/detail/20261018031308003800",
           "source": "金十数据",
@@ -220,17 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时54分]"
-        },
-        {
-          "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
-          "url": "https://wallstreetcn.com/articles/3783841",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
         },
         {
           "title": "黎巴嫩总统奥恩：黎巴嫩军事代表团将在美国坦帕与以色列和美国举行的会议上，要求以方停止升级军事行动。",
@@ -317,6 +377,17 @@
           "time_info": "[05时54分 ~ 07时40分]"
         },
         {
+          "title": "俄罗斯圣彼得堡州州长：乌克兰无人机袭击俄罗斯圣彼得堡，造成1人死亡、5人受伤。",
+          "url": "https://flash.jin10.com/detail/20261018144141333800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "美国总统特朗普：尽管政府已裁减超过100万名联邦雇员，但目前美国就业人数仍创历史新高。过去一项工作往往需要10个人完成。美国确实需要联邦雇员，但没必要每项工作都安排10个人。",
           "url": "https://flash.jin10.com/detail/20261018030831814800",
           "source": "金十数据",
@@ -383,6 +454,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "美国中期选举将于11月3日举行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%B0%86%E4%BA%8E11%E6%9C%883%E6%97%A5%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "美国总统特朗普：加拿大前总理特鲁多不是好人，他是个失败者，失败者！现在这位（总理卡尼）是个好人，但在贸易问题上他可不友善。",
           "url": "https://flash.jin10.com/detail/20261018024224268800",
           "source": "金十数据",
@@ -414,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20261018124445164800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "汽油涨价或挤压消费，但美国刷卡消费仍强",
