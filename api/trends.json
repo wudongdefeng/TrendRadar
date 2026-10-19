@@ -1,715 +1,275 @@
 {
-  "generated_at": "2026-10-19T19:39:44.261487+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-10-20T02:01:46.415005+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 63,
+      "match_count": 24,
       "titles": [
         {
-          "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
-          "url": "https://wallstreetcn.com/articles/3783849",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时39分]"
-        },
-        {
-          "title": "日本流行“取消吃饭”",
-          "url": "https://www.toutiao.com/trending/7697900853260271626/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            5,
-            8,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 13时32分]"
-        },
-        {
-          "title": "日本出现取消吃饭现象",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时39分]"
-        },
-        {
-          "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3180676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时06分]"
-        },
-        {
-          "title": "日本流行“取消吃饭”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时39分]"
-        },
-        {
-          "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
-          "url": "https://wallstreetcn.com/livenews/3180672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时06分]"
-        },
-        {
-          "title": "肯德基倒戈,美国门店换可口可乐",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&amp;topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时39分]"
-        },
-        {
-          "title": "日本误报9.9级地震,民众炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367427&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时39分]"
-        },
-        {
-          "title": "据英国金融时报：美国驻欧盟大使普兹德警告称，若欧盟限制非欧盟企业获取频谱资源，布鲁塞尔将面临“毁灭性”报复。",
-          "url": "https://flash.jin10.com/detail/20261019000502069800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
-          "url": "https://flash.jin10.com/detail/20261019030234794800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "日本央行行长植田和男：如果日本央行上调短期政策利率，长期利率可能会随相关政策举措稳步上升。",
-          "url": "https://flash.jin10.com/detail/20261019082925539800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "日本央行行长植田和男：将密切关注长期利率的市场走势。 不宜表态何种情况构成日本国债收益率的“异常波动”。",
-          "url": "https://wallstreetcn.com/livenews/3180743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "日本央行行长植田和男：金融环境仍然宽松。",
-          "url": "https://flash.jin10.com/detail/20261019082819111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "日本央行行长植田和男：预计AI相关需求将引发需求拉动型物价上涨。",
-          "url": "https://wallstreetcn.com/livenews/3180742",
+          "title": "美国动用战时法律推动停滞的纽约天然气管道建设",
+          "url": "https://wallstreetcn.com/livenews/3181357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "CSIS：美国“爱国者”导弹库存恢复战前水平至少需三年",
-          "url": "https://flash.jin10.com/detail/20261018235955326800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "日本央行行长植田和男：在日本央行何时可能在债券市场进行紧急操作的问题上，事先表态是不恰当的。",
-          "url": "https://flash.jin10.com/detail/20261019082713599800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本央行缩减购债规模的基本立场不变",
-          "url": "https://flash.jin10.com/detail/20261019082706124800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "据半岛电视台：俄罗斯外长拉夫罗夫称，乌克兰总统泽连斯基不想进行谈判，并多次破坏谈判。",
-          "url": "https://flash.jin10.com/detail/20261018234315549800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "日本首相高市早苗：得益于“安倍经济学”，日本已不再处于通货紧缩状态。 企业加薪的努力已开始见效。 经济正处于实现增长良性循环的关键十字路口。",
-          "url": "https://wallstreetcn.com/livenews/3180739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：即将敲定与印度的贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3180868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3180671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时06分]"
+          "time_info": "02时01分"
         },
         {
           "title": "多名日本议员参拜靖国神社，高市早苗供奉祭祀费",
           "url": "https://m.thepaper.cn/newsDetail_forward_34278381",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 19时39分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "国家市场监督管理总局副局长潘晓东会见中国美国商会会长何迈可一行",
-          "url": "https://wallstreetcn.com/livenews/3180665",
+          "title": "国总理默茨：俄罗斯破坏欧洲稳定的企图被低估了。",
+          "url": "https://flash.jin10.com/detail/20261020013338765800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "Bitcoin Japan签署独家协议，将优必选人形机器人引入日本。",
+          "url": "https://wallstreetcn.com/livenews/3181356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时06分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "日本猪瘟疫情扩散 今年累计处置约2万头猪",
-          "url": "https://wallstreetcn.com/livenews/3180658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时06分]"
-        },
-        {
-          "title": "日本GDP或将降至全球第六意味着什么",
-          "url": "https://www.toutiao.com/trending/7697909098766929444/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 06时06分]"
-        },
-        {
-          "title": "日本人被指蒙古大火后未道歉",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%A2%AB%E6%8C%87%E8%92%99%E5%8F%A4%E5%A4%A7%E7%81%AB%E5%90%8E%E6%9C%AA%E9%81%93%E6%AD%89&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "日本网友受不了中日校园反差",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%8F%97%E4%B8%8D%E4%BA%86%E4%B8%AD%E6%97%A5%E6%A0%A1%E5%9B%AD%E5%8F%8D%E5%B7%AE&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "为什么中餐的做法明明比日本料理繁复的多，国际上高端日料店却反而比高端中餐馆多？",
-          "url": "https://www.zhihu.com/question/8773201177",
+          "title": "马斯克宣布明年给美国每名儿童送 1 股 SpaceX 股票，这相当于多少钱？他的目的是什么？",
+          "url": "https://www.zhihu.com/question/2095565952968569759",
           "source": "知乎",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "日本又跪又献花就是不忏悔",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%B7%AA%E5%8F%88%E7%8C%AE%E8%8A%B1%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%BF%8F%E6%82%94%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3181354",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
-          "title": "日本年轻人取消吃饭原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "俄罗斯外交部：俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
-          "url": "https://flash.jin10.com/detail/20261019023026655800",
+          "title": "乌克兰总统泽连斯基：在基辅会见了美国国防企业洛克希德·马丁团队，讨论扩大武器供应。",
+          "url": "https://flash.jin10.com/detail/20261020011901802800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "02时01分"
         },
         {
-          "title": "日本央行行长植田和男：潜在通胀率已非常接近2%。 工资与物价同步上涨的良性机制已经恢复。 核心通胀率稳定在2%附近至关重要。 很难在需求拉动型和成本推动型通胀之间划出清晰界限。 工资上涨继续传导至商品和服务价格。",
-          "url": "https://wallstreetcn.com/livenews/3180738",
+          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
+          "url": "https://wallstreetcn.com/livenews/3181353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时39分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国总统特朗普：移民已经占领了法国。必须迅速关闭边界！",
-          "url": "https://flash.jin10.com/detail/20261019191705472800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "日本8月第三产业活动指数环比 -0.1%，预期 -0.4%，前值 0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3180862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国总统特朗普：今天堪萨斯州的集会人山人海。稍后见！",
-          "url": "https://flash.jin10.com/detail/20261019191159744800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "华泰证券：柴油价格或仍将位于高位 预计将继续温和推高美国通胀",
-          "url": "https://wallstreetcn.com/livenews/3180731",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克将送美国儿童SpaceX股票",
+          "url": "https://www.douyin.com/hot/2702969",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时39分"
+          "time_info": "02时01分"
         },
         {
-          "title": "陆慷会见美国前副助理贸易代表安凯彬",
-          "url": "https://wallstreetcn.com/livenews/3181182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
-          "url": "https://flash.jin10.com/detail/20261018232106569800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "基辅市长：俄罗斯空袭造成乌克兰基辅一座地铁站受损。",
-          "url": "https://flash.jin10.com/detail/20261019081314803800",
+          "title": "美国众议员米勒：白宫不应豁免对俄罗斯的制裁。",
+          "url": "https://flash.jin10.com/detail/20261020005305512800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时39分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国能源部长：柴油交易旨在激励俄罗斯缓和对乌冲突",
-          "url": "https://flash.jin10.com/detail/20261019015811947800",
-          "source": "金十数据",
+          "title": "“小孩”7天两冠4-0复仇日本强敌",
+          "url": "https://www.toutiao.com/trending/7698302023791428122/",
+          "source": "今日头条",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国总统特朗普：福克斯新闻如今花在为民主党人辩护、宣传其观点上的时间，比该台历史上任何时候都多，甚至超过了给予共和党对手的时间。简直荒谬！福克斯新闻太想追求‘政治正确’了！今天请观看我在堪萨斯州举行的大型集会。",
-          "url": "https://flash.jin10.com/detail/20261019190905747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
-          "url": "https://flash.jin10.com/detail/20261019013046076800",
-          "source": "金十数据",
+          "title": "美国共和党众议员米勒：白宫不应豁免对俄罗斯的制裁。",
+          "url": "https://wallstreetcn.com/livenews/3181340",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "02时01分"
         },
         {
-          "title": "据叙利亚阿拉伯通讯社（SANA）：土耳其将获得俄罗斯柴油供应的部分份额，同时计划建造第二个黑海天然气平台。",
-          "url": "https://flash.jin10.com/detail/20261019052738180800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "日本央行行长植田和男：中东冲突推高能源成本及其他各种物价，可定义为供给驱动型通胀。",
-          "url": "https://flash.jin10.com/detail/20261019081134237800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本经济温和复苏、就业市场紧张也在推高通胀。",
-          "url": "https://flash.jin10.com/detail/20261019081008303800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "海合会呼吁伊朗与美国重返对话",
-          "url": "https://flash.jin10.com/detail/20261019052431128800",
+          "title": "据伊朗媒体Fars News：伊朗革命卫队表示，在战争的新阶段，我们将亮出新武器并打击新目标，结果将会是把美国残余的力量从地区扫地出门。",
+          "url": "https://flash.jin10.com/detail/20261020004528513800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "02时01分"
         },
         {
-          "title": "伊拉克境内亲伊朗组织：6架美国无人机侵犯伊拉克领空",
-          "url": "https://flash.jin10.com/detail/20261019052349443800",
+          "title": "甲骨文：美国朱庇特数据中心园区的建设进展迅速，现场施工推进有力。",
+          "url": "https://wallstreetcn.com/livenews/3181338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
+          "url": "https://flash.jin10.com/detail/20261020004228474800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "02时01分"
         },
         {
-          "title": "以色列警方：八名嫌疑人因涉嫌近期约旦河西岸的暴力事件被捕，其中包括针对一名美国记者和多名欧洲外交官的袭击。",
-          "url": "https://flash.jin10.com/detail/20261019130133583800",
-          "source": "金十数据",
+          "title": "巴黎骚乱街头有人cos美国队长",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E9%AA%9A%E4%B9%B1%E8%A1%97%E5%A4%B4%E6%9C%89%E4%BA%BAcos%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF",
+          "source": "百度热搜",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "02时01分"
         },
         {
-          "title": "日本央行行长植田和男：将基础通胀稳定在2%左右变得愈发重要；日本正迎来工资上涨、物价回升的良性循环。",
-          "url": "https://flash.jin10.com/detail/20261019080739644800",
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
+          "url": "https://flash.jin10.com/detail/20261020004144507800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
+          "url": "https://flash.jin10.com/detail/20261020004047642800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时39分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国财长贝森特：（回应泽连斯基关于星链限速的表述）特朗普和鲁比奥都表示，特朗普政府没有任何人下达过这样的命令。我认为，泽连斯基提出这样的指控是非常鲁莽的。",
-          "url": "https://flash.jin10.com/detail/20261018224523296800",
+          "title": "美国联邦通信委员会（FCC）发言人表示，目前完全没有计划进一步处理有关利用人工智能进行政治类自动语音呼叫的请愿。",
+          "url": "https://flash.jin10.com/detail/20261020003858629800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时01分"
         },
         {
-          "title": "俄罗斯国防部：莫斯科时间10月18日8时至20时，俄军防空系统拦截并摧毁了41架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20261019011712891800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "日本央行行长植田和男：基础通胀接近我们的2%目标。",
-          "url": "https://flash.jin10.com/detail/20261019080706434800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "据日本电力交易所数据，周一日本全国电力现货价格较前一周上涨逾四分之一，达到每千瓦时31.15日元（0.19美元）。",
-          "url": "https://flash.jin10.com/detail/20261019125316949800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国财长贝森特：欧洲国家正在为俄罗斯的战争机器提供资金。美国进口价值40亿美元的俄罗斯产品，其中18亿美元是化肥。欧洲国家的进口额超过美国的十倍。",
-          "url": "https://flash.jin10.com/detail/20261018224347203800",
+          "title": "高盛：美国持续补库争夺铜资源，不过补库节奏有所放缓。",
+          "url": "https://flash.jin10.com/detail/20261020003847995800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国国务卿鲁比奥：即将敲定与印度的贸易协议。",
-          "url": "https://flash.jin10.com/detail/20261019124946349800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "台当局“驱离”大陆渔船不是外交问题",
-          "url": "https://www.toutiao.com/trending/7698174638152728630/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普称美国情报共享曾中断）泽连斯基在发表这类不实言论时要谨言慎行才对。",
-          "url": "https://flash.jin10.com/detail/20261018224259280800",
+          "title": "高盛：预计2026年美国以外地区铜市场供应缺口将扩大至约95万吨，2027年约为22万吨。",
+          "url": "https://flash.jin10.com/detail/20261020003713281800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国国务卿鲁比奥：（关于俄乌战争）与乌克兰的情报共享并未中断。",
-          "url": "https://flash.jin10.com/detail/20261019124939088800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普豁免俄罗斯制裁）没有解除任何制裁。当时有一个为期60天的期限。看看目前的情况，唯一被取消的只是柴油禁运。",
-          "url": "https://flash.jin10.com/detail/20261018224206130800",
-          "source": "金十数据",
+          "title": "俄罗斯确诊5例猴痘病例",
+          "url": "https://wallstreetcn.com/livenews/3181330",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国国务卿鲁比奥：（关于俄乌战争）乌克兰总统泽连斯基与俄方应致力于结束战争。",
-          "url": "https://flash.jin10.com/detail/20261019124918843800",
-          "source": "金十数据",
+          "title": "日本民众举行抗议集会反对高市政府扩军修宪",
+          "url": "https://wallstreetcn.com/livenews/3181325",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "02时01分"
         },
         {
-          "title": "美国50ETF易方达：将于2026年10月20日开市起至当日10:30停牌，自2026年10月20日10:30复牌。",
-          "url": "https://flash.jin10.com/detail/20261019190221854800",
-          "source": "金十数据",
+          "title": "Ivanhoe Electric正就出售美国铜产品进行洽谈",
+          "url": "https://wallstreetcn.com/livenews/3181324",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "俄罗斯外交部长拉夫罗夫将于周一访问德黑兰，此行是两国高级别磋商的延续。",
-          "url": "https://flash.jin10.com/detail/20261018223858534800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "日本电力价格创下四年新高",
-          "url": "https://flash.jin10.com/detail/20261019124825302800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "02时01分"
         }
       ]
     }
