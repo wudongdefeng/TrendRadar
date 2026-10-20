@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-10-20T09:24:16.734981+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-10-20T14:54:56.449345+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 65,
+      "match_count": 83,
       "titles": [
+        {
+          "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
+          "url": "https://www.zhihu.com/question/2095439399555285790",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 14时54分]"
+        },
         {
           "title": "人民日报钟声：日本再次撕下和平伪装",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E6%92%95%E4%B8%8B%E5%92%8C%E5%B9%B3%E4%BC%AA%E8%A3%85",
           "source": "百度热搜",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
-          "url": "https://www.zhihu.com/question/2095439399555285790",
-          "source": "知乎",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -52,6 +53,17 @@
           "time_info": "[02时01分 ~ 06时09分]"
         },
         {
+          "title": "美国一战斗舰冲闯中国南沙海域",
+          "url": "https://www.toutiao.com/trending/7698609753362026022/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "美国先进机器人禁令波及芯片制造，英特尔申请豁免：关键设备暂无本土替代品",
           "url": "https://flash.jin10.com/detail/20261020054252174800",
           "source": "金十数据",
@@ -69,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -96,6 +108,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "日经225指数收跌1.3%，报64075.42点。 日本东证指数收跌1.4%，报4009.21点。 韩国首尔综指收跌3.7，报5552.74点。",
+          "url": "https://wallstreetcn.com/livenews/3181629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "国总理默茨：俄罗斯破坏欧洲稳定的企图被低估了。",
           "url": "https://flash.jin10.com/detail/20261020013338765800",
           "source": "金十数据",
@@ -105,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国中期选举三种结局全解析：特朗普将面临什么？2027年财政大战难避免",
+          "url": "https://flash.jin10.com/detail/20261020143836964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "Bitcoin Japan签署独家协议，将优必选人形机器人引入日本。",
@@ -118,6 +152,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "日本共产党称美日军演像“战争前夜”",
+          "url": "https://www.toutiao.com/trending/7698602444690915866/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "乌克兰认为美国正间歇性限制情报共享",
           "url": "https://flash.jin10.com/detail/20261020053613650800",
           "source": "金十数据",
@@ -127,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "市场消息：松下控股将于2029年4月在日本开始全面生产玻璃型钙钛矿太阳能电池，比原计划提前一年。",
+          "url": "https://flash.jin10.com/detail/20261020143810575800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
@@ -157,9 +213,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "美国脱发新药临床结果积极 市场正在迎来一场新战事",
+          "url": "https://www.cls.cn/detail/2509070",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 14时54分]"
         },
         {
           "title": "马斯克将送美国儿童SpaceX股票",
@@ -174,33 +242,33 @@
           "time_info": "[02时01分 ~ 09时24分]"
         },
         {
-          "title": "美国被曝推迟向乌克兰交付“爱国者”防空导弹",
-          "url": "https://news.ifeng.com/c/8xMtycBXTyr",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "美国脱发新药临床结果积极 市场正在迎来一场新战事",
-          "url": "https://www.cls.cn/detail/2509070",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
           "title": "“停止对美国言听计从的政治”，日本民众再抗议高市政府",
           "url": "https://news.ifeng.com/c/8xMvda31bG6",
           "source": "凤凰网",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 14时54分]"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 14时54分]"
+        },
+        {
+          "title": "美国被曝推迟向乌克兰交付“爱国者”防空导弹",
+          "url": "https://news.ifeng.com/c/8xMtycBXTyr",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -217,17 +285,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 06时09分]"
-        },
-        {
-          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
-          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "评论员：美国不会放弃西太平洋",
@@ -263,6 +320,17 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "日本发射火星卫星探测器背后",
+          "url": "https://www.toutiao.com/trending/7698585666925366825/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：在基辅会见了美国国防企业洛克希德·马丁团队，讨论扩大武器供应。",
           "url": "https://flash.jin10.com/detail/20261020011901802800",
           "source": "金十数据",
@@ -280,7 +348,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -324,7 +392,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -335,9 +403,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "挪威政府：美国总统特使威特科夫将前往奥斯陆，特朗普女婿库什纳将以线上方式参与。",
+          "url": "https://flash.jin10.com/detail/20261020143203373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "海关数据显示，中国9月稀土磁铁出口量6,165.1吨，环比上升23%； 中国9月对美国稀土磁铁出口量604.2吨，环比上升18%； 中国9月对日本稀土磁铁出口量171.6吨，环比下降19.1%； 9月中国稀土磁铁出口量排名前五的目的地分别是韩国、德国、美国、越南和印度。",
@@ -346,7 +436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -357,7 +447,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -379,9 +469,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "人民日报钟声：日本再次撕下和平伪装",
+          "url": "https://www.toutiao.com/trending/7698510171873738806/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "据消息人士，日本央行预计在10月维持利率不变，并暗示最早12月可能加息，日本央行或在10月29-30日会议上小幅上调2027财年通胀预期。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3181607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "特朗普喊话美国民众别去法国参加革命",
@@ -415,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "挪威政府：美国总统特使威特科夫与特朗普女婿库什纳参加乌克兰会谈。",
+          "url": "https://flash.jin10.com/detail/20261020143029006800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "美国总统特朗普：马斯克将通过“特朗普账户”（trump accounts）将所持SpaceX股票转让给儿童们。",
@@ -467,7 +590,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -522,7 +645,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -566,9 +689,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.1%报46,292.93点。",
+          "url": "https://wallstreetcn.com/livenews/3181600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "日本万人大集会高呼高市马上下台",
+          "url": "https://www.toutiao.com/trending/7698255028959743507/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "美国联邦通信委员会（FCC）发言人表示，目前完全没有计划进一步处理有关利用人工智能进行政治类自动语音呼叫的请愿。",
@@ -599,7 +744,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -626,13 +771,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "针对DeepSeek 美国政府下黑手",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "台湾加权指数10月20日（周二）开盘下跌235.16点，跌幅0.5%，报46586.92点。",
           "url": "https://flash.jin10.com/detail/20261020090107996800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -643,9 +799,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数下跌1%至46,350.20点。",
+          "url": "https://wallstreetcn.com/livenews/3181591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "美国能源部长赖特：目前还没有任何俄罗斯柴油被释放出来。",
@@ -665,9 +832,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "日本首相高市早苗：食品价格将反映消费税减免的情况。",
+          "url": "https://wallstreetcn.com/livenews/3181590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "日本民众举行抗议集会反对高市政府扩军修宪",
@@ -687,9 +865,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "据美国地质调查局地震信息网消息，南太平洋岛国瓦努阿图附近海域20日发生6.3级地震，震源深度10公里。",
+          "url": "https://wallstreetcn.com/livenews/3181589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "Ivanhoe Electric正就出售美国铜产品进行洽谈",
@@ -701,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "日本30年期国债收益率下行5个基点至3.935%。",
+          "url": "https://wallstreetcn.com/livenews/3181588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "美国能源部长：俄罗斯柴油尚未投放市场",
@@ -720,9 +920,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代与奇瑞汽车再建合资公司",
+          "url": "https://www.toutiao.com/trending/7698563763323617334/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     }
