@@ -2,33 +2,38 @@ name: Hot News Crawler
 
 on:
   schedule:
-    # 我们使用的是 github 官方提供的资源来进行的推送，而每个账号的资源是限额的，为了不被官方判定为滥用而面临封号的风险，不建议比半小时更低
-    - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
-# 添加权限设置
 permissions:
   contents: write
   actions: write
 
+concurrency:
+  group: trendradar-crawler
+  cancel-in-progress: false
+
 jobs:
   crawl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          playwright install --with-deps
+          python -m pip install -r requirements.txt
+          python -m playwright install chromium || echo "Playwright browser install failed; continuing without browser automation."
 
       - name: Verify required files
         run: |
@@ -60,10 +65,17 @@ jobs:
 
       - name: Commit and push if changes
         run: |
+          git checkout -B "${GITHUB_REF_NAME:-main}"
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)"
+            git push origin HEAD:"${GITHUB_REF_NAME:-main}"
+          fi
 
       - name: Delete all workflow runs
         uses: Mattraks/delete-workflow-runs@v2
@@ -72,4 +84,3 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 0
-        
