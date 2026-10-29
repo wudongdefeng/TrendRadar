@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-29T09:28:06.744418+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-10-29T15:53:15.434299+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 39,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "基辅再遭俄罗斯大规模空袭：地铁等基础设施受损严重",
+          "url": "https://news.ifeng.com/c/8xb11nRyjHi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时53分]"
+        },
         {
           "title": "巴基斯坦对台湾地区航司关闭领空",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
@@ -20,6 +32,17 @@
           "time_info": "[00时56分 ~ 09时28分]"
         },
         {
+          "title": "三丽鸥在日本官网发布致歉声明",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%AE%98%E7%BD%91%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
           "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
           "url": "https://www.zhihu.com/question/2089754502639502079",
           "source": "知乎",
@@ -31,15 +54,15 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
-          "title": "基辅再遭俄罗斯大规模空袭：地铁等基础设施受损严重",
-          "url": "https://news.ifeng.com/c/8xb11nRyjHi",
+          "title": "与抹黑中国日剧联名，三丽鸥在日本官网致歉",
+          "url": "https://news.ifeng.com/c/8xcMFRb3OE8",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "巴基斯坦对台湾航司关闭领空",
@@ -85,6 +108,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 09时28分]"
+        },
+        {
+          "title": "小博索纳罗逃往美国路线曝光，或使用已被注销护照",
+          "url": "https://news.ifeng.com/c/8xbtC8UDECH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时53分]"
+        },
+        {
+          "title": "130票赞成、17票反对，联大通过“美国终止封锁古巴”决议",
+          "url": "https://news.ifeng.com/c/8xbJ8rpe57B",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时53分]"
         },
         {
           "title": "卢拉逆袭、武契奇失利，美国因素有多重？",
@@ -133,26 +180,48 @@
           "time_info": "[00时56分 ~ 05时29分]"
         },
         {
-          "title": "小博索纳罗逃往美国路线曝光，或使用已被注销护照",
-          "url": "https://news.ifeng.com/c/8xbtC8UDECH",
+          "title": "美国炮制涉疆谎言打压中国企业，外交部：将采取必要措施",
+          "url": "https://news.ifeng.com/c/8xcPZO5zqzd",
           "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "三丽鸥日本官网致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%BD%E9%B8%A5%E6%97%A5%E6%9C%AC%E5%AE%98%E7%BD%91%E8%87%B4%E6%AD%89%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "媒体：“坚持一个中国政策”！巴基斯坦已对来自台湾地区航司关闭领空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34357132",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
-          "title": "130票赞成、17票反对，联大通过“美国终止封锁古巴”决议",
-          "url": "https://news.ifeng.com/c/8xbJ8rpe57B",
-          "source": "凤凰网",
+          "title": "美国古巴为何在联大吵到停会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%8F%A4%E5%B7%B4%E4%B8%BA%E4%BD%95%E5%9C%A8%E8%81%94%E5%A4%A7%E5%90%B5%E5%88%B0%E5%81%9C%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "巴基斯坦对台湾航司关闭领空",
@@ -175,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "美媒称巴基斯坦已对中国台湾地区航空公司关闭领空，是全球首个采取该措施的国家，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2098908630355649436",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "美媒称巴基斯坦已对中国台湾地区航空公司关闭领空，是全球首个采取该措施的国家， 哪些信息值得关注？",
@@ -205,9 +285,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "巴基斯坦对台湾地区航司关闭领空，外交部：一个中国原则是国际社会广泛共识",
+          "url": "https://wallstreetcn.com/livenews/3189680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判",
@@ -221,13 +312,57 @@
           "time_info": "05时29分"
         },
         {
+          "title": "三丽鸥日本官网道歉：取消与日剧《VIVANT》所有联名合作",
+          "url": "https://wallstreetcn.com/livenews/3189679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "外交部：日本国内始终存在一股势力，企图通过文化产品丑化抹黑中国",
+          "url": "https://wallstreetcn.com/livenews/3189676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "分析：美国希望避免与伊朗爆发更多冲突",
+          "url": "https://flash.jin10.com/detail/20261029152601281800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "【美国禁止进口三家中国生物技术公司产品，外交部：将采取必要措施维护中企合法权益】外交部发言人郭嘉昆主持10月29日例行记者会。会上有记者提问，美国以涉及强迫劳动为由宣布禁止从三家中国生物技术公司进口相关产品，请问发言人有何评论，请问这对接下来中美交流有何影响？郭嘉昆表示，美方持续炮制涉疆谎言，以所谓强迫劳动为借口，肆意打压中国企业。中方表示强烈不满，坚决反对。所谓强迫劳动，纯粹是一些反华分子炮制的世纪谎言，其目的是搞乱新疆，抹黑中国，遏制中国发展。中方敦促美方停止以人权为幌子，干涉中国内政，遏制中国发展，将采取必要措施坚决维护中国企业合法权益。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3189675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "三星电子：哈曼业务第三季度因美国关税退款获得盈利提振。",
           "url": "https://flash.jin10.com/detail/20261029085857921800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -249,7 +384,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -320,6 +455,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "巴基斯坦对台湾地区航司关闭领空，外交部：一个中国原则是国际社会广泛共识",
+          "url": "https://flash.jin10.com/detail/20261029152020469800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "惠誉评级：随着利率上升，美国银行业更有准备应对未实现损失。",
           "url": "https://flash.jin10.com/detail/20261029002741470800",
           "source": "金十数据",
@@ -340,6 +486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "外交部：日本国内始终存在一股势力 企图通过文化产品丑化抹黑中国",
+          "url": "https://flash.jin10.com/detail/20261029151852933800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "美国禁止进口三家中国生物技术公司产品，外交部：将采取必要措施维护中企合法权益",
+          "url": "https://flash.jin10.com/detail/20261029151828173800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率4.140%，投标倍数3.08。",
@@ -403,7 +571,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -425,7 +593,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -436,7 +604,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
