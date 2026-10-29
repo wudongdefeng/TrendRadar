@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-10-29T05:29:04.910195+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-10-29T09:28:06.744418+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
         {
           "title": "巴基斯坦对台湾地区航司关闭领空",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
           "source": "百度热搜",
           "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 09时28分]"
+        },
+        {
+          "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2089754502639502079",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "基辅再遭俄罗斯大规模空袭：地铁等基础设施受损严重",
+          "url": "https://news.ifeng.com/c/8xb11nRyjHi",
+          "source": "凤凰网",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "巴基斯坦对台湾航司关闭领空",
@@ -36,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -50,6 +73,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美古联大吵到休会！美代表爆粗口让古巴代表“滚开”，“这是美国！”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34348726",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 09时28分]"
         },
         {
           "title": "卢拉逆袭、武契奇失利，美国因素有多重？",
@@ -98,15 +133,59 @@
           "time_info": "[00时56分 ~ 05时29分]"
         },
         {
-          "title": "美古联大吵到休会！美代表爆粗口让古巴代表“滚开”，“这是美国！”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34348726",
-          "source": "澎湃新闻",
+          "title": "小博索纳罗逃往美国路线曝光，或使用已被注销护照",
+          "url": "https://news.ifeng.com/c/8xbtC8UDECH",
+          "source": "凤凰网",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "130票赞成、17票反对，联大通过“美国终止封锁古巴”决议",
+          "url": "https://news.ifeng.com/c/8xbJ8rpe57B",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "巴基斯坦对台湾航司关闭领空",
+          "url": "https://www.toutiao.com/trending/7701687193642910218/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "德国与日本将加强军事合作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "美媒称巴基斯坦已对中国台湾地区航空公司关闭领空，是全球首个采取该措施的国家， 哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2098908630355649436",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "美国能源部长Wright：柴油价格将大幅下跌。",
@@ -120,15 +199,37 @@
           "time_info": "00时56分"
         },
         {
+          "title": "台湾加权指数10月29日（周四）开盘下跌67.01点，跌幅0.14%，报46968.57点。",
+          "url": "https://flash.jin10.com/detail/20261029090111773800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判",
           "url": "https://wallstreetcn.com/livenews/3189407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "三星电子：哈曼业务第三季度因美国关税退款获得盈利提振。",
+          "url": "https://flash.jin10.com/detail/20261029085857921800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：阿布扎比谈判的日期将取决于战场局势以及整体形势等因素。",
@@ -137,9 +238,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "日本芯片测试设备制造商爱德万测试股价涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3189492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "俄罗斯9月GDP同比增长0.5%，工业产出同比增长1.8%。",
@@ -170,7 +282,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -269,7 +381,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -285,6 +397,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "日本10月23日当周外资净买进日本股票 -675亿日元，前值 -665亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3189480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "白宫研究：许可改革法案将推高美国增长与工资",
           "url": "https://wallstreetcn.com/livenews/3189271",
           "source": "华尔街见闻-快讯",
@@ -294,6 +417,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "日本10月23日当周净买进国外债券 -1605亿日元，前值 -1616亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3189479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "日本10月23日当周外资净买进日本债券 14543亿日元，前值 14542亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3189478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
