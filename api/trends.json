@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-07T01:47:29.213611+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-11-07T06:35:46.055972+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
-        {
-          "title": "卡塔尔首相：美国、伊朗无法达成“完美协议”。 美伊两国应该接受一份良好的协议，而不是追求一份完美的协议。",
-          "url": "https://wallstreetcn.com/livenews/3196147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
         {
           "title": "美国得州当选州长：在保护人民利益措施出台之前，必须暂停数据中心相关工作",
           "url": "https://wallstreetcn.com/articles/3785316",
@@ -26,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
         },
         {
           "title": "美国先减关税、中国再履行农产品采购承诺？外交部回应",
@@ -35,6 +24,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "卡塔尔首相：美国、伊朗无法达成“完美协议”。 美伊两国应该接受一份良好的协议，而不是追求一份完美的协议。",
+          "url": "https://wallstreetcn.com/livenews/3196147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,6 +50,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "SpaceX董事Donald Harrison辞职，此前，美国总统特朗普所属共和党在中期选举中惨败。",
+          "url": "https://wallstreetcn.com/livenews/3196246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "美国股市为何暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "美国10月非农就业激增16.5万，远超预期！失业率意外降至4.1%，12月加息预期升温",
+          "url": "https://wallstreetcn.com/articles/3785395",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
+          "url": "https://www.cls.cn/detail/2527868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "美国10月非农远超预期",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD10%E6%9C%88%E9%9D%9E%E5%86%9C%E8%BF%9C%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "乔欣被曝在美国生了孩子",
+          "url": "https://www.toutiao.com/trending/7704931034634158618/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "美国网友怒喷TheShy操作太混",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369253&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7TheShy%E6%93%8D%E4%BD%9C%E5%A4%AA%E6%B7%B7",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "普京签令接管日本在俄企业释放何信号",
+          "url": "https://www.toutiao.com/trending/7704991669497630258/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "日本纪录片不删中文闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369250&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8D%E5%88%A0%E4%B8%AD%E6%96%87%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时35分]"
         },
         {
           "title": "外交部：当前中日关系面临严重困难，责任完全在日本一方",
@@ -96,15 +199,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国股市为何暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "明晟公司MSCI新兴市场股票指数跌2.7%，创4月份以来新低，本周累计下跌4.1%，连续第六周走弱，中期选举结果让投资者对美国民主党将收紧对人工智能（AI）行业监管的风险感到惶恐不安。 MSCI发展中国家外汇指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3196243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "06时35分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰发电厂、电网、供暖设施、供水设施及民用物流持续遭到俄罗斯“沙赫德”无人机和导弹袭击。俄方没有改变军事行动方式，也拒绝采取乌克兰伙伴此前提出的降级措施，并准备继续发动袭击。乌方已确定下一步反制行动。",
@@ -112,17 +215,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国10月非农就业激增16.5万，远超预期！失业率意外降至4.1%，12月加息预期升温",
-          "url": "https://wallstreetcn.com/articles/3785395",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,22 +232,22 @@
           "time_info": "01时47分"
         },
         {
+          "title": "美国银行体系存款从前一周的19.772万亿美元升至19.798万亿美元。",
+          "url": "https://flash.jin10.com/detail/20261107051632787800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "美国银行策略师Katie Craig和Mark Cabana建议做多6月SOFR/联邦基金利率基差——当前为-2.4个基点，目标0，止损-5个基点——该头寸的风险在于债务上限问题提前得到解决。",
           "url": "https://wallstreetcn.com/livenews/3196140",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
-          "url": "https://www.cls.cn/detail/2527868",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -171,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（11月6日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报217.77点，本周累计下跌1.36%，11月4日高开、5日低开形成冲高回落行情。 “超大”市值科技股指数涨1.44%，报422.56点，本周累计下跌3.35%，11月2-4日高位震荡、5日低开、后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3196237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "日本央行行长植田和男：目前基础通胀率为2%，我们的目标是将其维持在这一水平。",
@@ -217,15 +320,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国10月非农远超预期",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD10%E6%9C%88%E9%9D%9E%E5%86%9C%E8%BF%9C%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "据知情人士透露，卡塔尔能源公司瞄准NextDecade第6条生产线供应，推进美国液化天然气（LNG）布局。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3196235",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "06时35分"
         },
         {
           "title": "日本央行行长植田和男：我们正在讨论央行的沟通方式，但尚未作出正式承诺。",
@@ -239,6 +342,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "周五（11月6日），新兴市场ETF收涨2.2%，领跑美股大类资产类ETF，纳斯达克100 ETF涨1.4%，罗素2000指数ETF、做多美元指数、巴克莱美国可转债ETF、标普500 ETF至少涨0.31%，大豆基金涨0.08%。 美国国债20+年ETF收跌0.01%，农产品基金跌0.19%，道指ETF跌0.4%，日元做多跌0.45%，美国布伦特油价基金跌0.5%，美国房地产ETF、欧元做多、黄金ETF至多跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3196234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "日本央行行长植田和男：过去一两个月日本网络攻击事件急剧增加。",
           "url": "https://flash.jin10.com/detail/20261107005022237800",
           "source": "金十数据",
@@ -248,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国国务院：已批准向墨西哥潜在出售UH-60M“黑鹰”直升机，估计金额为10.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20261107050619363800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "乌克兰总统泽连斯基： 我们讨论了在阿布扎比举行的三边会晤的筹备工作。 在布鲁塞尔举行了北约和欧洲国家参与的会议，我与美国总统代表进行了接触，谈判团队实际上一直保持联系。 我们相信在阿联酋的会晤应该是富有成效的，我们已向美方传达了我们关于真正潜在成果的提议。 我们都同意，欧洲安全问题应在欧洲国家参与下讨论，所有这些国家都同样值得获得安全保障。",
@@ -270,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.798万亿美元，之前一周19.772万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3196232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "日本央行行长植田和男：就金融稳定而言，我担心网络风险。",
@@ -338,28 +474,6 @@
           "time_info": "01时47分"
         },
         {
-          "title": "乔欣被曝在美国生了孩子",
-          "url": "https://www.toutiao.com/trending/7704931034634158618/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国网友怒喷TheShy操作太混",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369253&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7TheShy%E6%93%8D%E4%BD%9C%E5%A4%AA%E6%B7%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
           "title": "日本央行行长植田和男：我们非常仔细地观察其他央行的行动，因为它们会影响资产价格，包括汇率和利率。",
           "url": "https://flash.jin10.com/detail/20261107004519376800",
           "source": "金十数据",
@@ -387,17 +501,6 @@
           "source": "抖音",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "普京签令接管日本在俄企业释放何信号",
-          "url": "https://www.toutiao.com/trending/7704991669497630258/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -448,15 +551,26 @@
           "time_info": "01时47分"
         },
         {
-          "title": "日本纪录片不删中文闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369250&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8D%E5%88%A0%E4%B8%AD%E6%96%87%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "本周（美国中期选举+非农），标普累跌2.4%，道指跌0.9%，纳指跌3.4%，纳斯达克100指数跌5%；半导体指数跌12.4%，存储芯片指数跌21.5%。 标普500指数初步收涨0.3%，科技板块涨1.1%，电信板块涨0.6%，日用消费品板块跌1.2%。 纳斯达克100指数初步收涨1.3%，成分股中，RKLB初步收涨15.3%，爱彼迎涨11.7%，AMD涨10%，SpaceX涨8.7%，拉姆研究、Nebius、英特尔、CoreWeave至少涨超6%，汤森路透跌4.6%，微芯科技跌11.5%，Axon跌17.6%。",
+          "url": "https://wallstreetcn.com/livenews/3196220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "美国10月非农新增16.5万人 美元创近五个月最大单日涨幅",
+          "url": "https://flash.jin10.com/detail/20261107045702727800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "06时35分"
         },
         {
           "title": "哥伦比亚矿业部长：与委内瑞拉共用的输油管道修复工作将于年底前启动，运营将于2027年年中开始。 管道重启将取决于监管审批和美国外国资产控制办公室许可证。",
