@@ -1,27 +1,39 @@
 {
-  "generated_at": "2026-11-07T06:35:46.055972+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-11-07T10:31:12.584066+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 53,
+      "match_count": 64,
       "titles": [
         {
-          "title": "美国得州当选州长：在保护人民利益措施出台之前，必须暂停数据中心相关工作",
-          "url": "https://wallstreetcn.com/articles/3785316",
-          "source": "华尔街见闻",
+          "title": "美国先减关税、中国再履行农产品采购承诺？外交部回应",
+          "url": "https://news.ifeng.com/c/8xpiCKtKfgT",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 10时31分]"
+        },
+        {
+          "title": "台湾寺庙地下搜出近800公斤金银",
+          "url": "https://www.toutiao.com/trending/7705035448019730495/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时35分]"
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "美国先减关税、中国再履行农产品采购承诺？外交部回应",
-          "url": "https://news.ifeng.com/c/8xpiCKtKfgT",
-          "source": "凤凰网",
+          "title": "美国得州当选州长：在保护人民利益措施出台之前，必须暂停数据中心相关工作",
+          "url": "https://wallstreetcn.com/articles/3785316",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
@@ -41,6 +53,19 @@
           "time_info": "01时47分"
         },
         {
+          "title": "美国10月非农就业激增16.5万，远超预期！失业率意外降至4.1%，12月加息预期升温",
+          "url": "https://wallstreetcn.com/articles/3785395",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 10时31分]"
+        },
+        {
           "title": "卡塔尔首相：美国和伊朗无法达成“完美协议”。美国和伊朗应接受一项好的协议，而非追求完美的协议。",
           "url": "https://flash.jin10.com/detail/20261107013055788800",
           "source": "金十数据",
@@ -58,9 +83,67 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "特朗普称美国是霍尔木兹海峡占领者",
+          "url": "https://wallstreetcn.com/livenews/3196323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
+          "url": "https://www.cls.cn/detail/2527868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 10时31分]"
+        },
+        {
+          "title": "乔欣被曝在美国生了孩子",
+          "url": "https://www.toutiao.com/trending/7704931034634158618/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 10时31分]"
+        },
+        {
+          "title": "美国网友怒喷TheShy操作太混",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369253&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7TheShy%E6%93%8D%E4%BD%9C%E5%A4%AA%E6%B7%B7",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 10时31分]"
+        },
+        {
+          "title": "台湾观众看红果短剧感动哭了",
+          "url": "https://www.douyin.com/hot/2732632",
+          "source": "抖音",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 10时31分]"
         },
         {
           "title": "美国股市为何暴跌",
@@ -74,28 +157,15 @@
           "time_info": "[01时47分 ~ 06时35分]"
         },
         {
-          "title": "美国10月非农就业激增16.5万，远超预期！失业率意外降至4.1%，12月加息预期升温",
-          "url": "https://wallstreetcn.com/articles/3785395",
-          "source": "华尔街见闻",
+          "title": "为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？",
+          "url": "https://www.zhihu.com/question/2101942075734471491",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时35分]"
-        },
-        {
-          "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
-          "url": "https://www.cls.cn/detail/2527868",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时35分]"
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "美国10月非农远超预期",
@@ -110,26 +180,15 @@
           "time_info": "[01时47分 ~ 06时35分]"
         },
         {
-          "title": "乔欣被曝在美国生了孩子",
-          "url": "https://www.toutiao.com/trending/7704931034634158618/",
+          "title": "肖磊：美国从繁荣到大萧条只需四步",
+          "url": "https://www.toutiao.com/trending/7705038999014096959/",
           "source": "今日头条",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时35分]"
-        },
-        {
-          "title": "美国网友怒喷TheShy操作太混",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369253&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7TheShy%E6%93%8D%E4%BD%9C%E5%A4%AA%E6%B7%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时35分]"
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "普京签令接管日本在俄企业释放何信号",
@@ -142,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 06时35分]"
+        },
+        {
+          "title": "美国科技股会进入熊市吗",
+          "url": "https://www.toutiao.com/trending/7705220768287690266/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "日本纪录片不删中文闹笑话",
@@ -205,7 +275,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -238,7 +308,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -252,6 +322,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普宣布两年后举办航天航空大会，欲打造美国版国际大型航展",
+          "url": "https://flash.jin10.com/detail/20261107094307712800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261107093648329800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "日本冲绳县民众举行集会 反对机动战斗车部署计划",
+          "url": "https://wallstreetcn.com/livenews/3196297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "日股大跌难挡加息步伐？日本央行前经济学家：12月加息或成定局",
@@ -271,7 +374,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -326,7 +429,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -348,7 +451,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -370,7 +473,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -403,7 +506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -485,20 +588,20 @@
           "time_info": "01时47分"
         },
         {
+          "title": "AI板块遭“聪明钱”抛售，美国对冲基金10月普遍亏损",
+          "url": "https://wallstreetcn.com/livenews/3196284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "日本央行行长植田和男：消费者价格目前约为3%，预计明年年初将进一步上升。",
           "url": "https://flash.jin10.com/detail/20261107004506956800",
           "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "台湾观众看红果短剧感动哭了",
-          "url": "https://www.douyin.com/hot/2732632",
-          "source": "抖音",
           "ranks": [
             24
           ],
@@ -540,6 +643,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "卡塔尔首相：美国政府即使在中期选举后仍愿意寻求解决方案。",
+          "url": "https://flash.jin10.com/detail/20261107085506085800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "日本央行行长植田和男：预计日本国内投资将上升，但上升幅度非常不确定。",
           "url": "https://wallstreetcn.com/livenews/3196123",
           "source": "华尔街见闻-快讯",
@@ -557,7 +671,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -568,7 +682,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -593,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普：安排了很多与俄罗斯有关的会议。 在与俄罗斯、乌克兰方面取得很大进展。 可能在移民和税收问题上与民主党合作。 米勒忠诚、聪明。 预计未来几个月内离职的人会很少。 希望Thune能让参议院采取行动。 （谈伊朗）我们进行了小规模打击。 （谈俄罗斯、乌克兰）今天已经通了电话，周一、周二有会议。",
+          "url": "https://wallstreetcn.com/livenews/3196276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
