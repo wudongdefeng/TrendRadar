@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-11T00:53:39.845191+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-11T06:06:07.255764+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 29,
+      "match_count": 50,
       "titles": [
-        {
-          "title": "释新闻｜美国“战争部长”遭弹劾：哪八项指控？下台可能性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34443239",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
         {
           "title": "日本自民党资深议员被警告处分，索性辞职不干了",
           "url": "https://news.ifeng.com/c/8xwUAmIXa6d",
@@ -26,8 +15,100 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "释新闻｜美国“战争部长”遭弹劾：哪八项指控？下台可能性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34443239",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
+          "url": "https://wallstreetcn.com/articles/3785664",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局",
+          "url": "https://www.cls.cn/detail/2530730",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "立陶宛要求所谓“台湾代表处”改名",
+          "url": "https://www.toutiao.com/trending/7705644641064058921/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2530700",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "美国至11月6日当周API库欣原油库存 18.2万桶，前值51.1万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054847465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时06分"
+        },
+        {
+          "title": "【美国上周API原油库存锐减将近1000万桶】美国石油协会（API）数据显示，上周，美国API原油库存 -980万桶，之前一周 -526.7万桶。",
+          "url": "https://wallstreetcn.com/livenews/3197937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国至11月6日当周API投产原油量 24.9万桶/日，前值19.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20261111054839156800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "对冲基金行业要求美国证券交易委员会（SEC）与美国商品期货交易委员会（CFTC）在推动7*24交易模式方面放慢节奏。",
@@ -52,6 +133,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国至11月6日当周API成品油进口 5万桶/日，前值5.2万桶/日。",
+          "url": "https://flash.jin10.com/detail/20261111054831409800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "葡萄牙希望美国在科技、能源和航空航天领域加大投资",
           "url": "https://wallstreetcn.com/livenews/3197828",
           "source": "华尔街见闻-快讯",
@@ -63,26 +155,27 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
-          "url": "https://wallstreetcn.com/articles/3785664",
-          "source": "华尔街见闻",
+          "title": "美国商品期货交易委员会（CFTC）警告预测平台公司Kalshi，这家衍生品监管部门可能立即对其提起诉讼。 CFTC调查该公司提供的特定押注合约。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3197935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时06分"
         },
         {
-          "title": "美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局",
-          "url": "https://www.cls.cn/detail/2530730",
-          "source": "财联社热门",
+          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
+          "url": "https://wallstreetcn.com/articles/3785657",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
         },
         {
           "title": "加拿大总理卡尼：与美国的贸易谈判仍存在一些困难领域。",
@@ -96,37 +189,37 @@
           "time_info": "00时53分"
         },
         {
-          "title": "立陶宛要求所谓“台湾代表处”改名",
-          "url": "https://www.toutiao.com/trending/7705644641064058921/",
-          "source": "今日头条",
+          "title": "美国至11月6日当周API原油进口 24.1万桶，前值46.3万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054823649800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国参议院共和党（少数派）领袖图恩：可能延长会期并增加投票日，以强势收尾。",
+          "url": "https://wallstreetcn.com/livenews/3197934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国至11月6日当周API取暖油库存 43.3万桶，前值-27万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054816913800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2530700",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
-          "url": "https://wallstreetcn.com/articles/3785657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时06分"
         },
         {
           "title": "美国“跛脚鸭”国会首项重大立法，有新进展",
@@ -136,8 +229,42 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "胖东来“日本产洗发水”疑云",
+          "url": "https://www.toutiao.com/trending/7706363593050050091/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时06分]"
+        },
+        {
+          "title": "美国至11月6日当周API精炼油库存 151.5万桶，预期-78万桶，前值-119.2万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054807798800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国至11月6日当周API汽油库存 0.4万桶，预期-14.1万桶，前值142.7万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054801347800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "加拿大总理卡尼：可能本月晚些时候在亚洲峰会上会见美国总统特朗普。",
@@ -151,6 +278,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国至11月6日当周API原油库存 896.8万桶，预期-32.7万桶，前值-526.7万桶。",
+          "url": "https://flash.jin10.com/detail/20261111054753553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3197930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "加拿大总理卡尼：周末与美国总统特朗普进行了简短交谈。",
           "url": "https://flash.jin10.com/detail/20261111003556397800",
           "source": "金十数据",
@@ -160,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "据Politico：美国商品期货交易委员会警告预测平台Kalshi，其可能即将面临指控。",
+          "url": "https://flash.jin10.com/detail/20261111053911601800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "纽约联储：美国家庭贷款逾期率小幅上升 房贷逾期率创2018年以来新高",
@@ -184,6 +344,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "约翰·图恩连任美国参议院共和党领袖",
+          "url": "https://wallstreetcn.com/livenews/3197928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "美国10年期国债收益率回升至5%，为11月以来首次。",
           "url": "https://flash.jin10.com/detail/20261111003240080800",
           "source": "金十数据",
@@ -193,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "巴里克矿业旗下American Barrick Gold申请美国IPO，寻求在纽交所挂牌交易其股票。",
+          "url": "https://wallstreetcn.com/livenews/3197927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗与美国目前没有进行任何谈判。",
@@ -239,15 +421,37 @@
           "time_info": "00时53分"
         },
         {
-          "title": "胖东来“日本产洗发水”疑云",
-          "url": "https://www.toutiao.com/trending/7706363593050050091/",
-          "source": "今日头条",
+          "title": "美国至11月6日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20261111052000000800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "生活成本持续上涨，越来越多美国人陷入了严重债务困境",
+          "url": "https://flash.jin10.com/detail/20261111051937140800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国CPI数据发布当天，标普500指数收跌29.01点，跌幅0.38%，报7520.93点，整体大致呈现出W形下跌状态，美股早盘冲高回落。标普500相等权重指数涨2.25%，报8944.71点，整体高开高走，逼近11月4日所创收盘历史最高位9044.98点、11月5日（非农日）所创盘中历史最高位9072.42点。 道琼斯工业平均指数收跌157.86点，跌幅0.30%，报52231.89点。 纳斯达克综合指数（纳指）收跌187.264点，跌幅0.74%，报25065.874点。 纳斯达克100指数收跌166.83点，跌幅0.60%，报27740.795点。 纳斯达克科技市值加权指数收跌1.04%，报2705.5249点，美股早盘冲高回落，随后持续低位震荡。 费城半导体指数收跌35.602点，跌幅0.36%，报9998.33点。 费城证交所KBW银行指数收跌0.08%，报174.32点。 道琼斯KBW地区银行指数收跌0.32%，报142.06点。 罗素2000指数收跌0.68%，报2821.375点。 纳斯达克生物科技指数收跌0.86%，报7385.09点。 标普中盘股400指数收跌0.39%，纳斯达克美国中等市值指数跌0.22%。 恐慌指数VIX收跌2.31%，报19.46。",
+          "url": "https://wallstreetcn.com/livenews/3197915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书雷扎伊表示，有关其计划与美国副总统万斯会面的新闻报道完全是虚假和毫无根据的。",
@@ -294,6 +498,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国参议院共和党议员图恩（John Thune）发言人：Thune当选为参议院少数派领导人。",
+          "url": "https://wallstreetcn.com/livenews/3197910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "伊朗称美国有关继续谈判及卡塔尔会谈的说法均为谎言",
           "url": "https://flash.jin10.com/detail/20261111001611445800",
           "source": "金十数据",
@@ -316,6 +531,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "乌克兰总统泽连斯基：我们准备好坐下来谈领土问题，我准备好与俄罗斯总统普京会面。 我们将要求举行领导人会议，但不确定俄罗斯是否准备好。",
+          "url": "https://wallstreetcn.com/livenews/3197908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "市场消息：俄罗斯代表团在阿布扎比三方会谈期间周二不会对媒体发表声明。",
           "url": "https://flash.jin10.com/detail/20261111001036337800",
           "source": "金十数据",
@@ -325,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "据知情人士透露，美国议员DeSantis（德桑蒂斯）准备成立保守派智库。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3197907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     }
