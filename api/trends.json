@@ -1,563 +1,330 @@
 {
-  "generated_at": "2026-11-10T17:02:03.389213+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-11-11T00:53:39.845191+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 50,
+      "match_count": 29,
       "titles": [
         {
-          "title": "软银为美国数据中心业务放缓制定预案，考虑转向其他国家",
-          "url": "https://wallstreetcn.com/articles/3785567",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 17时02分]"
-        },
-        {
-          "title": "起底日本右翼“文化投毒”四种手法：煽动对立情绪，淡化侵略责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34440851",
+          "title": "释新闻｜美国“战争部长”遭弹劾：哪八项指控？下台可能性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34443239",
           "source": "澎湃新闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "日本自民党资深议员被警告处分，索性辞职不干了",
+          "url": "https://news.ifeng.com/c/8xwUAmIXa6d",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "对冲基金行业要求美国证券交易委员会（SEC）与美国商品期货交易委员会（CFTC）在推动7*24交易模式方面放慢节奏。",
+          "url": "https://wallstreetcn.com/livenews/3197829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大已就文化问题与美国划定红线。",
+          "url": "https://flash.jin10.com/detail/20261111004318065800",
+          "source": "金十数据",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 17时02分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "葡萄牙希望美国在科技、能源和航空航天领域加大投资",
+          "url": "https://wallstreetcn.com/livenews/3197828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
+          "url": "https://wallstreetcn.com/articles/3785664",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局",
+          "url": "https://www.cls.cn/detail/2530730",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国的贸易谈判仍存在一些困难领域。",
+          "url": "https://flash.jin10.com/detail/20261111004214148800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "立陶宛要求所谓“台湾代表处”改名",
           "url": "https://www.toutiao.com/trending/7705644641064058921/",
           "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "担心在APEC被冷落？日本做贼心虚",
-          "url": "https://news.ifeng.com/c/8xvIQEiY2QE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "美国AI泡沫还能撑多久",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "释新闻｜美国“战争部长”遭弹劾：哪八项指控？下台可能性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34443239",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "美国官员：美方特使可能在阿布扎比会谈后前往俄罗斯会见俄罗斯总统普京。",
-          "url": "https://flash.jin10.com/detail/20261110015333152800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：预计日本央行加速出售ETF将获利1万亿日元。 日本央行向政府上缴多少资金尚未决定。 货币政策的操作方式应由日本央行自主决定。 ETF出售收益的用途不会影响日本央行的货币政策。",
-          "url": "https://wallstreetcn.com/livenews/3197267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美国官员：（关于乌克兰问题）我们将讨论美方的安全保障。",
-          "url": "https://flash.jin10.com/detail/20261110015127759800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
-          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：与乌克兰外长的会晤“富有成效”。",
-          "url": "https://wallstreetcn.com/livenews/3197575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国官员：我们希望找到办法，使北约-俄罗斯理事会更加有力。",
-          "url": "https://flash.jin10.com/detail/20261110015005579800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "韩国总统李在明：首尔必须与美国国会建立合作关系，并扩大与美国各州政府的沟通。",
-          "url": "https://flash.jin10.com/detail/20261110090910791800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "韩国总统李在明：首尔必须建立与美国国会的合作，并扩大同美国各州政府的沟通。",
-          "url": "https://wallstreetcn.com/livenews/3197263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美国上市的中国基金中规模第二大的KraneShares金瑞中证中国互联网ETF（KWEB）上周流入1.145亿美元，吸金规模创美国总统特朗普5月访华以来的最高纪录。 今年迄今，此类ETF合计吸金624亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3197088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国地方公投几乎全部对数据中心扩张亮起红灯 北达科他Harwood小镇成唯一例外",
-          "url": "https://www.cls.cn/detail/2529259",
+          "title": "美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2530700",
           "source": "财联社热门",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 09时23分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
+          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
+          "url": "https://wallstreetcn.com/articles/3785657",
+          "source": "华尔街见闻",
           "ranks": [
-            28,
-            30
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 09时23分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "欧盟想上谈判桌，俄罗斯回应",
-          "url": "https://original.ifeng.com/c/8xvsnWL75ao",
+          "title": "美国“跛脚鸭”国会首项重大立法，有新进展",
+          "url": "https://news.ifeng.com/c/8xwUAmIXa75",
           "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "加拿大总理卡尼：可能本月晚些时候在亚洲峰会上会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20261111003605623800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "日本担心高市早苗在APEC被冷落",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%85%E5%BF%83%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8APEC%E8%A2%AB%E5%86%B7%E8%90%BD%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "胖东来“日本产洗发水”疑云",
-          "url": "https://www.toutiao.com/trending/7706363593050050091/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "警惕日本加快进攻性武器部署",
-          "url": "https://www.toutiao.com/trending/7706003853766640154/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "美国官员：我们希望看到对乌克兰的安全保障类似于北约。",
-          "url": "https://flash.jin10.com/detail/20261110014923650800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "凯斯纽（CNH）维持超过13%的涨幅，这家农机制造商改造工厂，为美国农业复苏做准备。 由于美国农业行业经历多年低迷，CNH Industrial NV已放缓其拉辛（Racine）工厂的拖拉机生产，如今一台拖拉机大约需要五天才能驶下装配线。 该公司正投资5,000万美元对拉辛工厂进行现代化改造，引入自动化机器人以协助工人装配拖拉机，这是其到2030年50亿美元研发投入的一部分。 CNH高管对行业可能出现的复苏持乐观态度，CEO Gerrit Marx表示，当前的低谷期让公司能在需求开始回升时准备得更充分。",
-          "url": "https://wallstreetcn.com/livenews/3197087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "台湾证交所加权股价指数盘初上涨2.1%至42,521.12点。",
-          "url": "https://wallstreetcn.com/livenews/3197261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美国官员：俄罗斯在推动结束俄乌冲突方面正展现出积极迹象。",
-          "url": "https://flash.jin10.com/detail/20261110014713339800",
+          "title": "加拿大总理卡尼：周末与美国总统特朗普进行了简短交谈。",
+          "url": "https://flash.jin10.com/detail/20261111003556397800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "法国外贸部长Forissier：法国对旅游和投资仍有“吸引力”。 正在推动美国降低对法国香槟的关税。",
-          "url": "https://wallstreetcn.com/livenews/3197563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国白宫附近发生两起安全事件 两人被捕",
-          "url": "https://flash.jin10.com/detail/20261110014653149800",
+          "title": "纽约联储：美国家庭贷款逾期率小幅上升 房贷逾期率创2018年以来新高",
+          "url": "https://flash.jin10.com/detail/20261111003422203800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国汽油价格自7月以来首次跌破每加仑4美元",
-          "url": "https://wallstreetcn.com/livenews/3197562",
+          "title": "美国五年期国债收益率涨15个基点，报4.83%。 美国两年期国债收益率有望创2026年迄今最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3197820",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国就Waymo车辆涉嫌违反校车安全规定展开调查",
-          "url": "https://wallstreetcn.com/livenews/3197080",
-          "source": "华尔街见闻-快讯",
+          "title": "美国10年期国债收益率回升至5%，为11月以来首次。",
+          "url": "https://flash.jin10.com/detail/20261111003240080800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：我们认为双方都带着善意前来。",
-          "url": "https://flash.jin10.com/detail/20261110014237172800",
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗与美国目前没有进行任何谈判。",
+          "url": "https://flash.jin10.com/detail/20261111003101615800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：（关于乌克兰问题）在弄清楚后续安全架构之前，不会解决领土问题。",
-          "url": "https://flash.jin10.com/detail/20261110014217081800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据黎巴嫩记者托尼·穆拉德援引一名消息人士称，美国驻联合国大使迈克·沃尔兹计划于下周访问黎巴嫩。",
-          "url": "https://flash.jin10.com/detail/20261110014143725800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国官员：我们的提议是在三边会谈后让欧洲参与讨论。",
-          "url": "https://flash.jin10.com/detail/20261110014052137800",
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国尚未作出明确答复，但未来可能会给出这样的答复。",
+          "url": "https://flash.jin10.com/detail/20261111002709436800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "台湾加权指数11月10日（周二）开盘上涨1065.46点，涨幅2.56%，报42727.16点。",
-          "url": "https://flash.jin10.com/detail/20261110090108439800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "俄罗斯、美国和乌克兰在阿布扎比开始会谈。（俄新社）",
-          "url": "https://wallstreetcn.com/livenews/3197548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国官员：（关于乌克兰问题）双方在私下就领土让步已展现出一定灵活性。",
-          "url": "https://flash.jin10.com/detail/20261110014031700800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：FOMC货币政策的方向是“明确的”，但最好“谨慎”调整政策。 风险在于美国央行职责中的通胀方面。 听到了关于成本压力广泛存在的报告。 消费者情绪“黯淡”，但在就业市场韧性的支撑下，消费者仍在继续消费。 企业表现良好，盈利“显著”。 企业表示将试图转嫁更高的成本。 需求韧性叠加成本普遍上涨，正给物价带来上行压力。 银行家表示贷款渠道健康，需求远超人工智能领域。 美国经济“非常稳定”。 裁员情况仍然温和。",
-          "url": "https://wallstreetcn.com/livenews/3197073",
+          "title": "俄罗斯代表团在阿布扎比三方会谈期间周二不会对媒体发表声明，新闻发布会定于周三举行。",
+          "url": "https://wallstreetcn.com/livenews/3197813",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：北约仍将是欧洲集体防御的核心。",
-          "url": "https://flash.jin10.com/detail/20261110013913419800",
-          "source": "金十数据",
+          "title": "美国纽约联储：三季度总体家庭债务增长3340亿美元，至19.1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3197810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：我们认为欧洲必须参与其中。",
-          "url": "https://flash.jin10.com/detail/20261110013652577800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国汽油价格自7月以来首次跌破每加仑4美元",
-          "url": "https://flash.jin10.com/detail/20261110163922256800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国官员：我们将努力让俄方同意多边形式。",
-          "url": "https://flash.jin10.com/detail/20261110013645941800",
-          "source": "金十数据",
+          "title": "胖东来“日本产洗发水”疑云",
+          "url": "https://www.toutiao.com/trending/7706363593050050091/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：（关于阿布扎比会谈）欧洲将参与。",
-          "url": "https://flash.jin10.com/detail/20261110013605592800",
+          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书雷扎伊表示，有关其计划与美国副总统万斯会面的新闻报道完全是虚假和毫无根据的。",
+          "url": "https://flash.jin10.com/detail/20261111001919030800",
           "source": "金十数据",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "俄罗斯外交部：俄罗斯、美国和乌克兰三方会谈已在阿联酋作为东道主参与下，于阿布扎比正式开始。",
-          "url": "https://flash.jin10.com/detail/20261110163801402800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国汽油价格迎下行，零售均价即将跌破4美元/加仑",
-          "url": "https://wallstreetcn.com/livenews/3197068",
+          "title": "美联储Logan谈及加息立场之后，美国10年期国债收益率持稳于日高4.9917%附近，当前涨幅超过10个基点。 两年期美债收益率涨幅略微扩大，在Logan讲话之际刷新日高至4.7482%，此前已经在美联储理事沃勒讲话、美国CPI数据发布后先后线束上涨。 彭博美元指数涨0.5%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3197804",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国官员：每天都与乌克兰和俄罗斯方面进行对话。",
-          "url": "https://flash.jin10.com/detail/20261110013452803800",
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国人提出继续谈判的目的是为了减轻经济压力和降低油价。",
+          "url": "https://flash.jin10.com/detail/20261111001814755800",
           "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "据半岛电视台：美国官员称特朗普与卡塔尔首相兼外交大臣的会晤已在白宫开始。",
-          "url": "https://flash.jin10.com/detail/20261110013144313800",
+          "title": "美国达拉斯联储主席Logan：可能需要在这个动机更加迅猛地加息。 我倾向于（短期内）至少再加息两次，在那之后暂停行动将是合理的。 当前政策是宽松的，应当具有限制性。 推高美国通胀的因素不仅仅能源价格而已。 更有可能顽固地存在更广泛的通胀趋势。 劳动力市场是平衡的，“甚至略微收紧”。",
+          "url": "https://wallstreetcn.com/livenews/3197803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "伊朗称美国有关继续谈判及卡塔尔会谈的说法均为谎言",
+          "url": "https://flash.jin10.com/detail/20261111001611445800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)：计划于11月13日和11月17日分别从范登堡太空军基地4E号航天发射场发射猎鹰9号火箭，执行美国太空军USSF-317和USSF-266任务。",
+          "url": "https://flash.jin10.com/detail/20261111001126071800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67。 拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
-          "url": "https://wallstreetcn.com/livenews/3197061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "乌克兰首席谈判代表：与美国、俄罗斯的三方会谈已开始。",
-          "url": "https://flash.jin10.com/detail/20261110163457531800",
+          "title": "市场消息：俄罗斯代表团在阿布扎比三方会谈期间周二不会对媒体发表声明。",
+          "url": "https://flash.jin10.com/detail/20261111001036337800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：上周美国战略石油储备的原油库存降至2.795亿桶，为1982年以来最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3197060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "高盛CEO苏德巍：对美国数据中心和计算能力的投资仍将保持显著规模持乐观态度。",
-          "url": "https://wallstreetcn.com/livenews/3197057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时53分"
         }
       ]
     }
