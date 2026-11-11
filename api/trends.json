@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-11-11T10:27:21.663251+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-11-11T18:05:23.205646+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
+          "url": "https://wallstreetcn.com/articles/3785664",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 18时05分]"
+        },
         {
           "title": "美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局",
           "url": "https://www.cls.cn/detail/2530730",
@@ -34,16 +47,18 @@
           "time_info": "[00时53分 ~ 10时27分]"
         },
         {
-          "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
-          "url": "https://wallstreetcn.com/articles/3785664",
+          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
+          "url": "https://wallstreetcn.com/articles/3785657",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            5,
             4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 10时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 18时05分]"
         },
         {
           "title": "日本自民党资深议员被警告处分，索性辞职不干了",
@@ -55,19 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 06时06分]"
-        },
-        {
-          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
-          "url": "https://wallstreetcn.com/articles/3785657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 10时27分]"
         },
         {
           "title": "立陶宛要求所谓“台湾代表处”改名",
@@ -222,7 +224,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -262,6 +264,41 @@
           "time_info": "[00时53分 ~ 06时06分]"
         },
         {
+          "title": "美国人民不是在反对AI，他们只是想睡个整觉",
+          "url": "https://wallstreetcn.com/articles/3785662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 18时05分]"
+        },
+        {
+          "title": "图谋不轨，日本援助菲律宾“成品防卫装备”",
+          "url": "https://news.ifeng.com/c/8xxRmgA2el1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 18时05分]"
+        },
+        {
+          "title": "热点问答丨美国真不想再打伊朗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 18时05分]"
+        },
+        {
           "title": "美国至11月6日当周API精炼油库存 151.5万桶，预期-78万桶，前值-119.2万桶。",
           "url": "https://flash.jin10.com/detail/20261111054807798800",
           "source": "金十数据",
@@ -271,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "2027年，美国经济可能走向这两个极端之一",
+          "url": "https://flash.jin10.com/detail/20261111175411301800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "美国至11月6日当周API汽油库存 0.4万桶，预期-14.1万桶，前值142.7万桶。",
@@ -317,17 +365,6 @@
           "time_info": "06时06分"
         },
         {
-          "title": "图谋不轨，日本援助菲律宾“成品防卫装备”",
-          "url": "https://news.ifeng.com/c/8xxRmgA2el1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "加拿大总理卡尼：周末与美国总统特朗普进行了简短交谈。",
           "url": "https://flash.jin10.com/detail/20261111003556397800",
           "source": "金十数据",
@@ -348,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "美国人民不是在反对AI，他们只是想睡个整觉",
-          "url": "https://wallstreetcn.com/articles/3785662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "纽约联储：美国家庭贷款逾期率小幅上升 房贷逾期率创2018年以来新高",
@@ -433,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -444,7 +470,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -458,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "日本首相高市早苗：根据现有联合声明与日本央行协调。 将与日本央行合作，以达物价稳定与经济增长。",
+          "url": "https://wallstreetcn.com/livenews/3198303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "俄罗斯代表团在阿布扎比三方会谈期间周二不会对媒体发表声明，新闻发布会定于周三举行。",
@@ -482,6 +519,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国10月CPI环比上涨0.4%超预期，市场开始定价12月加息50基点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34446690",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "美国至11月6日当周API原油库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20261111052000000800",
           "source": "金十数据",
@@ -504,17 +552,6 @@
           "time_info": "06时06分"
         },
         {
-          "title": "热点问答丨美国真不想再打伊朗了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "美国CPI数据发布当天，标普500指数收跌29.01点，跌幅0.38%，报7520.93点，整体大致呈现出W形下跌状态，美股早盘冲高回落。标普500相等权重指数涨2.25%，报8944.71点，整体高开高走，逼近11月4日所创收盘历史最高位9044.98点、11月5日（非农日）所创盘中历史最高位9072.42点。 道琼斯工业平均指数收跌157.86点，跌幅0.30%，报52231.89点。 纳斯达克综合指数（纳指）收跌187.264点，跌幅0.74%，报25065.874点。 纳斯达克100指数收跌166.83点，跌幅0.60%，报27740.795点。 纳斯达克科技市值加权指数收跌1.04%，报2705.5249点，美股早盘冲高回落，随后持续低位震荡。 费城半导体指数收跌35.602点，跌幅0.36%，报9998.33点。 费城证交所KBW银行指数收跌0.08%，报174.32点。 道琼斯KBW地区银行指数收跌0.32%，报142.06点。 罗素2000指数收跌0.68%，报2821.375点。 纳斯达克生物科技指数收跌0.86%，报7385.09点。 标普中盘股400指数收跌0.39%，纳斯达克美国中等市值指数跌0.22%。 恐慌指数VIX收跌2.31%，报19.46。",
           "url": "https://wallstreetcn.com/livenews/3197915",
           "source": "华尔街见闻-快讯",
@@ -532,7 +569,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -543,7 +580,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -658,13 +695,24 @@
           "time_info": "06时06分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：俄罗斯尚未收到挪威方面提出的、要求再次与普京举行会谈的请求。莫斯科将评估北欧新的海事伙伴关系协议，以确定其可能对俄罗斯产生的影响。",
+          "url": "https://flash.jin10.com/detail/20261111173709282800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "日本2年期国债收益率上升6个基点至1.835%。",
           "url": "https://wallstreetcn.com/livenews/3198004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
