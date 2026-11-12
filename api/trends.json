@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-12T09:14:01.255102+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-11-12T17:02:31.018189+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 42,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "浙江宣传：黄仁勋事件背后的美国AI焦虑",
+          "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 17时02分]"
+        },
         {
           "title": "日本药妆连锁品牌松本清称未销售过卡蓓诺洗发水，胖东来此前称未发现国内生产冒充进口情况，到底是怎么回事？",
           "url": "https://www.zhihu.com/question/2103900559115641120",
@@ -19,26 +30,37 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "浙江宣传：黄仁勋事件背后的美国AI焦虑",
-          "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
-          "source": "凤凰网",
+          "title": "俄罗斯副外长里亚布科夫：美国和欧洲的做法存在非常显著的差异。让欧洲人参与乌克兰问题谈判可能意味着破坏建设性努力。",
+          "url": "https://flash.jin10.com/detail/20261112165714050800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
-          "title": "日本动画巨头中国版权卖不动了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "贴吧",
+          "title": "台陆军前总司令：台湾人就是中国人",
+          "url": "https://www.toutiao.com/trending/7707138086546915890/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
+          "url": "https://www.cls.cn/detail/2532124",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "特朗普政府正式提出出售美国公共土地！拟缩减联邦土地规模，民主党强烈反对",
@@ -47,9 +69,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "日本动画巨头中国版权卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 17时02分]"
         },
         {
           "title": "家族后人回应台湾孩子不认识孙中山",
@@ -107,6 +141,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 09时14分]"
+        },
+        {
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34456152",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 17时02分]"
         },
         {
           "title": "日本遭黑客爆破是怎么回事",
@@ -176,17 +222,6 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "王毅同美国国务卿鲁比奥通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34456152",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
           "title": "俄罗斯驻美大使达尔奇耶夫去世",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%BE%BE%E5%B0%94%E5%A5%87%E8%80%B6%E5%A4%AB%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -231,6 +266,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "俄罗斯驻美大使“突然逝世”，其到任曾被视为俄美关系回暖标志",
+          "url": "https://news.ifeng.com/c/8xyw6YAkkZz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "报道：美国试图封堵伊朗经济通道 但地区国家不愿配合",
           "url": "https://flash.jin10.com/detail/20261112013602020800",
           "source": "金十数据",
@@ -242,15 +288,37 @@
           "time_info": "02时21分"
         },
         {
+          "title": "俄罗斯柴油出口翻倍，却没一滴流入美国",
+          "url": "https://flash.jin10.com/detail/20261112165058993800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "日本最高外汇事务官员三村淳：过去几天的汇率波动过于迅速。",
           "url": "https://wallstreetcn.com/livenews/3198693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "日本男子沉车逃生全靠柯南救命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "乌克兰总统泽连斯基：我还计划与美国谈判团队举行一次关于外交问题的会晤，美国谈判团队成员包括美国中东问题特使威特科夫和库什纳。",
@@ -292,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -314,9 +382,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "台湾一男子赤裸坐洗衣机内死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E7%94%B7%E5%AD%90%E8%B5%A4%E8%A3%B8%E5%9D%90%E6%B4%97%E8%A1%A3%E6%9C%BA%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国总统特朗普谈美国副总统万斯：副总统做得非常出色，我们对此非常感激。 国防部长赫格塞思做得非常出色。",
@@ -336,7 +415,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -358,7 +437,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -374,13 +453,24 @@
           "time_info": "02时21分"
         },
         {
+          "title": "俄罗斯国防部：俄武装力量在154个地区打击了乌克兰军队的军用机场设施和临时部署点。防空系统拦截了3枚制导航空炸弹和407架飞机型无人机。",
+          "url": "https://flash.jin10.com/detail/20261112164637914800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "日本10月国内企业商品物价指数环比 0.7%，预期 0.3%，前值 -0.3%。",
           "url": "https://wallstreetcn.com/livenews/3198676",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -391,7 +481,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -402,7 +492,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -424,9 +514,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：普京将向美国谈判代表传达俄罗斯的立场，随后由美国负责与其欧洲盟友进行沟通协调。",
+          "url": "https://flash.jin10.com/detail/20261112164440756800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "邵永灵：日本开始为拥核铺路",
+          "url": "https://www.toutiao.com/trending/7707195724852629035/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国总统特朗普：我们在伊朗取得了胜利。",
@@ -468,7 +580,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         }
