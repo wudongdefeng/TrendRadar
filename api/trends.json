@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-15T03:39:30.512944+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-15T07:34:06.719694+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
+          "url": "https://wallstreetcn.com/articles/3785927",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
         {
           "title": "受空管系统故障影响 14日美国仍有超3300架次航班被取消",
           "url": "https://wallstreetcn.com/livenews/3200138",
@@ -15,52 +39,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "L3Harris公司发言人：公司正在协助美国联邦航空管理局调查周五发生的航空系统停运事件。",
-          "url": "https://flash.jin10.com/detail/20261115024810101800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大？",
           "url": "https://www.zhihu.com/question/2104838863910690956",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
-          "title": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
-          "url": "https://wallstreetcn.com/articles/3785927",
-          "source": "华尔街见闻",
+          "title": "SpaceX(SPCX.O)星舰在完成22小时轨道飞行后，首次返回美国得克萨斯州的发射塔。这是火箭可重复使用技术取得的一项重要里程碑。",
+          "url": "https://flash.jin10.com/detail/20261115052130842800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "07时34分"
+        },
+        {
+          "title": "L3Harris公司发言人：公司正在协助美国联邦航空管理局调查周五发生的航空系统停运事件。",
+          "url": "https://flash.jin10.com/detail/20261115024810101800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "以色列要撇开美国，单独打伊朗？",
@@ -70,41 +85,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "日网友吹日本万物起源论秒翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369820&amp;topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E5%90%B9%E6%97%A5%E6%9C%AC%E4%B8%87%E7%89%A9%E8%B5%B7%E6%BA%90%E8%AE%BA%E7%A7%92%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "日本3-2巴西",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC3-2%E5%B7%B4%E8%A5%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2534230",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "美国近70%的数据中心计划是造假？",
@@ -114,63 +108,56 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
-          "title": "美国联邦航空管理局发布全国范围地面停飞指令，航空交通系统突发大规模通信故障",
-          "url": "https://wallstreetcn.com/articles/3785923",
-          "source": "华尔街见闻",
+          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2534230",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "日本3-2巴西",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC3-2%E5%B7%B4%E8%A5%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "微软全球服务故障持续至第二天 美国空管系统又出现问题 | 环球市场",
           "url": "https://www.cls.cn/detail/2534362",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国总统特朗普：正在与参议员共同推动《电影、电视及娱乐产业振兴法案》。这项法案一旦通过，将使数十万名蓝领工人从中受益，而且受益程度将非常显著。这项工作完全可以迅速、准确、高效地完成，而且最重要的是，它将使整个美国受益。",
-          "url": "https://flash.jin10.com/detail/20261115014132616800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "高盛预计2027年日本以外亚洲股市回报率将达19%",
-          "url": "https://wallstreetcn.com/livenews/3200127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "日本上司被中国下属的OK整不爽了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369801&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8F%B8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%B8%8B%E5%B1%9E%E7%9A%84OK%E6%95%B4%E4%B8%8D%E7%88%BD%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "两船相撞第一视角！美国巨型油轮撞击岸边游船致侧翻，乘客跳水自救",
@@ -180,8 +167,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "美方张口就涨价3倍，日本烧心了",
@@ -191,19 +178,78 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空",
+          "url": "https://www.cls.cn/detail/2534384",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "日本动画巨头中国版权卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "日本男子沉车逃生全靠柯南救命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与参议员共同推动《电影、电视及娱乐产业振兴法案》。这项法案一旦通过，将使数十万名蓝领工人从中受益，而且受益程度将非常显著。这项工作完全可以迅速、准确、高效地完成，而且最重要的是，它将使整个美国受益。",
+          "url": "https://flash.jin10.com/detail/20261115014132616800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "高盛预计2027年日本以外亚洲股市回报率将达19%",
+          "url": "https://wallstreetcn.com/livenews/3200127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "美交通部长：L3Harris或为美国航管系统停摆负责",
           "url": "https://flash.jin10.com/detail/20261115013940360800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
           "title": "乌克兰称袭击了俄罗斯萨马拉地区的一处输油泵站。",
@@ -213,15 +259,59 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
         },
         {
-          "title": "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空",
-          "url": "https://www.cls.cn/detail/2534384",
-          "source": "财联社热门",
+          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约",
+          "url": "https://wallstreetcn.com/livenews/3200120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "日本两位前首相公开批评高市早苗",
+          "url": "https://www.toutiao.com/trending/7707124343565893674/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国编造说辞试图逃避对伊发动战争的责任",
+          "url": "https://flash.jin10.com/detail/20261115044129199800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国能源部长赖特：美国是全球最大的石油和天然气生产国及出口国。在美国总统特朗普的推动下，这一地位还将继续巩固。美国能源部提供的贷款将有助于扩大现有海上平台的产量、增强美国能源安全，并创造约16亿美元的租赁收入。",
+          "url": "https://flash.jin10.com/detail/20261115042858309800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国联邦航空管理局发布全国范围地面停飞指令，航空交通系统突发大规模通信故障",
+          "url": "https://wallstreetcn.com/articles/3785923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -239,37 +329,26 @@
           "time_info": "03时39分"
         },
         {
-          "title": "日本动画巨头中国版权卖不动了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "贴吧",
+          "title": "特朗普高级顾问及女婿库什纳：我与美国总统特使和平事务团队一直与俄罗斯、乌克兰及欧洲伙伴保持密切磋商，讨论下一步行动。我们目前的重点是推动莫斯科与欧洲伙伴开展直接接触，并为下一轮三方会谈制定议程。",
+          "url": "https://flash.jin10.com/detail/20261115041641347800",
+          "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "07时34分"
         },
         {
-          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约",
-          "url": "https://wallstreetcn.com/livenews/3200120",
-          "source": "华尔街见闻-快讯",
+          "title": "以媒：以色列向美国提供情报 称伊朗计划无人机袭击特朗普及白宫高层",
+          "url": "https://flash.jin10.com/detail/20261115033415713800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "日本男子沉车逃生全靠柯南救命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "07时34分"
         },
         {
           "title": "美国交通部长新闻发布会一度遭遇技术故障",
@@ -359,11 +438,12 @@
           "url": "https://www.toutiao.com/trending/7707981344479953417/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时34分]"
         }
       ]
     }
