@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-14T03:01:20.597168+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-11-14T08:13:33.209186+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 23,
+      "match_count": 57,
       "titles": [
-        {
-          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2534230",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
-        },
         {
           "title": "限制中国，却让“美国卡住了美国”",
           "url": "https://news.ifeng.com/c/8y1VoPsQwIm",
@@ -26,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
+        },
+        {
+          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2534230",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
         },
         {
           "title": "日本上司被中国下属的OK整不爽了",
@@ -37,8 +38,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
+        },
+        {
+          "title": "美国航班全国性地面停飞",
+          "url": "https://www.toutiao.com/trending/7707795596614045193/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国国家气象局（NWS）：技术人员正在积极处理相关问题，争取尽快解决。",
+          "url": "https://flash.jin10.com/detail/20261114060230890800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国议员就宕机事件向微软索要信息。",
@@ -47,9 +70,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国航班全国性地面停飞",
+          "url": "https://www.douyin.com/hot/2745402",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国国家气象局（NWS）：该机构目前正遭遇全国范围的互联网及通信故障。",
+          "url": "https://flash.jin10.com/detail/20261114060221144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国最高法院将审议是否维持美国总统特朗普的南部边境庇护禁令。",
@@ -58,9 +103,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "Enbridge收紧美国北达科他州原油质量标准以应对杂质问题",
+          "url": "https://wallstreetcn.com/livenews/3200062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "据CNN：两名美国执法官员表示，初步报告显示，导致美国全国航班停飞的事件并非网络攻击。",
+          "url": "https://flash.jin10.com/detail/20261114054930390800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "微软：没有迹象表明美国联邦航空管理局（FAA）的全美停飞与（我司）任何服务有关。",
+          "url": "https://wallstreetcn.com/livenews/3200057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国所有航班暂停起飞",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E8%88%AA%E7%8F%AD%E6%9A%82%E5%81%9C%E8%B5%B7%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "日本动画巨头中国版权卖不动了",
@@ -70,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
         },
         {
           "title": "“击败”特朗普后，美国民主党开始内讧了",
@@ -81,8 +170,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
+        },
+        {
+          "title": "日本男子沉车逃生全靠柯南救命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
+        },
+        {
+          "title": "Outlook崩了日本政府改用电话工作",
+          "url": "https://www.toutiao.com/trending/7707465079008313363/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 08时13分]"
         },
         {
           "title": "黄仁勋算是美国中期选举的牺牲品吗？为什么偏偏是他？",
@@ -96,26 +208,81 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
-          "title": "日本男子沉车逃生全靠柯南救命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
-          "source": "贴吧",
+          "title": "“美国茅台”再创新高",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%9B%BD%E8%8C%85%E5%8F%B0%E2%80%9D%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
-          "title": "Outlook崩了日本政府改用电话工作",
-          "url": "https://www.toutiao.com/trending/7707465079008313363/",
-          "source": "今日头条",
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国财政部考虑提供短期贷款 助委内瑞拉偿还23亿美元债务",
+          "url": "https://flash.jin10.com/detail/20261114054418335800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "从美国檀香山起飞的国际航班已经获准起飞。",
+          "url": "https://wallstreetcn.com/livenews/3200053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）尚未表示全国范围地面停飞令何时可能解除。",
+          "url": "https://flash.jin10.com/detail/20261114054242850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "阿拉斯加航空：美国西海岸与夏威夷之间的航班可以继续运营。",
+          "url": "https://wallstreetcn.com/livenews/3200052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "突发：美国联邦航空管理局下令所有航班暂停起飞",
+          "url": "https://www.cls.cn/detail/2534337",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国至11月13日当周天然气钻井总数 127口，前值131口。",
@@ -124,9 +291,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国联合航空(UAL.O)：已经起飞的航班将继续执行。",
+          "url": "https://flash.jin10.com/detail/20261114054046622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国至11月13日当周总钻井总数 601口，前值604口。",
@@ -135,9 +313,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国联合航空(UAL.O)：FAA地面停飞令生效期间，新的国内航班将不会起飞。",
+          "url": "https://flash.jin10.com/detail/20261114054033146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国至11月13日当周石油钻井总数 463口，前值463口。",
@@ -146,9 +335,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国联合航空(UAL.O)：正在应对FAA发布的全国范围地面停飞令。",
+          "url": "https://flash.jin10.com/detail/20261114054021141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "国防部再批日本右翼势力",
+          "url": "https://www.douyin.com/hot/2744564",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "贝克休斯：美国能源企业六周来首次削减钻井平台。",
@@ -157,9 +368,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国财政部考虑提供贷款，帮助委内瑞拉清偿对美洲开发银行的欠款。",
+          "url": "https://flash.jin10.com/detail/20261114053308455800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美联储：美国上周银行存款增加565亿美元。",
+          "url": "https://flash.jin10.com/detail/20261114052911718800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "白宫官员：美国总统特朗普将石油和化肥运输豁免期延长90天。",
@@ -168,7 +401,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -179,9 +412,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "距美国财经媒体Semafor：特朗普的人工智能工作组周四召开会议，讨论网络威胁及相关风险，但未讨论英伟达(NVDA.O)。",
+          "url": "https://flash.jin10.com/detail/20261114052437061800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国11月13日当周石油钻井数 463，前值 463。",
@@ -190,7 +434,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -201,9 +445,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国交通部长达菲：由于通信故障影响所有空中交通管制中心，FAA已对美国所有机场实施全国范围地面停飞令。FAA技术人员正在调查此次通信故障。",
+          "url": "https://flash.jin10.com/detail/20261114051823139800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国11月13日当周天然气钻井数 127，前值 131。",
@@ -212,9 +467,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国联邦调查局（FBI）正在调查软件更新是否导致了美国联邦航空管理局（FAA）的大规模系统中断。",
+          "url": "https://wallstreetcn.com/livenews/3200040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国11月13日当周总钻井数 601，前值 604。",
@@ -223,9 +489,97 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据Air Current：美国联邦航空管理局（FAA）本次全美停飞命令系ATC空管通信频率故障所至。<br/>",
+          "url": "https://flash.jin10.com/detail/20261114051609924800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国国土安全部（DHS）部长Mullin：没有迹象表明，是威胁导致美国联邦航空管理局停飞。 停飞的原因是电信中断。 交通部长达菲就地面停飞一事与总统特朗普进行了交谈。 解决停飞问题需要一些时间。 我们还没有讨论停飞要持续多长时间。 （谈与人工智能的潜在关联）不排除任何可能性。 公众无需恐慌。",
+          "url": "https://wallstreetcn.com/livenews/3200038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国国家气象局遭遇全美范围的互联网和通信问题",
+          "url": "https://wallstreetcn.com/livenews/3200037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "加拿大导航公司：正在监控美国联邦航空管理局的停飞指令。 我国自身导航公司的系统运行正常，目前对我国运营没有影响。",
+          "url": "https://wallstreetcn.com/livenews/3200036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "据航空数据，美国停飞令导致约7000架次航班延误或取消。",
+          "url": "https://wallstreetcn.com/livenews/3200033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）的地面停飞命令似乎并非网络攻击所至。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3200032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美国联合航空公司表示，在美国联邦航空管理局（FAA）的停飞令仍然有效期间，新的国内航班将不会起飞。已在空中的美联航航班将继续飞行。",
+          "url": "https://wallstreetcn.com/livenews/3200031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "美联储报告：部分受访者担忧，持续财政赤字和大量美国国债发行可能引发收益率无序上涨。",
+          "url": "https://flash.jin10.com/detail/20261114050450206800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国旧金山联储主席戴利：（重申）我们很可能不得不加息。 现在很难说利率是否具有足够的限制性。",
@@ -234,7 +588,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -245,9 +599,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美联储：美国上周银行存款增加565亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3200025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：将大力调查与英伟达相关的“丑闻”。 这方面的调查将由众议员Jim Himes和情报委员会负责。",
@@ -256,9 +621,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国总统特朗普的AI工作组周四开会，讨论网络威胁，但并没有研究英伟达事件。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3200024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         }
       ]
     }
