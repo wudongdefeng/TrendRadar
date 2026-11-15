@@ -1,722 +1,319 @@
 {
-  "generated_at": "2026-11-15T19:45:55.762540+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-11-16T02:17:18.162092+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 60,
+      "match_count": 28,
       "titles": [
         {
-          "title": "以色列要撇开美国，单独打伊朗？",
-          "url": "https://news.ifeng.com/c/8y2zZ2Md18D",
-          "source": "凤凰网",
+          "title": "日本航运巨头ONE三年来首次派船通过曼德海峡",
+          "url": "https://flash.jin10.com/detail/20261116015308597800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
+          "title": "爱沙尼亚宣布将关闭与俄罗斯的边境口岸",
+          "url": "https://wallstreetcn.com/livenews/3200216",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4,
-            6,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美国又有上万架次航班取消或延误",
-          "url": "https://news.ifeng.com/c/8y3iqjldQpy",
-          "source": "凤凰网",
+          "title": "美国财政部长贝森特：我们正在挤压伊朗经济，这法子正在发挥作用。 由于天然气短缺，伊朗将面临艰难的冬季。",
+          "url": "https://wallstreetcn.com/livenews/3200215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
-          "url": "https://wallstreetcn.com/articles/3785927",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "日网友吹日本万物起源论秒翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369820&amp;topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E5%90%B9%E6%97%A5%E6%9C%AC%E4%B8%87%E7%89%A9%E8%B5%B7%E6%BA%90%E8%AE%BA%E7%A7%92%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
-        },
-        {
-          "title": "日本上司被中国下属的OK整不爽了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369801&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8F%B8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%B8%8B%E5%B1%9E%E7%9A%84OK%E6%95%B4%E4%B8%8D%E7%88%BD%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
-        },
-        {
-          "title": "日本动画巨头中国版权卖不动了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
-        },
-        {
-          "title": "日本男子沉车逃生全靠柯南救命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369780&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%B2%89%E8%BD%A6%E9%80%83%E7%94%9F%E5%85%A8%E9%9D%A0%E6%9F%AF%E5%8D%97%E6%95%91%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 19时45分]"
-        },
-        {
-          "title": "美国法官暂时叫停特朗普关闭华盛顿历史高尔夫球场计划",
-          "url": "https://flash.jin10.com/detail/20261115114937330800",
-          "source": "金十数据",
+          "title": "美国财政部长贝森特：总统特朗普和我都相信美联储主席沃什会履行双重职责（实现充分就业+维持价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3200214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "02时17分"
         },
         {
-          "title": "受空管系统故障影响 14日美国仍有超3300架次航班被取消",
-          "url": "https://wallstreetcn.com/livenews/3200138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 19时45分]"
-        },
-        {
-          "title": "市场消息：美国得州达拉斯爱田机场因可能受到炸弹威胁，目前暂停进出港航班，地方、州和联邦执法部门正在应对，进港航班已改降至达拉斯附近其他机场。",
-          "url": "https://flash.jin10.com/detail/20261115112930138800",
-          "source": "金十数据",
+          "title": "日本两位前首相，同框批评高市",
+          "url": "https://news.ifeng.com/c/8y4ieBbXP8w",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大？",
-          "url": "https://www.zhihu.com/question/2104838863910690956",
-          "source": "知乎",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "SpaceX(SPCX.O)星舰在完成22小时轨道飞行后，首次返回美国得克萨斯州的发射塔。这是火箭可重复使用技术取得的一项重要里程碑。",
-          "url": "https://flash.jin10.com/detail/20261115052130842800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "伊朗国家安全委员会发言人：与美国已经没有新的议题需要谈判 不能排除美国发动军事打击",
-          "url": "https://flash.jin10.com/detail/20261115185722188800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2534230",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 11时59分]"
-        },
-        {
-          "title": "L3Harris公司发言人：公司正在协助美国联邦航空管理局调查周五发生的航空系统停运事件。",
-          "url": "https://flash.jin10.com/detail/20261115024810101800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
-          "url": "https://wallstreetcn.com/livenews/3200159",
+          "title": "美国财政部长贝森特：预计通胀将在下个月大幅下滑。 核心通胀是温和的，接近美联储的目标。",
+          "url": "https://wallstreetcn.com/livenews/3200213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美国近70%的数据中心计划是造假？",
-          "url": "https://news.ifeng.com/c/8y33WOuP1NQ",
-          "source": "凤凰网",
+          "title": "美国航空系统故障进入第三天 周日逾5200架次航班受影响",
+          "url": "https://flash.jin10.com/detail/20261116004849380800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国交通部长Duffy：期待明日能实现航班满负荷运转。",
+          "url": "https://wallstreetcn.com/livenews/3200208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34479929",
           "source": "澎湃新闻",
           "ranks": [
-            8,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立，反对每一位欧洲人所珍视的一切，无论其政治立场如何。",
+          "url": "https://flash.jin10.com/detail/20261116003834428800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国迈阿密机场两飞机相撞",
+          "url": "https://www.douyin.com/hot/2747209",
+          "source": "抖音",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "日本3-2巴西",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC3-2%E5%B7%B4%E8%A5%BF",
-          "source": "bilibili 热搜",
+          "title": "达美航空(DAL.N)：针对受到美国联邦航空管理局（FAA）下令实施的全国范围航班地面停飞措施影响的旅客，公司已将灵活改签政策延长至11月16日（周一）。",
+          "url": "https://flash.jin10.com/detail/20261116001842202800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "微软全球服务故障持续至第二天 美国空管系统又出现问题 | 环球市场",
-          "url": "https://www.cls.cn/detail/2534362",
-          "source": "财联社热门",
+          "title": "日媒：日本政府考虑年内更换驻俄罗斯大使",
+          "url": "https://wallstreetcn.com/livenews/3200200",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "高盛预计2027年日本以外亚洲股市回报率将达19%",
-          "url": "https://wallstreetcn.com/livenews/3200127",
-          "source": "华尔街见闻-快讯",
+          "title": "美国又有近万架航班取消或延误，预计 15 日晚恢复正常，故障根源仍尚未查明，能预期恢复正常吗？",
+          "url": "https://www.zhihu.com/question/2105279535771907717",
+          "source": "知乎",
           "ranks": [
-            10,
-            28
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 11时59分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "两船相撞第一视角！美国巨型油轮撞击岸边游船致侧翻，乘客跳水自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34474909",
-          "source": "澎湃新闻",
+          "title": "美国财长贝森特：由于天然气短缺，伊朗将面临艰难的冬季。",
+          "url": "https://flash.jin10.com/detail/20261115232156327800",
+          "source": "金十数据",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "美方张口就涨价3倍，日本烧心了",
-          "url": "https://news.ifeng.com/c/8y2ve3mgyZM",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "乌克兰称袭击了俄罗斯萨马拉地区的一处输油泵站。",
-          "url": "https://wallstreetcn.com/livenews/3200125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 11时59分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "乌克兰一夜向俄罗斯发射近 1200 架无人机，创下冲突以来最大规模袭击之一，释放了什么信号？",
           "url": "https://www.zhihu.com/question/2104984568293848683",
           "source": "知乎",
           "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 19时45分]"
-        },
-        {
-          "title": "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空",
-          "url": "https://www.cls.cn/detail/2534384",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "美国总统特朗普：正在与参议员共同推动《电影、电视及娱乐产业振兴法案》。这项法案一旦通过，将使数十万名蓝领工人从中受益，而且受益程度将非常显著。这项工作完全可以迅速、准确、高效地完成，而且最重要的是，它将使整个美国受益。",
-          "url": "https://flash.jin10.com/detail/20261115014132616800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "中国男子富士山失联：当事人父亲已抵达日本，悬赏50万元找人",
-          "url": "https://news.ifeng.com/c/8y3EaFRAnGH",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "美交通部长：L3Harris或为美国航管系统停摆负责",
-          "url": "https://flash.jin10.com/detail/20261115013940360800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 07时34分]"
-        },
-        {
-          "title": "美国超75%空管系统无法持续或有风险，为何设备老化问题难解决？一次通信故障致全部航班停飞，暴露哪些问题？",
-          "url": "https://www.zhihu.com/question/2104994235254686815",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "泽连斯基：美国建议乌克兰割让领土以换取加入北约",
-          "url": "https://wallstreetcn.com/livenews/3200120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美国纽约州长就停飞事件要求美交通部长辞职",
-          "url": "https://wallstreetcn.com/livenews/3200144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 19时45分]"
-        },
-        {
-          "title": "日本两位前首相公开批评高市早苗",
-          "url": "https://www.toutiao.com/trending/7707124343565893674/",
-          "source": "今日头条",
+          "title": "美国财长贝森特：我们正在经济上对伊朗施压，而且正在奏效。",
+          "url": "https://flash.jin10.com/detail/20261115232147470800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "日本在南海动作有何意图",
-          "url": "https://www.toutiao.com/trending/7708225981307162153/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
-          "url": "https://flash.jin10.com/detail/20261115111009005800",
+          "title": "美国财长贝森特警告美联储不要进一步收紧货币政策。",
+          "url": "https://flash.jin10.com/detail/20261115232038452800",
           "source": "金十数据",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "02时17分"
         },
         {
-          "title": "乌克兰方面表示，导弹击中俄罗斯鞑靼斯坦的石化厂和炼油厂，以及布良斯克的国防设施。",
-          "url": "https://flash.jin10.com/detail/20261115185700620800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国编造说辞试图逃避对伊发动战争的责任",
-          "url": "https://flash.jin10.com/detail/20261115044129199800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "据半岛电视台：克里姆林宫表示，如果无法与欧洲达成协议，俄罗斯将通过武力实现其目标。",
-          "url": "https://flash.jin10.com/detail/20261115184439865800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国能源部长赖特：美国是全球最大的石油和天然气生产国及出口国。在美国总统特朗普的推动下，这一地位还将继续巩固。美国能源部提供的贷款将有助于扩大现有海上平台的产量、增强美国能源安全，并创造约16亿美元的租赁收入。",
-          "url": "https://flash.jin10.com/detail/20261115042858309800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯军队在夜间袭击了五个地区的能源基础设施和三个地区的铁路基础设施。由于星盾系统的速度限制，俄罗斯得以对变电站发动多次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20261115184359174800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国联邦航空管理局发布全国范围地面停飞指令，航空交通系统突发大规模通信故障",
-          "url": "https://wallstreetcn.com/articles/3785923",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国中央司令部：在美国的保护下，海湾伙伴国家已通过霍尔木兹海峡运输超过17亿桶原油。",
-          "url": "https://flash.jin10.com/detail/20261115011631852800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "特朗普高级顾问及女婿库什纳：我与美国总统特使和平事务团队一直与俄罗斯、乌克兰及欧洲伙伴保持密切磋商，讨论下一步行动。我们目前的重点是推动莫斯科与欧洲伙伴开展直接接触，并为下一轮三方会谈制定议程。",
-          "url": "https://flash.jin10.com/detail/20261115041641347800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "以媒：以色列向美国提供情报 称伊朗计划无人机袭击特朗普及白宫高层",
-          "url": "https://flash.jin10.com/detail/20261115033415713800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "美国加州州长纽森：很荣幸今天有机会在华沙举行的美乌清洁能源论坛上代表加利福尼亚州出席。加利福尼亚州与乌克兰已有超过30年的合作伙伴关系，近期双方还与乌克兰利沃夫州建立了姐妹州关系。加州高度重视双方在可持续重建和能源独立方面的共同目标。",
-          "url": "https://flash.jin10.com/detail/20261115101018653800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "一名伊朗议员周日警告称，如果美国对伊朗部分地区发动核打击，德黑兰将展示其所称的“绝对威慑”能力。",
-          "url": "https://flash.jin10.com/detail/20261115172840763800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "据俄新社：俄罗斯外长拉夫罗夫表示，俄罗斯正与美国就乌克兰问题进行具体讨论。",
-          "url": "https://flash.jin10.com/detail/20261115172434443800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国交通部长新闻发布会一度遭遇技术故障",
-          "url": "https://flash.jin10.com/detail/20261115004516231800",
+          "title": "美国财长贝森特：特朗普总统和我都相信美联储主席沃什会履行双重使命职责。",
+          "url": "https://flash.jin10.com/detail/20261115231939556800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：11月13日，欧盟部队登上了疑似俄罗斯“影子舰队”的油轮。",
-          "url": "https://flash.jin10.com/detail/20261115171443630800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国交通部长达菲：周一将向国会提交一项投资提案。将与美国总统特朗普合作，制定具体方案并提交资金提案。我们将追究相关人员在航空通信系统故障事件中的责任。",
-          "url": "https://flash.jin10.com/detail/20261115003941964800",
+          "title": "美国财长贝森特：我认为下个月通胀大幅下降。",
+          "url": "https://flash.jin10.com/detail/20261115231707526800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国柴油均价跌破每加仑6美元，两个月来首次回落",
-          "url": "https://flash.jin10.com/detail/20261115093838082800",
+          "title": "美国财长贝森特：（谈先进芯片销售）不认为我们需要立法。",
+          "url": "https://flash.jin10.com/detail/20261115231637940800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国情报评估：伊朗仍拥有1500至2500枚导弹",
-          "url": "https://flash.jin10.com/detail/20261115092949114800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "美国交通部长达菲：我们需要L3Harris或其他提供路由器的供应商做得更好。",
-          "url": "https://flash.jin10.com/detail/20261115003325398800",
+          "title": "俄罗斯国防部称，一艘向乌克兰武装部队运送补给品的干货船在黑海遭到打击。",
+          "url": "https://flash.jin10.com/detail/20261115231413573800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国交通部长达菲：事件根源并非外国势力所为。",
-          "url": "https://flash.jin10.com/detail/20261115003151782800",
+          "title": "日网友吹日本万物起源论秒翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369820&amp;topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E5%90%B9%E6%97%A5%E6%9C%AC%E4%B8%87%E7%89%A9%E8%B5%B7%E6%BA%90%E8%AE%BA%E7%A7%92%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国财长贝森特：黄仁勋是了不起的创新者，英伟达非常出色。",
+          "url": "https://flash.jin10.com/detail/20261115231332819800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：根据伊朗与俄罗斯签署的双边协议及相关保障监督义务，布什尔核电站将定期接受检查。",
-          "url": "https://flash.jin10.com/detail/20261115163443545800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "伊朗外交部发言人指责美国公然以封锁手段威胁实施饥饿政策",
-          "url": "https://flash.jin10.com/detail/20261115003105820800",
+          "title": "美国财长贝森特：英伟达董事会及外部律师须在“未来10天内”就公司出口限制合规文化作出答复。",
+          "url": "https://flash.jin10.com/detail/20261115231203863800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国全国性停飞只因电路老化吗",
-          "url": "https://www.toutiao.com/trending/7708332178085514793/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国交通部长达菲：航空系统现代化升级计划获得两党支持，而且大部分资金将用于民主党执政的城市和州。",
-          "url": "https://flash.jin10.com/detail/20261115002729667800",
-          "source": "金十数据",
+          "title": "日本上司被中国下属的OK整不爽了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369801&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8F%B8%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%B8%8B%E5%B1%9E%E7%9A%84OK%E6%95%B4%E4%B8%8D%E7%88%BD%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国交通部长达菲：过去约两年来，我们一直在讨论空中交通管制系统的现代化升级问题，并已要求国会提供资金支持。国会拨款125亿美元用于升级导航系统，但尚未向我们提供全部所需资金。",
-          "url": "https://flash.jin10.com/detail/20261115002713537800",
-          "source": "金十数据",
+          "title": "日本动画巨头中国版权卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369779&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9D%83%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石油 大豆 猪肉",
-      "match_count": 1,
-      "titles": [
+          "time_info": "02时17分"
+        },
         {
-          "title": "猪肉价格创10年新低",
-          "url": "https://www.toutiao.com/trending/7707981344479953417/",
-          "source": "今日头条",
+          "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
+          "url": "https://wallstreetcn.com/livenews/3200159",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
