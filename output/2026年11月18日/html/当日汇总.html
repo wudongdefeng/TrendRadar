@@ -1,0 +1,616 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>热点新闻分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+
+            .info-item {
+                text-align: center;
+            }
+
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+
+            .content {
+                padding: 24px;
+            }
+
+            .word-group {
+                margin-bottom: 40px;
+            }
+
+            .word-group:first-child {
+                margin-top: 0;
+            }
+
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+
+            .news-item:last-child {
+                border-bottom: none;
+            }
+
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+
+            .news-link:hover {
+                text-decoration: underline;
+            }
+
+            .news-link:visited {
+                color: #7c3aed;
+            }
+
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+
+            .new-item:last-child {
+                border-bottom: none;
+            }
+
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">热点新闻分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">报告类型</span>
+                        <span class="info-value">当日汇总</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新闻总数</span>
+                        <span class="info-value">302 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">热点新闻</span>
+                        <span class="info-value">22 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成时间</span>
+                        <span class="info-value">11-18 06:07</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">美国 大陆 日本 俄罗斯 台湾</div>
+                            <div class="word-count hot">21 条</div>
+                        </div>
+                        <div class="word-index">1/2</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num top">2</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/c/8y8QRBh2ViW" target="_blank" class="news-link">胡锡进：伊朗往华盛顿扔“脏弹”，像是“美国准备收手了”的叙事</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num top">3</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053924380800" target="_blank" class="news-link">美国财政部长期国债回购规模降至扩容以来最低</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num high">5</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053603559800" target="_blank" class="news-link">美国至11月13日当周API投产原油量 5.1万桶/日，前值24.9万桶/日。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">6</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053556471800" target="_blank" class="news-link">美国至11月13日当周API成品油进口 14.7万桶/日，前值5万桶/日。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">6</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201532" target="_blank" class="news-link">民主党调查美国司法部在OpenAI版权纠纷中的角色。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">7</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053543948800" target="_blank" class="news-link">美国至11月13日当周API原油进口 -17.8万桶，前值24.1万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">7</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201531" target="_blank" class="news-link">【美官员称对伊朗格什姆岛实施“自卫”打击】美国军方官员17日说，美军当天对伊朗格什姆岛一处导弹发射场实施精确打击，以回应伊朗伊斯兰革命卫队针对美国人员和资产的“侵略行径”。 据美国媒体报道，此次打击发生前几个小时，伊朗针对美军位于巴林的一处雷达站发动袭击。不过，美军中央司令部否认其雷达系统被伊朗击中，并称伊朗伊斯兰革命卫队当天向巴林方向发射的多架无人机均被拦截，“没有造成人员伤亡或设备损坏”。美官员称，这是伊朗过去5天内第三次试图袭击美军军事设施，所有袭击均被拦截。 当天早些时候，伊朗伊斯兰共和国通讯社报道说，美军袭击格什姆岛部分地点，但当地居民区、商业和基础设施未受损。（新华社）</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">7</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2105947087221412788" target="_blank" class="news-link">美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">8</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053532471800" target="_blank" class="news-link">美国至11月13日当周API取暖油库存 -27.3万桶，前值43.3万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">10</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">抖音</span><span class="rank-num ">8</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.douyin.com/hot/2750057" target="_blank" class="news-link">日本就俄军机疑似入境提出抗议</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">11</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">9</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053523543800" target="_blank" class="news-link">美国至11月13日当周API库欣原油库存 -169.1万桶，前值18.2万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">12</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">9</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201529" target="_blank" class="news-link">行业周报：美国上周API原油库存增超500万桶</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">13</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">10</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053514127800" target="_blank" class="news-link">美国至11月13日当周API精炼油库存 35.1万桶，预期107万桶，前值151.5万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">14</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">11</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2536565" target="_blank" class="news-link">美国第三艘航母抵达中东 美伊冲突再现升级风险</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">15</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">11</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053503702800" target="_blank" class="news-link">美国至11月13日当周API汽油库存 512.2万桶，预期160万桶，前值0.4万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">16</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">12</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20261118053455624800" target="_blank" class="news-link">美国至11月13日当周API原油库存 527.8万桶，预期-50万桶，前值896.8万桶。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">17</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">13</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201523" target="_blank" class="news-link">提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">18</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">24</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201508" target="_blank" class="news-link">黄仁勋离职之际，美国证券交易委员会（SEC）正调查其公司英伟达。（华尔街日报）</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">19</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">25</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201507" target="_blank" class="news-link">支出法案或再推迟，美国民主党寻求短期权宜方案</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">20</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">28</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201504" target="_blank" class="news-link">美国政府情报主管、白宫AI主管Clayton：没有看到“协同网络攻击”的迹象。（福克斯商业新闻）</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">21</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">30</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3201502" target="_blank" class="news-link">10年期美债收益率在美国零售销售数据发布后一度实现V形反转，随后在科技股抛售期间迎来避险</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">石油 大豆 猪肉</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">2/2</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">17</span><span class="time-info">06时07分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7709126380008508964/" target="_blank" class="news-link">猪肉降价为何牛肉价格却在涨</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
