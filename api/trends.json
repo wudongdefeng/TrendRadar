@@ -1,575 +1,473 @@
 {
-  "generated_at": "2026-11-20T17:31:44.006552+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-11-21T02:12:00.748025+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 51,
+      "match_count": 42,
       "titles": [
         {
-          "title": "详讯丨习近平会见美国总统特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34511524",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 17时31分]"
-        },
-        {
-          "title": "美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2106816145466417197",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 09时36分]"
-        },
-        {
-          "title": "普京：超10万俄罗斯民众在学中文",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%B6%8510%E4%B8%87%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%9C%A8%E5%AD%A6%E4%B8%AD%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "美国行业协会拉响警报：全球电路板短缺危机正在蔓延",
-          "url": "https://www.cls.cn/detail/2539523",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "APEC在台湾刷屏了",
-          "url": "https://www.baidu.com/s?wd=APEC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%88%B7%E5%B1%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "详讯丨习近平会见美国总统特朗普",
-          "url": "https://www.cls.cn/detail/2538998",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "据CNN：盟友消息称，美国国务卿鲁比奥正更认真地考虑参加2028年总统竞选。",
-          "url": "https://flash.jin10.com/detail/20261120025321414800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "据知情人士透露，加拿大蒙特利尔银行（BMO）将恢复美国石油和天然气投资银行业务。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3202759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：美国不支持“台独”",
-          "url": "https://news.ifeng.com/c/8yBKGeKfJ9A",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国能源部长赖特：欧洲在释放储备方面极其迟缓且犹豫不决。",
-          "url": "https://flash.jin10.com/detail/20261120025220491800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国能源部长赖特：如果欧洲像美国一样释放供应，柴油价格本不会这么高。",
-          "url": "https://flash.jin10.com/detail/20261120025216787800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "胡锡进：普京参加APEC峰会，是对西方孤立俄罗斯的一次重要打破",
-          "url": "https://news.ifeng.com/c/8yBKGeKfJ25",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普说美国不支持“台独”",
-          "url": "https://www.toutiao.com/trending/7709792423572029478/",
+          "title": "赖岳谦：汉奸走狗才盲目追捧日本人",
+          "url": "https://www.toutiao.com/trending/7709841146268353051/",
           "source": "今日头条",
           "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 09时36分]"
-        },
-        {
-          "title": "时隔26年，美国麻疹大爆发：今年已致死10人",
-          "url": "https://news.ifeng.com/c/8y9g9RemdyY",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普称美国不支持台独",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8B%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "普京和高市早苗在深圳谈了什么？日本官方披露内幕",
-          "url": "https://original.ifeng.com/c/8yCuUmFYrtR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国能源部长赖特：美国希望欧洲盟友在成品油储备释放方面给予更佳合作。",
-          "url": "https://flash.jin10.com/detail/20261120025210711800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "中方回应高市在深圳就台湾问题表态",
-          "url": "https://www.toutiao.com/trending/7710150679368568356/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国总统特朗普：美国不支持“台独”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34512187",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国能源部长赖特：美国石油储备大部分为原油。",
-          "url": "https://flash.jin10.com/detail/20261120025206626800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国总统特朗普：我不急于就伊朗问题做决定，将在新年伊始后再看情况发展。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3202755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
           "title": "环球时报快评：高市是时候收回“台湾有事就是日本有事”错误言论了",
           "url": "https://m.thepaper.cn/newsDetail_forward_34518683",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "普京和高市早苗在深圳谈了什么？日本官方披露内幕",
+          "url": "https://original.ifeng.com/c/8yCuUmFYrtR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "德银：若美国科技股继续回落，我司货币预测将面临下行风险",
+          "url": "https://wallstreetcn.com/livenews/3203522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "02时12分"
         },
         {
-          "title": "胡锡进：特朗普不支持“台独”，台湾对美国的战略价值正加速贬值",
-          "url": "https://news.ifeng.com/c/8yBQIjRZHeY",
+          "title": "加拿大丰业银行首席外汇策略师Shaun Osborne：AI叙事与美国“例外论”联系如此紧密，因此如果AI板块大幅回撤，从基本面来看将对美元不利，因为这可能意味着经济增长放缓、通胀压力减弱，或降低美联储大幅加息的必要性。",
+          "url": "https://wallstreetcn.com/livenews/3203521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "日本政府说高市没受羞辱，但日媒说：不，她就是被中国人羞辱了",
+          "url": "https://news.ifeng.com/c/8yDFnLm6pP9",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "在国会亮出731罪证的他，痛批日本政府“贩卖死亡”",
+          "url": "https://news.ifeng.com/c/8yD54ryzWag",
           "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国能源部长赖特：美国柴油储备非常有限。",
-          "url": "https://flash.jin10.com/detail/20261120025156610800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
           "title": "缅甸电诈园区，盯上了美国人",
           "url": "https://news.ifeng.com/c/8yCvw9akxYi",
           "source": "凤凰网",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国能源部长赖特：美国正认真考虑将柴油战略储备纳入储备评估范围。",
-          "url": "https://flash.jin10.com/detail/20261120025152133800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国能源部长赖特：未受制裁的俄罗斯柴油即使没有货物运抵美国，也有助于美国消费者。",
-          "url": "https://flash.jin10.com/detail/20261120025137880800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "中国台湾：将确保资本市场稳定运行。 将密切监控市场，实施风险管理。 将适时采取相关措施。",
-          "url": "https://wallstreetcn.com/livenews/3203128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "美国能源部长赖特：美国柴油价格“在可预见的未来”将呈下行趋势。",
-          "url": "https://flash.jin10.com/detail/20261120025129152800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "台湾证交所加权股价指数下跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3202915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美国能源部长Wright：昨日霍尔木兹海峡的流出量迄今最大。 紧张局势并未加剧。",
-          "url": "https://wallstreetcn.com/livenews/3202750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国司法部就结束对NextEra收购Dominion调查一事发表声明，司法部称反垄断部门已决定可结束相关调查。",
-          "url": "https://wallstreetcn.com/livenews/3202914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "消息人士称，蒙特利尔银行正从瑞穗银行挖角资深管道交易撮合人阿里·阿克巴尔，由其负责该行的美国能源投资银行业务，同时还有其他瑞穗银行银行家一并加盟。",
-          "url": "https://flash.jin10.com/detail/20261120024736731800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "消息人士称，加拿大蒙特利尔银行在退出美国油气投资银行业务六年后，正重返该领域。",
-          "url": "https://flash.jin10.com/detail/20261120024725646800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国财政部发行九天期现金管理票据，得标利率3.910%，投标倍数3.97。",
-          "url": "https://wallstreetcn.com/livenews/3202747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.903%，投标倍数2.43。",
-          "url": "https://wallstreetcn.com/livenews/3202746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "台湾证交所加权股价指数盘初下跌3.2%至37,203.77点。",
-          "url": "https://wallstreetcn.com/livenews/3202909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "如何看待美国收紧特定国家地区企业交由三星 / 台积电代工 22/16/14nm 及以下高制程芯片许可要求？",
-          "url": "https://www.zhihu.com/question/2106927076238423067",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：如果俄罗斯想谈领土问题，可以和我谈。",
-          "url": "https://flash.jin10.com/detail/20261120024649960800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "报道：俄罗斯石油公司获大幅税收减免以开发东方石油项目",
-          "url": "https://wallstreetcn.com/livenews/3202745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国若在G20峰会期间举行第二次三国元首会晤中方将如何回应？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3203118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
           "title": "媒体称中国 AI 人才不再迷恋美国成群回国，这一趋势背后的核心动因是什么？",
           "url": "https://www.zhihu.com/question/2106184065661641559",
           "source": "知乎",
           "ranks": [
-            19
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "德法英乌联合声明：作为迈向停止敌对行动的第一步，四国领导人呼吁俄罗斯同意在冬季期间实行能源停火。",
-          "url": "https://flash.jin10.com/detail/20261120024133236800",
-          "source": "金十数据",
+          "title": "美国6天连环宕机，关键系统为何在AI时代“一改就崩”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34512926",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "俄罗斯为何愿低价卖气给中国",
+          "url": "https://www.toutiao.com/trending/7710209643342990889/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "德法英乌联合声明：俄罗斯无法比联盟成员的坚定支持和乌克兰的韧性坚持得更久。",
-          "url": "https://flash.jin10.com/detail/20261120023827658800",
-          "source": "金十数据",
+          "title": "中方回应高市在深圳就台湾问题表态",
+          "url": "https://www.toutiao.com/trending/7710150679368568356/",
+          "source": "今日头条",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "据CNBC：奈飞(NFLX.O)、亚马逊(AMZN.O)、YouTube和福克斯(FOX.O、FOXA.O)等公司计划竞标美国世界杯赛事媒体转播权。",
-          "url": "https://flash.jin10.com/detail/20261120023345272800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "库什纳称俄罗斯同意欧洲参与多边谈判",
-          "url": "https://wallstreetcn.com/livenews/3202897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美国费城联储主席Paulson：通胀似乎正在影响定价行为。 美联储不应在通胀问题上“玩火”。 长期通胀预期保持稳定，显示美联储具有公信力。 工资增长与2%的通胀水平相符，这是个好迹象。",
-          "url": "https://wallstreetcn.com/livenews/3202895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "日本东证指数下跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3202894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美国总统特朗普女婿库什纳：我们达成的任何协议都将与乌克兰协商。 俄罗斯、乌克兰、美国、欧盟可以在阿联酋会谈。",
-          "url": "https://wallstreetcn.com/livenews/3202731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国费城联储主席Paulson：货币供应量指标对美联储官员的参考价值有限。",
-          "url": "https://wallstreetcn.com/livenews/3202892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "白宫高级网络安全官员离职 此前美国多次出现网络技术故障",
-          "url": "https://flash.jin10.com/detail/20261120090642817800",
-          "source": "金十数据",
+          "title": "爱沙尼亚为何关闭与俄罗斯的口岸",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%BA%E4%BD%95%E5%85%B3%E9%97%AD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%A3%E5%B2%B8",
+          "source": "bilibili 热搜",
           "ranks": [
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "美国11月20日当周天然气钻井数 128，前值 127。",
+          "url": "https://wallstreetcn.com/livenews/3203517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "02时12分"
+        },
+        {
+          "title": "贝克休斯：美国能源公司五周内第二次增加钻机。",
+          "url": "https://flash.jin10.com/detail/20261121020142948800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国11月20日当周石油钻井数 469，前值 463。",
+          "url": "https://wallstreetcn.com/livenews/3203516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国至11月20日当周总钻井总数 607口，前值601口。",
+          "url": "https://flash.jin10.com/detail/20261121020128422800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国11月20日当周总钻井数 607，前值 601。",
+          "url": "https://wallstreetcn.com/livenews/3203515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯总统普京讨论了乌克兰和伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20261121020059487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：与纽约市长马姆达尼关系不错。",
+          "url": "https://wallstreetcn.com/livenews/3203514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国至11月20日当周石油钻井总数 469口，前值463口。",
+          "url": "https://flash.jin10.com/detail/20261121020046851800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京表示希望以外交方式结束战争。 关于乌克兰问题的会谈进展非常顺利，很有可能达成目标。 我们很有可能解决俄乌冲突。",
+          "url": "https://wallstreetcn.com/livenews/3203513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国至11月20日当周天然气钻井总数 128口，前值127口。",
+          "url": "https://flash.jin10.com/detail/20261121020046852800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20261121015956241800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：感谢丹麦和吕特。",
+          "url": "https://wallstreetcn.com/livenews/3203510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京告诉我，如果我是时任总统，他就不会进入乌克兰。",
+          "url": "https://flash.jin10.com/detail/20261121015408751800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普谈及Anthropic，称：我非常尊重Dario（即该公司CEO Dario Amodei）。 我们将让该公司全部留在美国。",
+          "url": "https://wallstreetcn.com/livenews/3203509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：就乌克兰问题进行了非常好的会谈，很有可能达成协议。",
+          "url": "https://flash.jin10.com/detail/20261121015240776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须完成空中交通管制系统的升级。",
+          "url": "https://wallstreetcn.com/livenews/3203508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大从未公平对待我们，是最难打交道的人之一。",
+          "url": "https://flash.jin10.com/detail/20261121015220197800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "征税！特朗普：不会允许美国公司在海外建设数据中心",
+          "url": "https://wallstreetcn.com/livenews/3203507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京表示希望结束乌克兰战争。",
+          "url": "https://flash.jin10.com/detail/20261121015159385800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：正致力于与加拿大达成公平协议。",
+          "url": "https://flash.jin10.com/detail/20261121015128102800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "特朗普重申美国应该拥有全球最低的利率",
+          "url": "https://wallstreetcn.com/livenews/3203505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "特朗普：不允许美国企业在海外建设数据中心",
+          "url": "https://flash.jin10.com/detail/20261121015122057800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：是时候让加拿大停止占我们便宜了。",
+          "url": "https://flash.jin10.com/detail/20261121015044949800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗想要达成一项对我而言不可接受的协议。",
+          "url": "https://wallstreetcn.com/livenews/3203503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：接近与墨西哥达成协议。",
+          "url": "https://flash.jin10.com/detail/20261121015017372800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：自11月初以来原油价格已下跌20%，接近每桶80美元。 汽油价格取决于我们如何与伊朗达成解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3203502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：我和俄罗斯相处得很好。",
+          "url": "https://flash.jin10.com/detail/20261121015012940800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国总统特朗普：即将达成大约10份贸易协议。 接近与墨西哥达成贸易协议。 加拿大总理卡尼非常友好，与加拿大之间仍有更多工作要做。 正致力于与加拿大达成一项公平的协议。 加拿大总理卡尼希望建设拱心石输油管道，但必须做得更多。 加拿大是时候停止占美国便宜了。",
+          "url": "https://wallstreetcn.com/livenews/3203501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "“新债王”Gundlach：纳斯达克指数今年以来表现逊于美国国债。",
+          "url": "https://wallstreetcn.com/livenews/3203493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     }
