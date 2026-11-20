@@ -1,27 +1,72 @@
 {
-  "generated_at": "2026-11-20T03:21:51.865809+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-20T09:36:07.222300+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
-        {
-          "title": "详讯丨习近平会见美国总统特朗普",
-          "url": "https://www.cls.cn/detail/2538998",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
         {
           "title": "美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？",
           "url": "https://www.zhihu.com/question/2106816145466417197",
           "source": "知乎",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时36分]"
+        },
+        {
+          "title": "详讯丨习近平会见美国总统特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34511524",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时36分]"
+        },
+        {
+          "title": "普京：超10万俄罗斯民众在学中文",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%B6%8510%E4%B8%87%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%9C%A8%E5%AD%A6%E4%B8%AD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "美国行业协会拉响警报：全球电路板短缺危机正在蔓延",
+          "url": "https://www.cls.cn/detail/2539523",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "APEC在台湾刷屏了",
+          "url": "https://www.baidu.com/s?wd=APEC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%88%B7%E5%B1%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "详讯丨习近平会见美国总统特朗普",
+          "url": "https://www.cls.cn/detail/2538998",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
@@ -46,17 +91,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "详讯丨习近平会见美国总统特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34511524",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -94,6 +128,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "胡锡进：普京参加APEC峰会，是对西方孤立俄罗斯的一次重要打破",
+          "url": "https://news.ifeng.com/c/8yBKGeKfJ25",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时36分]"
+        },
+        {
+          "title": "特朗普说美国不支持“台独”",
+          "url": "https://www.toutiao.com/trending/7709792423572029478/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时36分]"
+        },
+        {
+          "title": "时隔26年，美国麻疹大爆发：今年已致死10人",
+          "url": "https://news.ifeng.com/c/8y9g9RemdyY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "特朗普称美国不支持台独",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8B%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
           "title": "美国能源部长赖特：美国希望欧洲盟友在成品油储备释放方面给予更佳合作。",
@@ -151,17 +230,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "胡锡进：普京参加APEC峰会，是对西方孤立俄罗斯的一次重要打破",
-          "url": "https://news.ifeng.com/c/8yBKGeKfJ25",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
           "title": "美国能源部长赖特：美国正认真考虑将柴油战略储备纳入储备评估范围。",
           "url": "https://flash.jin10.com/detail/20261120025152133800",
           "source": "金十数据",
@@ -195,6 +263,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "台湾证交所加权股价指数下跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3202915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国能源部长Wright：昨日霍尔木兹海峡的流出量迄今最大。 紧张局势并未加剧。",
           "url": "https://wallstreetcn.com/livenews/3202750",
           "source": "华尔街见闻-快讯",
@@ -204,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国司法部就结束对NextEra收购Dominion调查一事发表声明，司法部称反垄断部门已决定可结束相关调查。",
+          "url": "https://wallstreetcn.com/livenews/3202914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "消息人士称，蒙特利尔银行正从瑞穗银行挖角资深管道交易撮合人阿里·阿克巴尔，由其负责该行的美国能源投资银行业务，同时还有其他瑞穗银行银行家一并加盟。",
@@ -250,6 +340,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "台湾证交所加权股价指数盘初下跌3.2%至37,203.77点。",
+          "url": "https://wallstreetcn.com/livenews/3202909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果俄罗斯想谈领土问题，可以和我谈。",
           "url": "https://flash.jin10.com/detail/20261120024649960800",
           "source": "金十数据",
@@ -266,17 +367,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普说美国不支持“台独”",
-          "url": "https://www.toutiao.com/trending/7709792423572029478/",
-          "source": "今日头条",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -316,6 +406,39 @@
           "time_info": "03时21分"
         },
         {
+          "title": "库什纳称俄罗斯同意欧洲参与多边谈判",
+          "url": "https://wallstreetcn.com/livenews/3202897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美国费城联储主席Paulson：通胀似乎正在影响定价行为。 美联储不应在通胀问题上“玩火”。 长期通胀预期保持稳定，显示美联储具有公信力。 工资增长与2%的通胀水平相符，这是个好迹象。",
+          "url": "https://wallstreetcn.com/livenews/3202895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "日本东证指数下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3202894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普女婿库什纳：我们达成的任何协议都将与乌克兰协商。 俄罗斯、乌克兰、美国、欧盟可以在阿联酋会谈。",
           "url": "https://wallstreetcn.com/livenews/3202731",
           "source": "华尔街见闻-快讯",
@@ -325,6 +448,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国费城联储主席Paulson：货币供应量指标对美联储官员的参考价值有限。",
+          "url": "https://wallstreetcn.com/livenews/3202892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "白宫高级网络安全官员离职 此前美国多次出现网络技术故障",
+          "url": "https://flash.jin10.com/detail/20261120090642817800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     }
