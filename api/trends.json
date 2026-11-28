@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-28T10:26:29.678471+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-11-28T19:13:07.199042+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 24,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "墨西哥总统抨击美国：这么干，是外国干涉",
+          "url": "https://news.ifeng.com/c/8yQKPFvPwpW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
         {
           "title": "谈了一年多，却等来美国加税威胁，巴西怒了",
           "url": "https://news.ifeng.com/c/8yOjlk5KVEJ",
@@ -19,13 +30,35 @@
           "time_info": "[03时46分 ~ 10时26分]"
         },
         {
+          "title": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费",
+          "url": "https://wallstreetcn.com/articles/3786876",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "伊朗海军司令：伊军事行动最终目标是将美国逐出西亚",
+          "url": "https://flash.jin10.com/detail/20261128182338519800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "上汽集团MG事业部：2027年1月1日起在中国大陆停产纯燃油车型",
           "url": "https://wallstreetcn.com/livenews/3207304",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -38,8 +71,66 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 19时13分]"
+        },
+        {
+          "title": "超级厄尔尼诺发威暴雪袭击日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370200&amp;topic_name=%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8F%91%E5%A8%81%E6%9A%B4%E9%9B%AA%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 19时13分]"
+        },
+        {
+          "title": "日本人游中国发表中肯总结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370169&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B8%B8%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%A1%A8%E4%B8%AD%E8%82%AF%E6%80%BB%E7%BB%93",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 19时13分]"
+        },
+        {
+          "title": "当美国民众在抗议数据中心建设浪潮时，他们在抗议些什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34556228",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时46分 ~ 10时26分]"
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "不接受！日本长崎市篡改“南京大屠杀”",
+          "url": "https://news.ifeng.com/c/8yQFa0dyZPh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "特朗普：老有人说中国刺探美国情报，说不定美国刺探得更狠",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34580813",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "如何看待白俄罗斯总统卢卡申科在接受采访时表示「如果追溯历史，整个俄罗斯都应该归蒙古所有」？",
@@ -65,39 +156,26 @@
           "time_info": "[03时46分 ~ 10时26分]"
         },
         {
-          "title": "超级厄尔尼诺发威暴雪袭击日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370200&amp;topic_name=%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8F%91%E5%A8%81%E6%9A%B4%E9%9B%AA%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 10时26分]"
-        },
-        {
-          "title": "日本人游中国发表中肯总结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370169&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B8%B8%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%A1%A8%E4%B8%AD%E8%82%AF%E6%80%BB%E7%BB%93",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 10时26分]"
-        },
-        {
           "title": "日产汽车在华销量大减，计划首次将与中国合资生产汽车“反向进口”至日本销售",
           "url": "https://m.thepaper.cn/newsDetail_forward_34572966",
           "source": "澎湃新闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "伊朗海军司令：伊军事行动最终目标是将美国逐出西亚",
+          "url": "https://wallstreetcn.com/livenews/3207351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "随着卫星及太空整体的战略重要性日益提升（包括在防御行动的国际合作方面），日本航空自卫队将于2026财年更名为“航空宇宙自卫队”。",
@@ -106,7 +184,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -117,7 +195,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -139,7 +217,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -161,9 +239,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "日本长崎核爆资料馆启动把南京大屠杀改称“南京事件”",
+          "url": "https://wallstreetcn.com/livenews/3207343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "俄罗斯国防部：在过去24小时内击落超过1600架乌克兰无人机和炮弹。",
+          "url": "https://flash.jin10.com/detail/20261128171639735800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "Anthropic收涨10.98%，创11月19日美国IPO以来最大单日涨幅，报91.88美元。 SpaceX涨4.83%。",
@@ -216,7 +316,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -227,7 +327,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
